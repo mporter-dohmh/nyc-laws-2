@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-150568" number="36981" version="2875">
+			<HEADING>Chapter 64: Emissions Reduction Technologies for Existing Under-Fired Commercial Char Broilers</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19584" name="T15C064"/>Chapter 64: Emissions Reduction Technologies for Existing Under-Fired Commercial Char Broilers</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150569" number="36982" version="2875">
+								<HEADING>§ 64-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19586" name="T15C064_64-01"/>§ 64-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150635" number="36983" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Access Point</CHARFORMAT> means that which enables a device, appliance or equipment to be reached through ready access or by a means that first requires the removal or movement of a panel, door or similar obstruction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150634" number="36984" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Air Filtration Device</CHARFORMAT> means a device composed of fibrous materials which removes solid particulates. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150633" number="36985" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">CFM</CHARFORMAT> means cubic feet per minute. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150632" number="36986" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial char broiler</CHARFORMAT> means a device that consists primarily of a grated grill and a heat source and that is used to cook meat, including beef, lamb, pork, poultry, fish, and seafood, for human consumption at a food service establishment, as such term is defined in 24 RCNY Health Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_81.03" destination-id="0-0-0-6719">81.03</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150631" number="36987" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Discharge Point</CHARFORMAT> means the point at which particulate matter is released from a stack into the open air. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150630" number="36988" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Electrostatic Precipitator (ESP)</CHARFORMAT> means a filtration device that removes fine particles, such as dust and smoke, from a flowing gas using the force of an induced electrostatic charge minimally impeding the flow of gases through the unit. An ESP is a type of Emissions Control Device. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150629" number="36989" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Emissions Control Device</CHARFORMAT> means any equipment used for collecting or confining particulate matter for the purpose of preventing or reducing the emission of such particulate matter into the open air. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150628" number="36990" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Existing</CHARFORMAT> means that the commercial char broiler was installed before May 6, 2016. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150627" number="36991" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Meat</CHARFORMAT> means tissue of an animal body that is used for food and includes, but is not limited to, beef, lamb, pork, poultry, fish, or seafood. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150626" number="36992" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Optical Particle Counter (OPC)</CHARFORMAT> means an instrument based on the principle of light scattering from particles. It is a real-time instrument that is used to measure particles above 0.05 micrometers in diameter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150625" number="36993" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Particulate Matter (PM)</CHARFORMAT> means any air- or gas-borne material, except water, that exists as a liquid or solid. “PM 10” means PM with an aerodynamic diameter equal to or less than 10 micrometers. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150624" number="36994" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">RH Correction Function</CHARFORMAT> refers to relative humidity correction. When this function is enabled, the particle growth effect due to high humidity is corrected by computing the mass concentration based on the original dry environment particle population. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150623" number="36995" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Smoke</CHARFORMAT> means small gas-borne and airborne particulate matter arising from a process of combustion in sufficient quantity to be visible. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150622" number="36996" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stack</CHARFORMAT> means any duct, control equipment exhaust, or similar apparatus, which vents gases or particulate matter into the open air. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150621" number="36997" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Test Port Plate</CHARFORMAT> means a template cover that is designed to prevent any of the air stream from escaping when the existing access plate is removed and which has an opening for the test probe to fit securely through the material (e.g. cardboard or Plexiglas). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150620" number="36998" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Total Suspended Particulates</CHARFORMAT> means small airborne particles such as dust, fume and smoke with diameters less than 100 micrometers. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150619" number="36999" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Under-fired commercial char broiler</CHARFORMAT> means a commercial char broiler that has a grill, a high temperature radiant surface, and a heat source that is located below the food. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150618" number="37000" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Underwriters Laboratories (UL)</CHARFORMAT> means an American worldwide safety consulting and certification company. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150617" number="37001" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Week</CHARFORMAT> means a period of 7 consecutive days starting on Sunday, unless a different start day is specified in the registration filed pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-109" destination-id="0-0-0-0">24-109</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150616" number="37002" version="2875">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Wet Scrubber System</CHARFORMAT> means any Emissions Control Device that mixes an aqueous stream or slurry with the exhaust gases from an indirect heat exchanger to control emissions of particulate matter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150615" number="37003" version="2875">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150641" number="37004" version="2875">
+								<HEADING>§ 64-02 Emissions Control Technologies Required for Existing Under-Fired Commercial Char Broilers and Assessment.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19588" name="T15C064_64-02"/>§ 64-02 Emissions Control Technologies Required for Existing Under-Fired Commercial Char Broilers and Assessment.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150614" number="37005" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>No person shall operate an existing under-fired commercial char broiler that was installed prior to May 6, 2016, to cook more than 875 pounds of meat per week unless an Emissions Control Device that meets the requirements of this chapter has been installed. The Emissions Control Device to be used must have either been tested and certified in accordance with 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C064_64-05" destination-id="0-0-0-19594">64-05</LINK> and be on the Fire Department’s and the Department’s approved list of Emissions Control Devices found at: <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="https://www.nyc.gov/assets/dep/downloads/pdf/air/approved-under-fired-technology.pdf">https://www.nyc.gov/assets/dep/downloads/pdf/air/approved-under-fired-technology.pdf</LINK> (“certified”) or have passed a site-specific field test that complies with the requirements of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C064_64-06" destination-id="0-0-0-19596">64-06</LINK>. The field test must demonstrate that a 75 percent PM emissions reduction is achievable or that the measured PM concentration after the Emissions Control Device is installed is no higher than 10 mg/m<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-60">3</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-60">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+										</CHARFORMAT>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150642" number="37006" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>Except as otherwise provided in this section, the Emissions Control Device must be installed within 180 days of the effective date of this rule. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150613" number="37007" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If an owner cannot install an Emissions Control Device on the certified list or a non-certified Emissions Control Device that meets the requirements of this chapter, the owner must retain a professional engineer or registered architect licensed under sections 7202 or 7302 of the Education Law who shall conduct and submit an assessment. The assessment must detail the technical limitations of installing an Emissions Control Device, the financial limitations of the owner, and why they preclude the installation of an Emissions Control Device that meet the requirements of this chapter. The assessment must be submitted to the Department within one year of the effective date of this rule. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150612" number="37008" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If the assessment submitted pursuant to subdivision (b) of this section concludes that an Emissions Control Device can be installed to reduce an existing under-fired commercial char broiler’s total PM emissions by at least 25 percent but less than 75 percent with the controlled emission being above 10 mg/m<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-60">3</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-60">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+										</CHARFORMAT> for total PM, such assessment must describe the Emissions Control Device that can be installed to achieve such reduction. After installation of such Emissions Control Device, the owner must conduct another assessment in accordance with subdivision (b) of this section within two years of the date on which the Emissions Control Device was installed to determine if additional or different Emissions Control Devices can be installed to reduce total PM emissions by at least 75 percent or to reduce total PM emissions to less than or equal to 10 mg/m<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-60">3</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-60">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+										</CHARFORMAT>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150611" number="37009" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If the assessment concludes that no Emissions Control Device can be installed on an existing under-fired commercial char broiler or that any Emissions Control Device that could be installed cannot achieve a reduction of the existing under-fired commercial char broiler’s total PM emissions by at least 25 percent or achieve a controlled emission level of less than or equal to 10 mg/m<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-60">3</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-60">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+										</CHARFORMAT>, the assessment must include a technical and economic evaluation as described in subdivision (b), and the applicant must submit a variance petition in accordance with the procedures set forth in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-110" destination-id="0-0-0-0">24-110</LINK> of the Administrative Code of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150610" number="37010" version="2875">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150640" number="37011" version="2875">
+								<HEADING>§ 64-03 Types of Control Devices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19590" name="T15C064_64-03"/>§ 64-03 Types of Control Devices.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150609" number="37012" version="2875">
+									<PARA>Only the following technologies may be used to achieve the reduction in PM 10: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150608" number="37013" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Wet Scrubbers Systems and Air Filtration Devices must comply with UL 1978 (2010) and be correctly sized for the cooking appliance as specified by the manufacturer of the under-fired commercial char broiler. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150607" number="37014" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Electrostatic Precipitators must comply with UL 867 (2011) or UL 8782 (2017), must have a certificate of approval from the Fire Department, and must be correctly sized for the cooking appliance as specified by the manufacturer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150606" number="37015" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Air Filtration Devices such as a carbon cartridge. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150605" number="37016" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Other technology approved by the Department as posted on the Department’s website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150604" number="37017" version="2875">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150639" number="37018" version="2875">
+								<HEADING>§ 64-04 Emissions Control Device Certification</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19592" name="T15C064_64-04"/>§ 64-04 Emissions Control Device Certification</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150603" number="37019" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The manufacturer of an Emissions Control Device may seek Department certification by submitting documentation that field testing has been conducted in accordance with the procedures in subdivisions (a) and (b) of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C064_64-05" destination-id="0-0-0-19594">64-05</LINK>. Such documentation must be submitted in accordance with the requirements of subdivision (c) of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C064_64-05" destination-id="0-0-0-19594">64-05</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150602" number="37020" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department will maintain a list of certified Emissions Control Devices for use with particular models of under-fired commercial char broilers on the Department’s website and will update the list when there are changes. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150601" number="37021" version="2875">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150638" number="37022" version="2875">
+								<HEADING>§ 64-05 Testing Requirements for Certification.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19594" name="T15C064_64-05"/>§ 64-05 Testing Requirements for Certification.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150600" number="37023" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Test Methods.</CHARFORMAT> Testing for filterable and condensable particulate matter must be performed following Environmental Protection Agency Method 5, Appendix A-3 to 40 C.F.R. Part 60, or South Coast Air Quality Management District Method 5.1. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150599" number="37024" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Test Conditions.</CHARFORMAT> Tests pursuant to this section must be administered under the following test conditions derived from ASTM International Standard Test Method F 1695-20. Other provisions contained within ASTM F 1695-20, but not listed here, may be used for guidance. It is recommended that the full provisions of ASTM F 1695-20 be consulted prior to testing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150598" number="37025" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The Emissions Control Device must have been installed per manufacturer specifications. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150597" number="37026" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The Emissions Control Device must be tested using the heavy load cooking test specifications from ASTM F 1695-20. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150596" number="37027" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The exhaust hood must have the capacity to operate at a nominal net exhaust ventilation rate of 400 CFM for each linear foot of active hood length. The hood must extend over the surface of the under-fired commercial char broiler by at least 6 inches in the front and sides. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150595" number="37028" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>The under-fired commercial char broiler must be warmed up for a minimum of 30 minutes before testing and the char broiler controls must be set such that the broiling area does not exceed 600 degrees Fahrenheit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150594" number="37029" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>Pure beef finished grind hamburgers of 0.33 lbs each must be cooked on the under-fired commercial char broiler during testing. The patties must be shaped into 0.625-inch thick round patties of 5-inch diameter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150593" number="37030" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>The patties must consist of 18 - 22% fat by weight and 58 - 62% moisture. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150592" number="37031" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>Hamburger patties must be loaded, cooked, and removed in accordance with Section 10 of ASTM International Test Method F 1695-20 using heavy load conditions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150591" number="37032" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting.</CHARFORMAT> The results of the testing required by this section must be submitted on forms prescribed by the Department available on the Department’s website and must include the following information: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150590" number="37033" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Name and address of the manufacturer of the under-fired commercial char broiler, brand name, trade name, model number of the under-fired commercial char broiler, any accoutrements installed to enhance or support the operation of the Emissions Control Device, the maximum air flow rate, and other relevant operating conditions during the test, as specified by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150589" number="37034" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>A description of the certified Emissions Control Device used on the under-fired commercial char broiler model. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150588" number="37035" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>A statement that testing has been conducted in accordance with the requirements of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150587" number="37036" version="2875">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150637" number="37037" version="2875">
+								<HEADING>§ 64-06 Field Testing Requirements for Emission Control Devices That Are Not Certified.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19596" name="T15C064_64-06"/>§ 64-06 Field Testing Requirements for Emission Control Devices That Are Not Certified.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150586" number="37038" version="2875">
+									<PARA>Field testing must be performed on any Emissions Control Device that is not found on the certified emissions control list established pursuant to 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C064_64-04" destination-id="0-0-0-19592">64-04</LINK>(b) before such Emissions Control Device may be used. This one-time testing must comply with the requirements of this section. Approval is specific to the location where the test was performed. The test must demonstrate that the Emissions Control Device achieved at least a 75 percent emissions reduction or resulted in controlled emissions no higher than 10 mg/m<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-60">3</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-60">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+										</CHARFORMAT> to be approved by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150585" number="37039" version="2974">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Test methods.</CHARFORMAT> Tests must be performed using the OPC Method or the NIOSH 0500 Method. AFDs or ESPs must be used with the OPC method. Wet Scrubber Systems, ESPs, and Air Filtration Devices must be used with the NIOSH 0500 Method. The test conditions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C064_64-05" destination-id="0-0-0-19594">64-05</LINK>(b) must be complied with for all methods. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150584" number="37040" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sampling locations for all methods.</CHARFORMAT> For AFDs or ESPs, when taking samples while the char broiler unit is on, readings must be taken from within the clean out Access Point downstream of the device, or at the Discharge Point. When taking samples while the unit is off, samples must be taken upstream of the Emissions Control Device. When the Emissions Control Device upstream Access Point is not reachable, the test must be conducted at a downstream Access Point or at the chimney output point. A field tester must remove the access plate and replace with a Test Port Plate and place the sampling probe inside a precut hole or place the probe directly within the Discharge Point. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150583" number="37041" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flow rate and volume for OPC samples.</CHARFORMAT> Samples taken using OPC must be taken for a minimum of ten minutes at two liters per minute pump speed, or if the flow rate is not adjustable using the constant flow, but no more than 2 L/min. This procedure must be done with two to four samples collected with the unit on and two to four samples with the unit off. If the OPC is equipped with a filter assembly, a new glass or PVC fiber filter must be used for each test. If the OPC is equipped with RH Correction Function, it should be enabled when the humidity is expected to exceed 50 percent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150582" number="37042" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Protocols for NIOSH samples.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150581" number="37043" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A minimum 20-liter sample must be drawn into a 37 mm glass or PVC fiber filter. The sample should be drawn for a minimum of ten minutes at two liters per minute pump speed, with two to four samples collected with the unit on and two to four samples with the unit off. Filters should be changed for each test. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150580" number="37044" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Samples must be taken in accordance with the following sections of NIOSH Method 0500, Issue 2, August 15, 2004: “Equipment” section (except that a 37 mm glass or PVC fiber filter should be used), “Preparation of Filters” section, “Sampling” section (except that the total sample volume must be a minimum 20 liters), and “Sample Preparation” section. The filters must then be collected, and the weight of the filters must be certified by an Industrial Hygienist in an accredited laboratory. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150579" number="37045" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Laboratory Testing.</CHARFORMAT> Laboratory testing must be performed in a National Environmental Laboratory Accreditation (NELAC) or New York State Department of Health Environmental Laboratory Approval Program (ELAP) certified laboratory and must follow measurements for nuisance dust as per the NIOSH 0500 method. During each test, samples must be collected from the sampling port of the Emissions Control Device. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150578" number="37046" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting for all methods.</CHARFORMAT> For OPC, the installer of the Emissions Control Device must submit a printout to the Department with the readings of Total PM and submit pictures of the filter with the unit on and off. For NIOSH 0500, complete laboratory results certified by an Industrial Hygienist must be submitted to the Department to document the reduction in PM. The owner must submit a report for site-specific testing that will include a project and test condition description, diagram of the sampling location with the cooking equipment and emissions control information, results of testing either printout readings from Total PM from OPC or laboratory results for NIOSH 0500, any supporting information including calculations, photos, and a conclusion. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150576" number="37047" version="2875">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-150636" number="37048" version="2875">
+								<HEADING>§ 64-07 Emissions Control Device and Cooking Exhaust System Maintenance.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19598" name="T15C064_64-07"/>§ 64-07 Emissions Control Device and Cooking Exhaust System Maintenance.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-150575" number="37049" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any Emissions Control Device subject to the requirements of this chapter must be installed, operated, cleaned, and maintained in accordance with the manufacturer’s specifications. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150574" number="37050" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Every Emissions Control Device subject to the requirements of this chapter must be inspected, cleaned and serviced in accordance with section 609.5.3 of the New York City Fire Code (2022 or subsequent standard) by a person holding a FDNY Certificate of Fitness as a Commercial Kitchen Exhaust &amp; Precipitator Cleaning Technician. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150573" number="37051" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The cooking exhaust system must be inspected, cleaned and serviced in accordance with section 609.5.3 of the New York City Fire Code (2022 or subsequent standard) by a person holding a FDNY Certificate of Fitness as a Commercial Kitchen Exhaust System Cleaning Technician. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150572" number="37052" version="2875">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Recordkeeping.</CHARFORMAT> On or after the effective date of this rule, any person who owns or operates an existing under-fired commercial char broiler must maintain, for at least one year, records showing date of installation of and all maintenance work performed on the Emissions Control Device, including the date, time, and a brief description of maintenance work performed. For purposes of this subdivision, maintenance includes, but is not limited to, preventative maintenance, breakdown repair, and cleaning. Such records shall be made available to the Department upon request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-150570" number="37053" version="2892">
+									<PARA>(Added City Record 5/20/2025, eff. 11/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-109]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

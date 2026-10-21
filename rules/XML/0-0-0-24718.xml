@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-24718" number="29011" version="3">
+			<HEADING>Chapter 9: Gas Fired Burner Installations</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-3385" name="T15C009"/>Chapter 9: Gas Fired Burner Installations</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24719" number="29012" version="3">
+								<HEADING>§ 9-01 Installation of and Conversion to Gas or Gas/Oil Fired Burners.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3387" name="T15C009_9-01"/>§ 9-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Installation of and Conversion to Gas or Gas/Oil Fired Burners.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24720" number="29013" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>For those installations where it is necessary to install a new gas or gas/oil burner then a complete new filing will be required.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24721" number="29014" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For those installations for which the Department of Environmental Protection has an application to use oil as a fuel and a decision is made to convert to straight gas, an amendment to the filing is required which must show compliance with subdivision (e) of this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24722" number="29015" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>For those installations for which the Department has an application to use oil as a fuel and a decision is made to convert to a combination of oil and gas, and amendment to the active filing is all that is required provided the burner is accepted for both gas and oil firing. It should be understood that the installation will be required to meet the Engineering Criteria for Oil Burning Equipment for the grade of oil being used.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24723" number="29016" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>For those installations which have a valid Certificate of Operation under current criteria for fuel oil and a decision is made to convert to straight gas or gas and oil and the burner for which the Certificate of Operation was issued is accepted for burning gas or gas and oil, than an amendment to the original application will suffice to document the change in the grade of fuel. It should be noted however, that in those cases where oil is burned in combination with gas, that the grade of oil must be the same or a lighter grade than that for which the Certificate of Operation was issued.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24724" number="29017" version="748">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>In all of the above cases, it will be the responsibility of the filing engineer to advise the owner that an appropriate filing is required in the Department of Buildings. A copy of the Letter of Completion from the Building Department must be submitted. Same will be accepted in lieu of burner labeling by Underwriters Laboratories and will not require inspection by the Bureau of Air Resources with reference to modification on burner, but we may require inspection on the boiler for compliance with Chapter 2 of these Rules. There will be no requirement to update the UL label to indicate oil/gas operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24725" number="29018" version="2454">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Whenever an application is filed for natural gas, the application will be required to meet the criteria in effect on June 30, 1973 (Chapter 2 of these Rules). Where this criteria refers to natural gas, the specific requirements for natural gas will be used, in all other cases, the requirements for number 2 fuel oil will be used on an equivalent BTU basis as has been the policy in the past.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

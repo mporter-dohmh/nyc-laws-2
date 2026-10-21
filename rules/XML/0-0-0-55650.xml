@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-55650" number="64042" version="1960">
+			<HEADING>Chapter 10: Administration of Applications for Certifications of No Harassment</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7555" name="T28C010"/>Chapter 10: Administration of Applications for Certifications of No Harassment</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55651" number="64043" version="3">
+								<HEADING>§ 10-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7557" name="T28C010_10-01"/>§ 10-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55652" number="64044" version="726">
+									<PARA>Whenever used in this chapter:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55653" number="64045" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Administrative Code.</CHARFORMAT> &quot;Administrative Code&quot; shall mean the New York City Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55654" number="64046" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Access authorizer.</CHARFORMAT> &quot;Access authorizer&quot; shall mean the person who authorizes HPD to enter the property, which person shall be an individual natural person who either (i) has legal possession of all common areas of the property, or (ii) is authorized to sign on behalf of and bind the persons or entities who have legal possession of all common areas of the property.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55655" number="64047" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Affidavit of no future harassment.</CHARFORMAT> &quot;Affidavit of no future harassment&quot; shall mean an affidavit affirming that no future harassment will occur at the property during the period for which a certification or waiver remains in effect.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55656" number="64048" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Applicant.</CHARFORMAT> &quot;Applicant&quot; shall mean the person who executes an application, which person shall be an individual natural person who is either (i) an owner, or (ii) a principal or officer of an owner who is authorized to sign on behalf of and bind such owner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55657" number="64049" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Application.</CHARFORMAT> &quot;Application&quot; shall mean an application for a certification, waiver, or exemption submitted to HPD, unless the context clearly indicates reference to an application for a permit submitted to DOB.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55658" number="64050" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Building loan contract.</CHARFORMAT> &quot;Building loan contract&quot; shall have the meaning set forth in § 22 of the Lien Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55659" number="64051" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Certification.</CHARFORMAT> &quot;Certification&quot; shall mean a certification of no harassment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55660" number="64052" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commencement of substantial work.</CHARFORMAT> &quot;Commencement of substantial work&quot; shall mean (i) if the alterations and/or demolition work for which a certification or waiver was granted is financed by a recorded building loan contract, the date upon which a lender has advanced funds in an amount that is not less than 50% of the total amount of such building loan contract and actual construction work has commenced at the property using such funds, or (ii) if the alterations and/or demolition work for which a certification or waiver was granted is not financed by a building loan contract, the actual performance and payment of not less than 50% of the total cost of such alteration and/or demolition work.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55661" number="64053" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commissioner.</CHARFORMAT> &quot;Commissioner&quot; shall mean the Commissioner of HPD or his or her designee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55662" number="64054" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>DHCR.</CHARFORMAT> &quot;DHCR&quot; shall mean the Division of Housing and Community Renewal of the State of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55663" number="64055" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>DOB.</CHARFORMAT> &quot;DOB&quot; shall mean the Department of Buildings of the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55664" number="64056" version="1862">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Dwelling unit.</CHARFORMAT> &quot;Dwelling unit&quot; shall mean a dwelling unit or rooming unit, as such terms are defined in Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2004" destination-id="0-0-0-0">27-2004</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55665" number="64057" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Exemption.</CHARFORMAT> &quot;Exemption&quot; shall mean a determination by HPD that a certification pursuant to the terms of the Administrative Code or the Zoning Resolution is not required.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55666" number="64058" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Fee.</CHARFORMAT> &quot;Fee&quot; shall mean a sum in the amount of one hundred and sixty dollars ($160.00) per existing dwelling unit, which amount is a fee to offset all or part of the administrative cost to HPD of processing the application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-026]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55667" number="64059" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>HPD.</CHARFORMAT> &quot;HPD&quot; shall mean the Department of Housing Preservation and Development of the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55668" number="64060" version="1862">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Inquiry period.</CHARFORMAT> &quot;Inquiry period&quot; shall mean (i) with respect to an application submitted pursuant to any provision of the Zoning Resolution, the period of time therein defined as the inquiry period, and (ii) with respect to an application submitted pursuant to Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.1" destination-id="0-0-0-0">28-107.1</LINK> et seq. and Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2093" destination-id="0-0-0-0">27-2093</LINK>, a period commencing three years prior to submission of the application and ending on the date that HPD issues a final determination on the application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55669" number="64061" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Luxury hotel.</CHARFORMAT> &quot;Luxury hotel&quot; shall mean a single room occupancy multiple dwelling in which the rent on May 5, 1983, exclusive of governmentally assisted rental payments, charged for 75% or more of the total number of occupied individual dwelling units was more than 55 dollars per day for each unit rented on a daily basis, or more than 250 dollars per week for each unit rented on a weekly basis or more than 850 dollars per month for each unit rented on a monthly basis. For computation purposes, the rental value of units which were vacant on May 5, 1983 shall be deemed to be the rent charged for comparable occupied units in the property on such date.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55670" number="64062" version="2479">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Owner.</CHARFORMAT> &quot;Owner&quot; shall mean (i) the holder of title to the property, (ii) a contract vendee of title to the property, (iii) the lessee pursuant to a net lease of the entire property with an unexpired term of not less than ten years from the date of submission of the application, (iv) a receiver who is authorized by court order to apply to HPD for a certification and to DOB for building permits, or (v) an administrator appointed pursuant to article 7A of the Real Property Actions and Proceedings Law who is authorized by court order to apply to HPD for a certification and to DOB for building permits.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55671" number="64063" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Property.</CHARFORMAT> &quot;Property&quot; shall mean the real property that is the subject of an application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55672" number="64064" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Residential kitchen.</CHARFORMAT> &quot;Residential kitchen&quot; shall mean (i) a kitchen that is located within a dwelling unit, or (ii) a kitchen serving residential occupants that is not located within a dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55673" number="64065" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Residential bathroom.</CHARFORMAT> &quot;Residential bathroom&quot; shall mean (i) a bathroom that is located within a dwelling unit, or (ii) a bathroom serving residential occupants that is not located within a dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55674" number="64066" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Waiver.</CHARFORMAT> &quot;Waiver&quot; shall mean a waiver of the requirement for a certification pursuant to the terms of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55675" number="64067" version="1162">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Zoning Resolution.</CHARFORMAT> &quot;Zoning Resolution&quot; shall mean the New York City Zoning Resolution, as amended.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-107301" number="64068" version="889">
+									<PARA>(Amended City Record 5/25/2018, eff. 6/24/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-026]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55676" number="64069" version="889">
+								<HEADING>§ 10-02 Scope of Rule.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7559" name="T28C010_10-02"/>§ 10-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Scope of Rule.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55677" number="64070" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The requirements of this chapter apply to certifications, exemptions, and waivers pursuant to Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.1" destination-id="0-0-0-0">28-107.1</LINK> et seq., Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2093" destination-id="0-0-0-0">27-2093</LINK>, Zoning Resolution § 96-110, Zoning Resolution § 93-90, Zoning Resolution § 98-70, Zoning Resolution § 23-013, and any subsequently enacted provision of the Administrative Code or Zoning Resolution which authorizes HPD to make determinations concerning certifications, exemptions, or waivers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55678" number="64071" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>With regard to single room occupancy multiple dwellings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129914" number="64072" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A certification shall be required where mandated pursuant to Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.1" destination-id="0-0-0-0">28-107.1</LINK> et seq. and Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2093" destination-id="0-0-0-0">27-2093</LINK>; provided, however, that a certification shall not be required pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.3" destination-id="0-0-0-0">28-107.3</LINK>(4) for repairs, replacement, modification, or partial demolition work that is the minimum required to be performed to address conditions for rescission of a vacate order issued by HPD or DOB in a building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129915" number="64073" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Except as otherwise provided in paragraph (1) of this subdivision, in accordance with the authority of the Commissioner pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.3" destination-id="0-0-0-0">28-107.3</LINK>(4) to prescribe by regulation other types of alteration work, a certification shall be required where the application and plans filed with DOB seek to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55679" number="64074" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>increase or decrease the number of dwelling units; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55680" number="64075" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>alter the layout, configuration or location of any portion of a dwelling unit; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55681" number="64076" version="2479">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>increase or decrease the number of residential kitchens or residential bathrooms; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-138642" number="64077" version="2479">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>alter the layout, configuration or location of any portion of a residential kitchen or residential bathroom; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55682" number="64078" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>demolish or change the use or occupancy of any dwelling unit and/or any portion of the building serving the dwelling units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55683" number="64079" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Where the application and the accompanying plans submitted to DOB do not provide for any changes described in paragraph (2) of this subdivision, or where the application is for work described in paragraph (1) of this subdivision, a certification shall not be required pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.3" destination-id="0-0-0-0">28-107.3</LINK>(4), but may be required pursuant to other provisions of Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-107.1" destination-id="0-0-0-0">28-107.1</LINK> et seq. or pursuant to the Zoning Resolution. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55684" number="64080" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>With regard to properties located in the Special Clinton District defined in Article XI, Chapter 6 of the Zoning Resolution (§§ 96-00 et seq.), a certification shall be required where mandated pursuant to the terms of such Article and Zoning Resolution § 96-110; provided, however, that subject to compliance with the applicable zoning provisions, a certification shall not be required for repairs, replacement, modification or partial demolition work that is the minimum required to be performed to address conditions for rescission of a vacate order issued by HPD or DOB in a building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55685" number="64081" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>With regard to multiple dwellings located in the anti-harassment area defined in Zoning Resolution § 93-90 (Hudson Yards/Garment Center), a certification shall be required where mandated pursuant to the terms of such section; provided, however, that subject to compliance with the applicable zoning regulations, a certification shall not be required for repairs, replacement, modification or partial demolition work that is the minimum required to be performed to address conditions for rescission of a vacate order issued by HPD or DOB in a building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55686" number="64082" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>With regard to multiple dwellings located in the anti-harassment area defined in Zoning Resolution § 23-013 (Greenpoint-Williamsburg), a certification shall be required where mandated pursuant to the terms of such section and New York City Zoning Resolution § 93-90; provided, however, that subject to compliance with the applicable zoning provisions, a certification shall not be required for repairs, replacement, modification or partial demolition work that is the minimum required to be performed to address conditions for rescission of a vacate order issued by HPD or DOB in a building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55687" number="64083" version="2100">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>With regard to multiple dwellings located in the anti-harassment area defined in Zoning Resolution § 98-70 (West Chelsea), a certification shall be required where mandated pursuant to the terms of such section and New York City Zoning Resolution § 93-90; provided, however, that subject to compliance with the applicable zoning provisions, a certification shall not be required for repairs, replacement, modification or partial demolition work that is the minimum required to be performed to address conditions for rescission of a vacate order issued by HPD or DOB in a building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55688" number="64084" version="2100">
+									<PARA>(Amended City Record 9/14/2021, eff. 10/14/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-066]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129913" number="64085" version="2100">
+								<HEADING>§ 10-03 Application.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7561" name="T28C010_10-03"/>§ 10-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Application.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55689" number="64086" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An application shall contain such information, in such form, as HPD shall require.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55690" number="64087" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An application shall be executed by an applicant. If the applicant is not an access authorizer, the application shall also be executed by an access authorizer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55691" number="64088" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>An application may be submitted to HPD (i) by hand delivery on business days, during such hours and in such location as HPD shall determine, (ii) by mail, or (iii) by private courier.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55692" number="64089" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The submission of any application shall be accompanied by certified check, bank check, or money order in the amount of the fee made payable to New York City Department of Finance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55693" number="64090" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Following the submission of an application, HPD may request any additional information that HPD determines is relevant to the certification. If HPD sends a written request for additional information to the applicant by regular or certified mail at the address of the applicant set forth in the application, and HPD does not receive such additional information within thirty days following the mailing of such request, HPD may (i) reject the application, or (ii) review the application without such information and draw a negative inference with respect to the missing information.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55694" number="64091" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>An application shall be deemed to be complete when the completed application, the fee, and the necessary supporting documentation have been received and acknowledged as sufficient by HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55695" number="64092" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>If HPD determines at any time that an application contains a material misstatement of fact, HPD may reject such application and bar the submission of a new application for a period not to exceed three years.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55696" number="64093" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>HPD may refuse to accept, or to act upon, an application for a certification pursuant to the Zoning Resolution where HPD finds at any time that (i) taxes, water and sewer charges, emergency repair program charges, or other municipal charges remain unpaid with respect to the multiple dwelling, (ii) the multiple dwelling has been altered either without proper permits from DOB or in a way that conflicts with the certificate of occupancy for the multiple dwelling (or, where there is no certificate of occupancy, any record of HPD indicating the lawful configuration of the multiple dwelling) and such unlawful alteration remains uncorrected; or (iii) HPD has previously denied an application pursuant to the Zoning Resolution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55697" number="64094" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>If any information stated in an application changes at any time before HPD makes a final determination, the applicant shall promptly update the application with such new information and submit it to HPD. If such changed information includes any facts that would render the original applicant ineligible to submit the application, HPD may require that the amended application be executed by an individual who is at that time eligible to submit the application.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55698" number="64095" version="3">
+								<HEADING>§ 10-04 Investigation.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7563" name="T28C010_10-04"/>§ 10-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Investigation.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55699" number="64096" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Except as otherwise provided in these rules, HPD shall conduct an investigation of each application for a certification.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55700" number="64097" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HPD shall publish a notice in The City Record and such other publications as HPD shall determine seeking public comment regarding whether there has been harassment of the lawful occupants of the property during the inquiry period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55701" number="64098" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HPD shall send notices to the local Community Board and such other organizations as HPD shall determine seeking comments on any application for a certification.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55702" number="64099" version="3">
+								<HEADING>§ 10-05 Initial Determination.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7565" name="T28C010_10-05"/>§ 10-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Initial Determination.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55703" number="64100" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Upon the completion of the investigation of an application for a certification, HPD shall either (i) reject such application as provided in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-03" destination-id="0-0-0-7561">10-03</LINK>, (ii) determine that there is not reasonable cause to believe that harassment occurred during the inquiry period at the property, (iii) determine that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, or (iv) determine that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55704" number="64101" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If HPD rejects an application as provided in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-03" destination-id="0-0-0-7561">10-03</LINK>, HPD shall send written notice of such determination to the applicant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55705" number="64102" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If HPD determines that there is not reasonable cause to believe that harassment occurred during the inquiry period at the property, HPD shall (i) send written notice of such determination to the applicant, and (ii) grant the certification in accordance with the terms of 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-08" destination-id="0-0-0-7571">10-08</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55706" number="64103" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If HPD determines that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, HPD shall send written notice of such determination to the applicant and shall comply with the procedures set forth in 28 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-06" destination-id="0-0-0-7567">10-06</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-07" destination-id="0-0-0-7569">10-07</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55707" number="64104" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If HPD determines that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period, HPD may deny the certification without a hearing and issue a final determination in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-07" destination-id="0-0-0-7569">10-07</LINK>. In such event, HPD may combine the initial determination pursuant to this section and the final determination pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-07" destination-id="0-0-0-7569">10-07</LINK> into a single document.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55708" number="64105" version="3">
+								<HEADING>§ 10-06 Hearing.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7567" name="T28C010_10-06"/>§ 10-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Hearing.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55709" number="64106" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>When HPD has determined in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-05" destination-id="0-0-0-7565">10-05</LINK>(d) that there is reasonable cause to believe that harassment occurred at the property during the inquiry period, HPD shall schedule a hearing before the Office of Administrative Trials and Hearings at which the applicant will have an opportunity to challenge such determination.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55710" number="64107" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HPD shall serve a notice of hearing by regular mail upon the applicant and any other individual or entity as determined by HPD. Such notice shall state the date, time, and location of hearing and shall inform the applicant that he or she may be represented by counsel and may present witnesses and other evidence.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55711" number="64108" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Upon conclusion of such hearing, the hearing officer shall make a report and recommendation to the Commissioner whether an application should be granted or denied.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55712" number="64109" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Notwithstanding anything to the contrary in this section or these rules, an applicant may waive its right to a hearing before the Office of Administrative Trials and Hearings.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55713" number="64110" version="3">
+								<HEADING>§ 10-07 Final Determination.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7569" name="T28C010_10-07"/>§ 10-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Final Determination.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55714" number="64111" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>When HPD has determined in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-05" destination-id="0-0-0-7565">10-05</LINK>(d) that there is reasonable cause to believe that harassment occurred at the property during the inquiry period and a hearing has been held before the Office of Administrative Trials and Hearings in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-06" destination-id="0-0-0-7567">10-06</LINK>, the Commissioner shall review the report and recommendation of the hearing officer and make a final determination to grant or deny the application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55715" number="64112" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>When HPD has determined in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-05" destination-id="0-0-0-7565">10-05</LINK>(d) that there is reasonable cause to believe that harassment occurred at the property during the inquiry period and the applicant has waived its right to a hearing before the Office of Administrative Trials and Hearings in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-06" destination-id="0-0-0-7567">10-06</LINK>(d), the Commissioner shall make a final determination to grant or deny the application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55716" number="64113" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>When HPD has determined in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-05" destination-id="0-0-0-7565">10-05</LINK>(e) that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period, the Commissioner shall make a final determination to grant or deny the application. In such event, HPD may combine the initial determination pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C010_10-05" destination-id="0-0-0-7565">10-05</LINK> and the final determination pursuant to this section into a single document.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55717" number="64114" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>HPD shall provide the applicant with written notice of the final determination.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55718" number="64115" version="3">
+								<HEADING>§ 10-08 Certification.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7571" name="T28C010_10-08"/>§ 10-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certification.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55719" number="64116" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A certification shall be effective for three years from the date upon which such certification is signed by the Commissioner, which period shall be stated in such certification. Such certification shall apply to any plan approval, any alteration or demolition permit application, or any renewal of a permit issued for such plan approval, alteration or demolition permit application that is submitted to DOB during such period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55720" number="64117" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HPD shall not issue a certification unless HPD has received an affidavit of no future harassment executed by one or more individual natural persons who are, at the time of execution of such affidavit, either (i) all of the owners of the property, or (ii) principals or officers of all of the owners of the property who are authorized to sign on behalf of and bind such owners.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55721" number="64118" version="3">
+								<HEADING>§ 10-09 Waiver or Exemption.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7573" name="T28C010_10-09"/>§ 10-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Waiver or Exemption.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55722" number="64119" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Notwithstanding any provision of these rules to the contrary, if an application is for a waiver or exemption, (i) HPD may, but shall not be required to, waive the fee, and (ii) if HPD does not waive the fee, but subsequently grants such waiver or exemption, HPD may, but shall not be required to, return such check or money order to the applicant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55723" number="64120" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Notwithstanding any provision of these rules to the contrary, HPD may grant a waiver or exemption at any point following the submission of an application therefor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55724" number="64121" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A waiver or exemption shall be effective for such period and subject to such conditions as HPD shall determine, which period and conditions, if any, shall be stated in such waiver or exemption. Such waiver or exemption shall apply to any plan approval, any alteration or demolition permit application, or any renewal of a permit issued for such plan approval, alteration or demolition permit application that is submitted to DOB during such period which complies with such conditions, if any.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55725" number="64122" version="1862">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>HPD shall not issue a waiver unless, in accordance with Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2093" destination-id="0-0-0-0">27-2093</LINK>(e), the current title holder of record of the property (i) was the title holder of record of the property prior to May 5, 1983, (ii) entered into a contract of sale for the purchase of the property which was recorded prior to May 5, 1983, (iii) held a mortgage on the property recorded prior to May 5, 1983 and thereafter acquired the property as a result of the foreclosure of such mortgage, or (iv) is a lending organization described in Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2093" destination-id="0-0-0-0">27-2093</LINK>(e)(2)(ii), granted a mortgage commitment on the property recorded prior to May 5, 1983, thereafter granted a mortgage on the property pursuant to such commitment, and thereafter acquired the property as a result of the foreclosure of such mortgage.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55726" number="64123" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>HPD shall not issue a waiver unless HPD has received an affidavit of no future harassment executed by one or more individual natural persons who are either (i) all of the owners of the property, or (ii) principals or officers of all of the owners of the property who are authorized to sign on behalf of and bind such owners.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55727" number="64124" version="3">
+								<HEADING>§ 10-10 Suspension and Rescission.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7575" name="T28C010_10-10"/>§ 10-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Suspension and Rescission.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55728" number="64125" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>HPD may rescind a certification, waiver, or exemption at any time if HPD determines that the application for such certification, waiver, or exemption contained a material misstatement of fact.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55729" number="64126" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If HPD determines that there is reasonable cause to believe that harassment has occurred after the date that HPD issued a certification or a waiver, HPD may suspend such certification or waiver. If the certification or waiver was granted solely pursuant to the Administrative Code, HPD shall not suspend such certification or waiver pursuant to the preceding sentence unless HPD determines that there is reasonable cause to believe that such harassment occurred before commencement of substantial work.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55730" number="64127" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If HPD determines that there is reasonable cause to believe that harassment has occurred after the date that HPD issued a certification or a waiver, HPD shall deliver a notice of suspension to the applicant and to the owner and will refer the matter for hearing at the Office of Administrative Trials and Hearings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55731" number="64128" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>HPD shall serve a notice of hearing by regular mail upon the applicant and any other individual or entity as determined by HPD. Such notice shall state the date, time, and location of hearing and shall inform the applicant that he or she may be represented by counsel and may present witnesses and other evidence.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55732" number="64129" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Upon conclusion of such hearing, the hearing officer shall make a recommendation to the Commissioner whether or not the certification should be rescinded.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55733" number="64130" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The Commissioner shall make a final determination whether to rescind such certification, and shall provide the applicant with written notice of such determination.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55734" number="64131" version="3">
+								<HEADING>§ 10-11 Miscellaneous.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7577" name="T28C010_10-11"/>§ 10-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Miscellaneous.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55735" number="64132" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any determination by HPD pursuant to this Chapter shall be in the sole discretion of HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55736" number="64133" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An application may not be withdrawn after HPD issues either (i) an initial determination that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, or (ii) a final determination that harassment occurred during the inquiry period at the property.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-43603" number="53046" version="3">
+			<HEADING>Chapter 24: Automated External Defibrillators In Certain Public Places</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-6207" name="T24C024"/>Chapter 24: Automated External Defibrillators In Certain Public Places</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-43604" number="53047" version="3">
+								<HEADING>§ 24-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-6209" name="T24C024_24-01"/>§ 24-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-43605" number="53048" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK> of the New York City Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43606" number="53049" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>When used in this chapter, the following words or terms shall have the following meaning:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43607" number="53050" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> &quot;Department&quot; means the New York City Department of Health and Mental Hygiene.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43608" number="53051" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Code.</CHARFORMAT> Code means the Administrative Code of the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43609" number="53052" version="1855">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Publicly Accessible Areas.</CHARFORMAT> Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a &quot;public place&quot;, as that term is defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43610" number="53053" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Prominent Location.</CHARFORMAT> Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43611" number="53054" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public access defibrillation provider.</CHARFORMAT> Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43612" number="53055" version="1855">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Trained Responder(s).</CHARFORMAT> Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43613" number="53056" version="1855">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">On A Regular Basis.</CHARFORMAT> As used in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43614" number="53057" version="1855">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Advanced Life Support.</CHARFORMAT> As used in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(j) of the Code and 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-06" destination-id="0-0-0-6219">24-06</LINK>, advanced life support must include, although is not limited to, the availability of manual defibrillation.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-43615" number="53058" version="3">
+								<HEADING>§ 24-02 Compliance with State Law.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-6211" name="T24C024_24-02"/>§ 24-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Compliance with State Law.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-43616" number="53059" version="1855">
+									<PARA>Any automated external defibrillator required pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK> of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-43617" number="53060" version="3">
+								<HEADING>§ 24-03 Quantity and Location of Automated External Defibrillators.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-6213" name="T24C024_24-03"/>§ 24-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Quantity and Location of Automated External Defibrillators.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-43618" number="53061" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The owner or operator of a public place, as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(a)(3) of the Code and limited by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a &quot;publicly accessible area&quot;, as defined in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-01" destination-id="0-0-0-6209">24-01</LINK>(b)(3).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43619" number="53062" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43620" number="53063" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer&apos;s specifications.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-43621" number="53064" version="3">
+								<HEADING>§ 24-04 Required Notice: Signage Information.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-6215" name="T24C024_24-04"/>§ 24-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Required Notice: Signage Information.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-43622" number="53065" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43623" number="53066" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The sign shall contain the following language in lettering and representation (symbol) in the size indicated:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43624" number="53067" version="2500">
+									<PARA>
+										<TAB tab-count="1"/>•<TAB tab-count="1"/>&quot;DEFIBRILLATOR&quot; or &quot;AED&quot; (minimum height – two (2) inches)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43625" number="53068" version="2500">
+									<PARA>
+										<TAB tab-count="1"/>•<TAB tab-count="1"/>Automated External Defibrillator (minimum height – five eighths (5/8) inch)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43626" number="53069" version="2500">
+									<PARA>
+										<TAB tab-count="1"/>•<TAB tab-count="1"/>Heart and lightening bolt logo (minimum height – two (2) inches)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43627" number="53070" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43628" number="53071" version="2500">
+									<PARA>
+										<TAB tab-count="1"/>•<TAB tab-count="1"/>In event of emergency call 911 (minimum height – three eighths (3/8) inch)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43629" number="53072" version="2500">
+									<PARA>
+										<TAB tab-count="1"/>•<TAB tab-count="1"/>and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43630" number="53073" version="2500">
+									<PARA>
+										<TAB tab-count="1"/>•<TAB tab-count="1"/>Contact this facility&apos;s trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43631" number="53074" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43632" number="53075" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43633" number="53076" version="1142">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Signs in conformity with the requirements specified in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-03" destination-id="0-0-0-6213">24-03</LINK>(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43634" number="53077" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-43635" number="53078" version="3">
+								<HEADING>§ 24-05 Site-Specific Response Plan.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-6217" name="T24C024_24-05"/>§ 24-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Site-Specific Response Plan.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-43636" number="53079" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The owner or operator of a public place, as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK> of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43637" number="53080" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Site-Specific Plan must specify the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43638" number="53081" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43639" number="53082" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43640" number="53083" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43641" number="53084" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer&apos;s recommendations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43642" number="53085" version="1142">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The placement and exact location of the signs required by 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-04" destination-id="0-0-0-6215">24-04</LINK>(a), (b) and (c) along with the information on how to contact the site&apos;s trained responder(s).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43643" number="53086" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43644" number="53087" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43645" number="53088" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>How the trained responder(s) at a site will be dispatched to the location of the medical emergency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43646" number="53089" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43647" number="53090" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43648" number="53091" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43649" number="53092" version="1855">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(b) of the Code shall be as specified in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-06" destination-id="0-0-0-6219">24-06</LINK>.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-43650" number="53093" version="3">
+								<HEADING>§ 24-06 Nursing Homes.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-6219" name="T24C024_24-06"/>§ 24-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Nursing Homes.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-43651" number="53094" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-01" destination-id="0-0-0-6209">24-01</LINK>(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-188" destination-id="0-0-0-0">17-188</LINK>(b) of the Code in the number specified in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-03" destination-id="0-0-0-6213">24-03</LINK>(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-02" destination-id="0-0-0-6211">24-02</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-43652" number="53095" version="1142">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A minimum of two trained responders, as defined in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C024_24-01" destination-id="0-0-0-6209">24-01</LINK>(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

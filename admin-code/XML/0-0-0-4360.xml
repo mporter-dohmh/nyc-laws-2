@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-4360" number="5673" version="3">
+			<HEADING>Chapter 7: Nuisance Abatement Law</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1929" name="T07C007"/>Chapter 7: Nuisance Abatement Law</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4361" number="5674" version="3">
+				<HEADING>Subchapter 1: [Public Nuisance Defined]</HEADING>
+				<PARA>Subchapter 1: [Public Nuisance Defined]</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4362" number="5675" version="3">
+										<HEADING>§ 7-701 Legislative declaration. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1931" name="7-701"/>§ 7-701 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Legislative declaration. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4363" number="5676" version="3">
+											<PARA>The council of the city of New York finds that public nuisances exist in the city in flagrant violation of the building code, zoning resolution, health laws, multiple dwelling law, penal laws regulating prostitution and related conduct, licensing laws, laws relating to the sale and consumption of alcoholic beverages, laws relating to gambling, controlled substances and dangerous drugs and penal laws relating to the possession of stolen property, all of which interfere with the quality of life, property values and the public health, safety, and welfare; the council further finds that the continued occurrence of such activities and violations is detrimental to the health, safety, and welfare of the people of the city and of the businesses thereof and visitors thereto. It is the purpose of the council to create one standardized procedure for securing legal and equitable remedies relating to the subject matter encompassed by this law, without prejudice to the use of procedures available under existing and subsequently enacted laws, and to strengthen existing laws on the subject. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4364" number="5677" version="3">
+											<PARA>(Am. L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4365" number="5678" version="799">
+										<HEADING>§ 7-702 Short title. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1933" name="7-702"/>§ 7-702 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short title. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4366" number="5679" version="3">
+											<PARA>This chapter shall be known as the &quot;nuisance abatement law&quot;.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4367" number="5680" version="3">
+										<HEADING>§ 7-703 Public nuisance defined. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1807" name="7-703"/>§ 7-703 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public nuisance defined. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4368" number="5681" version="3">
+											<PARA>The following are declared to be public nuisances:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4369" number="5682" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, used for the purpose of prostitution as defined in section 230.00 of the penal law. Two or more criminal convictions of persons for acts of prostitution in the building, erection or place, including one- or two-family dwellings, within the one-year period preceding the commencement of an action under this chapter, shall be presumptive evidence that the building, erection or place, including one- or two-family dwellings, is a public nuisance. In any action under this subdivision, evidence of the common fame and general reputation of the building, erection or place, including one- or two-family dwellings, of the inmates or occupants thereof, or of those resorting thereto, shall be competent evidence to prove the existence of the public nuisance. If evidence of the general reputation of the building, erection or place, including one- or two-family dwellings, or of the inmates or occupants thereof, is sufficient to establish the existence of the public nuisance, it shall be prima facie evidence of knowledge thereof and acquiescence and participation therein and responsibility for the nuisance, on the part of the owners, lessors, lessees and all those in possession of or having charge of, as agent or otherwise, or having any interest in any form in the property, real or personal, used in conducting or maintaining the public nuisance; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4370" number="5683" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>[Reserved.] <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4371" number="5684" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>[Reserved.] <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4372" number="5685" version="1256">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Any building, erection or place, other than a one- or two-family dwelling classified in occupancy group J-3 pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-237" destination-id="0-0-0-1935">27-237</LINK> of the code or in occupancy group R-3 pursuant to section 310.1.3 of the New York city building code, which is in violation of any of the following provisions of the code: article four of subchapter one of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T27C001" destination-id="0-0-0-1937">chapter one of title 27</LINK>; article <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-102" destination-id="0-0-0-14091">102</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-105" destination-id="0-0-0-14349">105</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-108" destination-id="0-0-0-14459">108</LINK>, or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-118" destination-id="0-0-0-14725">118 of chapter 1 of title 28</LINK>; <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-210" destination-id="0-0-0-14985">article 210 of chapter 2 of title 28</LINK>; article <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-301" destination-id="0-0-0-15201">301</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-302" destination-id="0-0-0-15205">302 of chapter 3 of title 28</LINK>; or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-207.2" destination-id="0-0-0-1943">28-207.2</LINK>. A conviction, as defined in subdivision thirteen of section 1.20 of the criminal procedure law, of persons for offenses, as defined in subdivision one of section 10.00 of the penal law, in violation of the aforesaid provisions of this code in the building, erection or place within the period of one-year preceding the commencement of an action under this chapter, shall be presumptive evidence that the building, erection or place is a public nuisance; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4373" number="5686" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Any building, erection or place, other than a one- or two-family dwelling classified in occupancy group J-3 pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-237" destination-id="0-0-0-1935">27-237</LINK> of this code, which is a nuisance as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-142" destination-id="0-0-0-1945">17-142</LINK> of this code or which is an infected and uninhabitable house as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-159" destination-id="0-0-0-1947">17-159</LINK> of this code or which is in violation of subdivision two of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-118" destination-id="0-0-0-1949">16-118</LINK> of this code;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4374" number="5687" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, used for the purpose of a business, activity or enterprise which is not licensed as required by law;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4375" number="5688" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, wherein, within the period of one year prior to the commencement of an action under this chapter, there have occurred three or more violations of one or any combination of the provisions of penal law article 220, except for section 220.03; article 221, except for sections 221.05, 221.10, 221.15, 221.35, and 221.40; or article 225; or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="10-203" destination-id="0-0-0-1951">10-203</LINK> of this code; provided that at least one such violation was personally witnessed by a police or peace officer; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4376" number="5689" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, wherein, within the period of one year prior to the commencement of an action brought under this chapter, there have occurred at least four instances of the unlawful activities described in section 123 of the alcoholic beverage control law, where a reasonable person would or should have been aware that such unlawful activity was occurring. The physical absence of a person from such building, erection or place shall not alone establish that such person would or should not have been aware that such unlawful activity was occurring. Notwithstanding the foregoing, only one instance of such unlawful activity shall be required if the building, erection or place was not licensed as required by the alcohol beverage control law; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4377" number="5690" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>[Reserved.] <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4378" number="5691" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(j)<TAB tab-count="1"/>[Reserved.] <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4379" number="5692" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(k)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, wherein there exists or is occurring a violation of the zoning resolution;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4380" number="5693" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(l)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, wherein there is occurring a criminal nuisance as defined in section 240.45 of the penal law;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4381" number="5694" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(m)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, wherein, within the period of one year prior to the commencement of an action under this chapter, there have occurred two or more violations on the part of the lessees, owners, operators, or occupants, of one or any combination of the following provisions: sections 165.40, 165.45, 165.50, 170.65, 170.70 or 175.10 of the penal law or section four hundred fifteen-a of the vehicle and traffic law; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4382" number="5695" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(n)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, in which a security guard, as defined in subdivision six of section eighty nine-f of the general business law, is employed in violation of one or more of the following provisions: the alcoholic beverage control law or sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-525.1" destination-id="0-0-0-1953">27-525.1</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="10-177" destination-id="0-0-0-1955">10-177</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-117.4" destination-id="0-0-0-1957">28-117.4</LINK> of this code; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-023]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4383" number="5696" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(o)<TAB tab-count="1"/>[Reserved.]</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4384" number="5697" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(p)<TAB tab-count="1"/>[Reserved.]</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4385" number="5698" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(q)<TAB tab-count="1"/>[Reserved.]</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4386" number="5699" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(r)<TAB tab-count="1"/>Any building, erection or place, including one- or two-family dwellings, used for the creation, production, storage or sale of a false identification document, as defined in 18 U.S.C. § 1028(d), a forged instrument, as defined in subdivision seven of section 170.00 of the penal law, or a forgery device, as that term is used in section 170.40 of the penal law. It shall be presumptive evidence that the building, erection or place, including one- or two-family dwellings, is a public nuisance if there have occurred, within the one-year period preceding the commencement of an action under this chapter, two or more violations constituting separate occurrences on the part of the lessees, owners, operators or occupants of one or any combination of the following provisions: paragraph one, five or eight of 18 U.S.C. 1028(a), section 170.05, 170.10, 170.15 or 170.40 of the penal law or, under circumstances evincing an intent to sell or distribute a forged instrument, section 170.20, 170.25 or 170.30 of the penal law. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4387" number="5700" version="3">
+											<PARA>(Am. L.L. 2015/096, 10/20/2015, eff. 12/19/2015; Am. L.L. 2017/034, 3/18/2017, eff. 5/17/2017; Am. L.L. 2017/037, 3/18/2017, eff. 5/17/2017; Am. L.L. 2017/041, 3/18/2017, eff. 5/17/2017; Am. L.L. 2017/044, 3/18/2017, eff. 5/17/2017; Am. L.L. 2017/214, 11/27/2017, eff. 3/27/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-023]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4388" number="5701" version="3">
+										<HEADING>§ 7-704 Remedies. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1959" name="7-704"/>§ 7-704 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Remedies. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4389" number="5702" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The corporation counsel shall bring and maintain a civil proceeding in the name of the city in the supreme court of the county in which the building, erection or place is located to permanently enjoin the public nuisances, defined in subdivisions (a), (d), (e), (f), (g), (h), (k), (l), (m), (n), and (r) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK>, in the manner provided in subchapter two of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4390" number="5703" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The corporation counsel shall bring and maintain a civil proceeding in the name of the city, in the supreme court of the county in which the building, erection or place is located to recover a civil penalty in relation to the public nuisances defined in subdivisions (b) and (c) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK> of this chapter, in the manner provided in subchapter three of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4391" number="5704" version="3">
+											<PARA>(Am. L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4392" number="5705" version="803">
+				<HEADING>Subchapter 2: [Remedies for Public Nuisances Generally; Permanent Injunction]</HEADING>
+				<PARA>Subchapter 2: [Remedies for Public Nuisances Generally; Permanent Injunction]</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4393" number="5706" version="3">
+										<HEADING>§ 7-705 Applicability. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1961" name="7-705"/>§ 7-705 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicability. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4394" number="5707" version="3">
+											<PARA>This subchapter shall be applicable to the public nuisances defined in subdivisions (a), (d), (e), (f), (g), (h), (k), (l), (m), (n) and (r) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4395" number="5708" version="3">
+											<PARA>(Am. L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4396" number="5709" version="3">
+										<HEADING>§ 7-706 Action for permanent injunction. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1963" name="7-706"/>§ 7-706 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Action for permanent injunction. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4397" number="5710" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Generally.</CHARFORMAT> Upon the direction of the mayor, or at the request of the head of a department or agency of the city, or at the request of a district attorney of any county within the city, or at the request of a member of the city council with respect to the public nuisances defined in subdivisions (a), (g), and (h) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK>, or upon his or her own initiative, the corporation counsel may bring and maintain a civil proceeding in the name of the city in the supreme court to permanently enjoin a public nuisance within the scope of this subchapter, and the person or persons conducting, maintaining or permitting the public nuisance from further conducting, maintaining or permitting the public nuisance. The corporation counsel shall ensure that records sealed pursuant to the criminal procedure law are not used in any action filed pursuant to this section. The owner, lessor and lessee of a building, erection or place wherein the public nuisance as being conducted, maintained or permitted shall be made defendants in the action. The venue of such action shall be in the county where the public nuisance is being conducted, maintained or permitted. The existence of an adequate remedy at law shall not prevent the granting of temporary or permanent relief pursuant to this subchapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4398" number="5711" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The summons; the caption; naming the building, erection or place as defendant.</CHARFORMAT> The corporation counsel shall name as defendants the building, erection or place wherein the public nuisance is being conducted, maintained or permitted, by describing it by block, lot number and street address and at least one of the owners of some part of or interest in the property.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4399" number="5712" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">In rem jurisdiction over building, erection or place.</CHARFORMAT> In rem jurisdiction shall be complete over the building, erection or place wherein the public nuisance is being conducted, maintained or permitted by affixing the summons to the door of the building, erection or place and by mailing the summons by certified or registered mail, return receipt requested, to one of the owners of some part of or interest in the property. Proof of service shall be filed within two days thereafter with the clerk of the court designated in the summons. Service shall be complete upon such filing.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4400" number="5713" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service of summons on other defendants.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4401" number="5714" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Defendants, other than the building, erection or place wherein the public nuisance is being conducted, maintained or permitted, shall be served with the summons as provided in the civil practice law and rules. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4402" number="5715" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Defendants who are natural persons and reside in the building, erection or place wherein the public nuisance is being conducted, maintained or permitted shall be served either by personal service upon a natural person as provided in the civil practice law and rules or pursuant to court order. No more than 15 days prior to such service, the corporation counsel shall verify the ongoing occupancy of any natural person who is a tenant of record and alleged to have caused or permitted the public nuisance in the building, erection or place wherein the public nuisance is alleged to have been conducted, maintained or permitted. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4403" number="5716" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of pendency.</CHARFORMAT> With respect to any action commenced or to be commenced by him or her pursuant to this subchapter, the corporation counsel may file a notice of pendency pursuant to the provisions of article sixty-five of the civil practice law and rules.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4404" number="5717" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Presumption of ownership.</CHARFORMAT> The person in whose name the real estate affected by the action is recorded in the office of the city register or the county clerk, as the case may be, shall be presumed to be the owner thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4405" number="5718" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Presumption of employment or agency.</CHARFORMAT> Whenever there is evidence that a person was the manager, operator, supervisor or, in any other way, in charge of the premises, at the time a public nuisance was being conducted, maintained or permitted, such evidence shall be presumptive that he or she was an agent or employee of the owner or lessee of the building, erection or place.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4406" number="5719" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Penalty.</CHARFORMAT> If, upon the trial of an action under this chapter or, upon a motion for summary judgment in an action under this chapter, a finding is made that the defendant has intentionally conducted, maintained or permitted a public nuisance defined in this chapter, a penalty, to be included in the judgment, may be awarded in an amount not to exceed one thousand dollars for each day it is found that the defendant intentionally conducted, maintained or permitted the public nuisance. Upon recovery, such penalty shall be paid into the general fund of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4407" number="5720" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Timeliness.</CHARFORMAT> An action for permanent injunction must be commenced within four months of the most recent act that forms a basis for such action. Nothing in this subdivision shall be construed to preclude acts that occurred outside of the time ranges established for the timely commencement of the action from being included as a separate cause of action, submitted into evidence, or used in consideration of damages or civil penalties. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4408" number="5721" version="3">
+											<PARA>(Am. L.L. 2017/035, 3/18/2017, eff. 5/17/2017; Am. L.L. 2017/041, 3/18/2017, eff. 5/17/2017; Am. L.L. 2017/042, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4409" number="5722" version="3">
+										<HEADING>§ 7-707 Preliminary injunction.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1965" name="7-707"/>§ 7-707 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Preliminary injunction.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4410" number="5723" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Generally.</CHARFORMAT> Pending an action for a permanent injunction as provided for in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-706" destination-id="0-0-0-1963">7-706</LINK> of this subchapter, the court may grant a preliminary injunction enjoining a public nuisance within the scope of this subchapter and the person or persons conducting, maintaining or permitting the public nuisance from further conducting, maintaining or permitting the public nuisance, where the public health, safety or welfare immediately requires the granting of such injunction. An order granting a preliminary injunction shall direct a trial of the issues within three business days after joinder of issue or, if issue has already been joined, within three business days after the entry of the order. Where a preliminary injunction has been granted, the court shall render a decision with respect to a permanent injunction within three business days after the conclusion of the trial. A temporary closing order may be granted pending a hearing for a preliminary injunction where it appears by clear and convincing evidence that a public nuisance within the scope of this subchapter is being conducted, maintained or permitted and that the public health, safety or welfare immediately requires the granting of a temporary closing order. A temporary restraining order may be granted pending a hearing for a preliminary injunction where it appears by clear and convincing evidence that a public nuisance within the scope of this subchapter is being conducted, maintained or permitted. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4411" number="5724" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Enforcement of preliminary injunction.</CHARFORMAT> A preliminary injunction shall be enforced by the city agency at whose request the underlying action is being brought. In the event the underlying action is being brought at the direction of the mayor, or at the request of several city agencies or by the corporation counsel, on his or her own initiative, or upon the request of a district attorney, or a member of the city council, the order shall be enforced by the agency designated by the mayor. The police department shall, upon the request of the agency involved or upon the direction of the mayor, assist in the enforcement of the preliminary injunction.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4412" number="5725" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Preliminary injunctions, inventory, closing of premises, posting of orders and notices, offenses.</CHARFORMAT> If the court grants a preliminary injunction, the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-711" destination-id="0-0-0-1967">7-711</LINK> of this subchapter shall be applicable.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4413" number="5726" version="3">
+											<PARA>(Am. L.L. 2017/032, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4414" number="5727" version="3">
+										<HEADING>§ 7-708 Motion papers for preliminary injunction.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1969" name="7-708"/>§ 7-708 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Motion papers for preliminary injunction.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4415" number="5728" version="3">
+											<PARA>The corporation counsel shall show, by affidavit and such other evidence as may be submitted, that there is a cause of action for a permanent injunction abating a public nuisance within the scope of this subchapter; provided that, for an allegation of any public nuisance defined in subdivision (g) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK> for a violation of article 220 or 221 of the penal law, such other evidence shall include laboratory reports or similar objective indicia of the presence of a controlled substance or marihuana. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4416" number="5729" version="3">
+											<PARA>(Am. L.L. 2017/036, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4417" number="5730" version="3">
+										<HEADING>§ 7-709 Temporary closing order.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1971" name="7-709"/>§ 7-709 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Temporary closing order.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4418" number="5731" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Generally.</CHARFORMAT> If, on a motion for a preliminary injunction pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-707" destination-id="0-0-0-1965">7-707</LINK> alleging a public nuisance as defined in subdivision (a) or (d) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK>, or a public nuisance as defined in subdivision (e) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK> in a building, erection or place used for commercial purposes in which there is a significant risk of imminent physical harm to a natural person or persons, the corporation counsel shall show by clear and convincing evidence that such public nuisance is being conducted, maintained or permitted and that the public health, safety or welfare immediately requires a temporary closing order, a temporary order closing such part of the building, erection or place wherein such public nuisance is being conducted, maintained or permitted may be granted without notice, pending order of the court granting or refusing the preliminary injunction and until further order of the court. Upon granting a temporary closing order, the court shall direct the holding of a hearing for the preliminary injunction at the earliest possible time but in no event later than three business days from the granting of such order; a decision on the motion for a preliminary injunction shall be rendered by the court within three business days after the conclusion of the hearing. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4419" number="5732" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service of temporary closing order.</CHARFORMAT> Unless the court orders otherwise, a temporary closing order together with the papers upon which it was based and a notice of hearing for the preliminary injunction shall be personally served, in the same manner as a summons as provided in the civil practice law and rules.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4420" number="5733" version="3">
+											<PARA>(Am. L.L. 2017/032, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4421" number="5734" version="3">
+										<HEADING>§ 7-710 Temporary restraining order.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1973" name="7-710"/>§ 7-710 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Temporary restraining order.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4422" number="5735" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Generally.</CHARFORMAT> If, on a motion for a preliminary injunction pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-707" destination-id="0-0-0-1965">7-707</LINK> alleging a public nuisance as defined in subdivision (a), (d), or (k) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK>, or a public nuisance as defined in subdivision (e) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK> in a building, erection or place used for commercial purposes in which there is a significant risk of imminent physical harm to a natural person or persons, or a public nuisance as defined in subdivision (h) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK> in a building, erection or place operating without a license or with a license permitting the sale of liquor under the alcoholic beverage control law, the corporation counsel shall show by clear and convincing evidence that such public nuisance is being conducted, maintained or permitted and that the public health, safety or welfare immediately requires a temporary restraining order, such temporary restraining order may be granted without notice restraining the defendants and all persons from removing or in any manner interfering with the furniture, fixtures and movable property used in conducting, maintaining or permitting such public nuisance and from further conducting, maintaining or permitting such public nuisance, pending order of the court granting or refusing the preliminary injunction and until further order of the court. Upon granting a temporary restraining order, the court shall direct the holding of a hearing for the preliminary injunction at the earliest possible time but in no event later than three business days from the granting of such order; a decision on the motion for a preliminary injunction shall be rendered by the court within three business days after the conclusion of the hearing. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4423" number="5736" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service of temporary restraining order.</CHARFORMAT> Unless the court orders otherwise, a temporary restraining order and the papers upon which it was based and a notice of hearing for the preliminary injunction shall be personally served, in the same manner as a summons as provided in the civil practice law and rules.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4424" number="5737" version="3">
+											<PARA>(Am. L.L. 2017/032, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4425" number="5738" version="3">
+										<HEADING>§ 7-711 Temporary closing order; temporary restraining order.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1967" name="7-711"/>§ 7-711 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Temporary closing order; temporary restraining order.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4426" number="5739" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Generally.</CHARFORMAT> If on a motion for a preliminary injunction, the corporation counsel submits evidence warranting both a temporary closing order and a temporary restraining order, the court shall grant both orders.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4427" number="5740" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Enforcement of temporary closing orders and temporary restraining orders.</CHARFORMAT> Temporary closing orders shall be enforced by the agency at whose request the underlying action is being brought. In the event the underlying action is being brought at the direction of the mayor, or at the request of several city agencies or by the corporation counsel on his or her own initiative, or upon the request of a district attorney, or a member of the city council, the order shall be enforced by the city agency designated by the mayor. The police department shall, upon the request of the agency involved or upon the direction of the mayor, assist in the enforcement of a temporary closing order or a temporary restraining order.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4428" number="5741" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Inventory upon service of temporary closing orders and temporary restraining orders.</CHARFORMAT> The officers serving a temporary closing order or a temporary restraining order shall forthwith make and return to the court an inventory of personal property situated in and used in conducting, maintaining or permitting a public nuisance within the scope of this subchapter and shall enter upon the building, erection or place for such purpose. Such inventory shall be taken in any manner which is deemed likely to evidence a true and accurate representation of the personal property subject to such inventory including, but not limited to photographing such personal property.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4429" number="5742" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Closing of premises pursuant to temporary closing order.</CHARFORMAT> The officers serving a temporary closing order shall, upon service of the order, command all persons present in the building, erection or place to vacate the premises forthwith. Upon the building, erection or place being vacated, the premises shall be securely locked and all keys delivered to the officers serving the order who thereafter shall deliver the keys to the fee owner, lessor or lessee of the building, erection or place involved. If the fee owner, lessor or lessee is not at the building, erection or place when the order is being executed, the officers shall securely padlock the premises and retain the keys until the fee owner, lessor or lessee of the building is ascertained, in which event, the officers shall deliver the keys to such owner, lessor or lessee.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4430" number="5743" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Posting of temporary closing order and temporary restraining order; posting of notices; offenses.</CHARFORMAT> Upon service of a temporary closing order or a temporary restraining order, the officer shall post a copy thereof in a conspicuous place or upon one or more of the principal doors at entrances of such premises where the public nuisance is being conducted, maintained or permitted. In addition, where a temporary closing order has been granted, the officers shall affix, in a conspicuous place or upon one or more of the principal doors at entrances of such premises, a printed notice that the premises have been closed by court order, which notice shall contain the legend &quot;closed by court order&quot; in block lettering of sufficient size to be observed by anyone intending or likely to enter the premises, the date of the order, the court from which issued and the name of the office or agency posting the notice. In addition, where a temporary restraining order has been granted, the officers shall affix, in the same manner, a notice similar to the notice provided for in relation to a temporary closing order except that the notice shall state that certain described activity is prohibited by court order and that removal of property is prohibited by court order. Mutilation or removal of such a posted order or such a posted notice while it remains in force, in addition to any other punishment prescribed by law, shall be punishable, on conviction, by a fine of not more than five hundred dollars or by imprisonment not exceeding ninety days, or by both, provided such order or notice contains therein a notice of such penalty. The police department shall, upon the request of the agency involved or upon the direction of the mayor, assist in the enforcement of this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4431" number="5744" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Intentional disobedience of or resistance to temporary closing order or temporary restraining order.</CHARFORMAT> Intentional disobedience of or resistance to a temporary closing order or a temporary restraining order, in addition to any other punishment prescribed by law, shall be punishable, on conviction, by a fine of not more than one thousand dollars or by imprisonment not exceeding six months or by both. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4432" number="5745" version="3">
+										<HEADING>§ 7-712 Temporary closing order; temporary restraining order; defendant&apos;s remedies. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1975" name="7-712"/>§ 7-712 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Temporary closing order; temporary restraining order; defendant&apos;s remedies. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4433" number="5746" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A temporary closing order or a temporary restraining order shall be vacated, upon notice to the corporation counsel, if the defendant shows by affidavit and such other proof as may be submitted that the public nuisance within the scope of this subchapter has been abated. An order vacating a temporary closing order or a temporary restraining order shall include a provision authorizing agencies of the city to inspect the building, erection or place which is the subject of an action pursuant to this chapter, periodically without notice, during the pendency of the action for the purpose of ascertaining whether or not the public nuisance has been resumed. Intentional disobedience of or resistance to an inspection provision of an order vacating a temporary closing order or a temporary restraining order, in addition to any other punishment prescribed by law, shall be punishable, on conviction, by a fine of not more than five hundred dollars or by imprisonment not exceeding six months, or by both. The police department shall, upon the request of the agency involved or upon the direction of the mayor, assist in the enforcement of an inspection provision of an order vacating a temporary closing order or temporary restraining order.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4434" number="5747" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A temporary closing order or a temporary restraining order may be vacated by the court, upon notice to the corporation counsel, when the defendant gives an undertaking and the court is satisfied that the public health, safety or welfare will be protected adequately during the pendency of the action. The undertaking shall be in an amount equal to the assessed valuation of the building, erection or place where the public nuisance is being conducted, maintained or permitted or in such other amount as may be fixed by the court. The defendant shall pay to the city, in the event a judgment of permanent injunction is obtained, its actual costs, expenses and disbursements in investigating, bringing and maintaining the action. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4435" number="5748" version="3">
+										<HEADING>§ 7-713 Temporary receiver. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1977" name="7-713"/>§ 7-713 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Temporary receiver. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4436" number="5749" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Appointment, duration and removal.</CHARFORMAT> In any action wherein the complaint alleges that the nuisance is being conducted or maintained in the residential portions of any building or structure or portion thereof which are occupied in whole or in part as the home, residence or sleeping place of one or more human beings, the court may, upon motion on notice by the plaintiff, appoint a temporary receiver to manage and operate the property during the pendency of the action in lieu of a temporary closing order. A temporary receivership shall not continue after final judgment unless otherwise directed by the court. Upon the motion of any party, including the temporary receiver, or on its own initiative, the appointing court may remove a temporary receiver at any time.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4437" number="5750" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Powers and duties.</CHARFORMAT> The temporary receiver shall have such powers and duties as the court shall direct, including, but not limited to collecting and holding all rents due from all tenants, leasing or renting portions of the building or structure, making or authorizing other persons to make necessary repairs or to maintain the property, hiring security or other personnel necessary for the safe and proper operation of a dwelling, prosecuting or defending suits flowing from his or her management of the property and retaining counsel therefor, and expending funds from the collected rents in furtherance of the foregoing powers.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4438" number="5751" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Oath.</CHARFORMAT> A temporary receiver, before entering upon his or her duties shall be sworn or shall affirm faithfully and fairly to discharge the trust committed to such receiver. The oath or affirmation may be administered by any person authorized to take acknowledgements of deeds by the real property law. The oath or affirmation may be waived upon consent of all parties.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4439" number="5752" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Undertaking.</CHARFORMAT> A temporary receiver shall give an undertaking, in an amount to be fixed by the court making the appointment, that such receiver will faithfully discharge his or her duties.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4440" number="5753" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Accounts.</CHARFORMAT> A temporary receiver shall keep written accounts itemizing receipts and expenditures, and describing the property and naming the depository of receivership funds, which shall be open to inspection by any person having an apparent interest in the property. Upon motion of the temporary receiver or of any person having an apparent interest in the property, the court may require the keeping of particular records or direct or limit inspection or require presentation of a temporary receiver&apos;s accounts. Notice of motion for the presentation of a temporary receiver&apos;s accounts shall be served upon the sureties on the temporary receiver&apos;s undertaking as well as upon each party. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4441" number="5754" version="3">
+										<HEADING>§ 7-714 Permanent injunction. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1979" name="7-714"/>§ 7-714 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permanent injunction. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4442" number="5755" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A judgment awarding a permanent injunction pursuant to this subchapter may direct the sheriff to seize and remove from the building, erection or place all material, equipment and instrumentalities used in the creation and maintenance of the public nuisance and shall direct the sale by the sheriff of such property in the manner provided for the sale of personal property under execution pursuant to the provisions of the civil practice law and rules. The net proceeds of any such sale, after deduction of the lawful expenses involved, shall be paid into the general fund of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4443" number="5756" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A judgment awarding a permanent injunction pursuant to this subchapter may authorize agents of the city to forthwith remove and correct construction and structural alterations as provided in section 26-246 of this code.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4444" number="5757" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A judgment awarding a permanent injunction pursuant to this subchapter may direct the closing of the building, erection or place by the sheriff, to the extent necessary to abate the nuisance, and shall direct the sheriff to post a copy of the judgment and a printed notice of such closing conforming to the requirements of subdivision (e) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-711" destination-id="0-0-0-1967">7-711</LINK> of this subchapter. Mutilation or removal of such a posted judgment or notice while it remains in force, in addition to any other punishment prescribed by law, shall be punishable, on conviction, by a fine of not more than two hundred fifty dollars or by imprisonment not exceeding fifteen days, or by both, provided such judgment contains therein a notice of such penalty. The closing directed by the judgment shall be for such period as the court may direct but in no event shall the closing be for a period of more than one year from the posting of the judgment provided for in this subdivision. If the owner shall file a bond in the value of the property ordered to be closed and submits proof to the court that the nuisance has been abated and will not be created, maintained or permitted for such period of time as the building, erection or place has been directed to be closed in the judgment, the court may vacate the provisions of the judgment that direct the closing of the building, erection or place. A closing by the sheriff pursuant to the provisions of this subdivision shall not constitute an act of possession, ownership or control by the sheriff of the closed premises.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4445" number="5758" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Intentional disobedience or resistance to any provision of a judgment awarding a permanent injunction pursuant to this chapter, in addition to any other punishment prescribed by law, shall be punishable by a fine of not more than five hundred dollars, or by imprisonment not exceeding six months, or by both.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4446" number="5759" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Upon the request of the agency involved or upon the direction of the mayor, the police department shall assist in the enforcement of a judgment awarding a permanent injunction entered in an action brought pursuant to this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4447" number="5760" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>A judgment rendered awarding a permanent injunction pursuant to this subchapter shall be and become a lien upon the building, erection or place named in the complaint in such action, such lien to date from the time of filing a notice of lis pendens in the office of the clerk of the county wherein the building, erection or place is located. Every such lien shall have priority before any mortgage or other lien that exists prior to such filing except tax and assessment liens.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4448" number="5761" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>A judgment awarding a permanent injunction pursuant to this chapter shall provide, in addition to the costs and disbursements allowed by the civil practice law and rules, upon satisfactory proof by affidavit or such other evidence as may be submitted, the actual costs, expenses and disbursements of the city in investigating, bringing and maintaining the action. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4449" number="5762" version="803">
+				<HEADING>Subchapter 3: Remedies for Promotion of Obscene Material; Seizure and Civil Penalty [Repealed]</HEADING>
+				<PARA>Subchapter 3: Remedies for Promotion of Obscene Material; Seizure and Civil Penalty [Repealed]</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4450" number="5763" version="3">
+										<HEADING>§ 7-715 Applicability. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1981" name="7-715"/>§ 7-715 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicability. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4451" number="5764" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4452" number="5765" version="3">
+										<HEADING>§ 7-716 Action for civil penalty. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1983" name="7-716"/>§ 7-716 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Action for civil penalty. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4453" number="5766" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4454" number="5767" version="3">
+										<HEADING>§ 7-717 Preliminary injunction. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1985" name="7-717"/>§ 7-717 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Preliminary injunction. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4455" number="5768" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4456" number="5769" version="3">
+										<HEADING>§ 7-718 Motion papers for preliminary injunction. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1987" name="7-718"/>§ 7-718 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Motion papers for preliminary injunction. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4457" number="5770" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4458" number="5771" version="3">
+										<HEADING>§ 7-719 Temporary restraining order. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1989" name="7-719"/>§ 7-719 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Temporary restraining order. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4459" number="5772" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4460" number="5773" version="3">
+										<HEADING>§ 7-720 Vacating a temporary injunction or a temporary restraining order. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1991" name="7-720"/>§ 7-720 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Vacating a temporary injunction or a temporary restraining order. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4461" number="5774" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4462" number="5775" version="3">
+										<HEADING>§ 7-721 Judgment. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1993" name="7-721"/>§ 7-721 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Judgment. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4463" number="5776" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4464" number="5777" version="3">
+										<HEADING>§ 7-722 Chapter not exclusive remedy. [Repealed]</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1995" name="7-722"/>§ 7-722 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chapter not exclusive remedy. [Repealed]</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4465" number="5778" version="3">
+											<PARA>(Repealed L.L. 2017/041, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4466" number="5779" version="3">
+				<HEADING>Subchapter 4: Authorized Dispositions and Orders</HEADING>
+				<PARA>Subchapter 4: Authorized Dispositions and Orders</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4467" number="5780" version="3">
+										<HEADING>§ 7-723 Limitations on exclusions of natural persons.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1997" name="7-723"/>§ 7-723 Limitations on exclusions of natural persons.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4468" number="5781" version="3">
+											<PARA>No disposition reached or order issued pursuant to an action brought under this chapter in relation to a public nuisance may exclude any natural person from any property for more than one year, unless the corporation counsel can demonstrate through clear and convincing evidence that unique circumstances exist such that a greater period of exclusion is required to abate the applicable public nuisance. In no case shall such period of exclusion exceed three years.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4469" number="5782" version="3">
+											<PARA>(L.L. 2017/038, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4470" number="5783" version="3">
+										<HEADING>§ 7-724 Judicial review.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1999" name="7-724"/>§ 7-724 Judicial review.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4471" number="5784" version="3">
+											<PARA>The purpose of a disposition reached pursuant to an action bought under this chapter shall be to deter the public nuisance alleged in the action from recurring either at the building, erection or place cited in the action or at any other location under the legal control of a defendant named in the action, and not to deter generally such nuisance from occurring elsewhere. A disposition reached pursuant to an action brought under this chapter shall not be final unless it is so ordered by the court. Nothing in this section shall be construed to prohibit a disposition from including terms or conditions routinely included in stipulations or orders resolving civil litigation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4472" number="5785" version="3">
+											<PARA>(L.L. 2017/043, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4473" number="5786" version="3">
+										<HEADING>§ 7-725 Business owner awareness.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2001" name="7-725"/>§ 7-725 Business owner awareness.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4474" number="5787" version="1762">
+											<PARA>No disposition reached or order issued pursuant to an action brought under this chapter shall permit the closure of any business where the owner or proprietor of such business was not aware of, should not have been aware of, and had no reason or duty to be aware of the public nuisance addressed by such disposition or order. An owner or proprietor&apos;s physical absence from a business shall not alone establish that such owner or proprietor was not aware of, should not have been aware of, and had no reason or duty to be aware of such public nuisance. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4475" number="5788" version="3">
+											<PARA>(L.L. 2017/043, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4476" number="5789" version="3">
+										<HEADING>§ 7-726 Property rights and awareness.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2003" name="7-726"/>§ 7-726 Property rights and awareness.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4477" number="5790" version="1762">
+											<PARA>No disposition reached or order issued pursuant to an action brought under this chapter shall deprive any natural person of any property right to which such person is otherwise entitled where such person was not aware of, should not have been aware of, and had no reason or duty to be aware of the public nuisance addressed by such disposition or order. A person&apos;s physical absence from a building, erection or place in which such nuisance has occurred shall not alone establish that such person was not aware of, should not have been aware of, and had no reason or duty to be aware of such public nuisance. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4478" number="5791" version="3">
+											<PARA>(L.L. 2017/043, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4479" number="5792" version="3">
+										<HEADING>§ 7-727 Limitations on applicability.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2005" name="7-727"/>§ 7-727 Limitations on applicability.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4480" number="5793" version="3">
+											<PARA>Nothing in this subchapter shall be construed to relieve an owner of a building from responsibilities pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="28-301.1" destination-id="0-0-0-2007">28-301.1</LINK> of chapter 3 of title 28 of the code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4481" number="5794" version="3">
+											<PARA>(L.L. 2017/043, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4482" number="5795" version="3">
+										<HEADING>§ 7-728 Conflicting proceedings.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2009" name="7-728"/>§ 7-728 Conflicting proceedings.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4483" number="5796" version="1765">
+											<PARA>Any action for a permanent injunction brought under this chapter against a natural person shall be dismissed if legal proceedings based on the same or substantially similar factual allegations have been conducted or are being conducted in New York city civil court or by the New York city housing authority, unless the city has a unique and compelling interest that is substantially different from that of the plaintiff in the other legal proceeding. Such interest shall not include the speed with which such case could be resolved. For the purposes of this section, the term &quot;substantially similar factual allegations&quot; shall not be construed to include conduct or actions that occurred subsequent to the allegations included in the relevant legal proceedings conducted in New York city civil court or by the New York city housing authority. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4484" number="5797" version="3">
+											<PARA>(L.L. 2017/032, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4485" number="5798" version="3">
+										<HEADING>§ 7-729 Duplicate fines for public nuisances involving alcohol.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2011" name="7-729"/>§ 7-729 Duplicate fines for public nuisances involving alcohol.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4486" number="5799" version="3">
+											<PARA>To the extent practicable, fines imposed or expected to be imposed by the state liquor authority shall be taken into consideration in evaluating whether a disposition reached in an action brought under this chapter poses an excess burden on the defendant, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-724" destination-id="0-0-0-1999">7-724</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4487" number="5800" version="3">
+											<PARA>(L.L. 2017/032, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4488" number="5801" version="3">
+										<HEADING>§ 7-730 Willful and flagrant alcohol-related violations.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2013" name="7-730"/>§ 7-730 Willful and flagrant alcohol-related violations.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4489" number="5802" version="3">
+											<PARA>No disposition reached or order issued pursuant to an action brought under this chapter solely in relation to a public nuisance as defined in subdivision (h) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="7-703" destination-id="0-0-0-1807">7-703</LINK> may require the closure of any business that has a license to sell beer and wine but does not have a license to sell liquor unless the corporation counsel can demonstrate through clear and convincing evidence a willful and flagrant violation of the alcohol beverage control law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-4490" number="5803" version="3">
+											<PARA>(L.L. 2017/044, 3/18/2017, eff. 5/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

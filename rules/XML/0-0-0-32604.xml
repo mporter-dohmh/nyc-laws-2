@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-32604" number="39047" version="3">
+			<HEADING>Chapter 12: Disposition of Forfeited Vehicles</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-4321" name="T16C012"/>Chapter 12: Disposition of Forfeited Vehicles</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32605" number="39048" version="3">
+								<HEADING>§ 12-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4323" name="T16C012_12-01"/>§ 12-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32606" number="39049" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> &quot;Commissioner&quot; shall mean the Commissioner of Sanitation of the City of New York, or his or her designee. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32607" number="39050" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department</CHARFORMAT>. &quot;Department&quot; shall mean the Department of Sanitation of the City of New York. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32608" number="39051" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Claim</CHARFORMAT>. &quot;Claim&quot; shall mean an application submitted to the Department for the delivery of a vehicle pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK>(e) of the Administrative Code of the City of New York (&quot;§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK>&quot;) and these Rules. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32609" number="39052" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Claimant.</CHARFORMAT> &quot;Claimant&quot; shall mean any person who submits a claim pursuant to these Rules. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32610" number="39053" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Forfeited Vehicle</CHARFORMAT>. &quot;Forfeited Vehicle&quot; shall mean any vehicle as to which a judgment of forfeiture pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK> has been entered by a court of competent jurisdiction. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32611" number="39054" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Ownership Interest</CHARFORMAT>. &quot;Ownership Interest&quot; shall mean any legal interest, including a security interest, in any personal property. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32612" number="39055" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person.</CHARFORMAT> &quot;Person&quot; shall mean a natural person, or an organization. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32613" number="39056" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Security Interest.</CHARFORMAT> &quot;Security Interest&quot; shall mean an interest as provided for in § 1-201 of the New York Uniform Commercial Code. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32614" number="39057" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Vehicle.</CHARFORMAT> &quot;Vehicle&quot; shall mean every device in, upon, or by which any person or property is or may be transported or drawn.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32615" number="39058" version="3">
+								<HEADING>§ 12-02 Request for Information from Department of Motor Vehicles.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4325" name="T16C012_12-02"/>§ 12-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Request for Information from Department of Motor Vehicles.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32616" number="39059" version="1824">
+									<PARA>Upon notification by the Office of the Corporation Counsel of the City of New York that a judgment has been entered providing for the forfeiture of a vehicle pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK>, the Department shall request from the New York State Department of Motor Vehicles (&quot;DMV&quot;), the names and addresses of all persons possessing an ownership or security interest in the forfeited vehicle.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32617" number="39060" version="3">
+								<HEADING>§ 12-03 Notice of Anticipated Sale.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4327" name="T16C012_12-03"/>§ 12-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of Anticipated Sale.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32618" number="39061" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Upon receipt of such information, the Department shall promptly give notice to each person identified by DMV as possessing a security interest in the forfeited vehicle that such vehicle has been judicially declared forfeit, and consequently that such vehicle is subject to sale by the Department. Such Notice of Anticipated Sale shall set forth or annex documentation indicating the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32619" number="39062" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The caption, court and index number of the action in which the judgment of forfeiture was entered;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32620" number="39063" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A description of the forfeited vehicle;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32621" number="39064" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A list of all persons identified by DMV as possessing an ownership or security interest in the forfeited vehicle;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32622" number="39065" version="1824">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A statement advising such person of his or her right to submit a claim for the delivery of the forfeited vehicle subject to the provisions of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK> and these Rules and of his or her right to request a hearing on such claim, and that such claim and any request for a hearing must be submitted to the Department within forty-five (45) days of the date of mailing of the Notice of Anticipated Sale;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32623" number="39066" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>A conspicuous warning that failure to timely act to protect their interest may result in the loss of the ownership interest in the forfeited vehicle;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32624" number="39067" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The date of mailing of the Notice of Anticipated Sale.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32625" number="39068" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department shall not be required to send such Notice of Anticipated Sale to any person whose rights were adjudicated forfeited in the action or proceeding in which the judgment of forfeiture was entered, or to any person not identified by DMV as possessing an ownership or security interest in the vehicle.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32626" number="39069" version="3">
+								<HEADING>§ 12-04 Submission of Claims.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4329" name="T16C012_12-04"/>§ 12-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Submission of Claims.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32627" number="39070" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any person with an ownership interest in a forfeited vehicle must submit a claim to the Department in accordance with this section to preserve such interest. Failure to submit a claim, or failure to submit a claim within the time allowed for such claims, shall constitute an abandonment of the vehicle and any ownership interest which such person may have in the forfeited vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32628" number="39071" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A claim for the delivery of a forfeited vehicle must be received by the Office of General Counsel of the Department no later than forty-five (45) days after the date of mailing of the Notice of Anticipated Sale.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32629" number="39072" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Each claim must include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32630" number="39073" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A completed financial disclosure statement in a form prescribed by the Department, which shall identify and document the claimant&apos;s ownership interest in the vehicle; the ownership interest in the vehicle of the party found guilty of or liable for illegal dumping; and the relationship between the claimant and such party.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32631" number="39074" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A sworn statement indicating whether the claimant, or its officials, employees, agents, or representatives or predecessors in interest, permitted or had knowledge of the use of the forfeited vehicle for illegal dumping;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32632" number="39075" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A sworn statement indicating whether the claimant, or its officials, employees, agents, or representatives, have ever been convicted of or found liable for illegal dumping.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32633" number="39076" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A statement indicating whether the claimant requests or waives a hearing on the claim.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32634" number="39077" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The Department may require that a claimant submit further information or documentation. The claimant shall respond to such requests within thirty (30) days of the date of mailing of the request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32635" number="39078" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>All statements submitted by a claimant shall be duly sworn and notarized.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32636" number="39079" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Failure or refusal to timely submit any required information or documentation shall cause the claim to be deemed abandoned and withdrawn.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32637" number="39080" version="3">
+								<HEADING>§ 12-05 Multiple Claims for a Forfeited Vehicle.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4331" name="T16C012_12-05"/>§ 12-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Multiple Claims for a Forfeited Vehicle.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32638" number="39081" version="3">
+									<PARA>If there is more than one claimant for a forfeited vehicle, all claims shall be consolidated and considered together.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32639" number="39082" version="3">
+								<HEADING>§ 12-06 Hearings.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4333" name="T16C012_12-06"/>§ 12-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Hearings.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32640" number="39083" version="1824">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Department retains jurisdiction to conduct hearings pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK> and these Rules. The Commissioner may, in his or her discretion, refer matters to the New York City Office of Administrative Trials and Hearings for hearing and recommended decision.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32641" number="39084" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A request for a hearing shall be made at the time a claim is filed, in accordance with subdivision (d)(3)(iv) of these provisions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32642" number="39085" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If a hearing is requested by a claimant, all claims for the forfeited vehicle shall be referred to a hearing officer, and a hearing scheduled for a date not earlier than ten (10) days thereafter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32643" number="39086" version="1740">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The hearing shall be conducted in accordance with the provisions of the New York City Administrative Procedure Act, Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1046" destination-id="0-0-0-0">1046</LINK>(c) of the Charter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32644" number="39087" version="3">
+								<HEADING>§ 12-07 Determination of Claim.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4335" name="T16C012_12-07"/>§ 12-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Determination of Claim.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32645" number="39088" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If no claimant for a forfeited vehicle requests a hearing, the claim(s) shall be decided by the Commissioner on the basis of the written submissions. The Commissioner shall render a final decision determining each claim for a forfeited vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32646" number="39089" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If a hearing is conducted, the hearing officer shall forward to the Commissioner a recommended decision setting forth recommended findings of fact and a recommendation as to each claim. The Commissioner shall issue a final decision determining each claim.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32647" number="39090" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Determinations of claim(s) for forfeited vehicles shall set forth:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32648" number="39091" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the value of the ownership interest which was adjudicated forfeited (&quot;Forfeited Ownership Interest&quot;); and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32649" number="39092" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the name(s) of the claimant(s), if any, who are entitled to redeem the forfeited vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32650" number="39093" version="1824">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Except as otherwise provided by and subject to the requirements of 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C012_12-08" destination-id="0-0-0-4337">12-08</LINK>, a claimant shall be entitled to redeem the forfeited vehicle if the Commissioner finds that the evidence establishes that the claimant did not expressly or implicitly permit the use of the forfeited vehicle for the acts constituting the illegal dumping in violation of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK>. In making such determination, the following factors, among other things, may be considered:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32651" number="39094" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Whether the claimant knew or should have known that the person whose interest in the vehicle was forfeited had previously been convicted of or found liable for illegal dumping; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32652" number="39095" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>What actions were taken by the claimant to ensure that the vehicle was not used for illegal dumping.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32653" number="39096" version="1085">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>A copy of the Commissioner&apos;s final decision shall be sent to each claimant, together with a notice that the Department will deliver the forfeited vehicle to the claimant(s) who are entitled to redeem the vehicle and who redeem the vehicle in accordance with 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C012_12-08" destination-id="0-0-0-4337">12-08</LINK>, or the Department will dispose of the forfeited vehicles in accordance with 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C012_12-09" destination-id="0-0-0-4339">12-09</LINK>.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32654" number="39097" version="3">
+								<HEADING>§ 12-08 Redemption of Vehicle.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4337" name="T16C012_12-08"/>§ 12-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Redemption of Vehicle.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32655" number="39098" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If the Commissioner determines that a single claimant for a forfeited vehicle is entitled to redeem the forfeited vehicle, the Department shall serve, with the Commissioner&apos;s final decision, a Notice of Right To Redeem Forfeited Vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32656" number="39099" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Notice of Right To Redeem Forfeited Vehicle shall advise such claimant that he or she may redeem the forfeited vehicle within thirty (30) days of the date of mailing of such Notice, but no earlier than seven (7) days from such date.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32657" number="39100" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Such claimant may redeem the forfeited vehicle by tendering a certified check or teller&apos;s check for the total of:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32658" number="39101" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the amount of the Forfeited Ownership Interest; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32659" number="39102" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the amount of the reasonable expenses of the safekeeping of the vehicle between the time the vehicle was impounded and the date of redemption.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32660" number="39103" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Should the Commissioner determine that more than one claimant has a valid ownership or security interest in the vehicle, the Commissioner shall not deliver the vehicle to any such claimant, unless all such claimants tender to the Department a stipulation</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32661" number="39104" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>designating a claimant who shall redeem and take delivery of the forfeited vehicle, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32662" number="39105" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>holding the City of New York, its agencies and officials harmless from any claim of misdelivery of the forfeited vehicle. If no such stipulation and release is tendered, an interpleader action, in which such claimants can adjudicate their right to take delivery of the forfeited vehicle, shall be promptly commenced on behalf of the Department in a court of competent jurisdiction.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32663" number="39106" version="3">
+								<HEADING>§ 12-09 Disposal of Forfeited Vehicle.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4339" name="T16C012_12-09"/>§ 12-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disposal of Forfeited Vehicle.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32664" number="39107" version="1824">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If no claim is received by the Department within the time for submission of such claim set forth in 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C012_12-04" destination-id="0-0-0-4329">12-04</LINK>(b), the Department shall dispose of the forfeited vehicles pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK> and in accordance with the procedures set forth in this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32665" number="39108" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If a claim is received by the Department for a forfeited vehicle, the Department shall maintain custody of such vehicle pending the determination of the claim.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32666" number="39109" version="1085">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If no timely claim for a forfeited vehicle is received by the Department, or if all claim(s) are denied by the Commissioner, or if the vehicle is not redeemed in accordance with 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C012_12-08" destination-id="0-0-0-4337">12-08</LINK>, the Department shall give notice of the public sale of the forfeited vehicle by placing an advertisement in a newspaper of general circulation not less than twenty (20) days before the deadline for submission of bids. Such advertisement shall notify the public of:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32667" number="39110" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the opportunity to submit sealed competitive bids for the purchase of the forfeited vehicle;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32668" number="39111" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the date by which such bids must be submitted;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32669" number="39112" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the date, time and location of the public proceeding at which the bids shall be opened.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32670" number="39113" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Any person whose ownership interest in the forfeited vehicle was adjudicated forfeited, or whose claim for delivery of the vehicle was denied, and any officials, employees, agents, representatives, or successors in interest of such person, shall be ineligible to bid for the vehicle, and any such bid shall be rejected.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32671" number="39114" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>All timely bids received by the Department shall be opened at a public proceeding. Bidders need not be present at such proceeding. Notice of the winning bid shall be promptly mailed to the winning bidder.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32672" number="39115" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>If a tie between two or more bidders occurs, the tied bidders shall submit a new sealed bid within ten (10) days of the date of mailing of the notice of the tied bid. If a tie occurs after the second round of bidding, the winning bid shall be selected among the tied bidders by lottery.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32673" number="39116" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The Commissioner shall reject as inadequate any bid that is not equal to or greater than the N.A.P.A. (&quot;Blue Book&quot;) valuation, or other reasonable estimation approved by the Commissioner of the forfeited vehicle being offered for sale.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32674" number="39117" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>If the Commissioner determines that no adequate bids have been timely submitted, the forfeited vehicle shall be retained by the Department for Department use or disposal.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32675" number="39118" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Failure by the winning bidder to tender payment in full within thirty (30) days from the date of mailing of the winning bid shall result in the rejection of the bid. The next highest adequate bid shall then be deemed the winning bid.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32676" number="39119" version="3">
+								<HEADING>§ 12-10 Service of Required Notices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4341" name="T16C012_12-10"/>§ 12-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Service of Required Notices.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32677" number="39120" version="3">
+									<PARA>All notices required by these Rules shall be sent by certified, return receipt mail and regular mail to the address of the person provided by DMV, the claimant, or the bidder, as applicable. Service shall be deemed complete upon mailing.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

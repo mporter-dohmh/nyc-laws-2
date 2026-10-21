@@ -1,0 +1,1794 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-210928" number="47690" version="1487">
+			<HEADING>Chapter 2: Department for the Aging</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-9513" name="T21C002"/>Chapter 2: Department for the Aging</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-37431" number="47691" version="1657">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1992/009" destination-id="0-0-0-26630">L.L. 1992/009</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219437" number="47692" version="1657">
+										<HEADING>§ 21-201 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7221" name="21-201"/>§ 21-201 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37432" number="47693" version="2506">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7965915&amp;GUID=E9CB0D66-2C89-45FE-9A60-7B3F210E4FDE&amp;Options=ID%7cText%7c&amp;Search=">L.L. 2026/116, 7/11/2026, eff. 1/7/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246021" number="47694" version="2506">
+											<PARA>Whenever used in this chapter, the following words shall have the following meanings: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37433" number="47695" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;Commissioner&quot; shall mean the commissioner of the department for the aging.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37434" number="47696" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;Department&quot; shall mean the department for the aging.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37435" number="47697" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;Regularly schedules activities&quot; shall mean all activities which are funded in whole or in part by the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37436" number="47698" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;Senior center&quot; shall mean facilities operated by the city of New York or operated by an entity that has contracted with the department to provide services to senior citizens on a regular basis including, but not limited to meals, recreation and counseling.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37437" number="47699" version="1065">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;Elder abuse&quot; shall mean any knowing, intentional, or negligent act by a caregiver or any other person holding a trusting relationship with a vulnerable older adult, which causes harm or a serious risk of harm to that older adult including physical, emotional, sexual, or financial harm, or harm related to identity theft, or neglect, abandonment or confinement. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-068]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37438" number="47700" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;Social adult day care&quot; has the same meaning as set forth in section two hundred fifteen of the elder law and any regulations promulgated by the director of the office for the aging pursuant to such section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-016]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37439" number="47701" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>[Reserved.] <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246555" number="47702" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>“Older adult” shall mean a person 60 years of age or older. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246554" number="47703" version="2527">
+											<PARA>(Am. L.L. 2015/009, 1/17/2015, eff. 7/14/2015; Am. 2021 N.Y. Laws Ch. 655, 12/6/2021, eff. 12/6/2021; Am. L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-130187" number="47704" version="1657">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1992/009" destination-id="0-0-0-26630">L.L. 1992/009</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2015/009" destination-id="0-0-0-20601">L.L. 2015/009</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-130190" number="47705" version="619">
+										<HEADING>§ 21-202 Bill of rights required. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9515" name="21-202"/>§ 21-202 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Bill of rights required. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37440" number="47706" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall require that every senior center adopt a statement of the rights of all senior citizens who participate in activities and take advantage of services provided by such senior center and treat all senior citizens in accordance with the provisions of such statement.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37441" number="47707" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Contents of bill of rights. Such statement of rights shall include the following:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37442" number="47708" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Every senior citizen who otherwise qualifies for participation shall have the right to participate as a member of a senior center.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37443" number="47709" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Every senior citizen shall have the right to participate in all regularly scheduled activities and take advantage of services provided by the center to the extent that funding and space limitations permit.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37444" number="47710" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Every senior center shall have a senior advisory council which will be comprised of senior citizens from the senior center membership. Such advisory council shall advise the senior center&apos;s management of the needs of the senior citizens.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37445" number="47711" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Every senior citizen attending a senior center&apos;s regularly scheduled meal period shall be offered a balanced and nutritious meal to the extent that funding and space limitations permit. Those senior citizens that do not receive a balanced and nutritious meal shall be offered nourishment during a senior center&apos;s regularly scheduled meal period to the extent that funding permits.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37446" number="47712" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Every senior citizen attending a senior center shall have the opportunity to make a financial contribution which shall be voluntary and anonymous and shall be used by the senior center to enhance and increase services to senior citizens.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37447" number="47713" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Every senior citizen shall be treated courteously, fairly and respectfully at a senior center.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37448" number="47714" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Every senior citizen shall have the right not to be discriminated against based upon his or her actual or perceived race, creed, color, national origin, age, gender, disability, marital status, sexual orientation, alienage or citizenship status, in violation of the human rights law of the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37449" number="47715" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Every senior citizen shall have the right to be informed of those senior centers that are handicapped accessible.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37450" number="47716" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>Every senior citizen shall have the right to present grievances on behalf of himself or herself to the senior center&apos;s staff, board of directors or executive committee, or elected or other government officials, without fear of reprisal from officers or employees of the senior center.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37451" number="47717" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Posting required. Every senior center shall post conspicuously:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37452" number="47718" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>in or near the entrance to such center a sign that states the rights of senior citizens as provided in this section;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37453" number="47719" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>all regularly scheduled activities as defined in this section; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37454" number="47720" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the department&apos;s phone number.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37455" number="47721" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Nothing in this section shall be construed to limit the department&apos;s authority to promulgate rules regarding matters within its jurisdiction pursuant to applicable law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37456" number="47722" version="1657">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1992/009" destination-id="0-0-0-26630">L.L. 1992/009</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219438" number="47723" version="1657">
+										<HEADING>§ 21-203 Elder abuse training. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9517" name="21-203"/>§ 21-203 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Elder abuse training. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37457" number="47724" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall develop a program to train senior service providers in the detection and reporting of elder abuse. Such program shall also include training on the counseling of elder abuse victims.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37458" number="47725" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner shall require that employees of senior centers and employees of entities that contract with the department to provide services to senior citizens, be trained in elder abuse detection, reporting and counseling, and receive supplemental refresher training regarding the same at least once every 3 years, if such employee has or is expected to have significant and direct person to person contact with senior citizens.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37459" number="47726" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner shall require senior centers to hold at least two educational sessions per year during which guests and members of the senior center will receive counseling regarding elder abuse prevention and awareness and be instructed on how to detect and report instances of elder abuse.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37460" number="47727" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The commissioner shall require that every senior center post signage in a prominent common area section within the center that directs those who need information regarding elder abuse detection, reporting, counseling and services to call either the 311 citizen service system or the department&apos;s Elderly Crime Victims Resource Center.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-37461" number="47728" version="3">
+										<HEADING>§ 21-204 Social adult day care.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9519" name="21-204"/>§ 21-204 Social adult day care.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37462" number="47729" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>1.<TAB tab-count="1"/>All social adult day cares that do not receive funding pursuant to section two hundred fifteen of the elder law shall meet the standards and requirements of any rules or regulations promulgated by the director of the office for the aging pursuant to such section related to program standards and participant rights, notwithstanding the fact that such social adult day cares do not receive such funding. For the purposes of this section, any reference to an &quot;area agency on aging&quot; in such rules and regulations means the department and any reference to a &quot;participant&quot; in such rules and regulations means an adult individual who is functionally impaired as defined in such rules and regulations and is eligible for and is receiving services from a social adult day care. Any references to &quot;functionally impaired&quot; and &quot;social adult day care program&quot; in such rules and regulations shall have the same meanings set forth therein.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37463" number="47730" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>All social adult day cares shall carry out the provisions of this section in accordance with all applicable provisions of the Americans with disabilities act of nineteen ninety.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37464" number="47731" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Registration.</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37465" number="47732" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An individual, partnership, corporation, limited liability company, joint venture, association, or other business entity shall not operate as a social adult day care without having registered with the department. Registration shall include registrant&apos;s name, address, corporate structure and ownership, and other information as the department may require and shall be filed on forms to be prescribed by the department. The department may require social adult day cares to register electronically.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37466" number="47733" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Changes to information required under this subdivision must be submitted to the department no later than the effective date of such change in writing or electronically in a form and manner designated by the department.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37467" number="47734" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Civil penalties.</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37468" number="47735" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall adopt rules establishing civil penalties of not less than two hundred fifty dollars per day and not more than five hundred dollars per day to be assessed against social adult day cares for violations of subdivision a and any regulations promulgated thereunder. Such rules establishing civil penalties shall specify the violations subject to penalty.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37469" number="47736" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Any individual, partnership, corporation, limited liability company, joint venture, association, or other business entity that operates as a social adult day care without registering shall be subject to a civil penalty of not less than two hundred fifty dollars per day and not more than one thousand dollars per day such social adult day care operates without registering.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37470" number="47737" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department and officers and employees of city agencies designated by the mayor shall have the authority to issue notices of violation, returnable at the environmental control board, any administrative tribunal within such designated agency, or any tribunal established within the office of administrative trials and hearings as designated by the commissioner, for violations of this section or any rules promulgated by the department pursuant to such section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37471" number="47738" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Social adult day care ombudsperson.</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37472" number="47739" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall designate an ombudsperson whose duties shall include, but not be limited to:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37473" number="47740" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>establishing a system to receive comments and complaints with respect to any social adult day care;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37474" number="47741" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>requesting a list from the state department of health at least once annually of providers operating social adult day cares within the city of New York and the street address of each such social adult day care; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37475" number="47742" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>investigating complaints received pursuant to subparagraph (i) of this paragraph or based on any information known to the department related to a social adult day care that may be in violation of the provisions of subdivision a of this section and whether a social adult day care has violated subdivision a of this section and upon finding there has been such a violation:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37476" number="47743" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(A)<TAB tab-count="1"/>promptly informing in writing such social adult day care and any managed long term care organization known to be reimbursing such social adult day care of such finding, and that such finding is appealable by writing to the commissioner in accordance with the rules of the department, and requesting any informed managed long term care organization to respond to the ombudsperson in writing as to whether and how such violations will be addressed,</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37477" number="47744" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(B)<TAB tab-count="1"/>at the ombudsperson&apos;s discretion, forwarding the results of such investigation and any such response from a managed long term care organization to the department of investigation, the state department of health or any office, agency, or entity responsible for the prevention, detection, and investigation of fraud and abuse in the medical assistance program described in title eleven of the social services law or for the recovery of any improperly expended medical assistance funds, and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37478" number="47745" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(C)<TAB tab-count="1"/>taking other appropriate actions as determined by the commissioner.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37479" number="47746" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A social adult day care shall post in a conspicuous location on its premises a sign indicating how to contact the ombudsperson and a statement indicating that any person may contact such ombudsperson if such person has a comment or complaint regarding such social adult day care.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37480" number="47747" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department shall make available on its website the contact information of the ombudsperson as well as a statement indicating that any person may contact such ombudsperson with a comment or complaint regarding any social adult day care.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37481" number="47748" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Not later than January 1, 2016 and annually thereafter, the ombudsperson shall provide a written report to the council regarding social adult day cares. Each such report shall include, but not be limited to:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37482" number="47749" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the total number of social adult day cares and the name and street address of each such social adult day care;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37483" number="47750" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the total number of complaints received by the ombudsperson;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37484" number="47751" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a general description of the reason for each such complaint;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37485" number="47752" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>the total number of investigations conducted by the ombudsperson, a general description of the reason for each such investigation, any findings that a social adult day care has violated of subdivision a of this section, and the outcome of each such investigation;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37486" number="47753" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(v)<TAB tab-count="1"/>the total number of notices of violation issued pursuant to subdivisions a and c of this section, disaggregated by the specific violation for which such notice was issued;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37487" number="47754" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>the total number of social adult day cares that failed to register pursuant to subdivision b as of the date of such report; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37488" number="47755" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>any recommendations regarding the operation of social adult day cares.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37489" number="47756" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Except as otherwise required by law, the department shall not share information that identifies any individual who made a complaint to the ombudsperson.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37490" number="47757" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Online public searchable database of social adult day cares.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-026]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37491" number="47758" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall create and maintain an online public searchable database of social adult day cares registered with the department pursuant with subdivision b of this section, which the public shall be able to search by the name under which the social adult day care registered, by the name under which the social adult day care is doing business, by borough, and by zip code. The database shall include the following information reported to the department pursuant to such subdivision: (i) the name, address, telephone number, and website, if any, of the social adult day care; (ii) the corporate structure and ownership of the social adult day care; (iii) the days and hours of operation of the social adult day care; (iv) the year the social adult day care was established; and (v) the name, address and telephone number of any managed long term care company with which the social adult day care has a formal agreement. The database shall further include any other relevant information reported to the department pursuant to this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-026]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37492" number="47759" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>If applicable, the database shall indicate the number of notices of violation issued and the outcome of any adjudication conducted pursuant to subdivision c. The year and nature of the notice of violation and the adjudication shall be posted, but may not contain personally identifying information about a complainant. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-026]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37493" number="47760" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The database shall allow an individual to submit complaints electronically about a social adult day care to the ombudsperson. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-026]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37494" number="47761" version="618">
+											<PARA>(L.L. 2015/009, 1/17/2015, eff. 7/14/2015 and 1/17/2016; Am. L.L. 2018/009, 12/31/2017, eff. 6/29/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-026]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-130189" number="47762" version="619">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2015/009" destination-id="0-0-0-20601">L.L. 2015/009</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-130191" number="47763" version="619">
+										<HEADING>§ 21-204.1 Inspections for social adult day cares and senior centers; reporting.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9521" name="21-204.1"/>§ 21-204.1 Inspections for social adult day cares and senior centers; reporting.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37496" number="47764" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall provide the department of health and mental hygiene a list of all social adult day cares registered with the department and a list of all senior centers in the city on an annual basis and update the department of health and mental hygiene monthly of any changes to either list.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37497" number="47765" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall make available on its website information about the inspections of senior centers and social adult day cares conducted by the department of health and mental hygiene pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1506" destination-id="0-0-0-7219">17-1506</LINK>.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37498" number="47766" version="3">
+											<PARA>(L.L. 2018/141, 8/6/2018, eff. 2/2/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-37499" number="47767" version="3">
+										<HEADING>§ 21-205 Aging in place guide.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9523" name="21-205"/>§ 21-205 Aging in place guide.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37500" number="47768" version="3">
+											<PARA>In consultation with the department of buildings, the department of housing preservation and development, the mayor&apos;s office for people with disabilities, and businesses and nonprofit organizations with expertise in design for dwelling units occupied by older adults, the department shall develop, distribute, and publish on its website, not later than July 1, 2016, a guide for building owners regarding modifications and improvements that may be made to dwelling units to allow tenants to safely remain in such units for as long as possible as such tenants age. Such guide shall include, but not be limited to, information relating to: improving access for individuals with limited mobility; lighting, railings and grab bars; technological enhancements; and widening of doorways and hallways. Such guide shall also include information on available public and private sources of funding, including information on eligibility criteria and how to apply for such funding, to assist building owners in making modifications and improvements. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-016]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37501" number="47769" version="2145">
+											<PARA>(L.L. 2015/051, 6/2/2015, eff. 6/2/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-016]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-230537" number="47770" version="2145">
+										<HEADING>§ 21-205.1 Plans to support aging in place.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28032" name="21-205.1"/>§ 21-205.1 Plans to support aging in place.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-230569" number="47771" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230568" number="47772" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Aging in place.</CHARFORMAT> The term “aging in place” means when older adults remain in their existing homes or communities as they age, as an alternative to moving into an assisted-living facility, nursing home, or other institutional care facility. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230567" number="47773" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Coordinating agencies.</CHARFORMAT> The term “coordinating agencies” means the department of buildings, the department of housing preservation and development, the department of transportation, and any other agency designated by the mayor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230566" number="47774" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Naturally occurring retirement community.</CHARFORMAT> The term “naturally occurring retirement community” has the same meaning as set forth in section 209 of the elder law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230565" number="47775" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Neighborhood naturally occurring retirement community.</CHARFORMAT> The term “neighborhood naturally occurring retirement community” has the same meaning as set forth in section 209 of the elder law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230563" number="47776" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Ten-year plan.</CHARFORMAT> No later than 2 years after the effective date of the local law that added this section, the commissioner, in consultation with coordinating agencies, shall submit to the mayor and the speaker of the council and post on the department’s website a 10-year plan regarding older adults aging in place. Such plan shall focus on assisting older adults with aging in place throughout the city, considering the department’s programs and services, including in naturally occurring retirement communities and neighborhood naturally occurring retirement communities, and shall include, but need not be limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230562" number="47777" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An estimation of the need for improvements and investments to enhance existing healthcare facilities, social services, access to transportation, and other supportive services that help older adults with aging in place throughout the city, as well as specific recommendations for any such improvements and investments in each borough; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230561" number="47778" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>An estimation of the need in each community district for accessibility improvements that facilitate the provision of services and allow for aging in place, including the installation in publicly owned spaces of lighting, railings, grab bars, ramps, elevators, escalators, curb cuts, and enhancements such as the widening of doorways and hallways, and other accessibility features, as well as recommendations for best practices to improve accessibility in privately owned spaces; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230560" number="47779" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Supportive services and accessibility improvement projects the department and coordinating agencies plan to initiate and complete in the 10-year period following submission of the plan, disaggregated by borough, community district, and address; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230559" number="47780" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Resources that the department and coordinating agencies determine will be needed for the purpose of implementing and maintaining any such supportive services and accessibility improvement projects; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230558" number="47781" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>For each such supportive service and accessibility improvement project, (i) an estimate of how many older adults would be served, and (ii) a list of the boroughs, community districts, and neighborhoods that would be served. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230539" number="47782" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Study regarding naturally occurring retirement communities.</CHARFORMAT> Over a 3-year period beginning on the effective date of the local law that added this section, the commissioner shall conduct a study on naturally occurring retirement communities and neighborhood naturally occurring retirement communities in the city. Such study shall include, but need not be limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230556" number="47783" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Information on the existing state of naturally occurring retirement communities, including their locations, supportive services provided at each such location, and contact information for buildings and service providers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230555" number="47784" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Identifications of potential naturally occurring retirement communities and neighborhood naturally occurring retirement communities as both such communities are defined in section 209 of the elder law, not currently designated or otherwise recognized by the New York state office for the aging or the department, accompanied by explanations of how and why each such potential community was identified; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230554" number="47785" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>In consultation with relevant council members and community stakeholders, information on the existing capacity of community-based organizations to support each such potential community; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230553" number="47786" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>An assessment of the identification, designation and funding processes for naturally occurring retirement communities and neighborhood naturally occurring retirement communities, including any recommendations for improving such processes; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230552" number="47787" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>A summary of the needs assessments and challenges expressed by current naturally occurring retirement community providers, including any identified capital needs within such communities; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230551" number="47788" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Data on the demographic trends, health outcomes, and social isolation among older adults in such communities; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230550" number="47789" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>In consultation with the department of city planning, the department of health and mental hygiene, the department of transportation, and any other agency deemed necessary, an evaluation of the necessary improvements and investments required to enhance neighborhood infrastructure, healthcare facilities, social services, transportation, and other critical services to support older adults aging in place within such communities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230549" number="47790" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Plan regarding naturally occurring retirement communities.</CHARFORMAT> Based on the findings of the study conducted pursuant to subdivision c of this section, the commissioner shall, within 2 years of completing such study, develop and implement a plan to support naturally occurring retirement communities and neighborhood naturally occurring retirement communities. The plan shall include, but need not be limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230548" number="47791" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Recommendations to the New York state office for the aging to designate any housing developments, buildings, or areas identified in the study conducted pursuant to subdivision c of this section as naturally occurring retirement communities or neighborhood naturally occurring retirement communities, as appropriate; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230547" number="47792" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>An estimate of the resources needed to establish and maintain supportive service programs within such potential communities, disaggregated by each such potential community; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230546" number="47793" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Training and onboarding for community-based organizations to expand their capacity to support older adults in such potential communities; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230545" number="47794" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Recommendations for infrastructure improvements for such potential communities to be shared with the cabinet for older New Yorkers as established by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="2405" destination-id="0-0-0-0">2405</LINK> of the New York city charter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230544" number="47795" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Strategies to improve the identification of naturally occurring retirement communities and neighborhood naturally occurring retirement communities throughout the city, taking into consideration communities that lack appropriate or relevant service providers; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230543" number="47796" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Subject to appropriation, a program to provide grant funding and other resources, including start-up grants, capacity-building support, and operational funding to support the operations of community-based organizations to provide services within identified naturally occurring retirement communities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230542" number="47797" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The commissioner shall submit to the mayor and the speaker of the council, and post on the department’s website, the findings of the study conducted pursuant to subdivision c of this section and the plan developed pursuant to subdivision d of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230541" number="47798" version="2145">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Progress reports.</CHARFORMAT> Two years after publication of the plans developed pursuant to subdivisions b and d of this section, and every 2 years thereafter until the completion of each such plan, or until January 30, 2037, the commissioner shall submit to the mayor and the speaker of the council and post on the department’s website progress reports detailing the status of the implementation of projects and recommendations included in each such plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-105]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230538" number="47799" version="2527">
+											<PARA>(L.L. 2025/001, 1/4/2025, eff. 1/4/2025; L.L. 2025/002, 1/4/2025, eff. 1/4/2025; Am. L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-37502" number="47800" version="3">
+										<HEADING>§ 21-206 Unpaid caregiver plan.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9525" name="21-206"/>§ 21-206 Unpaid caregiver plan.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37503" number="47801" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37504" number="47802" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Adult.</CHARFORMAT> The term &quot;adult&quot; means an individual 18 years of age or older. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37505" number="47803" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Unpaid caregiver.</CHARFORMAT> The term &quot;unpaid caregiver&quot; means 1) an adult family member or other adult providing unpaid care to a person 60 years of age or older; 2) an adult family member or other adult providing unpaid care to a person with Alzheimer&apos;s disease or other dementia; 3) a grandparent or other non-parent relative 55 years of age or older providing unpaid care to a child under the age of 18; and 4) an adult providing unpaid care to an individual with a disability between the age of 18 and 59. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37506" number="47804" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than February 15, 2017, the department shall develop and conduct a survey of unpaid caregivers and providers offering services to unpaid caregivers within the city to identify the needs of unpaid caregivers, as well as to assess existing caregiver services. Such survey shall be developed in consultation with academic experts in caregiving issues, service providers, and other appropriate stakeholders, and shall contain questions designed to collect information from a sample of unpaid caregivers and caregiver service providers on the following issues: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37507" number="47805" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Availability of information about programs, services, and other resources designed to provide support to unpaid caregivers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37508" number="47806" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Accessibility of programs and services, including, but not limited to, hours of operation, location, transportation options for accessing such programs and services, cost, payment methods, eligibility restrictions, cultural competency, and language capacity; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37509" number="47807" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Utilization of programs and services, including, but not limited to, the number of individuals requesting and receiving services, the types of services requested, and the number of individuals placed on waitlists for services where applicable; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37510" number="47808" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Recipient outcomes as a result of utilizing existing programs and services, including, but not limited to, the unpaid caregiver&apos;s health and employment circumstances, access to benefits, knowledge about the care recipient&apos;s illness or condition, and awareness and use of appropriate services for the care recipient&apos;s illness or condition. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37511" number="47809" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>No later than August 30, 2017, the department shall deliver to the mayor and speaker of the council, and shall post on its website, a comprehensive plan to address the needs of unpaid caregivers within the city, in consultation with the department of social services, the mayor&apos;s office for people with disabilities, the department of health and mental hygiene, and such other appropriate agencies as the mayor shall determine. The department also shall consult with unpaid caregivers, academic experts in caregiving issues, service providers, advocates for senior citizens and individuals with disabilities, and any other stakeholders that the department may deem appropriate in developing such plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37512" number="47810" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The plan required by subdivision c of this section shall include, but not be limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37513" number="47811" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The results of the survey required by subdivision b of this section; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37514" number="47812" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Data on: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37515" number="47813" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the estimated total number of unpaid caregivers providing care in the city, disaggregated by age, gender, race, ethnicity, language, income level, borough of residence, and employment status; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37516" number="47814" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the estimated average number of hours of care per week provided by unpaid caregivers, disaggregated by age, gender, race, ethnicity, language, income level, borough of residence, and employment status; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37517" number="47815" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>care recipients, including but not limited to, age, gender, borough of residence, number of individuals providing care to recipients, daily activities necessitating assistance from a caregiver, health condition, and living situation; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37518" number="47816" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Recommendations about: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37519" number="47817" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>how to increase information and outreach to unpaid caregivers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37520" number="47818" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>how to expand education and training for unpaid caregivers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37521" number="47819" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>how to educate and involve businesses in addressing workplace issues impacting unpaid caregivers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37522" number="47820" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>how to address issues and concerns with existing programs and services identified through the survey conducted pursuant to subdivision b of this section; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37523" number="47821" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>additional programs and services that may be established to provide support to unpaid caregivers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37524" number="47822" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>how to increase civic engagement and volunteer opportunities to support unpaid caregivers; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37525" number="47823" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Any other issues that the department deems appropriate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37526" number="47824" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Beginning two years following the submission of the plan required by subdivision c of this section and every five years thereafter, the department shall submit to the mayor and the speaker a report detailing progress made on the recommendations, initiatives, and priorities that result from such plan, as well as updated data for the information described in paragraph 2 of subdivision d. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37527" number="47825" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The unpaid caregiver plan shall be revisited and revised as appropriate every four years after the submission of the initial plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37528" number="47826" version="709">
+											<PARA>(L.L. 2016/097, 8/31/2016, eff. 8/31/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-005]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-37529" number="47827" version="3">
+										<HEADING>§ 21-207 Users of life-sustaining equipment and individuals for whom a disruption in electrical service would create a medical emergency.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9527" name="21-207"/>§ 21-207 Users of life-sustaining equipment and individuals for whom a disruption in electrical service would create a medical emergency.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37530" number="47828" version="1762">
+											<PARA>The department shall regularly provide written materials from the office of emergency management to all senior centers in the city and all naturally occurring retirement communities sponsored by the department on how to register with any utility providing electrical service within the city as a user of life-sustaining equipment or an individual for whom a disruption in electrical service would create a medical emergency. These materials shall also be posted electronically in a conspicuous location on the department&apos;s website and on the website of the mayor&apos;s office for people with disabilities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37531" number="47829" version="3">
+											<PARA>(L.L. 2018/066, 1/19/2018, eff. 2/18/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-37532" number="47830" version="3">
+										<HEADING>§ 21-208 Senior centers.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9529" name="21-208"/>§ 21-208 Senior centers.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-37533" number="47831" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37534" number="47832" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affiliated sites.</CHARFORMAT> The term &quot;affiliated sites&quot; means department-funded congregate sites affiliated with a senior center, including any social club, satellite, or extended/social services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37535" number="47833" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Senior.</CHARFORMAT> The term &quot;senior&quot; means a person 60 years of age and older. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37536" number="47834" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Not later than December 31, 2018, and by December 31 annually thereafter, the department shall submit to the speaker of the council and post to its website an annual report regarding the services of all department-funded senior centers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37537" number="47835" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The annual report shall include, but need not be limited to, the following information in non-proprietary machine readable format for each such senior center for the prior fiscal year: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37538" number="47836" version="948">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The program name, sponsor name, address, New York city housing authority development in which such senior center is located if such senior center is located on property owned by the housing authority, borough, council district, community district, designation as a neighborhood senior center or innovative senior center, and days and hours of operation as well as such information for each affiliated site; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37539" number="47837" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The contract term, including any renewals; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37540" number="47838" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The budgeted total annual contract amount and the total annual reimbursed expenditures paid; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37541" number="47839" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The average number of daily participants; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37542" number="47840" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The total annual reimbursed expenditures for congregate meals, disaggregated by kosher and non-kosher meals; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37543" number="47841" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>The cost per meal for each senior center, disaggregated by kosher and non-kosher meals; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37544" number="47842" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>The method by which the senior center provides congregate meals, either by in-house preparation or catered meals, and whether the senior center provides meals for any other senior center; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37545" number="47843" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>The combined total cost per person for providing services in the following areas: information and assistance; education and recreation; and health promotion. The report shall further include a brief description of the types of services provided in each such area; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37546" number="47844" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>The percentage service utilization based on actual units of service versus planned units of service comprising the combined total of services in the following areas: information and assistance; education and recreation; and health promotion; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37547" number="47845" version="948">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>The total number of employees, disaggregated by full-time and part-time employees; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37548" number="47846" version="948">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>11.<TAB tab-count="1"/>The total budgeted amount for personnel services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37549" number="47847" version="948">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>12.<TAB tab-count="1"/>For each senior center located on property owned by the New York city housing authority, the name of the entity that operates such senior center; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133693" number="47848" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>13.<TAB tab-count="1"/>To the extent practicable, for each senior center located on property owned by such authority, the number of complaints related to such senior center&apos;s facilities; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133692" number="47849" version="948">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>14.<TAB tab-count="1"/>To the extent such information is available, any steps taken to address the complaints described in paragraph 13 of this subdivision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133691" number="47850" version="948">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Not later than December 31, 2019, and by December 31 annually thereafter, the department shall submit to the speaker of the council and post to its website the following information in non-proprietary machine readable format for each department-funded senior center for the prior fiscal year: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37550" number="47851" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The total number of participants per day, including the corresponding date; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37551" number="47852" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The total number of congregate meals served per day, including the corresponding date; disaggregated by breakfast, lunch, or dinner, where applicable; and type of meal, including but not limited to kosher and non-kosher; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37552" number="47853" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The total number of participants served in each of the following areas per day, including the corresponding date, and the total number of participants served in the combined total of such areas: information and assistance; education and recreation; and health promotion. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37553" number="47854" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-028]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37554" number="47855" version="948">
+											<PARA>(L.L. 2018/140, 8/6/2018, eff. 8/6/2018; Am. L.L. 2021/073, 6/27/2021, eff. 6/27/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-37556" number="47856" version="948">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2018/140" destination-id="0-0-0-20425">L.L. 2018/140</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/073" destination-id="0-0-0-21106">L.L. 2021/073</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-062]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128917" number="47857" version="520">
+										<HEADING>§ 21-209 Mental health training for senior center case workers.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19243" name="21-209"/>§ 21-209 Mental health training for senior center case workers.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112810" number="47858" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For the purposes of this section, the term &quot;caseworker&quot; means an individual employed by a senior center that receives funding from the department to provide services on-site pursuant to a contract procured under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="chapter 13" destination-id="0-0-0-0">chapter 13</LINK> of the charter and through a source selection method established by procurement policy board rule, who provides case assistance, information and referrals for benefits and social services at such a senior center. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112809" number="47859" version="138">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each caseworker shall complete a training to recognize the signs and symptoms of mental illness for older adults offered by the department of health and mental hygiene or a successor agency, provided that such department offers such training. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112808" number="47860" version="138">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>At least once every three years after completing the training described in subdivision b of this section, each caseworker shall receive supplemental refresher training, provided that the department of health and mental hygiene or a successor agency offers such training. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112806" number="47861" version="1325">
+											<PARA>(L.L. 2019/125, 6/29/2019, eff. 10/27/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-203019" number="47862" version="1325">
+										<HEADING>§ 21-210 Cultural programming relevant to prevalent spoken languages at older adult centers.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-24636" name="21-210"/>§ 21-210 Cultural programming relevant to prevalent spoken languages at older adult centers.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-203027" number="47863" version="2506">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7965915&amp;GUID=E9CB0D66-2C89-45FE-9A60-7B3F210E4FDE&amp;Options=ID%7cText%7c&amp;Search=">L.L. 2026/116, 7/11/2026, eff. 1/7/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246022" number="47864" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203025" number="47865" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Older adult center.</CHARFORMAT> The term &quot;older adult center&quot; means a facility, other than a social adult day care, operated by a person pursuant to a contract with the department to provide services to older adults on a regular basis including, but not limited to meals, recreation, and counseling. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203024" number="47866" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Prevalent spoken language.</CHARFORMAT> The term &quot;prevalent spoken language&quot; means a language, other than English, spoken by 20 percent or more of older adults. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203023" number="47867" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall identify the communities served by each older adult center and the prevalent spoken languages of such communities, and notify each such center of such prevalent spoken languages at least once annually. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203022" number="47868" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall require each older adult center to develop and conduct programming in each prevalent spoken language of such center as identified pursuant to subdivision b of this section. Such programming shall consider the cultural and ethnic background that relates to each prevalent spoken language. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203020" number="47869" version="2527">
+											<PARA>(L.L. 2023/019, 2/19/2023, eff. 6/19/2023; Am. L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-203028" number="47870" version="1326">
+										<HEADING>§ 21-211 Know your rights pamphlet for older adults.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-24640" name="21-211"/>§ 21-211 Know your rights pamphlet for older adults.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-230337" number="47871" version="2162">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203059" number="47872" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated citywide languages.</CHARFORMAT> The term &quot;designated citywide languages&quot; means (i) the top 6 limited English proficiency languages spoken by the population of New York city as determined by the department of city planning and the office of the language services coordinator, based on the American community survey data, as published by the United States census bureau; and (ii) the top 4 limited English proficiency languages spoken by the population served or likely to be served by agencies, as determined by the office of the language services coordinator, based on language access data collected by the department of education, excluding the languages designated based on the American community survey data. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203058" number="47873" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Naturally occurring retirement community.</CHARFORMAT> The term &quot;naturally occurring retirement community&quot; means an apartment building, a housing complex or a housing development, as identified by the department, (i) that was not constructed to house older adults, (ii) where dwelling units are not leased or sold exclusively to older adults, and (iii) where at least 2,500 older adults reside or at least 50 percent of the dwelling units are occupied by one or more older adults. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203056" number="47874" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Relevant agencies.</CHARFORMAT> The term &quot;relevant agencies&quot; means the city commission on human rights, the department of consumer and worker protection, the department of health and mental hygiene, the department of housing preservation and development, the department of parks and recreation, the department of social services, the department of youth and community development, the mayor&apos;s office for people with disabilities, and the mayor&apos;s office of immigrant affairs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203055" number="47875" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">State agency.</CHARFORMAT> The term &quot;state agency&quot; means any New York state department, division, board, commission, or bureau of any state department, any public benefit corporation, public authority, or commission at least one of whose members is appointed by the governor of New York. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203054" number="47876" version="2162">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Pamphlet.</CHARFORMAT> The department, in consultation with relevant agencies, shall develop and publish a pamphlet written in English, using clear and accessible language, to educate older adults about their rights, and access to information and resources, on topics including, but not limited to, age discrimination, deed theft, discrimination in employment, elder abuse, emergency preparedness and response, employment opportunities, paid volunteer opportunities, workforce program opportunities, food security, health care and insurance, home care, housing accommodations, living wills, and transportation. Such pamphlet shall (i) describe each such topic and the rights of older adults regarding such topic and (ii) list the name, address, contact information, and website of the relevant agency or state agency and relevant community-based organizations that an older adult may contact to obtain additional information. The department may include a statement in such pamphlet notifying recipients that inclusion of an organization on such list does not constitute an endorsement by the department of the services provided by any such organization. The department shall post, and update annually as necessary, such pamphlet on the department&apos;s website and make it available in the designated citywide languages. Such pamphlet shall also be posted on the 311 customer service center website. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203053" number="47877" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Outreach.</CHARFORMAT> No later than 30 days after the department publishes the pamphlet required by subdivision b of this section, the department, in collaboration with relevant agencies, shall conduct outreach on such pamphlet in the designated citywide languages and in a manner that takes into account the cultural and ethnic backgrounds of the older adults who are the subjects of such outreach. Such outreach shall include, but need not be limited to, the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203052" number="47878" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Conducting informational sessions about such pamphlet; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203051" number="47879" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Providing such pamphlet to organizations that have contracts with the department to serve older adults. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203050" number="47880" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The department may promulgate rules establishing a process for an organization incorporated pursuant to the not-for-profit corporation law to be included on the list required by subdivision b of this section. Such rules shall consider factors including, but not limited to, whether such organization provides services at no or low cost; the size, capacity, and services of such organization; and the experience such organization has working with older adults. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203049" number="47881" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Report.</CHARFORMAT> No later than 1 year after the department posts the pamphlet as required by subdivision b of this section, and annually thereafter, the commissioner shall submit a report regarding the department&apos;s outreach efforts, as required by subdivision c of this section, to the mayor and the speaker of the council, and post such report on the department&apos;s website. Such report shall include, but need not be limited to, the following information for the previous year: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203048" number="47882" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of informational sessions conducted on the pamphlet; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203047" number="47883" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The number of pamphlets provided to organizations and institutions serving older adults; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203046" number="47884" version="1326">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Any recommendations to improve such outreach efforts. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203044" number="47885" version="2527">
+											<PARA>(L.L. 2023/021, 2/19/2023, eff. 8/18/2023; Am. L.L. 2024/133, 12/21/2024, eff. 3/21/2025; Am. L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-203043" number="47886" version="1326">
+										<HEADING>§ 21-212 Housing support.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-24638" name="21-212"/>§ 21-212 Housing support.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-203042" number="47887" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall establish a housing support program for the purpose of helping persons 60 years of age or older who are at risk of eviction or foreclosure to identify and access relevant aid and other support to remain in their residence. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203041" number="47888" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such program shall provide case management services designed to provide situation-specific advice and support to each participating person. Such services shall be provided at no cost and, at minimum, include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203040" number="47889" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An intake session, which may be conducted at the participating person&apos;s residence, for the purpose of identifying and assessing the factors contributing to such person&apos;s risk of eviction or foreclosure, and how such factors could be addressed under relevant assistance, services or programs; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203039" number="47890" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Referrals for assistance, services or programs that could address factors contributing to such person&apos;s risk of eviction or foreclosure; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203038" number="47891" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Assistance completing applications for financial assistance or enrollment in services or programs; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203037" number="47892" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Ongoing support to monitor such person&apos;s risk of eviction or foreclosure, the effect of referred assistance, services or programs on reducing or eliminating such risk and any factors contributing to such risk that could be ameliorated with further advice and support. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203036" number="47893" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>In assessing a person&apos;s risk for eviction or foreclosure, the department shall consider any relevant factor, including, but not limited to, such person&apos;s health status and whether other persons, including family members, also live in such person&apos;s residence. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203035" number="47894" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>In administering the program required by this section, the department shall: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203034" number="47895" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Maintain an online portal, accessible to program participants, for the purpose of tracking events and progress of individual cases and storing information relevant to each case; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203033" number="47896" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Maintain a phone number for the purpose of taking questions about the department&apos;s housing support services and providing assistance to persons seeking to enroll or enrolled in such program. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203032" number="47897" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The department shall conduct ongoing outreach and education to promote awareness of the program required by this section. Such outreach shall include, but not be limited to, an annual mailing to persons who may benefit from enrollment in such program or who may care for or serve such persons. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203031" number="47898" version="1325">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The department shall administer the program required by this section in accordance with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1102" destination-id="0-0-0-10269">23-1102</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203029" number="47899" version="1325">
+											<PARA>(L.L. 2023/020, 2/19/2023, eff. 8/18/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112805" number="47900" version="1878">
+										<HEADING>§ 21-213 Digital literacy program for older adults.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-27424" name="21-213"/>§ 21-213 Digital literacy program for older adults.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-224894" number="47901" version="1879">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than December 31, 2024, the commissioner for the aging in collaboration with the commissioner of information technology and telecommunications, and any relevant stakeholders deemed necessary by the mayor, shall administer a digital literacy training program to serve older adults. Such training program shall be offered to the public at no cost and shall include the following topics: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224895" number="47902" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The importance and need for older adults to be digitally literate; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224896" number="47903" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Accessing and navigating city telehealth services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224897" number="47904" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Accessing and navigating online platforms and websites, including social media platforms, which offer technology classes, lectures, workshops and other programming and activities designed to help older adults learn and use technology, develop skills, and connect and socialize with other older adults; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224898" number="47905" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Accessing and navigating the website and mobile application in which individuals obtain information on and apply for certain human resources administration benefits, and human resources administration clients obtain certain benefits case information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224899" number="47906" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Identifying and avoiding online fraud or scams; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224900" number="47907" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Accessing and navigating other programs or applications designed to support older adults in accessing services, as deemed appropriate by the commissioner for the aging or the commissioner of information technology and telecommunications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224901" number="47908" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No less than once every three years, the commissioner for the aging, in collaboration with the commissioner of information technology and telecommunications, and any relevant stakeholders deemed necessary by the mayor, shall evaluate the program established pursuant to subdivision a of this section for updates to best practices, educational materials, curricula, resources and any other program components, and make updates to any such components as necessary. Such evaluation shall at minimum include an online or electronic survey for older adults who participate in such program to provide feedback regarding such program. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224902" number="47909" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner for the aging shall report to the mayor and the speaker of the council on any updates to the program made in response to the evaluation required pursuant to subdivision b of this section if and when any such updates are made. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224903" number="47910" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The program shall be offered in appropriate prevalent spoken languages. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224904" number="47911" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The program established pursuant to subdivision a of this section shall be offered in person or through interactive live video instruction in at least one library or senior center in each community district and in any other facilities as deemed appropriate by the commissioner for the aging or the commissioner of information technology and telecommunications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224905" number="47912" version="1878">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Nothing in this section shall be construed to invalidate any existing contract or other agreement between any department and any entity that provides digital literacy programming on behalf of any such department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224906" number="47913" version="1878">
+											<PARA>(L.L. 2023/082, 6/25/2023, eff. 6/25/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-224907" number="47914" version="2037">
+										<HEADING>§ 21-214 Provision of information regarding initiatives to provide low or no-cost primary health care to income-eligible New York city residents.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-27724" name="21-214"/>§ 21-214 Provision of information regarding initiatives to provide low or no-cost primary health care to income-eligible New York city residents.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-227676" number="47915" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227675" number="47916" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Client.</CHARFORMAT> The term “client” means an older adult to whom direct services are provided by the department or by a person that contracts with the department to provide such services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227674" number="47917" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NYC care initiative.</CHARFORMAT> The term “NYC care initiative” means the health care access program operated by the New York city health and hospitals corporation to provide low or no-cost primary care to income-eligible New York city residents, or any such successor program. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227673" number="47918" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall make available to all clients information regarding the NYC care initiative. Such information shall describe the NYC care initiative and provide eligibility guidelines for such initiative. The department shall make such information available to clients in paper form at all locations where the department, or a person contracting with the department, provides services to clients. Such information shall, at minimum, include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227677" number="47919" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A statement that eligibility to participate in the NYC care initiative is not based on immigration status; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227672" number="47920" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Information regarding support services offered through the NYC care initiative, including, as applicable, access to social workers and care coordinators that connect eligible individuals with housing, legal services, financial assistance, and food assistance. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227671" number="47921" version="2037">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall post, and update as necessary, the information required by subdivision b of this section on the department&apos;s website and shall post a link to such information on the 311 citizen center website. The department shall make such information available in the designated citywide languages as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-211" destination-id="0-0-0-24640">21-211</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230338" number="47922" version="2139">
+											<PARA>(L.L. 2024/058, 4/18/2024, eff. 7/17/2024) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-096]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-227668" number="47923" version="2139">
+										<HEADING>§ 21-215 Provision of information regarding older adult workforce programs.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28028" name="21-215"/>§ 21-215 Provision of information regarding older adult workforce programs.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-230347" number="47924" version="2139">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230346" number="47925" version="2139">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Client.</CHARFORMAT> The term “client” means an older adult to whom direct services are provided by the department or by an entity that contracts with the department to provide such services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230344" number="47926" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Older adult workforce program.</CHARFORMAT> The term “older adult workforce program” means a program administered by the department for the purpose of connecting older adults to employment or paid volunteer opportunities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230343" number="47927" version="2139">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Provision of information regarding older adult workforce programs.</CHARFORMAT> The department shall make available to all clients information regarding older adult workforce programs. Such information shall describe all such programs and provide eligibility guidelines for such programs. The department shall make such information available to clients in paper form at physical locations where the department, or an entity contracted with the department, provides services to clients. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230342" number="47928" version="2139">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Publication of information.</CHARFORMAT> The department shall post, and update as necessary, the information required by subdivision b of this section on the department&apos;s website and shall post a link to such information on the 311 customer service center website. The department shall make such information available in the designated citywide languages as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-211" destination-id="0-0-0-24640">21-211</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230340" number="47929" version="2527">
+											<PARA>(L.L. 2024/133, 12/21/2024, eff. 3/21/2025; Am. L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-231240" number="47930" version="2165">
+										<HEADING>§ 21-216 Elder fraud prevention.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28100" name="21-216"/>§ 21-216 Elder fraud prevention.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-231281" number="47931" version="2506">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7965915&amp;GUID=E9CB0D66-2C89-45FE-9A60-7B3F210E4FDE&amp;Options=ID%7cText%7c&amp;Search=">L.L. 2026/116, 7/11/2026, eff. 1/7/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246023" number="47932" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231280" number="47933" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Activity of daily living.</CHARFORMAT> The term “activity of daily living” means an activity related to personal care, including, but not limited to, bathing, showering, dressing, getting in or out of bed or a chair, walking, using the toilet, or eating. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231279" number="47934" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Caregiver.</CHARFORMAT> The term “caregiver” means a nonprofessional person who assists an older adult with the use of technology, including, but not limited to, devices such as computers, smartphones or tablet computers, or services such as e-mail, social media applications, or messaging applications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231278" number="47935" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated citywide languages.</CHARFORMAT> The term “designated citywide languages” has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231277" number="47936" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Homebound older adult.</CHARFORMAT> The term “homebound older adult” means an older adult who resides at home and has physical or other health issues or functional limitations that impact their ability to travel from their home safely to obtain services in the community, as shown by the need for the assistance of another person with at least one activity of daily living or instrumental activity of daily living. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231276" number="47937" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Instrumental activity of daily living.</CHARFORMAT> The term “instrumental activity of daily living” means an activity related to independent living, including, but not limited to, preparing meals, managing finances, shopping for groceries or personal items, performing housework, or using a telephone. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231275" number="47938" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Internet scam.</CHARFORMAT> The term “internet scam” means an individual or business’ use of an electronic device, digital tool, email program, or application software to deceive individuals into revealing sensitive information, such as passwords, bank account numbers, bank routing numbers, personal documents, and identifying information, via the internet. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231273" number="47939" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Older adult center.</CHARFORMAT> The term “older adult center” has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-210" destination-id="0-0-0-24636">21-210</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231272" number="47940" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Phishing scam.</CHARFORMAT> The term “phishing scam” means an individual or business’ illegal use of an electronic device, digital tool, email program, or application software to deceive individuals into revealing sensitive information, such as passwords, bank account numbers, bank routing numbers, personal documents, and identifying information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231271" number="47941" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Phone scam.</CHARFORMAT> The term “phone scam” means an individual or business’ illegal use of a mobile telephone, cellular device, voice calling application, internet telephone calling feature, or landline telephone to deceive individuals into revealing sensitive information, such as passwords, bank account numbers, bank routing numbers, personal documents, and identifying information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231270" number="47942" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Printed materials.</CHARFORMAT> No later than 6 months following the effective date of the local law that added this section, the department, in consultation with the department of information technology and telecommunications and the department of consumer and worker protection, shall develop and publish materials to educate older adults and caregivers about how to prevent, detect, and report common internet scams, phone scams, phishing scams, and other financial scams. Such materials shall be printed in the designated citywide languages, and incorporate accessibility features including the use of large print, legible fonts, clear and accessible language, instructive graphics, and braille. Such materials shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231269" number="47943" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A checklist of the core elements of common internet scams, phone scams, and phishing scams; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231268" number="47944" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Recommendations for older adults and caregivers to identify if an older adult is being targeted by a scam; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231267" number="47945" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The legal rights of older adults related to internet scams, phone scams, and phishing scams; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231266" number="47946" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Contact information for legal resources and legal services organizations that can assist in advising individuals who have been deceived by internet scams, phone scams, and phishing scams; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231265" number="47947" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Contact information for the department or other relevant agencies or organizations that an individual may contact to obtain additional information regarding internet scams, phone scams, and phishing scams. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231264" number="47948" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Digital materials.</CHARFORMAT> The department shall create a digital version of the materials created pursuant to subdivision b of this section, including an audible version of such materials. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231262" number="47949" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Distribution of materials.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231263" number="47950" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner shall require older adult centers to distribute the materials created pursuant to subdivision b of this section to older adults entering such centers. The commissioner shall also ensure that such materials are distributed to homebound older adults. Such materials shall be updated and distributed twice annually. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231261" number="47951" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The department shall post on its website, and update as necessary, the digital materials created pursuant to subdivision c of this section, and make such materials available in the designated citywide languages. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231260" number="47952" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Signage.</CHARFORMAT> The commissioner shall require every older adult center to post signage in prominent common areas within every older adult center. Such signage shall include contact information for the department or other relevant agencies or organizations that an older adult may contact to obtain additional information regarding internet scams, phone scams, and phishing scams. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231259" number="47953" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Guidance.</CHARFORMAT> The department shall provide quarterly guidance to all older adult centers regarding emerging internet scams, phone scams, and phishing scams that older adults may encounter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231258" number="47954" version="2527">
+											<PARA>(L.L. 2025/034, 3/29/2025, eff. 3/29/2025; Am. L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-231257" number="47955" version="2165">
+										<HEADING>§ 21-217 Financial literacy and end of life preparation education.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28098" name="21-217"/>§ 21-217 Financial literacy and end of life preparation education.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-231256" number="47956" version="2506">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7965915&amp;GUID=E9CB0D66-2C89-45FE-9A60-7B3F210E4FDE&amp;Options=ID%7cText%7c&amp;Search=">L.L. 2026/116, 7/11/2026, eff. 1/7/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246024" number="47957" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231255" number="47958" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated citywide languages.</CHARFORMAT> The term “designated citywide languages” has the same meaning as in section 23-2101*. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231254" number="47959" version="2165">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> as set forth in L.L. 2025/034; intended reference is likely section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231282" number="47960" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">End of life preparation.</CHARFORMAT> The term “end of life preparation” means information regarding legal or financial considerations relevant to end of life, including, but not limited to, the appointment of an agent to control the disposition of remains; health care proxies; last will and testament preparation; letters of competency; letters of intent; living will and living trust preparation; orders for life-sustaining treatment; and power-of-attorney designations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231253" number="47961" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Financial literacy.</CHARFORMAT> The term “financial literacy” means financial planning, budgeting, credit management, reducing debt, and saving. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231252" number="47962" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Homebound older adult.</CHARFORMAT> The term “homebound older adult” has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-216" destination-id="0-0-0-28100">21-216</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231251" number="47963" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Older adult center.</CHARFORMAT> The term “older adult center” has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-210" destination-id="0-0-0-24636">21-210</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231250" number="47964" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Printed materials.</CHARFORMAT> No later than 6 months following the effective date of the local law that added this section, the department, in consultation with the department of consumer and worker protection, shall develop and publish materials to educate older adults about financial literacy and end of life preparation. Such materials shall be printed in the designated citywide languages, and incorporate accessibility features including the use of large print, legible fonts, clear and accessible language, instructive graphics, and braille. Such materials shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231249" number="47965" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>General information about financial literacy; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231248" number="47966" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Contact information for financial empowerment and tax preparation services provided pursuant to contracts with the department of consumer and worker protection; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231247" number="47967" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Contact information for legal resources and legal services organizations that can assist in advising individuals in end of life preparation and common legal issues that may impact older adults; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231246" number="47968" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Contact information for the department or other relevant agencies or organizations that an older adult may contact to obtain additional information regarding financial literacy and end of life preparation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231245" number="47969" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Distribution of materials.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231244" number="47970" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner shall require older adult centers to offer the materials created pursuant to subdivision b of this section to older adults entering such centers. The commissioner shall also ensure that such materials are distributed to homebound older adults. Such materials shall be updated and distributed as necessary, or least once every 2 years. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231243" number="47971" version="2165">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The department shall post on its website, and update as necessary, such materials and make such materials available in the designated citywide languages. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231241" number="47972" version="2165">
+											<PARA>(L.L. 2025/034, 3/29/2025, eff. 3/29/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-107]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-230339" number="47973" version="2506">
+										<HEADING>§ 21-218 Non-digital access to forms and services.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30153" name="21-218"/>§ 21-218 Non-digital access to forms and services.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246020" number="47974" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246019" number="47975" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered services.</CHARFORMAT> The term “covered services” means any information that is made available to the public regarding services offered or administered by the department, including, but not limited to, any application or enrollment information regarding such services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246018" number="47976" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Digital.</CHARFORMAT> The term “digital” means access to information or materials through a website, online portal, or mobile web application. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246017" number="47977" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-digital.</CHARFORMAT> The term “non-digital” means access to information or materials through means other than digital technology, including printed material and telephonic technology. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246016" number="47978" version="2507">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-digital access to covered services.</CHARFORMAT> The department shall ensure that covered services that are made available online or in a digital format are accessible at the same level of functionality through non-digital means, including by phone and in paper format. Access to covered services by phone shall include the ability to initiate and complete applications, receive guidance regarding additional documentation necessary to support an application, learn the status of an application, and request that covered services be sent to a recipient by mail, which shall be sent within 5 business days of such a request, unless the department has reason to believe that the safety of an older adult would be jeopardized by mailing such materials. Access to covered services shall also be made available at older adult centers in paper format. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246015" number="47979" version="2506">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Accessibility.</CHARFORMAT> Non-digital access to covered services required pursuant to subdivision b of this section shall be provided in English and the designated citywide languages as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246556" number="47980" version="2527">
+											<PARA>(L.L. 2026/116, 7/11/2026, eff. 1/7/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-123]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246012" number="47981" version="2527">
+										<HEADING>§ 21-219 Wellness checks on older adults during certain weather events.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30189" name="21-219"/>§ 21-219 Wellness checks on older adults during certain weather events.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246566" number="47982" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246565" number="47983" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cold weather alert.</CHARFORMAT> The term “cold weather alert” means a weather emergency notice issued by an agency or office of the city when the temperature, including wind chill, is forecasted to reach 32 degrees Fahrenheit or below between the hours of 4:00 p.m. and 8:00 a.m. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246564" number="47984" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Extreme heat warning.</CHARFORMAT> The term “extreme heat warning” means a weather emergency notice issued by an agency or office of the city when the temperature is forecasted to reach at least 100 degrees Fahrenheit for at least 1 day, at least 95 degrees Fahrenheit for at least 2 consecutive days, or at least 105 degrees Fahrenheit for any duration. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246563" number="47985" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heat-related emergency.</CHARFORMAT> The term “heat-related emergency” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="30-116" destination-id="0-0-0-20075">30-116</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246562" number="47986" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Protocol.</CHARFORMAT> No later than February 1, 2027, the commissioner, in collaboration with the commissioner of emergency management and other relevant agencies as determined by the commissioner, shall develop and implement a protocol to conduct in-person and phone-based wellness checks during a cold weather alert, extreme heat warning, or heat-related emergency for older adults known to the department as lacking the adequate in-home resources and social supports necessary to sufficiently care for themselves during a cold weather alert, extreme heat warning, or heat-related emergency while in their place of residence or, if through periodic review, the department finds that an older adult’s social supports have changed and are inadequate. In establishing such protocol, the department shall determine the frequency of such wellness checks during a cold weather alert, extreme heat warning, or heat-related emergency, and shall consider the resources available to the department and such relevant agencies in conducting such wellness checks. To the extent practicable, wellness checks shall be conducted in the older adult’s preferred language. Wellness checks required pursuant to this subdivision shall be conducted via phone, except that the commissioner shall establish criteria for when a wellness check must be conducted in person. In establishing such criteria, the commissioner shall consider factors such as the number of attempts at contacting an individual via phone and living conditions of such individual known to the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246561" number="47987" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Wellness check requirements.</CHARFORMAT> A wellness check shall include a set of questions developed by the department to gauge an older adult’s well-being, a written determination of the apparent well-being of such older adult, and a report on the conditions in such older adult’s place of residence, including the temperature in such residence to the extent determinable, the presence and functionality of heating or cooling devices or equipment, the availability of food and water, an assessment of the older adult’s ability to leave the home unassisted if needed, and any identified concerns or signs of distress in relation to the well-being of such older adult. While conducting the wellness check, the department shall provide an older adult with relevant information about safety during a cold weather alert, extreme heat warning, or heat-related emergency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246560" number="47988" version="2527">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Report.</CHARFORMAT> No later than March 1, 2027, the commissioner shall submit to the council a report describing the protocol established pursuant to subdivision b of this section, including the criteria for when a wellness check must be conducted in person. The commissioner shall submit updated reports as necessary whenever such protocol or criteria are updated. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246558" number="47989" version="2527">
+											<PARA>(L.L. 2026/130, 8/18/2026, eff. 8/18/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

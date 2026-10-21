@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-31540" number="39124" version="3">
+			<HEADING>Chapter 4: Reduced Fare Contracts</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7711" name="T19C004"/>Chapter 4: Reduced Fare Contracts</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-31541" number="39125" version="3">
+										<HEADING>§ 19-401 Authorization of reduced fare contracts. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7713" name="19-401"/>§ 19-401 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Authorization of reduced fare contracts. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-31542" number="39126" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-31543" number="39127" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-31544" number="39128" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The separate and additional approval of the mayor shall be necessary to the validity of any such contract.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

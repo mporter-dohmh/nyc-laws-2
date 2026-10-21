@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-155227" number="107838" version="3035">
+			<HEADING>Chapter 13: Affordable Housing Fast Track</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19983" name="T62C013"/>Chapter 13: Affordable Housing Fast Track</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155234" number="107839" version="3035">
+								<HEADING>§ 13-01 Purpose.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19985" name="T62C013_13-01"/>§ 13-01 Purpose.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155235" number="107840" version="3035">
+									<PARA>These rules establish a methodology to calculate the total number of new affordable dwelling units in each community district, and a methodology to calculate the total number of housing units in each community district at the start of a five-year cycle, for purposes of determining the rate of affordable housing development in each community district during the preceding five-year cycle pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155261" number="107841" version="3035">
+									<PARA>(Added City Record 4/20/2026, eff. 5/20/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155233" number="107842" version="3035">
+								<HEADING>§ 13-02 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19987" name="T62C013_13-02"/>§ 13-02 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155260" number="107843" version="3035">
+									<PARA>For the purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155259" number="107844" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable housing.</CHARFORMAT> The term “Affordable Housing” means a residential building subject to a regulatory agreement, restrictive declaration, or other similar instrument with a federal, state, or local agency or instrumentality that provides for the creation of one or more Affordable Dwelling Units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155258" number="107845" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable Housing Building.</CHARFORMAT> The term “Affordable Housing Building” means (i) the construction of a new building that contains at least one Affordable Dwelling Unit or (ii) the alteration of an existing building that results in at least one new Affordable Dwelling Unit through the conversion of existing non-residential space or by enlargement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155257" number="107846" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable Dwelling Unit.</CHARFORMAT> The term “Affordable Dwelling Unit” means an income-restricted dwelling unit in an affordable housing building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155256" number="107847" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Five-Year Cycle.</CHARFORMAT> The term “Five-Year Cycle” means a five-year period beginning on July 1, 2021 and ending on June 30, 2026, and repeating on the first of July and ending on the thirtieth of June for every fifth year thereafter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155255" number="107848" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Marketing Handbook.</CHARFORMAT> The term “Marketing Handbook” means the Marketing Handbook published by the department of housing preservation and development, as amended, or any successor document designated by such department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155254" number="107849" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Net New Housing Units.</CHARFORMAT> The term “Net New Housing Units” means the change in the number of housing units from department of buildings permits for new build, alteration, and demolition projects completed after the first of April of the year in which the prior Decennial Census occurred through the thirtieth of June of the prior Five-Year Cycle as publicly reported by the department of city planning’s Housing Database, or any successor public reporting mechanism. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155253" number="107850" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of Intent.</CHARFORMAT> The term “Notice of Intent” means a Notice of Intent to Begin Marketing as described in the Marketing Handbook, or such other document designated by the department of housing preservation and development that initiates the marketing of an Affordable Dwelling Unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155252" number="107851" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Regulatory Agreement.</CHARFORMAT> The term “Regulatory Agreement” means a regulatory agreement with a federal, state or local agency or instrumentality which is recorded against a property and restricts the income of occupants of an Affordable Dwelling Unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155251" number="107852" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Restrictive Declaration.</CHARFORMAT> The term “Restrictive Declaration” means a restrictive declaration approved by a federal, state or local agency or instrumentality which is recorded against a property and restricts the income of occupants of an Affordable Dwelling Unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155250" number="107853" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Start Date.</CHARFORMAT> The term “Start Date” means the earlier of (i) the date on which an Affordable Dwelling Unit becomes subject to a Regulatory Agreement or a Restrictive Declaration, or (ii) the date on which the department of housing preservation and development receives a Notice of Intent with respect to an Affordable Dwelling Unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155249" number="107854" version="3035">
+									<PARA>(Added City Record 4/20/2026, eff. 5/20/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155232" number="107855" version="3035">
+								<HEADING>§ 13-03 Rate of Affordable Housing Development.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19991" name="T62C013_13-03"/>§ 13-03 Rate of Affordable Housing Development.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155248" number="107856" version="3035">
+									<PARA>The rate of affordable housing development in a community district is measured by the total number of new affordable dwelling units in a community district as a percentage of the total number of housing units located in such community district at the start of each five-year cycle pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155247" number="107857" version="3035">
+									<PARA>(Added City Record 4/20/2026, eff. 5/20/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155231" number="107858" version="3035">
+								<HEADING>§ 13-04 Methodology to Calculate the Total Number of New Affordable Dwelling Units in a Community District.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19993" name="T62C013_13-04"/>§ 13-04 Methodology to Calculate the Total Number of New Affordable Dwelling Units in a Community District.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155246" number="107859" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The methodology to calculate the total number of new affordable dwelling units in a community district pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter is set forth in this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155245" number="107860" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The total number of new affordable dwelling units in a community district shall consist only of the total number of Affordable Dwelling Units in Affordable Housing Buildings that have achieved both of the following milestones by the end of the applicable Five-Year Cycle, provided at least one such milestone is achieved during such Five-Year Cycle: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155244" number="107861" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a Start Date as publicly reported by the department of housing preservation and development at the time the director of city planning shall determine the list of twelve community districts pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155243" number="107862" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a permit for construction work issued by the department of buildings as identified by public records of the department of buildings at the time the director of city planning shall determine the list of twelve community districts pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155242" number="107863" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The total number of new affordable dwelling units shall not include Affordable Dwelling Units in an existing residential building subject to a preservation program where the owner of such building receives financial assistance for rehabilitation or operating expenses in exchange for affordability for existing and future occupants. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155241" number="107864" version="3035">
+									<PARA>(Added City Record 4/20/2026, eff. 5/20/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155230" number="107865" version="3035">
+								<HEADING>§ 13-05 Methodology to Calculate the Total Number of Housing Units in a Community District at the Start of a Five-Year Cycle.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19995" name="T62C013_13-05"/>§ 13-05 Methodology to Calculate the Total Number of Housing Units in a Community District at the Start of a Five-Year Cycle.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155240" number="107866" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The methodology to calculate the total number of housing units located in a community district at the start of each Five-Year Cycle pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter is set forth in this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155239" number="107867" version="3035">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The total number of housing units located in a community district shall consist only of the number of housing units identified in the prior Decennial Census plus the number of Net New Housing Units as publicly reported by the department of city planning’s Housing Database, or any successor public reporting mechanism, at the time the director of city planning shall determine the list of twelve community districts pursuant to subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155238" number="107868" version="3035">
+									<PARA>(Added City Record 4/20/2026, eff. 5/20/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155229" number="107869" version="3035">
+								<HEADING>§ 13-06 Determination and Posting of Community District List.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19997" name="T62C013_13-06"/>§ 13-06 Determination and Posting of Community District List.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155237" number="107870" version="3035">
+									<PARA>No later than October 1, 2026, and every five years thereafter, the director of city planning shall determine pursuant to the methodology established in these rules and post on the website of the department a list of the twelve community districts that, during the preceding five years, had the lowest rate of affordable housing development. Such determination shall be final and shall rely solely on data reported by the Decennial Census, the department of housing preservation and development, the department of buildings, and the department of city planning at the time such list is posted. Any revisions, corrections, or changes to such data following the posting of such list shall not affect or impair the validity of such list or any subsequent decision of the city planning commission or other agency or official pursuant to these rules or Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-f" destination-id="0-0-0-0">197-f</LINK> of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155228" number="107871" version="3035">
+									<PARA>(Added City Record 4/20/2026, eff. 5/20/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

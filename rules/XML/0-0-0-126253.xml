@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-126253" number="50075" version="1683">
+			<HEADING>Chapter 57: Ground Floor and Second Floor Commercial Premises Registry</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-16908" name="T19C057"/>Chapter 57: Ground Floor and Second Floor Commercial Premises Registry</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-126256" number="50076" version="1683">
+								<HEADING>§ 57-01 Registration and Supplemental Registration Statement Fees.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16910" name="T19C057_57-01"/>§ 57-01 Registration and Supplemental Registration Statement Fees.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-126258" number="50077" version="1846">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Property owners who must submit registration statements and, if applicable, supplemental registration statements pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C030_2" destination-id="0-0-0-0">Chapter 30 of Title 11</LINK> of the Administrative Code of the City of New York, as added by local law number 157 for the year 2019, must pay an annual filing fee of $30. The department will send an invoice to such property owners for the filing fee upon electronic receipt of the registration statement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126257" number="50078" version="1683">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No filing fee is required for any class one property or building owned by a not-for-profit organization fully exempt from property taxation under section 420-a or 420-b of the real property tax law or any federal, state or government agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126255" number="50079" version="1683">
+									<PARA>(Added City Record 3/31/2020, eff. 4/30/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-048]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

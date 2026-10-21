@@ -1,0 +1,1274 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-57597" number="66207" version="3">
+			<HEADING>Chapter 28: Tax Syndication Sharing Program Rules</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7921" name="T28C028"/>Chapter 28: Tax Syndication Sharing Program Rules</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57598" number="66208" version="3">
+								<HEADING>§ 28-01 General Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7923" name="T28C028_28-01"/>§ 28-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57599" number="66209" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57600" number="66210" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Action.</CHARFORMAT> &quot;Action&quot; shall mean the Agency&apos;s selection of a community group, approval of a project, or execution of an EDA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57601" number="66211" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Agency.</CHARFORMAT> &quot;Agency&quot; shall mean the city&apos;s Department of Housing Preservation and Development and any successor agency, or its designee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57602" number="66212" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Agreements.</CHARFORMAT> &quot;Agreements&quot; shall mean escrow agreements, syndication agreements, NSA syndication agreements and any other agreements through which developers are obligated to provide syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57603" number="66213" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Applicant.</CHARFORMAT> &quot;Applicant&quot; shall mean any entity applying for designation as a community group.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57604" number="66214" version="1745">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>CAPA.</CHARFORMAT> &quot;CAPA&quot; shall mean the City Administrative Procedure Act set forth in Sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1041" destination-id="0-0-0-0">1041</LINK> et seq. of the Charter, as amended from time to time.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57605" number="66215" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>City.</CHARFORMAT> &quot;City&quot; shall mean city of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57606" number="66216" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Commissioner.</CHARFORMAT> &quot;Commissioner&quot; shall mean the commissioner of the agency or his or her designee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57607" number="66217" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Community Group.</CHARFORMAT> &quot;Community Group&quot; shall mean a locally-based not-for-profit corporation formed pursuant to the not-for-profit corporation law of the State of New York which has been selected by the agency to receive syndication funds to perform a project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57608" number="66218" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Comptroller.</CHARFORMAT> &quot;Comptroller&quot; shall mean the comptroller of the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57609" number="66219" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Developer.</CHARFORMAT> &quot;Developer&quot; shall mean the business entity which received certain tax benefits as general partner of the business entity which developed a development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57610" number="66220" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Development. </CHARFORMAT>&quot;Development&quot; shall mean a housing development in New York City funded pursuant to § 8 of the United States Housing Act of 1937 (42 U.S.C. § 1437f) and rules promulgated pursuant thereto by the United States Department of Housing and Urban Development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57611" number="66221" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>EDA.</CHARFORMAT> &quot;EDA&quot; shall mean an escrow disbursement agreement by which syndication funds are distributed to a community group in order to fund eligible improvements as approved by the agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57612" number="66222" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Eligible Activities.</CHARFORMAT> &quot;Eligible Activities&quot; shall mean those improvements or services approved by the agency to be performed by community groups with syndication funds, as set forth more fully in the scope of work of the EDA for each such project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57613" number="66223" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Encumbered Funds.</CHARFORMAT> &quot;Encumbered funds&quot; shall mean syndication funds which have been appropriated or otherwise set aside to be used for a project pursuant to a currently valid and binding EDA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57614" number="66224" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>EO Clearance. </CHARFORMAT>&quot;EO clearance&quot; shall mean that (i) the community group and, if required by the agency, its principals (and, where the agency deems such additional review to be appropriate, the contractors retained by such community group and all of their respective principals) have completed, executed, and submitted the required forms to and attended any required meetings with the agency&apos;s office of equal opportunity, and (ii) the agency&apos;s office of equal opportunity, after review of such information and any other available information, has made no finding of noncompliance with the applicable laws regarding equal opportunity, labor compensation, locally based enterprises, and other matters monitored by the agency&apos;s office of equal opportunity.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57615" number="66225" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Escrow Account.</CHARFORMAT> &quot;Escrow account&quot; shall mean one or more escrow accounts administered by the city to retain the syndication funds until distribution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57616" number="66226" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Escrow Agreement.</CHARFORMAT> &quot;Escrow agreement&quot; shall mean an instrument by which some developers were required to provide syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57617" number="66227" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Guidelines.</CHARFORMAT> &quot;Guidelines&quot; shall mean the § 8 syndication sharing program guidelines governing the program, which were approved by the city&apos;s board of estimate on September 19, 1985 (Cal. No. 644) and thereafter annually renewed until 1990. These rules replace and supersede the guidelines, which expired by their own terms on December 31, 1990.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57618" number="66228" version="2481">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>IG Clearance.</CHARFORMAT> &quot;IG clearance&quot; shall mean that (i) the community group and, if required by the agency, its principals (and, where the agency deems such additional review to be appropriate, the contractors retained by such community group and all of their respective principals) have completed, executed, and submitted the required forms to and attended any required meetings with the agency and/or the department of investigation&apos;s office of the inspector general, and (ii) the agency and/or the department of investigation&apos;s office of the inspector general, after review of such information and any other available information, has made no findings of derogatory information, which indicates that the city should not do business with the community group, or if applicable, its contractors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57619" number="66229" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Laws.</CHARFORMAT> &quot;Laws&quot; shall mean any applicable laws, ordinances, orders, rules, and regulations promulgated by any local, state, or federal authority having jurisdiction over the subject matter thereof, as amended from time to time.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57620" number="66230" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>NSA Syndication Agreement.</CHARFORMAT> &quot;NSA syndication agreement&quot; shall mean an instrument by which some developers were required to provide syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57621" number="66231" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Program.</CHARFORMAT> &quot;Program&quot; shall mean the tax syndication sharing program governed by these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57622" number="66232" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Project.</CHARFORMAT> &quot;Project&quot; shall mean the activities set forth in the scope of work of an EDA which are to be undertaken by a community group using syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57623" number="66233" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Public Hearing.</CHARFORMAT> &quot;Public hearing&quot; shall mean a meeting convened by the agency in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>(c) at which interested persons shall be afforded the opportunity to comment upon the community group(s), project(s), and EDA(s) which are the subject of one or more actions proposed by the agency. A public hearing shall be held only if the agency determines, based upon the written comments received by it in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>(b) that further consideration of the proposed action(s) is required.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57624" number="66234" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>RFP.</CHARFORMAT> &quot;RFP&quot; shall mean a request for proposals.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57625" number="66235" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Rules. </CHARFORMAT>&quot;Rules&quot; shall mean these rules, which replace and supersede the guidelines.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57626" number="66236" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Syndication Agreement.</CHARFORMAT> &quot;Syndication agreement&quot; shall mean an instrument by which some developers were required to provide syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57627" number="66237" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Syndication Funds. </CHARFORMAT>&quot;Syndication funds&quot; shall mean the funds which the agreements required developers to provide from either (i) shares of the proceeds of the sale or syndication of the developments, or (ii) any equivalent amounts (where developers elected to retain rather than sell or syndicate development equity).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57628" number="66238" version="1166">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Unencumbered Funds.</CHARFORMAT> &quot;Unencumbered funds&quot; shall mean syndication funds in an escrow account which have not been appropriated or otherwise set aside to be used for a project pursuant to a currently valid and binding EDA, including, but not limited to, funds which never were the subject of an EDA and funds which were the subject of an EDA which has been terminated.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57629" number="66239" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Program.</CHARFORMAT> Under the program, the city administers the syndication funds paid into the escrow account by developers pursuant to syndication agreements and disburses such syndication funds to groups for projects pursuant to these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57630" number="66240" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Purpose of rules.</CHARFORMAT> These rules set forth the standards for, inter alia, selection of community groups, approvals of projects, execution of EDA&apos;s, and disbursements of syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57631" number="66241" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Purpose of tax syndication sharing program.</CHARFORMAT> The agency may undertake actions for any public purpose, provided that all actions undertaken in connection with the tax syndication sharing program are authorized by applicable laws. Such public purposes shall include, but shall not be limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57632" number="66242" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>promoting the preservation and rehabilitation of existing residential housing,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57633" number="66243" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>eliminating conditions in existing residential housing which are unsafe or detrimental to health,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57634" number="66244" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>facilitating the creation and maintenance of open spaces, parks, playgrounds, and trees in neighborhoods,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57635" number="66245" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>providing technical assistance and support to community groups in creating and implementing projects,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57636" number="66246" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>furthering neighborhood preservation,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57637" number="66247" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>administering and maximizing revenue upon the accounts containing syndication funds,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57638" number="66248" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>minimizing city expenses, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57639" number="66249" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>otherwise furthering the best interest of the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57640" number="66250" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General authority.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57641" number="66251" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General. </CHARFORMAT>The agency may take actions and otherwise act for the purposes of an in accordance with the procedures described in these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57642" number="66252" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Escrow account.</CHARFORMAT> The agency or the city may retain syndication funds in an escrow account pending disbursement. The provisions regarding the escrow account are contained in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-02" destination-id="0-0-0-7925">28-02</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57643" number="66253" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Selection of community groups. </CHARFORMAT>The agency may from time to time select community groups to receive syndication funds through any competitive or non-competitive process authorized by these rules or applicable laws which the agency deems to be in the best interest of the city. The provisions regarding the selection of community groups are contained in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-03" destination-id="0-0-0-7927">28-03</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57644" number="66254" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conditional designation.</CHARFORMAT> The agency may conditionally designate applicants as community groups, and may subsequently terminate such conditional designations. The provisions regarding the conditional designation of community groups are contained in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-04" destination-id="0-0-0-7929">28-04</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57645" number="66255" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Projects.</CHARFORMAT> The agency may negotiate with any conditionally designated community group concerning the terms of the EDA pursuant to which such community group will perform one or more projects. The provisions regarding such projects are contained in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-05" destination-id="0-0-0-7931">28-05</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57646" number="66256" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Disbursement.</CHARFORMAT> The agency may disburse syndication funds pursuant to EDA&apos;s, these rules, and applicable laws. The provisions regarding disbursement procedures are contained in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57647" number="66257" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Project administration.</CHARFORMAT> The agency shall require community groups to utilize syndication funds in accordance with these rules, the agreements, the EDA&apos;s and applicable laws. The provisions regarding project administration are contained in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-07" destination-id="0-0-0-7935">28-07</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57648" number="66258" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Other rules.</CHARFORMAT> With respect to this program, these rules shall preempt and supersede any other rules promulgated by the agency (unless such other rules specifically refer to, and state that they apply to, the program). These rules replace and supersede the guidelines.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57649" number="66259" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Borough president consultation. </CHARFORMAT>With respect to any proposed action pursuant to these rules, the commissioner may consult with the borough president for the borough in which the development which generated the syndication funds and/or the project for which such syndication funds will be used are located and with such other parties as the commissioner shall deem appropriate.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57650" number="66260" version="3">
+								<HEADING>§ 28-02 Escrow Account.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7925" name="T28C028_28-02"/>§ 28-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Escrow Account.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57651" number="66261" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General. </CHARFORMAT>The city or the agency shall establish an interest-bearing escrow account into which syndication funds received from developers shall be deposited and held until such syndication funds are disbursed pursuant to these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57652" number="66262" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Trust and agency account.</CHARFORMAT> Syndication funds received by the agency shall be deposited into:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57653" number="66263" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The trust and agency account administered by the comptroller pursuant to the resolution adopted by the city&apos;s board of estimate on September 19, 1985 (Cal. No. 644), as renewed and/or amended on February 6, 1986 (Cal. No. 33), April 30, 1987 (Cal. No. 55), February 25, 1988 (Cal. No. 325), March 9, 1989 (Cal. No. 35), and March 8, 1990 (Cal. No. 245), or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57654" number="66264" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Any other interest bearing escrow account established and administered pursuant to these rules and applicable laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57655" number="66265" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Interest. </CHARFORMAT>Any interest accruing from the syndication funds deposited into the escrow account shall become, and shall remain, the property of the city. The city shall retain or utilize such interest for any lawful purpose determined by the city to be in the best interests of the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57656" number="66266" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Principal.</CHARFORMAT> Encumbered funds shall be disbursed from the escrow account in accordance with the applicable EDA, these rules, and all applicable laws. Unencumbered funds shall be disbursed from the escrow account in accordance with these rules and all applicable laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57657" number="66267" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Beneficiaries. </CHARFORMAT>The syndication funds have been provided by developers for the benefit of the citizens of New York City, who are the sole intended beneficiaries of the syndication funds, the program, and these rules. The agency shall determine, in its sole discretion, whether to apply syndication funds for the benefit of any geographical area in New York City or for the benefit of the citizens of the city as a whole. Notwithstanding any provision of these rules or any agreement or EDA to the contrary, the agency may require, in connection with any selection pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-03" destination-id="0-0-0-7927">28-03</LINK> or any designation pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-04" destination-id="0-0-0-7929">28-04</LINK>, that any applicant or community group sign an agreement or other statement acknowledging that the syndication funds are for the benefit of the citizens of New York city and not for the benefit of any other individual or group (or any subset of such group).</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57658" number="66268" version="3">
+								<HEADING>§ 28-03 Selection of Community Groups.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7927" name="T28C028_28-03"/>§ 28-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Selection of Community Groups.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57659" number="66269" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General. </CHARFORMAT>This 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-03" destination-id="0-0-0-7927">28-03</LINK> sets forth standards for the selection of community groups to receive syndication funds for projects. Such determinations shall be made by the agency, in accordance with the standards set forth herein, for the purposes of (i) ascertaining whether a community group meets the requirements of the program and has the ability to perform the project, and (ii) furthering the best interests of the city. The agency may select a community group to receive syndication funds by any method permitted by law which it determines will best meet the program&apos;s objectives, including, but not limited to, sole source, application, RFP, selection by a process mandated by an entity other than the agency, and selection by an entity other than the agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57660" number="66270" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Grandfathered selection. </CHARFORMAT>Notwithstanding any provision of these rules to the contrary, the agency may select:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57661" number="66271" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any community group which was the co-sponsor of a development; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57662" number="66272" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Any community group with which it began to negotiate before the date upon which the guidelines ceased to be effective; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57663" number="66273" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Any community group which was selected by a developer in accordance with an agreement prior to the agency&apos;s use of EDA&apos;s as if, and to the same extent as if, such community group had been selected by the agency pursuant to these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57664" number="66274" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sole source. </CHARFORMAT>Where the agency deems it to be necessary or desirable, a community group may be selected to receive syndication funds without any competitive process. In such event, the agency shall, prior to taking any action with respect to disbursement of such syndication funds, prepare a written statement signed by the commissioner setting forth the reasons why a more competitive process was not appropriate or desirable. Such statement shall thereafter be placed with the records concerning the project which are retained by the agency and shall be kept on file in accordance with the agency&apos;s usual record retention procedures.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57665" number="66275" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Application.</CHARFORMAT> Where and at such time as the agency deems it to be necessary or desirable, a community group may be selected via an application process.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57666" number="66276" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Distribution. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57667" number="66277" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice. </CHARFORMAT>At such time as the agency commences an application process for selection of one or more community groups, the agency shall place advertisements in <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The City Record </CHARFORMAT>and such other publications as the agency shall deem appropriate. The advertisement shall include, at a minimum, a short description of the program, the availability of syndication funds, any required or suggested project, the place where application forms can be obtained and the deadline for submission of applications.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57668" number="66278" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Application forms.</CHARFORMAT> The agency or its designee shall prepare or cause to be prepared the forms upon which application are to be submitted, which forms may require such information as the agency deems to be necessary or desirable to effectuate the purposes of the program. Application forms shall be made available by the agency to all potential applicants.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57669" number="66279" version="2481">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amendments. </CHARFORMAT>The agency may change any aspect of the information set forth in the advertisement at any time. The agency shall amend the advertisement accordingly and shall place such amended advertisement in <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The City Record, </CHARFORMAT>the publications in which the original advertisement appeared, and such other publications as the agency shall deem appropriate. If it is infeasible for the agency to publish the amended advertisement in the publications in which the original advertisement appeared, the agency shall endeavor to provide substantially the same type of notice as was provided with respect to the original advertisement. The agency may also mail copies of such amended advertisement to potential applicants who have done prior business with the agency or who have requested to be on a mailing list for such purpose. Notwithstanding the foregoing, an application process may be terminated by the agency at any time without advertisement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57670" number="66280" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submissions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57671" number="66281" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Time period. </CHARFORMAT>The agency may impose a deadline for submission of applications, which shall be a reasonable period of time after the advertisement first appears. The agency may, in the alternative, impose no deadline, in which case the agency shall receive, review, and approve or reject applications on a rolling basis as and when such applications are received.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57672" number="66282" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Completeness. </CHARFORMAT>The agency shall require applications to be submitted on the required forms and to be completed and executed in the manner set forth therein.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57673" number="66283" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Selection.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57674" number="66284" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Completeness. </CHARFORMAT>The application must include all required forms, and such forms must be fully and properly completed and executed, at the time of submission. The agency may reject an application if it determines that such requirements are not met.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57675" number="66285" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Selection. </CHARFORMAT>The agency may review and judge applications and select community groups by any method and upon any criteria permitted by law or these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57676" number="66286" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Limitations.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57677" number="66287" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No obligation. </CHARFORMAT>The publication of an advertisement and the provision and acceptance of application forms shall not represent any obligation or agreement whatsoever on the part of the city or the agency, which may only be incurred or entered into by an EDA approved by the law department and duly executed by both parties. The city and the agency shall not be obligated to pay, nor shall they in fact pay, any costs or losses incurred by any applicant at any time, including, but not limited to, the cost of preparing an application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57678" number="66288" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No warranty. </CHARFORMAT>The agency shall make no warranties, express or implied, with respect to any factual information contained in any advertisement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57679" number="66289" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rights retained by agency.</CHARFORMAT> Where it is deemed by the agency to be in the best interests of the city:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57680" number="66290" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The agency may terminate any application process in whole or in part at any time.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57681" number="66291" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The agency may reject any and all applications.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57682" number="66292" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The agency may at any time allow applicants to make modifications or additions to their applications.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57683" number="66293" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>The agency may negotiate with applicants and may negotiate with parties which have not submitted applications.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57684" number="66294" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The agency may negotiate on terms other than those set forth in the advertisement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57685" number="66295" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">RFP.</CHARFORMAT> Where the agency deems it to be feasible and desirable, a community group may be selected to receive syndication funds via an RFP. The RFP shall state that it is the type of selection process which the agency deems appropriate and shall describe the program, the availability of syndication funds, any required or suggested project(s), the selection process, and such other matters as the agency deems to be relevant. Where a potential community group has previously submitted a proposal and the agency has issued an RFP soliciting additional proposals to compete with such proposal, such RFP shall contain a copy or summary of such proposal and shall set forth in detail the standards by which the competition shall be judged.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57686" number="66296" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Issuance.</CHARFORMAT> The agency may issue RFP&apos;s at any time it deems appropriate and desirable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57687" number="66297" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Distribution.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57688" number="66298" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice. </CHARFORMAT>At such time as the agency issues an RFP for selection of one or more community groups, the agency shall place advertisements in <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The City Record </CHARFORMAT>and such other publications as the agency shall deem appropriate. The advertisement shall include, at a minimum, a short description of the program, the availability of syndication funds, any required or suggested project, the place a copy of the RFP can be obtained and the deadline for submission of proposals.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57689" number="66299" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Availability. </CHARFORMAT>A copy of the RFP shall be made available to all potential applicants prior to the submission deadline. The agency shall require all recipients of any RFP to furnish identification and shall cause a list of recipients to be maintained, which list shall in no event be furnished to any non-governmental party prior to the conclusion of the selection process.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57690" number="66300" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amendments. </CHARFORMAT>The agency may issue written amendments to the RFP at any time prior to the submission deadline. The agency shall provide copies of such amendments to all recipients of the RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57691" number="66301" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Public Information.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57692" number="66302" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conference. </CHARFORMAT>Prior to the submission deadline, the agency may, but shall not be required to, hold an open conference where agency staff answer questions about submission and program requirements. The time and place for such conference, if any, shall be indicated in the RFP solicitation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57693" number="66303" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency contacts. </CHARFORMAT>Agency staff shall be available during the submission period by telephone and/or in person to answer general questions about the RFP. The agency may require that contact with agency personnel by prospective applicants with respect to an RFP be limited to one or more person(s) designated in the RFP and/or that such contact be in writing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57694" number="66304" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submissions.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57695" number="66305" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Deadline. </CHARFORMAT>The deadline for submissions shall be a reasonable period of time after the advertisement first appears and shall be stated in the RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57696" number="66306" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Completeness. </CHARFORMAT>The agency shall require proposals to be submitted in the format and number prescribed in the RFP and to contain all information and forms required therein.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57697" number="66307" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Selection. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57698" number="66308" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Basic requirements. </CHARFORMAT>The agency may reject a proposal if it determines that either of the following basic requirements are not met:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57699" number="66309" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Completeness.</CHARFORMAT> The proposal must include all required forms, and such forms must be fully and properly completed and executed, at the time of submission.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57700" number="66310" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance.</CHARFORMAT> The proposal must comply in all respects with all material terms of the RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57701" number="66311" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Threshold criteria. </CHARFORMAT>The agency may impose such additional threshold criteria in the RFP as it deems necessary or desirable. Provided that a proposal has passed all basic requirements, the agency shall consider such threshold criteria as are established in the RFP. Such threshold criteria may include, but shall not be limited to, those characteristics of applicants which have a bearing on their ability to successfully complete the project (e.g., organizational capacity, comparable experience, financial capacity, and current and projected workload), those characteristics of the applicant&apos;s proposal which have a bearing on the performance of the project, and any other factors which the agency deems appropriate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57702" number="66312" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Competitive criteria. </CHARFORMAT>The agency may impose such additional competitive criteria in the RFP as it deems necessary or desirable. Provided that a proposal has passed all threshold criteria, the agency shall consider such competitive criteria as are established in the RFP. Such criteria may include, but shall not be limited to, those characteristics of applicants which have a bearing on their ability to successfully complete the project (e.g., organizational capacity, comparable experience, and current and expected workload), those characteristics of the applicant&apos;s proposal which have a bearing on the performance of the project, and any other factors which the agency deems appropriate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57703" number="66313" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Limitations.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57704" number="66314" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No obligation. </CHARFORMAT>An RFP shall not represent any obligation or agreement whatsoever on the part of the city or the agency, which may only be incurred or entered into by written EDA approved as to form by the city&apos;s law department and duly executed by both parties. The city and the agency shall not be obligated to pay, nor shall they in fact pay, any costs or losses incurred by any applicant at any time, including, but not limited to, the cost of responding to the RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57705" number="66315" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No warranty.</CHARFORMAT> The agency shall make no warranties, express or implied, with respect to any factual information contained in any RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57706" number="66316" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rights retained by agency.</CHARFORMAT> Where it is deemed by the agency to be in the best interests of the city:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57707" number="66317" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The agency may withdraw any RFP in whole or in part prior to conditional designation of a community group.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57708" number="66318" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The agency may reject any and all proposals submitted in response to an RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57709" number="66319" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The agency may at any time waive compliance with an RFP, change any of the terms and conditions of an RFP, or allow certain applicants to make modifications or additions to their respective proposals.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57710" number="66320" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>The agency may negotiate with one or more applicants who have submitted proposals pursuant to an RFP, and may negotiate with parties which have not responded to the RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57711" number="66321" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The agency may negotiate and execute an EDA on terms other than those set forth in the RFP.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57712" number="66322" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-agency selection. </CHARFORMAT>The agency may select an applicant to be a community group without any agency selection process where such applicant has already been selected or designated by (i) another agency or instrumentality of the city, (ii) any agency or instrumentality of the state or federal government, (iii) any public authority, public benefit corporation, or other quasi-governmental entity, (iv) a developer pursuant to an agreement, or (v) any other entity designated by the agency to perform such selection. Notwithstanding anything to the contrary in the preceding sentence or elsewhere in these rules, the agency shall only select a community group pursuant to this 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-03" destination-id="0-0-0-7927">28-03</LINK>(f) where the agency deems such method of selection to be necessary or desirable, and the agency shall not be required to select any applicant solely because such applicant has been selected by any other entity.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57713" number="66323" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-agency process.</CHARFORMAT> The agency may select a community group by a process not set forth in these rules where funding for the project is provided by, and/or the alternative selection process is mandated by, either (i) another agency or instrumentality of the city, (ii) any agency or instrumentality of the state or federal government, (iii) any public authority, public benefit corporation, or other quasi-governmental entity, (iv) a developer pursuant to an agreement, or (v) any other entity designated by the agency to perform such selection. Notwithstanding anything to the contrary in the preceding sentence or elsewhere in these rules, the agency shall only select a community group pursuant to this 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-03" destination-id="0-0-0-7927">28-03</LINK>(g) where the agency deems such method of selection to be necessary or desirable, and the agency shall not be required to utilize any selection process solely because such selection process has been mandated by any other entity.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57714" number="66324" version="3">
+								<HEADING>§ 28-04 Conditional Designation of Community Groups.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7929" name="T28C028_28-04"/>§ 28-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Conditional Designation of Community Groups.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57715" number="66325" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rejection letters. </CHARFORMAT>The agency shall notify all unsuccessful applicants in writing. Such letter shall state the reasons for the rejection of such applicant&apos;s proposal or other submission.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57716" number="66326" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conditional designation. </CHARFORMAT>The agency shall notify all successful applicants of their conditional designation as community groups. Such notification may be, but shall not be required to be, in writing and may be in any form which the agency deems to be appropriate, including, but not limited to, a conditional designation letter. Such letter, if any, shall be signed by the commissioner and shall constitute the selection and conditional designation of the applicant, subject to satisfaction of all conditions stated in the letter or in these rules or imposed by the agency or by applicable law. The letter may include, but shall not be limited to, the following matters:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57717" number="66327" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Acceptance deadline.</CHARFORMAT> The letter may require the applicant to unconditionally accept the designation within a time period for acceptance established therein.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57718" number="66328" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Program requirements.</CHARFORMAT> The letter may set forth program requirements and conditions upon which the designation was made and may state that any non-conformance or change in any of such requirements may be deemed by the agency to constitute a default.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57719" number="66329" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Schedule. </CHARFORMAT>The letter may contain a schedule of activities which must be completed as pre-conditions for the actions to be taken in connection with the disbursement of syndication funds.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57720" number="66330" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No liability.</CHARFORMAT> Conditional designation shall mean only that the agency intends to negotiate with the community group concerning a project and EDA until such conditional designation is terminated, a requirement of the agency or the city is not satisfied, or an EDA is executed. Conditional designation is not a contract or agreement and shall not create any rights on the community group&apos;s part, including, without limitation, rights of enforcement, equity, or reimbursement. No such contract or agreement shall exist, and no such rights shall be created, until the city and the community group enter into a written EDA approved as to form by the law department and duly executed by both parties.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57721" number="66331" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Termination of conditional designation. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57722" number="66332" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Causes for termination. </CHARFORMAT>After conditional designation of a community group, the agency may terminate such conditional designation at any time if the agency determines that the city should not enter into an EDA with the community group for any reason, including, but not limited to, the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57723" number="66333" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to comply with terms of designation.</CHARFORMAT> The community group has failed to comply with any term or condition of the conditional designation letter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57724" number="66334" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to meet city requirements. </CHARFORMAT>The community group has either (A) failed to clear one or more of the required city reviews, including, but not limited to, IG clearance and EO clearance, or (B) failed to satisfy other requirements established by the agency or the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57725" number="66335" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lack of resources. </CHARFORMAT>The community group lacks the necessary expertise, administrative or other resources, or legal capacity to perform the project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57726" number="66336" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lack of funding. </CHARFORMAT>Adequate funding for the entire project, whether from syndication funds, other city funds, or any other public or private source, is not available or is not provided in a timely manner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57727" number="66337" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Best interests of city.</CHARFORMAT> The agency or the city has not approved the required actions for any reason determined by the agency or the city to be in the best interests of the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57728" number="66338" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of termination.</CHARFORMAT> If the agency elects to terminate the conditional designation of a community group, the agency shall notify the community group of such termination in writing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57729" number="66339" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Right to comment.</CHARFORMAT> The agency shall give any terminated community group an opportunity to comment on the reasons for such termination, either in writing or by a conference with a responsible official of the agency. The agency shall give due consideration to any comments made by such community group, but shall retain the sole discretion whether to revoke the termination, set specific conditions for a revocation of the termination, or retain the termination. If the agency decides to revoke or conditionally revoke the termination, the agency shall notify the community group of its decision in writing. Nothing in this 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-04" destination-id="0-0-0-7929">28-04</LINK>(d)(3) or this 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-04" destination-id="0-0-0-7929">28-04</LINK> shall be deemed to restrict the power and authority of the agency to negotiate with other parties, to enter into EDA&apos;s, or to take such other actions with respect to the syndication funds as the agency shall determine to be necessary or desirable, prior to receipt of comments from a terminated community group.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57730" number="66340" version="3">
+								<HEADING>§ 28-05 Projects.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7931" name="T28C028_28-05"/>§ 28-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Projects.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57731" number="66341" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">EDA. </CHARFORMAT>The agency shall negotiate with each conditionally designated community group concerning the terms of the EDA pursuant to which such community group will perform one or more projects. Such negotiation shall continue until either the community group&apos;s conditional designation is terminated pursuant to these rules or an EDA is executed by the city and the community group. The city and the agency shall not disburse any syndication funds from the escrow account to the community group for any project until the city and the community group have executed an EDA in form approved by the law department and in form and substance acceptable to the agency. Each disbursement of syndication funds from the escrow account to a community group for a project shall be made in accordance with such EDA. The agency shall not be obligated to disburse any funds pursuant to an EDA beyond those syndication funds received from the developer of the applicable development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57732" number="66342" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope of work.</CHARFORMAT> Each EDA shall include a scope of work describing the project in form and substance satisfactory to the agency. Such scope of work shall include, without limitation, a detailed description of the eligible activities to be performed with the syndication funds, and timetables for commencement, progress, and completion of the project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57733" number="66343" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Eligible activities.</CHARFORMAT> The eligible activities to be included in the scope of work of any EDA may include, but shall not be limited to, the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57734" number="66344" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Project activities:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57735" number="66345" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Acquisition, rehabilitation (including all costs of maintenance and operation of occupied residential buildings during rehabilitation), and/or construction of housing accommodations and/or community facilities.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57736" number="66346" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Rehabilitation or repair of city-owned occupied residential buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57737" number="66347" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Community improvements, including, but not limited to,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57738" number="66348" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>demolition or resealing and securing of buildings in accordance with an area improvement plan or housing strategy,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57739" number="66349" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>development and/or maintenance of permanent site improvement projects,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57740" number="66350" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>facade and street improvements, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57741" number="66351" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>development, enhancement or maintenance of new or existing community facilities or open spaces.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57742" number="66352" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Landlord/tenant activities, including, but not limited to,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57743" number="66353" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>tenant organizing, education and counseling,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57744" number="66354" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>negotiations and mediations of landlord-tenant disputes,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57745" number="66355" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>landlord-tenant referral services.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57746" number="66356" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Related administrative costs.</CHARFORMAT> Not more than twenty percent (20%) of the syndication funds disbursed to a community group shall be used for administrative expenses incurred by the community group in connection with the project, including, but not limited to,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57747" number="66357" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>salaries for staff who provide services which are particular to the project,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57748" number="66358" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>consultant fees,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57749" number="66359" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>office supplies,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57750" number="66360" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>rent,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57751" number="66361" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>insurance,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57752" number="66362" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>other costs directly related to the performance of the project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57753" number="66363" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Other approved use.</CHARFORMAT> The agency may approve any other use of syndication funds which is consistent with these rules, even though such use is not listed in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-05" destination-id="0-0-0-7931">28-05</LINK>(c)(1) or (c)(2).</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57754" number="66364" version="3">
+								<HEADING>§ 28-06 Disbursements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7933" name="T28C028_28-06"/>§ 28-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disbursements.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57755" number="66365" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General. </CHARFORMAT>The agency may disburse syndication funds from the escrow account pursuant to these rules and applicable laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57756" number="66366" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Written comment.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57757" number="66367" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice to public.</CHARFORMAT> At such time as the agency proposes to execute an EDA with a community group, the agency shall place an advertisement in The City Record and such other publication as the agency shall deem appropriate, which advertisement shall include, at a minimum:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57758" number="66368" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a description of the program,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57759" number="66369" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a description of the proposed project,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57760" number="66370" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the designated community group(s) or other proposed recipient of the syndication funds,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57761" number="66371" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>where and when the public may inspect the proposed EDA, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57762" number="66372" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>where and when members of the public may comment in writing on any action described in the advertisement and/or EDA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57763" number="66373" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice to borough president.</CHARFORMAT> Prior to or simultaneously with publication of the advertisement required pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>(b)(1), the agency shall mail copies of the advertisement and proposed EDA to the following officials or their designees:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57764" number="66374" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the borough president in the borough in which the project is located,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57765" number="66375" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the community board in the community district in which the project is located, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57766" number="66376" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>such other public officials or agencies as the agency shall deem appropriate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57767" number="66377" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submission of written comments.</CHARFORMAT> The agency shall impose a deadline for submission of written comments, which shall be a reasonable time after the advertisement first appears, but in no event less than fourteen (14) calendar days.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57768" number="66378" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Review of written comments.</CHARFORMAT> After the deadline for submission of written comments, the agency shall review the written comments received by it and shall determine whether such comments raise substantive issues which require further consideration. If the agency concludes that further consideration is required, the agency shall convene a public hearing in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>(c). If the agency concludes that further consideration is not required, the agency shall either (i) approve the proposed EDA, (ii) approve the proposed EDA with modifications, or (iii) disapprove the proposed EDA. If the agency approves the proposed EDA, the agency may, but shall not be required to, proceed with the execution of the EDA. If the agency approves the proposed EDA with modifications, the agency may, but shall not be required to, proceed with the execution of the modified EDA, and no additional public comment procedure shall be required concerning such modifications. If the agency disapproves the proposed EDA, the agency shall thereafter either (i) resume negotiations with the community group on a new or modified EDA, or (ii) terminate the conditional designation of the community group.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57769" number="66379" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Public hearing.</CHARFORMAT> If the agency determines, based upon the written comments received by it, that further consideration of the proposed action(s) is required, the agency shall convene a public hearing in accordance with this 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>(c).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57770" number="66380" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice to public.</CHARFORMAT> The agency shall place an advertisement in <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The City Record </CHARFORMAT>and such other publications as the agency shall deem appropriate, which advertisement shall include, at a minimum, (i) a description of the program, (ii) a description of the proposed project, (iii) the designated community group(s) or other proposed recipient of the syndication funds, (iv) where and when the public may inspect the proposed EDA, and (v) the date, time, and location at which members of the public may comment in person on any action described in the advertisement and/or EDA. The agency shall endeavor to mail copies of such advertisement to (i) the borough president in the borough in which the project is located, (ii) the community board in the community district in which the project is located, (iii) such other public officials or agencies as the agency shall deem appropriate, and (iv) if feasible, all parties who submitted written comments pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-06" destination-id="0-0-0-7933">28-06</LINK>(b).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57771" number="66381" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conduct of public hearing.</CHARFORMAT> A representative of the agency shall commence the public hearing by describing the action proposed by the agency. The agency shall then afford all persons attending who desire to comment upon such action a reasonable opportunity to speak; provided, however, that the agency may establish and enforce a uniform time limit upon the comments of all speakers; provided further, however, that such time limit shall in no event be less than two (2) minutes per speaker. An audio tape or transcript shall be made of the proceedings and a record shall be made of persons in attendance at the hearing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57772" number="66382" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Review of public comments.</CHARFORMAT> After the public hearing, the agency shall review the comments of the speakers and shall determine whether to (i) approve the proposed EDA, (ii) approve the proposed EDA with modifications, or (iii) disapprove the proposed EDA. If the agency approves the proposed EDA, the agency may, but shall not be required to, proceed with the execution of the EDA. If the agency approves the proposed EDA with modifications, the agency may, but shall not be required to, proceed with the execution of the modified EDA, and no additional public comment procedure shall be required concerning such modifications. If the agency disapproves the proposed EDA, the agency shall thereafter either (i) resume negotiations with the community group on a new or modified EDA, or (ii) terminate the conditional designation of the community group.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57773" number="66383" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Unencumbered funds.</CHARFORMAT> The agency may disburse unencumbered funds in any manner permitted by law and these rules, including, without limitation, the following methods:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57774" number="66384" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">New community group.</CHARFORMAT> The agency may select a new community group and make disbursements to it in accordance with these rules;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57775" number="66385" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency project.</CHARFORMAT> The agency may prepare a scope of work and EDA for a project and/or disburse unencumbered funds for the performance of such project to the agency rather than to a community group;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57776" number="66386" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Tax levy.</CHARFORMAT> The agency may apply unencumbered funds toward the cost of providing city services in the borough of the development which generated such syndication funds; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57777" number="66387" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Best interests of the city.</CHARFORMAT> The agency may utilize unencumbered funds in any other manner deemed by the agency to be in the best interests of the city, including, but not limited to, disbursement of such unencumbered funds into the general fund of the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57778" number="66388" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-escrowed syndication funds.</CHARFORMAT> Where developers and community groups entered into agreements which provided for the payment of syndication funds directly from the developers to the community groups, the agency shall seek to enforce these rules to the extent practicable. Where the respective agreements provide the agency with sufficient authority to do so, the agency may (1) order developers to thereafter make all payments of syndication funds to the city rather than directly to community groups, and (2) order community groups to surrender all syndication funds in their possession to the city. Any syndication funds so obtained or recovered shall be deposited into the escrow account and made subject to the requirements of these rules. </PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57779" number="66389" version="3">
+								<HEADING>§ 28-07 Project Administration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7935" name="T28C028_28-07"/>§ 28-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project Administration.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57780" number="66390" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Accounts established by community groups. </CHARFORMAT>The community group shall establish a separate checking or savings account and shall submit a banking resolution to the agency which shall provide that (1) the commissioner shall be authorized to stop all disbursements from each such account or seize all funds therein, in the event of any failure to comply with the applicable EDA or agreement, or for any other reason deemed necessary or desirable by the agency to protect the best interests of the city consistent with these rules and applicable laws, and (2) checks or drafts shall be signed by at least two officers or designated, authorized signatories of the community group before a check or draft may be negotiated or funds withdrawn. Any syndication funds received by a community group, whether from the escrow account pursuant to an EDA or directly from a developer pursuant to an agreement, or monies repaid to the community group from any project activities, shall be deposited into such account and shall be held and utilized strictly in accordance with these rules. No syndication funds shall be disbursed to the community group and no funds shall be disbursed by the community group from such account until and unless the agency shall approve such banking resolution in writing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57781" number="66391" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting requirements and audits.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57782" number="66392" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reports. </CHARFORMAT>At the end of the first six-month period after a community group receives its first disbursement, and every six months thereafter for as long as syndication funds remain in use by the community group, it shall provide the agency with a report and interim financial statement summarizing the use of the syndication funds received by it, together with copies of all bank statements and cancelled checks, and with a reconciliation of the checking and/or savings account.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57783" number="66393" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Audits.</CHARFORMAT> Starting with the end of the first full calendar year in which syndication funds were available to the community group for six months or longer, (i) the community group shall provide yearly audited financial statements to the agency, and (ii) all of the books and records of the community group shall be subject to review and audit by the agency or the comptroller. The community group shall maintain such books and records and shall make them available for audit for a period of six (6) years after the expiration of its EDA. Any agreements between a community group and its contractors shall contain substantially the same language as contained in this 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C028_28-07" destination-id="0-0-0-7935">28-07</LINK>(b)(2). The community group shall require the certified public accountant retained by it to prepare its audited financial statement to (i) make its &quot;work papers&quot; available upon demand to the agency or the comptroller, and (ii) register with the comptroller upon demand by the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57784" number="66394" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">EDA defaults.</CHARFORMAT> In the event that a community group defaults on its obligations pursuant to an EDA, the agency may terminate such EDA and/or invoke any other remedy available to the city pursuant to the EDA, these rules, or applicable laws. </PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57785" number="66395" version="3">
+								<HEADING>§ 28-08 Miscellaneous Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7937" name="T28C028_28-08"/>§ 28-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Miscellaneous Provisions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57786" number="66396" version="956">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adverse findings. </CHARFORMAT>Notwithstanding any provision to the contrary in these rules or in any document concerning any selection process, any project, or the program, the agency may reject any applicant or terminate any conditional designation of a community group if the agency determines at any time that good and sufficient reasons exist why the city should not do business with such party or should not allow such party to act as community group for the particular project in question. Such reasons shall include, but shall not be limited to, evidence with respect to the applicant or any member of its development team or any contractor retained by such applicant or any of its principals of:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57787" number="66397" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Arson conviction or pending cases,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57788" number="66398" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Harassment conviction or pending cases,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57789" number="66399" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Arrears or default upon any debt, lease, contract, tax, lien, fee, charge, or obligation to the city,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57790" number="66400" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>City mortgage or tax foreclosure proceedings or arrears,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57791" number="66401" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Unsuccessful record with comparable projects, including, but not limited to, poor workmanship, failure to complete a project expeditiously, building violations or litigation history against other properties, or unsuccessful record of managing residential real property,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57792" number="66402" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Inability, due to lack of organizational capacity, competing demands from other projects, or any other factor to perform all work required to successfully complete the project,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57793" number="66403" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Bankruptcy or insolvency,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57794" number="66404" version="1745">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Violation of the conflict of interest provisions of the Charter or any other applicable laws, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57795" number="66405" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Failure to obtain IG clearance and/or EO clearance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57796" number="66406" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency discretion.</CHARFORMAT> All determinations to be made by the agency and/or the commissioner in accordance with these rules shall be in the sole discretion of the agency and/or the commissioner; provided, however, that the agency and/or the commissioner shall comply in all respects with applicable laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57797" number="66407" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Statutory authority not limited. </CHARFORMAT>Nothing in these rules shall be deemed to prevent the agency from exercising such greater or additional rights, remedies, privileges, powers, and authority as shall be provided by law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57798" number="66408" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rights not conferred. </CHARFORMAT>These rules are not intended to confer rights or benefits upon the general public or upon any individual, entity, or actual or potential community group. Nothing in these rules shall be deemed to confer any rights or benefits whatsoever upon any party which are in addition to any rights deriving from applicable laws or written contracts with the agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57799" number="66409" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No legal obligation.</CHARFORMAT> At any time prior to the execution of a legally binding written EDA by the agency and the community group, the agency may withdraw its approval of all or any portion of a project, change the contemplated actions and project, change the community group selection process for a project, terminate the designation of a community group, select a new community group, or take any other action deemed by the agency to be necessary or appropriate. A selection process shall not represent any obligation or agreement whatsoever on the part of the city or the agency, which may only be incurred or entered into by written EDA approved as to form by the law department and duly executed by both parties. The city and the agency shall not be obligated to pay, nor shall they in fact pay, any costs or losses incurred by any applicant at any time, including, but not limited to, the cost of applying for selection as a community group. Conditional designation of a community group shall mean only that the agency intends to negotiate with such community group concerning one or more potential projects until either an EDA is executed or such conditional designation is terminated. Conditional designation of an applicant is not a contract or agreement and shall not create any rights on the applicant&apos;s part, including, without limitation, rights of enforcement, equity or reimbursement. No such contract or agreement shall exist, and no such rights shall be created, until the city and the community group enter into an EDA approved as to form by the law department and duly executed by both parties. Approval of a project and/or EDA by any party pursuant to these rules shall not obligate the agency to proceed with the project or with the execution of such EDA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57800" number="66410" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Technical violations.</CHARFORMAT> Technical violations of these rules shall not invalidate the selection of any community group, any EDA, or any other action taken pursuant to these rules, nor shall such technical violations give rise to any rights, claims, or causes of action in favor of members of the general public or potential community groups.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57801" number="66411" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance with laws.</CHARFORMAT> All actions by the agency pursuant to these rules shall be made in accordance with applicable laws. Each community group selected and project undertaken pursuant to these rules shall meet the eligibility criteria of the laws which authorize the agency to undertake the actions necessary or incident to the performance of such project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57802" number="66412" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amendments.</CHARFORMAT> These rules may be amended pursuant only to the procedures and requirements contained in CAPA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57803" number="66413" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Waivers.</CHARFORMAT> The commissioner may at any time waive in writing one or more of the provisions of these rules with respect to any community group or project. Such writing shall state the reasons for such waiver.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57804" number="66414" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Singular and plural.</CHARFORMAT> With respect to any of the terms used in these rules, the singular shall be deemed to include the plural and the plural shall be deemed to include the singular, unless the context requires otherwise.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

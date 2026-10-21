@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-202942" number="55449" version="1315">
+			<HEADING>Chapter 12: Identifying Information</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10271" name="T23C012"/>Chapter 12: Identifying Information</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42878" number="55450" version="3">
+										<HEADING>§ 23-1201 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9605" name="23-1201"/>§ 23-1201 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-221769" number="55451" version="1956">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42880" number="55452" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chief privacy officer.</CHARFORMAT> The term &quot;chief privacy officer&quot; means the person designated by the mayor pursuant to subdivision h of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="8" destination-id="0-0-0-0">8</LINK> of the charter to act as the city&apos;s chief privacy officer, or their designee. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42881" number="55453" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contracting agency.</CHARFORMAT> The term &quot;contracting agency&quot; means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution, or agency of government, the expenses of which are paid in whole or in part from the city treasury. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42882" number="55454" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contractor.</CHARFORMAT> The term &quot;contractor&quot; means a person who is a party to a contract with a contracting agency to provide human services, or other services designated in policies and protocols of the chief privacy officer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42883" number="55455" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employee.</CHARFORMAT> The term &quot;employee&quot; means any officer or other person whose salary or wages are paid by a city agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42884" number="55456" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Human services.</CHARFORMAT> The term &quot;human services&quot; has the meaning set forth in subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="6-129" destination-id="0-0-0-1279">6-129</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42885" number="55457" version="1956">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Identifying information.</CHARFORMAT> The term &quot;identifying information&quot; means any information obtained by or on behalf of the city that may be used on its own or with other information to identify or locate an individual, including, but not limited to: name, sexual orientation, gender identity, race, marital or partnership status, status as a victim of domestic violence or sexual assault, status as a crime victim or witness, citizenship or immigration status, eligibility for or receipt of public assistance or city services, all information obtained from an individual&apos;s income tax records, information obtained from any surveillance system operated by, for the benefit of, or at the direction of the police department, motor vehicle information or license plate number, biometrics such as fingerprints and photographs, height, weight, languages spoken, religion, nationality, country of origin, place of birth, arrest record or criminal conviction, employment status, employer information, current and previous home and work addresses, contact information such as phone number and email address, information concerning social media accounts, date and/or time of release from the custody of the administration for children&apos;s services, the department of correction, or the police department, any scheduled court appearances, or any scheduled appointments with any employee, contractor, or subcontractor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-091]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42886" number="55458" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Privacy officer.</CHARFORMAT> The term &quot;privacy officer&quot; means the person designated by the head of each city agency to act as such agency&apos;s privacy officer. Where a disclosure of identifying information is in response to a request pursuant to the state freedom of information law, city agencies&apos; freedom of information law officers may perform the functions otherwise performed by the privacy officer with respect to such request. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42887" number="55459" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Routine collection or disclosure.</CHARFORMAT> The term &quot;routine collection or disclosure&quot; means the collection or disclosure of identifying information that is made during the normal course of city agency business and furthers the purpose or mission of such agency. Routine collection or disclosure also includes the collection or disclosure of identifying information that occurs between agencies of the city when the privacy officers of the collecting agency and the disclosing agency agree that the collection or disclosure furthers the purpose or mission of their respective agencies. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42888" number="55460" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Subcontractor.</CHARFORMAT> The term &quot;subcontractor&quot; means a person who is a party to a contract with a contractor to provide human services, or other services designated in policies and protocols of the chief privacy officer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42889" number="55461" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third party.</CHARFORMAT> The term &quot;third party&quot; means any person other than: (i) personnel of the city, the department of education, or a local public benefit corporation or local public authority, or (ii) personnel of a contractor or subcontractor where such contractor or subcontractor is authorized to possess the relevant identifying information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42890" number="55462" version="1956">
+											<PARA>(L.L. 2017/247, 12/17/2017, eff. 6/15/2018; Am. L.L. 2023/061, 5/26/2023, eff. 11/22/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-091]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42891" number="55463" version="562">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/247" destination-id="0-0-0-20513">L.L. 2017/247</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129569" number="55464" version="562">
+										<HEADING>§ 23-1202 Collection, retention and disclosure of identifying information.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10273" name="23-1202"/>§ 23-1202 Collection, retention and disclosure of identifying information.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42892" number="55465" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Employees, contractors, and subcontractors shall collect, retain, and disclose identifying information only in accordance with this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42893" number="55466" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Collection.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42894" number="55467" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Absent exigent circumstances, no employee shall collect identifying information without the written approval of the privacy officer of such employee&apos;s agency. In addition, such collection shall not be allowed unless it: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42895" number="55468" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>furthers the purpose or mission of such city agency; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42896" number="55469" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>is required by law or treaty. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42897" number="55470" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Notwithstanding the provisions of paragraph 1 of this subdivision: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42898" number="55471" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the privacy officer of an employee&apos;s agency may approve in advance certain routine collections of identifying information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42899" number="55472" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the chief privacy officer may approve in advance a collection of identifying information not otherwise authorized by paragraph 1 of this subdivision upon the determination that such collection is in the best interests of the city; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42900" number="55473" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>the provisions of paragraph 1 of this subdivision do not apply: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42901" number="55474" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>to any collection of identifying information by or to the police department in connection with an investigation of a crime that has been committed or credible information about an attempted or impending crime, or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42902" number="55475" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>where the collection is in connection with an open investigation by a city agency concerning the welfare of a minor or an individual who is otherwise not legally competent. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42903" number="55476" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>Any such collections shall not require any additional approval by the privacy officer or chief privacy officer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42904" number="55477" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Disclosure.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42905" number="55478" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Absent exigent circumstances, no employee shall disclose identifying information to any party outside such employee&apos;s agency, including an employee of another city agency, without the written approval of the privacy officer of such agency. In addition, such disclosure shall not be allowed unless it: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42906" number="55479" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>has been authorized in writing by the individual to whom such information pertains or, if such individual is a minor or is otherwise not legally competent, by such individual&apos;s parent, legal guardian, or other person with legal authority to consent on behalf of the individual; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42907" number="55480" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>furthers the purpose or mission of such city agency; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42908" number="55481" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>is required by law or treaty. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42909" number="55482" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Notwithstanding the provisions of this subdivision: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42910" number="55483" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the privacy officer of an employee&apos;s agency may approve in advance certain routine disclosures of identifying information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42911" number="55484" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the chief privacy officer may approve in advance a disclosure to another city agency or agencies not otherwise authorized by paragraph 1 of this subdivision upon the determination that such disclosure is in the best interests of the city; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42912" number="55485" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>the provisions of paragraph 1 of this subdivision do not apply: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42913" number="55486" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>to any disclosure of identifying information by or to the police department in connection with an investigation of a crime that has been committed or credible information about an attempted or impending crime, or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42914" number="55487" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>where the disclosure is in connection with an open investigation by a city agency concerning the welfare of a minor or an individual who is otherwise not legally competent. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42915" number="55488" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>Any such disclosure shall not require any additional approval by the privacy officer or chief privacy officer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42916" number="55489" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Any request for identifying information or a proposal for the unsolicited disclosure of identifying information by an employee that does not concern a routine disclosure shall be sent to the privacy officer of such employee&apos;s agency as soon as practicable. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42917" number="55490" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>If an individual&apos;s identifying information is disclosed in violation of this chapter, the privacy officer of such employee&apos;s agency that becomes aware of such disclosure shall notify the chief privacy officer as soon as practicable and, if such disclosure is one described in policies and protocols issued pursuant to subdivision 6 of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1203" destination-id="0-0-0-10275">23-1203</LINK>, the agency responsible for the disclosure shall make reasonable efforts to notify such individual in writing of the identifying information disclosed and to whom it was disclosed as soon as practicable; provided, however, that this paragraph shall not require any notification that would violate the provisions of subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1204" destination-id="0-0-0-10277">23-1204</LINK>. The chief privacy officer shall submit a quarterly report containing an anonymized compilation or summary of such disclosures to the speaker of the council and shall make such report available online. Such report may be combined with the report required by subdivision d of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42918" number="55491" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Exigent circumstances.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42919" number="55492" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>In the event identifying information is collected or disclosed under exigent circumstances, information about such collection or request and disclosure, along with an explanation of why such exigent circumstances existed, shall be sent to the chief privacy officer as soon as practicable after such collection or disclosure. This subdivision shall not require any such notification where: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42920" number="55493" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the collection or disclosure is by or to the police department in connection with an open investigation of criminal activity; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42921" number="55494" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the collection or disclosure is in connection with an open investigation concerning the welfare of a minor or an individual who is otherwise not legally competent; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42922" number="55495" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>the collection or disclosure is by or to an employee acting in furtherance of law enforcement or public health or safety powers of such employee&apos;s agency under exigent circumstances and such collections or disclosures occur during the normal course of such agency&apos;s business. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42923" number="55496" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The chief privacy officer shall submit a quarterly report containing an anonymized compilation or summary of such disclosures to the speaker of the council and make such report available online. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42924" number="55497" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Retention.</CHARFORMAT> A city agency shall retain identifying information where required by law. In addition, a city agency may retain identifying information to further the purpose or mission of such city agency, or when retention is in the interest of the city and is not contrary to the purpose or mission of such agency. This subdivision shall not prohibit a city agency from retaining aggregate demographic information that is anonymized. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42925" number="55498" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency policies and protocols.</CHARFORMAT> Each city agency, acting in accordance with the policies and protocols of the chief privacy officer, may issue additional agency-specific guidance in furtherance of this chapter, including the policies and protocols promulgated pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1203" destination-id="0-0-0-10275">23-1203</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42926" number="55499" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Contractors and subcontractors.</CHARFORMAT> Each city agency shall require contractors that obtain identifying information, whether directly or through subcontractors, to apply the requirements of subdivisions b, c, d, and e of this section and any applicable policies and protocols adopted pursuant to this chapter; provided, however, that the duties of the privacy officer may be exercised by such contractors and subcontractors by designation of the agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42927" number="55500" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Private right of action.</CHARFORMAT> Nothing in this chapter shall be construed to create a private right of action to enforce any provision of such chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42928" number="55501" version="3">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Construction.</CHARFORMAT> Nothing in this chapter shall prohibit city officers and employees from performing their duties in accordance with federal, state, and local law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42929" number="55502" version="3">
+											<PARA>(L.L. 2017/247, 12/17/2017, eff. 6/15/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42930" number="55503" version="562">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/247" destination-id="0-0-0-20513">L.L. 2017/247</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129570" number="55504" version="562">
+										<HEADING>§ 23-1203 Policies and protocols of the chief privacy officer.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10275" name="23-1203"/>§ 23-1203 Policies and protocols of the chief privacy officer.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42931" number="55505" version="680">
+											<PARA>The policies and protocols promulgated by the chief privacy officer pursuant to subdivision h of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="8" destination-id="0-0-0-0">8</LINK> of the charter shall, at a minimum: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42932" number="55506" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>require that identifying information is anonymized where appropriate in accordance with the purpose or mission of a city agency; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42933" number="55507" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>require the privacy officer of each city agency to issue guidance to city agency employees, contractors and subcontractors regarding such agency&apos;s collection, retention, and disclosure of identifying information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42934" number="55508" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>require any city agency disclosing identifying information to a third party when such a disclosure is not classified as routine pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1202" destination-id="0-0-0-10273">23-1202</LINK> to enter into an agreement ensuring that the anticipated use and any potential future use of such information by such third party occurs only in a manner consistent with this chapter unless: (i) such disclosure is made under exigent circumstances, or (ii) such an agreement would not further the purposes of this chapter due to the absence of circumstances in which such disclosure would unduly compromise an important privacy interest. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42935" number="55509" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>describe disclosures of identifying information to third parties when such a disclosure is classified as routine pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1202" destination-id="0-0-0-10273">23-1202</LINK> for which, because of the nature or extent of such disclosures or because of the nature of the relationship between the city agency and third party, such disclosing agency is required to enter into an agreement with such third party requiring that the anticipated use and any potential future use of such information by such third party occurs only in a manner consistent with this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42936" number="55510" version="3">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>describe disclosures of identifying information that are not to be treated as routine pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1202" destination-id="0-0-0-10273">23-1202</LINK>, as determined by the nature and extent of such disclosures, and require an additional level of review and approval by the privacy officer of such agency or the contractor or subcontractor before such disclosures are made; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42937" number="55511" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>describe circumstances when disclosure of an individual&apos;s identifying information to third parties in violation of this chapter would, in light of the nature, extent, and foreseeable adverse consequences of such disclosure, require the disclosing city agency, contractor, or subcontractor to make reasonable efforts to notify the affected individual as soon as practicable; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42938" number="55512" version="3">
+											<PARA>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>establish standard contract provisions, or required elements of such provisions, related to the protection of identifying information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42939" number="55513" version="3">
+											<PARA>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>require the privacy officer of each city agency to arrange for dissemination of information to agency employees, contractors, and subcontractors and develop a plan for compliance with this chapter and any policies and protocols developed under this chapter; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42940" number="55514" version="3">
+											<PARA>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>establish a mechanism for accepting and investigating complaints for violations of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42941" number="55515" version="3">
+											<PARA>(L.L. 2017/245, 12/17/2017, eff. 6/15/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42942" number="55516" version="560">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/245" destination-id="0-0-0-20509">L.L. 2017/245</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129544" number="55517" version="560">
+										<HEADING>§ 23-1204 Committee.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10277" name="23-1204"/>§ 23-1204 Committee.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42943" number="55518" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>There is hereby established in the office of the mayor, or such other city agency headed by a mayoral appointee as the mayor may determine, an identifying information protection committee. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42944" number="55519" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such committee shall consist of: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42945" number="55520" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the corporation counsel or a designee of the corporation counsel; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42946" number="55521" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the director of the mayor&apos;s office of operations or such director&apos;s designee; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42947" number="55522" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>the coordinator of criminal justice or such coordinator&apos;s designee; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42948" number="55523" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>any deputy mayors who may be designated by the mayor to serve on such committee or their designees; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42949" number="55524" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>the commissioners of the following agencies or such commissioners&apos; designees: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42950" number="55525" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the administration for children&apos;s services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42951" number="55526" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the department of social services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42952" number="55527" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the police department; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42953" number="55528" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the department of correction; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42954" number="55529" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the department of probation; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42955" number="55530" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the department of health and mental hygiene; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42956" number="55531" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>the department of information technology and telecommunications; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42957" number="55532" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>the fire department; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42958" number="55533" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(9)<TAB tab-count="1"/>representatives of such other agencies as the mayor may designate having relevant duties or expertise with respect to federal, state, and local laws and policies relating to protecting identifying information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42959" number="55534" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Unless otherwise determined by the mayor, the chair of such committee shall be the director of the mayor&apos;s office of operations or such director&apos;s designee. Staff services for such committee shall be provided by the participating agencies. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42960" number="55535" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The committee, in collaboration with the chief privacy officer, shall review city agency reports provided pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1205" destination-id="0-0-0-10279">23-1205</LINK> and recommend policies and procedures regarding the collection, retention and disclosure of identifying information while taking into consideration each city agency&apos;s unique mission, subject matter expertise, and legal obligations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42961" number="55536" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>No later than October 30, 2018, the committee shall communicate its final recommendations pursuant to subdivision b of this section along with the city agency reports required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1205" destination-id="0-0-0-10279">23-1205</LINK> to the applicable city agencies, the mayor, the speaker of the council, and the chief privacy officer. Beginning July 31, 2020 and every two years thereafter, the committee shall review such agency reports and any policies and protocols adopted pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42962" number="55537" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Within 90 days of receiving any final recommendations of the committee, the chief privacy officer shall adopt policies and protocols, in accordance with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1202" destination-id="0-0-0-10273">23-1202</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1203" destination-id="0-0-0-10275">23-1203</LINK>, as necessary or appropriate in furtherance of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42963" number="55538" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>No information that is otherwise required to be reported or disclosed pursuant to this section shall be reported or disclosed in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information or that would interfere with a law enforcement investigation or other investigative activity by an agency or would compromise public safety. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42964" number="55539" version="3">
+											<PARA>(L.L. 2017/245, 12/17/2017, eff. 6/15/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42965" number="55540" version="560">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/245" destination-id="0-0-0-20509">L.L. 2017/245</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129545" number="55541" version="560">
+										<HEADING>§ 23-1205 City agency policies.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10279" name="23-1205"/>§ 23-1205 City agency policies.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42966" number="55542" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than July 31, 2018, and every two years thereafter by July 31, each city agency shall provide a report regarding the collection, retention, and disclosure of identifying information by such agency and any contractors or subcontractors utilized by such agency. Each such report shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42967" number="55543" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>information concerning identifying information collected, retained, and disclosed, including: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42968" number="55544" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the types of identifying information collected, retained, and disclosed, including, but not limited to, where practicable, those types enumerated in the definition of identifying information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42969" number="55545" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the types of collections and disclosures classified as routine and any collections or disclosures approved by the chief privacy officer; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42970" number="55546" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>current policies regarding collection, retention, and disclosure, including: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42971" number="55547" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>policies regarding requests for disclosures from other city agencies, local public authorities or local public benefit corporations, and third parties; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42972" number="55548" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>policies regarding proposals for disclosures to other city agencies, local public authorities or local public benefit corporations, and third parties; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42973" number="55549" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>policies regarding the classification of disclosures as necessitated by the existence of exigent circumstances or as routine; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42974" number="55550" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>which divisions and categories of employees within an agency make disclosures of identifying information following the approval of the privacy officer; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42975" number="55551" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>use of agreements regarding the anticipated use and any potential future use of identifying information disclosed; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42976" number="55552" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>types of entities requesting the disclosure of identifying information or proposals for disclosures of identifying information, the reasons why an agency discloses identifying information in response to requests or proposes the disclosure of identifying information, and why any such disclosures furthers the purpose or mission of such agency; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42977" number="55553" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>the reasons why any collection and retention of identifying information furthers the purposes or mission of such agency; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42978" number="55554" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the impact of any privacy policies and protocols issued by the chief privacy officer, any guidance issued by the privacy officer of such agency or the committee, the provisions of this chapter, and other applicable law on the agency&apos;s collection, retention, and disclosure of identifying information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42979" number="55555" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>consideration and implementation, where applicable, of alternative policies that minimize the collection, retention, and disclosure of identifying information to the greatest extent possible while furthering the purpose or mission of such agency; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42980" number="55556" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>policies on access to identifying information by employees, contractors, and subcontractors, including consideration of the necessity of access to such information for the performance of their duties and implementation of policies that minimize such access to the greatest extent possible while furthering the purpose or mission of an agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42981" number="55557" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each city agency shall submit the report prepared pursuant to subdivision a of this section to the mayor, the speaker of the council, the chief privacy officer, and the committee. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42982" number="55558" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>No information that is otherwise required to be reported or disclosed pursuant to this section shall be reported or disclosed in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information or that would interfere with a law enforcement investigation or other investigative activity by an agency or would compromise public safety. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42983" number="55559" version="3">
+											<PARA>(L.L. 2017/245, 12/17/2017, eff. 6/15/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42984" number="55560" version="560">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/245" destination-id="0-0-0-20509">L.L. 2017/245</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

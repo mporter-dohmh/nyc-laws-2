@@ -1,0 +1,1709 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-134947" number="46055" version="2246">
+			<HEADING>Chapter 15: Contracted Delivery Workers</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-21292" name="t20C015"/>Chapter 15: Contracted Delivery Workers</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-134950" number="46056" version="2240">
+				<PARA>
+					<PARAFORMAT justify="center">(Title amended by L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-234647" number="46057" version="2321">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-237243" number="46058" version="2321">
+				<HEADING>Subchapter 1: General Provisions</HEADING>
+				<PARA>Subchapter 1: General Provisions</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-234646" number="46059" version="2240">
+										<HEADING>§ 20-1501 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21298" name="20-1501"/>§ 20-1501 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-202969" number="46060" version="2320">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7480055&amp;GUID=265D0ED3-FB2F-48B9-AF70-79973B11E094&amp;Options=ID|Text|&amp;Search=">L.L. 2026/034, 1/17/2026, eff. 1/17/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135033" number="46061" version="2240">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234660" number="46062" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Compliant delivery device.</CHARFORMAT> The term “compliant delivery device” means a delivery device that is in compliance with applicable law, rules and regulations, including a powered mobility device that meets the standards for distribution, sale, lease or rental pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-610" destination-id="0-0-0-8835">20-610</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237171" number="46063" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contracted delivery worker.</CHARFORMAT> The term “contracted delivery worker” means any natural person or any organization composed of no more than 1 natural person, whether or not incorporated or employing a trade name, who is retained by a delivery service to deliver goods in exchange for compensation, including, but not limited to, a food delivery worker, provided that the term “contracted delivery worker” does not include any natural person or any organization composed of no more than 1 natural person, whether or not incorporated or employing a trade name, who delivers goods solely using a vehicle required by federal or state law, rule or regulation to be registered with the federal motor carrier safety administration. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237173" number="46064" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Customer.</CHARFORMAT> The term “customer” means a person that places an order for, accepts or receives goods delivered by, through or with the assistance of a delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234658" number="46065" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deactivation.</CHARFORMAT> The term “deactivation” means any indefinite or permanent discharge, termination or layoff of a contracted delivery worker or any revocation or restriction of a contracted delivery worker’s access to the delivery platform or authorization to accept deliveries on the delivery platform. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234657" number="46066" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Delivery service.</CHARFORMAT> The term “delivery service” means a person that facilitates, offers, or arranges for the delivery of goods to or from a location in the city, including, but not limited to, a third-party food delivery service and a third-party courier service, provided that the term “delivery service” does not include any such person that facilitates, offers or arranges fewer than 50 trips each week, or any person that facilitates, offers or arranges for the delivery of goods solely by vehicles required by federal or state law, rule or regulation to be registered with the federal motor carrier safety administration. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237174" number="46067" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible device.</CHARFORMAT> The term “eligible device” means a powered mobility device or lithium-ion battery that does not meet the requirements for sale contained in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-610" destination-id="0-0-0-8835">20-610</LINK>, a motorized scooter as defined in subdivision a section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-176.2" destination-id="0-0-0-2469">19-176.2</LINK>, or a limited use motorcycle as defined in section 121-b of the vehicle and traffic law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237175" number="46068" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Food delivery worker.</CHARFORMAT> The term “food delivery worker” means any natural person or any organization composed of no more than 1 natural person, whether or not incorporated or employing a trade name, who is retained by a third-party food delivery service required to be licensed pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-563.1" destination-id="0-0-0-21236">20-563.1</LINK> or a third-party courier service to deliver goods from a business to a customer in exchange for compensation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234656" number="46069" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Food service establishment.</CHARFORMAT> The term “food service establishment” means a business establishment located within the city where food is provided for individual portion service directly to the consumer whether such food is provided free of charge or sold, and whether consumption occurs on or off the premises or is provided from a pushcart, stand or vehicle. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234655" number="46070" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Goods.</CHARFORMAT> The term “goods” means 1 or more items, parcels, packages, products, or articles of any type, including but not limited to food, beverages, groceries, or papers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234654" number="46071" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Gratuity.</CHARFORMAT> The term “gratuity” means a sum of money (i) paid voluntarily by a customer for an order of goods placed or delivered by, through or with the assistance of a delivery service, (ii) that is in addition to the purchase price of the goods and any mandatory charges such as taxes and fees, (iii) the amount of which the customer may choose, and (iv) that is referred to by a delivery service as a gratuity, tip or other similar term that would suggest to a reasonable person that the sum, or a substantial portion thereof, would be received by a contracted delivery worker in addition to any compensation from the delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234653" number="46072" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Grocery delivery worker.</CHARFORMAT> The term “grocery delivery worker” means any natural person or any organization composed of no more than 1 natural person, whether or not incorporated or employing a trade name, who is retained by a third-party grocery delivery service to deliver goods from a business to a customer in exchange for compensation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237215" number="46073" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Pay period.</CHARFORMAT> The term “pay period” means a fixed and regularly recurring period of 168 hours or 7 consecutive 24-hour periods. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234652" number="46074" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powered mobility device.</CHARFORMAT> The term “powered mobility device” means a powered bicycle or a powered mobility device, as such terms are defined in subchapter 2 of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T20C004" destination-id="0-0-0-8815">chapter 4 of title 20</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237176" number="46075" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Retail food establishment.</CHARFORMAT> The term “retail food establishment” means any business establishment located in the city that is licensed as a food processing establishment pursuant to article 20-C of the agriculture and markets law or as a retail food store or food warehouse pursuant to article 28 of the agriculture and markets law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237216" number="46076" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Retained.</CHARFORMAT> The term “retained” means hired, or retained or engaged, as an independent contractor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237177" number="46077" version="2319">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third-party courier service.</CHARFORMAT> The term “third-party courier service” means a service that (i) facilitates the same-day delivery or same-day pickup of food, beverages, or other goods from a food service establishment on behalf of such food service establishment or a third-party food delivery service; and (ii) that is owned and operated by a person other than the person who owns such food service establishment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234650" number="46078" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third-party food delivery service.</CHARFORMAT> The term “third-party food delivery service” means any website, mobile application, or other internet service that: (i) offers or arranges for the sale of food and beverages prepared by, and the same-day delivery or same-day pickup of food and beverages from, a food service establishment; and (ii) that is owned and operated by a person other than the person who owns such food service establishment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234649" number="46079" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third-party grocery delivery service.</CHARFORMAT> The term “third-party grocery delivery service” means any website, mobile application, or other internet service that: (i) facilitates, offers or arranges for the delivery of goods from a retail food establishment; and (ii) is owned or operated by a person other than the person who owns such retail food establishment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237217" number="46080" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Toilet facility.</CHARFORMAT> The term “toilet facility” means a room or space on the premises of a food service establishment or other business that: (i) contains a toilet or urinal and sink or similar washing facility; and (ii) is a dedicated facility for its patrons, or that is a dedicated facility for its employees to the extent such establishment or business does not have a dedicated facility for its patrons. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234648" number="46081" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Trip.</CHARFORMAT> The term “trip” means the time spent, distance travelled, and route followed by a contracted delivery worker to deliver goods, including, but not limited to, travel to 1 or more pick-up locations; selecting, preparing, assembling, waiting for, and picking up the goods for delivery; and travel to and unloading and depositing such goods at 1 or more drop-off locations, including any time spent waiting for goods to be retrieved by a customer or other person, provided that the term “trip” shall not include any time spent, distance travelled or route followed for the delivery of goods using a vehicle that is required by federal or state law, rule or regulation to be registered with the federal motor carrier safety administration. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135032" number="46082" version="2320">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2023/017, 2/1/2023, eff. 2/1/2023; Am. L.L. 2025/095, 7/30/2025, eff. 1/26/2026; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025; Am. L.L. 2025/124, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135049" number="46083" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/124" destination-id="0-0-0-28380">L.L. 2025/124</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-234622" number="46084" version="2239">
+										<HEADING>§ 20-1502 Outreach and education.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21300" name="20-1502"/>§ 20-1502 Outreach and education.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135031" number="46085" version="2240">
+											<PARA>The commissioner shall conduct outreach and education about the provisions of this chapter. Such outreach and education shall be provided to contracted delivery workers and delivery services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135030" number="46086" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135048" number="46087" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237233" number="46088" version="2321">
+										<HEADING>§ 20-1503 Reporting.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21302" name="20-1503"/>§ 20-1503 Reporting.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135029" number="46089" version="1016">
+											<PARA>The department shall annually report on its website the number and nature of the complaints received pursuant to this chapter, the results of investigations undertaken pursuant to this chapter, including the number of complaints not substantiated and the number of notices of violations issued, the number and nature of adjudications held to resolve notices of violation issued pursuant to this chapter, and the average time for a complaint to be resolved pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135028" number="46090" version="1016">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-135047" number="46091" version="1016">
+										<HEADING>§ 20-1504 Retaliation.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21304" name="20-1504"/>§ 20-1504 Retaliation.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135027" number="46092" version="2240">
+											<PARA>No person shall take any adverse action against a contracted delivery worker that penalizes such worker for, or is reasonably likely to deter such worker from, exercising or attempting to exercise any right protected under this chapter. Adverse actions include threats, intimidation, harassment, discipline, denial of work opportunities to or discrimination against a contracted delivery worker, reduction in hours or pay, reduction or downgrade of a worker&apos;s public or internal rating, and other negative consequences imposed on a contracted delivery worker, including actions related to perceived immigration status or work authorization. A contracted delivery worker need not explicitly refer to this chapter or the rights enumerated herein to be protected from retaliation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135025" number="46093" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135046" number="46094" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237234" number="46095" version="2321">
+										<HEADING>§ 20-1505 Notice of rights.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21306" name="20-1505"/>§ 20-1505 Notice of rights.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135024" number="46096" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall publish and make available a notice for a delivery service to provide to contracted delivery workers informing them of their rights protected under this chapter. Such notice shall be made available on the city&apos;s website and shall be updated if any changes are made to the requirements of this chapter or as otherwise deemed appropriate by the commissioner. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234661" number="46097" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>A delivery service shall provide such notice electronically to each contracted delivery worker retained by such service. Such notice shall be in English and the preferred language of the contracted delivery worker, provided that the commissioner has made the notice available in such language, and further provided that such contracted delivery worker has communicated their preferred language to the delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135023" number="46098" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135045" number="46099" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237235" number="46100" version="2321">
+										<HEADING>§ 20-1506 Recordkeeping.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21308" name="20-1506"/>§ 20-1506 Recordkeeping.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135021" number="46101" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A delivery service shall retain records documenting its compliance with the applicable requirements of this chapter for a period of 3 years and shall allow the department to access such records and other information, consistent with applicable law and in accordance with rules of the department and with appropriate notice, in furtherance of an investigation conducted pursuant to this chapter. A delivery service must maintain records in their original format and provide such records to the department in their original format or a machine-readable electronic format as set forth in rules of the department. The department also may establish by rule, and require delivery services to adhere to, a uniform system of records, and require submission of such records and other reports as the department may determine, in accordance with applicable law and rules and with appropriate notice. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234663" number="46102" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The failure of a delivery service to maintain, retain, or produce a record or other information required to be maintained by this chapter and requested by the department in furtherance of an investigation conducted pursuant to this chapter that is relevant to a material fact alleged by the department in a notice of violation issued pursuant to this subchapter creates a rebuttable presumption that such fact is true. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234662" number="46103" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>To implement or enforce the provisions of this chapter or to promulgate any rule necessary and appropriate to the administration of this chapter, the department may issue orders or subpoenas for the production of data, documents, testimony, or other information from a delivery service, a food service establishment, or any person that sells or provides goods delivered by, through or with the assistance of a delivery service. Such data, documents, testimony, or other information may include, but is not limited to, identifying and contact information of contracted delivery workers; information about the times that contracted delivery workers are available to work for delivery services; work schedules of contracted delivery workers; the mode of transportation contracted delivery workers use, including the makes and models of vehicles or devices; information about trips or other work opportunities that are offered, assigned, or performed by contracted delivery workers; contracted delivery workers’ pay, gratuities, and benefits; agreements with or internal policies covering contracted delivery workers; insurance policies covering contracted delivery workers; charges imposed by delivery services on customers, food service establishments or any person who sells or provides goods delivered by, through or with the assistance of a delivery service; and any other information deemed relevant by the department. In accordance with applicable law and rules and upon reasonable notice of no less than 14 days, a person who receives a request or subpoena for data, documents, or other information pursuant to this section shall produce such data, documents or information to the department in its original format or a machine-readable electronic format as set forth in rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135020" number="46104" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135044" number="46105" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237236" number="46106" version="2321">
+										<HEADING>§ 20-1507 Administrative enforcement.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21310" name="20-1507"/>§ 20-1507 Administrative enforcement.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135019" number="46107" version="2312">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7480055&amp;GUID=265D0ED3-FB2F-48B9-AF70-79973B11E094&amp;Options=ID|Text|&amp;Search=">L.L. 2026/034, 1/17/2026, eff. 1/17/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236669" number="46108" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall enforce the provisions of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135018" number="46109" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Any person alleging a violation of this chapter may file a complaint with the department within 2 years of the date the person knew or should have known of the alleged violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135017" number="46110" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Upon receiving such a complaint, the department shall investigate it. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135016" number="46111" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department may open an investigation on its own initiative. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135015" number="46112" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>A person or entity under investigation shall, in accordance with applicable law, provide the department with information or evidence that the department requests pursuant to the investigation. The department may attempt to resolve an investigation concerning a violation of this chapter through any action authorized by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="Chapter 64" destination-id="0-0-0-0">chapter 64</LINK> of the charter. Adjudicatory powers pursuant to this subchapter may be exercised by the commissioner or by the office of administrative trials and hearings pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="Chapter 64" destination-id="0-0-0-0">chapter 64</LINK> of the charter, in accordance with any delegation of such adjudicatory powers by the department to such office pursuant to paragraph (1) of subdivision (h) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="2203" destination-id="0-0-0-0">2203</LINK> of the charter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135014" number="46113" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The department shall keep the identity of any complainant confidential unless disclosure is necessary to resolve the investigation or is otherwise required by law. The department shall, to the extent practicable, notify such complainant that the department will be disclosing the complainant&apos;s identity before such disclosure. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135013" number="46114" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner may promulgate rules necessary and appropriate to the administration of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135012" number="46115" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135043" number="46116" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237237" number="46117" version="2321">
+										<HEADING>§ 20-1508 Remedies for workers.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21312" name="20-1508"/>§ 20-1508 Remedies for workers.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135011" number="46118" version="2312">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7480055&amp;GUID=265D0ED3-FB2F-48B9-AF70-79973B11E094&amp;Options=ID|Text|&amp;Search=">L.L. 2026/034, 1/17/2026, eff. 1/17/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236670" number="46119" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For violations of their rights under this chapter, a contracted delivery worker shall be entitled to the following relief: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135010" number="46120" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>all compensatory damages and other relief required to make the worker or former worker whole; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135009" number="46121" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>an order directing compliance with the requirements set forth in this chapter; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135008" number="46122" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>for each violation of: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135007" number="46123" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1504" destination-id="0-0-0-21304">20-1504</LINK>, <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135006" number="46124" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>$500 for each violation not involving denial of future work opportunities; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135005" number="46125" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>$2,500 for each violation involving denial of future work opportunities; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135004" number="46126" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>any equitable relief appropriate under the circumstances, including but not limited to payment of any lost earnings resulting from such retaliation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135003" number="46127" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1521" destination-id="0-0-0-21296">20-1521</LINK>, $200; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135002" number="46128" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK>, including any minimum payment established by rule pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK>, 3 times the amount of any payment that should have been made and was not timely made; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135001" number="46129" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1523" destination-id="0-0-0-21324">20-1523</LINK>, $200; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135000" number="46130" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1524" destination-id="0-0-0-21294">20-1524</LINK>, $200; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134999" number="46131" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1527" destination-id="0-0-0-28382">20-1527</LINK>, $200. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234664" number="46132" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The relief authorized by this section shall be imposed on a per worker and per instance basis for each violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134998" number="46133" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236666" number="46134" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237238" number="46135" version="2321">
+										<HEADING>§ 20-1509 Civil penalties.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21314" name="20-1509"/>§ 20-1509 Civil penalties.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134997" number="46136" version="2312">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7480055&amp;GUID=265D0ED3-FB2F-48B9-AF70-79973B11E094&amp;Options=ID|Text|&amp;Search=">L.L. 2026/034, 1/17/2026, eff. 1/17/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236671" number="46137" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For each violation of this chapter, any person is liable for a penalty of $500 for the first violation and, for subsequent violations that occur within 2 years of any previous violation of this chapter, up to $750 for the second violation and up to $1,000 for each succeeding violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134996" number="46138" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The penalties imposed pursuant to this section shall be imposed on a per worker and per instance basis for each violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134995" number="46139" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236667" number="46140" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237239" number="46141" version="2321">
+										<HEADING>§ 20-1510 Enforcement by the corporation counsel.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21316" name="20-1510"/>§ 20-1510 Enforcement by the corporation counsel.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134994" number="46142" version="1016">
+											<PARA>The corporation counsel or such other persons designated by the corporation counsel on behalf of the department may initiate in any court of competent jurisdiction any action or proceeding that may be appropriate or necessary for correction of any violation issued pursuant to sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1507" destination-id="0-0-0-21310">20-1507</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1509" destination-id="0-0-0-21314">20-1509</LINK>, including actions to secure permanent injunctions, enjoining any acts or practices that constitute such violation, mandating compliance with the provisions of this chapter, or such other relief as may be appropriate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134992" number="46143" version="1016">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-135040" number="46144" version="1016">
+										<HEADING>§ 20-1511 Private cause of action.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21318" name="20-1511"/>§ 20-1511 Private cause of action.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134993" number="46145" version="2312">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7480055&amp;GUID=265D0ED3-FB2F-48B9-AF70-79973B11E094&amp;Options=ID|Text|&amp;Search=">L.L. 2026/034, 1/17/2026, eff. 1/17/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236672" number="46146" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any person alleging a violation of the following provisions of this chapter may bring a civil action, in accordance with applicable law, in any court of competent jurisdiction: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134991" number="46147" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1504" destination-id="0-0-0-21304">20-1504</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134990" number="46148" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1521" destination-id="0-0-0-21296">20-1521</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134989" number="46149" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK>, including any minimum payment established by rule pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134988" number="46150" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1523" destination-id="0-0-0-21324">20-1523</LINK>; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134987" number="46151" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1524" destination-id="0-0-0-21294">20-1524</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134986" number="46152" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such court may order compensatory, injunctive and declaratory relief, including the remedies set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1508" destination-id="0-0-0-21312">20-1508</LINK>, and reasonable attorney&apos;s fees and costs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134985" number="46153" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A civil action under this section shall be commenced within 2 years of the date the person knew or should have known of the alleged violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134984" number="46154" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Any person filing a civil action shall simultaneously serve notice of such action and a copy of the complaint upon the department. Failure to so serve a notice does not adversely affect any person&apos;s cause of action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134981" number="46155" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A worker need not file a complaint with the department pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1507" destination-id="0-0-0-21310">20-1507</LINK> before bringing a civil action; however, no person shall file a civil action based on the same facts as a complaint filed with the department pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1507" destination-id="0-0-0-21310">20-1507</LINK> unless such complaint has been withdrawn or dismissed without prejudice to further action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234666" number="46156" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>No person shall file a complaint with the department pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1507" destination-id="0-0-0-21310">20-1507</LINK> based on the same facts as a civil action filed pursuant to this section unless such action has been withdrawn or dismissed without prejudice to further action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234665" number="46157" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The commencement or pendency of a civil action by a worker does not preclude the department from investigating a delivery service or commencing, prosecuting or settling a case against a delivery service based on some or all of the same violations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134980" number="46158" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236668" number="46159" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237240" number="46160" version="2321">
+										<HEADING>§ 20-1512 Civil action by corporation counsel for pattern or practice of violations.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21320" name="20-1512"/>§ 20-1512 Civil action by corporation counsel for pattern or practice of violations.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134976" number="46161" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Where reasonable cause exists to believe that a delivery service is engaged in a pattern or practice of violations of this chapter, the corporation counsel may commence a civil action on behalf of the city in a court of competent jurisdiction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234669" number="46162" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The corporation counsel shall commence such action by filing a complaint setting forth facts relating to such pattern or practice and requesting relief, which may include injunctive relief, relief for contracted delivery workers set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1508" destination-id="0-0-0-21312">20-1508</LINK>, civil penalties set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1509" destination-id="0-0-0-21314">20-1509</LINK>, and any other appropriate relief. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234668" number="46163" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Such action may be commenced only by the corporation counsel or such other persons designated by the corporation counsel. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234667" number="46164" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Nothing in this section prohibits (i) the department from exercising its authority under sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1507" destination-id="0-0-0-21310">20-1507</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1509" destination-id="0-0-0-21314">20-1509</LINK> or (ii) a person alleging a violation of this chapter from filing a complaint pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1507" destination-id="0-0-0-21310">20-1507</LINK> or a civil action pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1511" destination-id="0-0-0-21318">20-1511</LINK> based on the same facts pertaining to such a pattern or practice, provided that a civil action pursuant to this section shall not have previously been commenced. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134975" number="46165" version="1016">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Investigation.</CHARFORMAT> The corporation counsel may initiate any investigation to ascertain such facts as may be necessary for the commencement of a civil action pursuant to subdivision a of this section, and in connection therewith shall have the power to issue subpoenas to compel the attendance of witnesses and the production of documents, to administer oaths and to examine such persons as are deemed necessary. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134952" number="46166" version="2240">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134972" number="46167" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-237241" number="46168" version="2321">
+				<HEADING>Subchapter 2: Protections for Contracted Delivery Workers</HEADING>
+				<PARA>Subchapter 2: Protections for Contracted Delivery Workers</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-134953" number="46169" version="2240">
+					<PARA>
+						<PARAFORMAT justify="center">(Title amended by L.L. 2025/123, 9/10/2025, eff. 9/10/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+						</PARAFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-234645" number="46170" version="2321">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237242" number="46171" version="2321">
+										<HEADING>§ 20-1521 Delivery offers or assignments.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21296" name="20-1521"/>§ 20-1521 Delivery offers or assignments.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134961" number="46172" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Each third-party food delivery service, and each third-party courier service that maintains a website, mobile application, or other internet service through which such service offers or assigns a trip to a food delivery worker retained by such third-party courier service, shall provide each food delivery worker retained by such third-party food delivery service or third-party courier service with the ability to specify, in such form and manner as the department may specify by rule: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237199" number="46173" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the maximum distance, in increments of not greater than 1 mile, between (i) the first pick-up location of a trip, and (ii) the drop-off location of such trip that is farthest from such pick-up location, for any trip that such worker will accept; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237198" number="46174" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>that such worker will not accept trips that require travel over particular bridges chosen by such worker, provided the department shall determine by rule any such bridge that a worker may so choose; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237197" number="46175" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>that such worker will not accept trips that require travel through particular tunnels chosen by such worker, provided the department shall determine by rule any such tunnel that a worker may so choose. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237196" number="46176" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each third-party food delivery service, and each third-party courier service that maintains a website, mobile application, or other internet service through which such service offers or assigns a trip to a food delivery worker retained by such third-party courier service, shall allow each food delivery worker retained by such third-party food delivery service or third-party courier service to change the parameters established by such worker pursuant to subdivision a at any time. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237195" number="46177" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A third-party food delivery service, or a third-party courier service that maintains a website, mobile application, or other internet service through which such service offers or assigns a trip to a food delivery worker retained by such third-party courier service, shall not offer or assign any food delivery worker any trip that is inconsistent with the parameters established by such worker pursuant to subdivision a and shall not penalize a food delivery worker for selecting or changing such parameters. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237194" number="46178" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Each time a delivery service offers or assigns a trip to a contracted delivery worker, before such worker accepts such trip, such delivery service shall disclose to such worker, in such form and manner as the department may specify by rule, the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237193" number="46179" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>any address where the goods must be picked up during such trip; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237192" number="46180" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the estimated time and distance from the first pick-up location of the trip to the final drop-off location of such trip; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237191" number="46181" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>the amount of any gratuity, if specified by any customer; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237190" number="46182" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>the amount of compensation to be paid to the contracted delivery worker, excluding any gratuity; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237189" number="46183" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>any other information that the department determines would aid a contracted delivery worker in deciding whether to accept an offer or assignment for a trip from a delivery service, as determined by the department by rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134954" number="46184" version="2320">
+											<PARA>(L.L. 2021/114, 10/24/2021, eff. 4/22/2022; Am. L.L. 2021/118, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135102" number="46185" version="2322">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/118" destination-id="0-0-0-21328">L.L. 2021/118</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237244" number="46186" version="2321">
+										<HEADING>§ 20-1522 Minimum payment.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21322" name="20-1522"/>§ 20-1522 Minimum payment.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-234638" number="46187" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall study the working conditions for food delivery workers. In conducting such study, the department may coordinate with any other agency, organization, or office that can assist in such study. Such study shall include, at minimum, consideration of the pay food delivery workers receive and the methods by which such pay is determined, the total income food delivery workers earn, the expenses of such workers, the equipment required to perform their work, the hours of such workers, the average mileage of a trip, the mode of travel used by such workers, the safety conditions of such workers, and such other topics as the department deems appropriate. In conducting such study, the department shall not be required to consider the business model or operations of any third-party food delivery service or third-party courier service, any differences between or among the business models or operations of third-party food delivery services and third-party courier services, or the potential impact on any third-party food delivery service or third-party courier service of establishing any minimum payment requirement pursuant to this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237214" number="46188" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>In furtherance of such study, the department may issue orders or subpoenas for the production of data, documents, and other information from a third-party food delivery service or third-party courier service relating to food delivery workers that include, but are not limited to, worker identifiers, information about the times that such workers are available to work for such third-party food delivery service or third-party courier service, the mode of transportation such workers use, how trips are offered or assigned to food delivery workers, the data such service maintains relating to the trips of such workers, the compensation such workers receive from such third-party food delivery service or third-party courier service, any gratuities such workers receive, information relating to both completed and cancelled trips, agreements with or policies covering such workers, contact information of such workers, information relating to the setting of fees paid by food service establishments and consumers, and any other information deemed relevant by the department. In accordance with applicable law and rules and with appropriate notice, a third-party food delivery service or third-party courier service must produce such information to the department in its original format or a machine-readable electronic format as set forth in rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237213" number="46189" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Based on the results of the study conducted pursuant to paragraph a of this subdivision, and no later than January 1, 2023, the department shall by rule establish a method for determining the minimum payments that must be made to a food delivery worker by a third-party food delivery service or third-party courier service. In establishing such method, the department shall, at minimum, consider the duration and distance of trips, the expenses of operation associated with the typical modes of transportation such workers use, the types of trips, including the number of deliveries made during a trip, the on-call and work hours of food delivery workers, the adequacy of food delivery worker income considered in relation to trip-related expenses, and any other relevant factors, as determined by the department. In establishing such method, the department shall not be required to consider the business model or operations of any third-party food delivery service or third-party courier service, any differences between or among the business models or operations of third-party food delivery services and third-party courier services, or the potential impact on any third-party food delivery service or third-party courier service of establishing such a method.- Any rules promulgated by the department pursuant to this subdivision shall not prevent payments to food delivery workers from being calculated on an hourly or weekly basis, or by any other method, provided that the actual payments made to such workers comply with the minimum payment requirements determined by the department. The department may establish a single method for determining minimum payments to food delivery workers by any third-party food delivery service or third-party courier service. Nothing in this section shall be construed as requiring the department to establish a method for determining minimum payments to a food delivery worker retained by any third-party food delivery service or any third-party courier service that is tailored to the circumstances of a particular service or is different than the method for determining minimum payments to a food delivery worker retained by any other third-party food delivery service or third-party courier service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237212" number="46190" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Any minimum payment determined by the department pursuant to this section shall not include gratuities. A delivery service shall not retain any portion of any gratuity or use gratuities to offset or cover any portion of minimum payments required by this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237211" number="46191" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A delivery service shall clearly and conspicuously disclose to contracted delivery workers retained by such service which payments constitute gratuities from customers and which payments constitute compensation paid by such delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237210" number="46192" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>A third-party food delivery service or third-party grocery delivery service that allows a customer to place an order by, through or with the assistance of its website, mobile application or other internet service must provide such customer an opportunity to pay a gratuity to the food delivery worker or grocery delivery worker retained by such service who delivers, selects, prepares, or assembles such order. Such third-party food delivery service or third-party grocery delivery service must provide such opportunity to a customer in plain language and in a conspicuous manner before or at the same time such customer places such order. Nothing herein shall be construed to require a customer to pay a gratuity or to prohibit a third-party food delivery service or third-party grocery delivery service from providing a customer an additional opportunity to add, remove, or adjust a gratuity after an order is placed. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237209" number="46193" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>When providing an opportunity to pay a gratuity pursuant to paragraph 3 of this subdivision, a third-party food delivery service or third-party grocery delivery service shall provide a customer with gratuity options that may be set at the discretion of such service, provided that such gratuity options include an option to pay a gratuity that is at least 10 percent of the purchase price and an additional option that allows such customer to manually enter a different amount or percentage of such purchase price. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237208" number="46194" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The department may promulgate rules for the implementation of this section, including specifying the form and manner of the opportunity to pay a gratuity pursuant to this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237207" number="46195" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Beginning February 1, 2024 and no later than February 1 of each year thereafter, the department shall announce any update to any minimum payment method established pursuant to this section if it determines an update is warranted or necessary. Any such update shall become effective the following April 1 after it has been announced. If the department determines that an amendment to any minimum payment standard is warranted or necessary, it is hereby authorized to promulgate such amendment by rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237206" number="46196" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The department shall, no later than September 30, 2024, and 2 years thereafter, submit to the council and the mayor a report on any minimum payment standard, any amendment to any such standard, and the effect of any such minimum payment standard on contracted delivery workers and the delivery industry. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237205" number="46197" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>A third-party grocery delivery service shall make payments to grocery delivery workers retained by such service that meet or exceed the minimum pay requirements for food delivery workers established by the department pursuant to subdivision a of this section. The department may by rule establish a method for applying such minimum pay requirements to grocery delivery workers that is tailored to the circumstances of such workers, including variations in the working conditions of such workers as compared to the working conditions of food delivery workers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237204" number="46198" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>No later than 18 months after the effective date of the local law that added this subdivision, the department shall by rule establish 1 or more methods for determining the minimum payments a delivery service shall make to a contracted delivery worker retained by such service. Any minimum payment determined pursuant to any such method shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237203" number="46199" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A labor component, which shall be no less than the minimum wage required pursuant to paragraph a of subdivision 1-a or paragraph a of subdivision 1-b of section 652 of the labor law, or its successor provisions; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237202" number="46200" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A benefit component, which shall be no less than an amount equal to the value of benefits required to be provided by employers to employees in the city pursuant to city, state, or federal law, as determined by the department; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237201" number="46201" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>An expense component, which shall be sufficient to cover ordinary and necessary expenses of a contracted delivery worker, as determined by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237200" number="46202" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>In establishing any method pursuant to subdivision f, the department shall consider factors including, but not limited to, the minimum pay and benefits that are required to be provided by employers to employees in the city pursuant to city, state, or federal law; the pay and benefits received by employees or independent contractors in the city performing work similar to the work performed by contracted delivery workers or working in similar industries as contracted delivery workers; ordinary and necessary expenses of contracted delivery workers; and any other relevant factor, as determined by the department. In establishing such method, the department may, but is not required, to consider variations among the business models or operations of delivery services, including potential impacts on any delivery service of establishing such a method, and variations among the working conditions of contracted delivery workers, including variations in compensation of contracted delivery workers, the total income different contracted delivery workers earn, the expenses of such workers, the equipment used by such workers, the hours of such workers, whether any such worker reports to a designated location prior to commencing work for a delivery service, and such other topics as the department deems appropriate. The department may establish a single method for determining minimum payments to contracted delivery workers by any delivery service, or may establish 1 or more methods for determining minimum payments to such workers by any such service. Any method established pursuant to subdivision f may include individual criteria for determining the minimum payments a delivery service shall make to each contracted delivery worker retained by such service, or aggregate criteria for determining the total amount of minimum payments a delivery service shall make to all contracted delivery workers retained by such delivery service, or both such individual criteria and aggregate criteria. Nothing in this subdivision shall be construed as requiring the department to establish a method for determining minimum payments to a contracted delivery worker retained by a delivery service that is tailored to the circumstances of such service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135051" number="46203" version="2320">
+											<PARA>(L.L. 2021/115, 10/24/2021, eff. 4/22/2022; Am. L.L. 2021/118, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/107, 8/13/2025, eff. 1/26/2026; Am. L.L. 2025/108, 8/13/2025, eff. 1/26/2026; Am. L.L. 2025/123, 9/10/2025, eff. 9/10/2025 and 1/26/2026; Am. L.L. 2025/124, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134955" number="46204" version="2322">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/118" destination-id="0-0-0-21328">L.L. 2021/118</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/124" destination-id="0-0-0-28380">L.L. 2025/124</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-135103" number="46205" version="1018">
+										<HEADING>§ 20-1523 Payments to workers.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21324" name="20-1523"/>§ 20-1523 Payments to workers.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-237218" number="46206" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A delivery service shall not charge or impose any fee on a contracted delivery worker retained by such service for the use of any form of payment selected by such service to pay such worker for work performed. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237229" number="46207" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>A delivery service shall pay a contracted delivery worker retained by such service for work performed no less frequently than once per pay period. A delivery service shall pay all compensation, including any gratuity, owed to such contracted delivery worker for a pay period no later than 7 calendar days after the date on which such pay period ends. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237228" number="46208" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>It shall be unlawful for a delivery service or any person to fail to distribute to a contracted delivery worker any portion of any gratuity. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237227" number="46209" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>1.<TAB tab-count="1"/>No later than 7 calendar days after the date on which such pay period ended, a delivery service shall provide each contracted delivery worker retained by such service a written statement, in a form and manner the department may specify by rule, of all compensation owed to such contracted delivery worker for such pay period. Such statement shall set forth the gross compensation and net compensation of such contracted delivery worker for such pay period. Such statement shall also itemize all compensation and any permissible deductions or allowances taken during such pay period, including, in a form the department may specify by rule, a separate line item for: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237226" number="46210" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The minimum payment required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK> or any rule promulgated thereunder; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237225" number="46211" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Any bonus or other monetary payment, including any such bonus or payment that may contribute to minimum payment required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK> or any rule promulgated thereunder; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237224" number="46212" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Gratuities; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237223" number="46213" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Any monetary payment that may not, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1522" destination-id="0-0-0-21322">20-1522</LINK> or any rule promulgated thereunder, contribute to minimum payments required by such section or any such rule; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237222" number="46214" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Any deduction or allowance taken, if any; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237221" number="46215" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Any additional information that the department determines by rule would enable a contracted delivery worker to understand the compensation owed to such worker by the delivery service, including any information necessary to contest any errors in the statement. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237220" number="46216" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such statement shall also demonstrate the method used and calculations made by a delivery service to determine the minimum payments made to a contracted delivery worker for the respective pay period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237219" number="46217" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>A delivery service shall retain a copy of any statement required by this subdivision for a period of at least 3 years in a form and manner the department may specify by rule. During such 3 year period, a contracted delivery worker may request a copy of any such statement provided to such contracted delivery worker by a delivery service. Such delivery service shall provide such a copy no less than 3 business days following such request. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135060" number="46218" version="2320">
+											<PARA>(L.L. 2021/116, 10/24/2021, eff. 4/22/2022; Am. L.L. 2021/118, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/113, 8/13/2025, eff. 1/26/2026; Am. L.L. 2025/123, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135104" number="46219" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/118" destination-id="0-0-0-21328">L.L. 2021/118</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237245" number="46220" version="2321">
+										<HEADING>§ 20-1524 Insulated food delivery bags.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21294" name="20-1524"/>§ 20-1524 Insulated food delivery bags.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134956" number="46221" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>1.<TAB tab-count="1"/>A delivery service shall provide at its own expense, or ensure the availability of, an insulated food delivery bag to each contracted delivery worker retained by such service, provided that such worker has completed at least 6 deliveries of goods that are customarily transported in an insulated food delivery bag for such service. Such service may not require any such contracted delivery worker to provide an insulated food delivery bag at such worker&apos;s expense. Such an insulated food delivery bag provided to a contracted delivery worker that uses a bicycle to deliver goods must be designed for use in accordance with section 1235 of the vehicle and traffic law. The department, in consultation with the department of transportation, may establish requirements for an insulated food delivery bag provided to a contracted delivery worker that uses a vehicle or device other than a bicycle. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237231" number="46222" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Nothing in this section shall be construed to require the use of insulated delivery bags by contracted delivery workers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237230" number="46223" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department may promulgate rules as necessary to implement this section, including defining, for purposes of this section, goods that are customarily transported in an insulated food delivery bag, and establishing requirements for an insulated food delivery bag for a contracted delivery worker that use a vehicle or device other than a bicycle. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134951" number="46224" version="2320">
+											<PARA>(L.L. 2021/113, 10/24/2021, eff. 4/22/2022; Am. L.L. 2021/118, 10/24/2021, eff. 4/22/2022; Am. L.L. 2025/123, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135105" number="46225" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/118" destination-id="0-0-0-21328">L.L. 2021/118</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237246" number="46226" version="2321">
+										<HEADING>§ 20-1525 Fire safety materials.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-24944" name="20-1525"/>§ 20-1525 Fire safety materials.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-206473" number="46227" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department, in consultation with the fire department, shall identify materials developed pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="15-147" destination-id="0-0-0-24940">15-147</LINK>, regarding the fire risks posed by powered mobility devices and safety measures that mitigate such risks, for dissemination to contracted delivery workers. The department shall publish such materials on the city&apos;s website. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237232" number="46228" version="2320">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>A delivery service shall provide the materials identified by the department pursuant to subdivision a of this section to each contracted delivery worker retained by such service. A delivery service shall provide such materials by email and as a link within a text message sent to a contracted delivery worker no later than 60 days after the first date such service retains such worker to deliver goods. A delivery service shall provide such materials to a contracted delivery worker in English and the preferred language of such contracted delivery worker, provided that the department has published the materials in such language, and further provided that such contracted delivery worker has communicated the preferred language of such worker to the delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233999" number="46229" version="2320">
+											<PARA>(L.L. 2023/041, 3/20/2023, eff. 9/16/2023; Am. L.L. 2025/123, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-206470" number="46230" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-237247" number="46231" version="2321">
+										<HEADING>§ 20-1526 Powered mobility devices.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28336" name="20-1526"/>§ 20-1526 Powered mobility devices.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-234004" number="46232" version="2219">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any powered mobility device operated by a contracted delivery worker on behalf of a delivery service shall meet the requirements for a compliant delivery device. Any such powered mobility device shall be provided at the expense of such delivery service, provided such delivery service may permit a contracted delivery worker to make deliveries using a personal compliant delivery device, and provided further that such delivery service shall not require, as a term of employment or as a term of any contract, any of its contracted delivery workers to provide such a device at the expense of such worker. Failure by a contracted delivery worker to obtain a compliant delivery device at the expense of such worker shall not be the basis for the deactivation of such worker. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234003" number="46233" version="2219">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Subdivision a of this section shall not apply to a delivery service that participates in a program to provide new powered mobility devices that meet the requirements for a compliant delivery device and are capable of performing contracted delivery work assigned by the delivery service, at reduced cost or no cost, to a contracted delivery worker who trades in an eligible device. Participation in such program shall include an annual contribution of 1,600 such powered mobility devices for any delivery service that retains at least 5,000 delivery workers, or it shall include an annual contribution of 500 such powered mobility devices for any delivery service that retains less than 5,000 delivery workers. Participation in such program shall also include targeted communications and dissemination of information regarding such program to contracted delivery workers retained by such service. Participation is deemed complete and the provisions of this subdivision are satisfied upon the provision of at least 8,000 such powered mobility devices for any delivery service that retains at least 5,000 delivery workers, or the provision of at least 2,500 such powered mobility devices for any delivery service that retains less than 5,000 delivery workers. A participating delivery service may include their contribution of such powered mobility devices to such program up to one year prior to the effective date of this local law toward the total number of such powered mobility devices contributed to such program for purposes of satisfying the provisions of this subdivision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234002" number="46234" version="2219">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Subdivision a of this section shall also not apply to a delivery service that participates in a subscription program or service that allows contracted delivery workers retained by such delivery service to have access to a compliant delivery device at reduced cost or no cost while delivering for such service. Participation by a delivery service is deemed complete and the provisions of this subdivision are satisfied upon the provision of at least 52 weeks of access to such subscription program or service for at least half of all contracted delivery workers retained by such service.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234627" number="46235" version="2240">
+											<PARA>(L.L. 2025/095, 7/30/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-234000" number="46236" version="2240">
+										<HEADING>§ 20-1527 Toilet facility access.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28382" name="20-1527"/>§ 20-1527 Toilet facility access.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-234635" number="46237" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A food service establishment or other business with a premises located in the city that sells or provides goods delivered by a contracted delivery worker shall provide access to a toilet facility located on such premises to a contracted delivery worker that picks up such goods from such premises, including selecting, assembling, or packing such goods on such premises. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234634" number="46238" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding subdivision a, such an establishment or business is not required to provide access to a toilet facility to a contracted delivery worker where: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234633" number="46239" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Accessing a toilet facility would require a contracted delivery worker to walk through a kitchen, food preparation or storage area, or utensil washing area of a food service establishment; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234632" number="46240" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Accessing the toilet facility would create an obvious health or safety risk to the contracted delivery worker or to the food service establishment or business; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234631" number="46241" version="2240">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The commissioner has promulgated by rule an applicable exception to the requirement to provide access to a toilet facility as set forth in subdivision a. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234629" number="46242" version="2240">
+											<PARA>(L.L. 2025/123, 9/10/2025, eff. 1/26/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234628" number="46243" version="2321">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/123" destination-id="0-0-0-28378">L.L. 2025/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-237248" number="46244" version="2321">
+				<HEADING>Subchapter 3: Wrongful Deactivation of App-Based Contracted Delivery Workers</HEADING>
+				<PARA>Subchapter 3: Wrongful Deactivation of App-Based Contracted Delivery Workers</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236759" number="46245" version="2311">
+										<HEADING>§ 20-1531 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28650" name="20-1531"/>§ 20-1531 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236765" number="46246" version="2311">
+											<PARA>As used in this subchapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236764" number="46247" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Delivery platform.</CHARFORMAT> The term “delivery platform” means a website, mobile application, or other internet service through which a delivery service offers or assigns a trip to a contracted delivery worker retained by such delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236763" number="46248" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Egregious misconduct.</CHARFORMAT> The term “egregious misconduct” means misconduct that is so outrageous, dangerous, or illegal that a delivery service cannot reasonably expect to correct it through progressive discipline. “Egregious misconduct” may include, but is not limited to, depending on the circumstances: (i) violence or threats of violence; (ii) theft; (iii) sexual harassment; (iv) discrimination in violation of federal, state, or local law; or (v) willful destruction of property. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236762" number="46249" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Just cause.</CHARFORMAT> The term “just cause” means a contracted delivery worker’s misconduct or failure to satisfactorily perform their job duties for a delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236761" number="46250" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Misconduct.</CHARFORMAT> The term “misconduct” means conduct that is demonstrably and materially harmful to a delivery service’s legitimate business interests. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236760" number="46251" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Prior deactivation. </CHARFORMAT>The term “prior deactivation” means a deactivation that occurred during the 6 years prior to the effective date of the local law that added this subchapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236758" number="46252" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Probation period.</CHARFORMAT> The term “probation period” means a period of 30 calendar days beginning on the first date that a contracted delivery worker performs delivery services for a delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236757" number="46253" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Progressive discipline.</CHARFORMAT> The term “progressive discipline” means a disciplinary system that provides for a graduated range of disciplinary measures, including but not limited to warnings and further training requirements, in response to a contracted delivery worker’s misconduct or failure to satisfactorily perform job duties for a delivery service, with the type of disciplinary measure varying based on the frequency and degree of such misconduct or failure. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236756" number="46254" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236782" number="46255" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236783" number="46256" version="2311">
+										<HEADING>§ 20-1532 Prohibition on wrongful deactivation.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28652" name="20-1532"/>§ 20-1532 Prohibition on wrongful deactivation.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236755" number="46257" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A delivery service shall not deactivate a contracted delivery worker after such contracted delivery worker’s probation period with such service except for just cause, for a bona fide economic reason, as described in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1534" destination-id="0-0-0-28656">20-1534</LINK>, or where federal, state, or local law or rule requires such delivery service to deactivate such contracted delivery worker. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236754" number="46258" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>In determining whether a delivery service has deactivated a contracted delivery worker for just cause, a fact-finder shall consider, in addition to any other relevant factors, whether: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236753" number="46259" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such contracted delivery worker knew or should have known of such delivery service’s policy, rule, or practice that forms a basis for progressive discipline or such deactivation and knew or should have known of the potential consequences for violation of such policy, rule, or practice; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236752" number="46260" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such delivery service’s policy, rule, or practice that forms a basis for progressive discipline or such deactivation is reasonably related to safe and efficient delivery service operations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236751" number="46261" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Such delivery service provided relevant and adequate training to such contracted delivery worker; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236750" number="46262" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Such delivery service’s policy, rule, or practice that forms a basis for such deactivation, including the utilization of progressive discipline, was reasonable and applied consistently; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236749" number="46263" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Such delivery service undertook a fair and objective investigation into such contracted delivery worker’s misconduct or failure to satisfactorily perform job duties; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236748" number="46264" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Such deactivation is a reasonable response to such contracted delivery worker’s misconduct or failure to satisfactorily perform job duties and accounts for any mitigating circumstances, including but not limited to such contracted delivery worker’s past work history; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236747" number="46265" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Such contracted delivery worker violated the policy, rule, or practice or engaged in any misconduct or failure to satisfactorily perform job duties that forms a basis for progressive discipline or such deactivation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236746" number="46266" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Except where deactivation is for egregious misconduct, a deactivation of a contract delivery worker shall not be considered based on just cause unless a delivery service demonstrates that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236745" number="46267" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such delivery service has utilized progressive discipline; provided, however, that such delivery service may not rely on progressive discipline issued more than 1 year before such deactivation; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236744" number="46268" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such delivery service had a written policy on progressive discipline that was in effect and was provided to such contracted delivery worker. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236743" number="46269" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Where a deactivation of a contracted delivery worker is for a bona fide economic reason, as described in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1534" destination-id="0-0-0-28656">20-1534</LINK>, a delivery service must provide, in a form and manner designated by the department, an advance notice of layoff to such contracted delivery worker at least 120 days prior to such deactivation. Such advance notice shall state all the precise and detailed reasons for, and the effective date of, such deactivation. Such advance notice shall include information about: (i) such contracted delivery worker’s right to challenge such deactivation as unlawful pursuant to this subchapter; (ii) how such contracted delivery worker may initiate an informal resolution process with such delivery service pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1537" destination-id="0-0-0-28662">20-1537</LINK>; (iii) the opportunity for such contracted delivery worker to submit evidence to substantiate a challenge to such deactivation; and (iv) such contracted delivery worker’s right to file a complaint with the department, or initiate a private action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236742" number="46270" version="2360">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Within 72 hours after deactivating a contracted delivery worker, a delivery service shall provide, in a form and manner designated by the department, a notice of deactivation to such contracted delivery worker which contains a written explanation of all the precise and detailed reasons for such deactivation and the effective date of such deactivation. Such notice shall include information about: (i) such contracted delivery worker’s right to challenge such deactivation as unlawful pursuant to this subchapter; (ii) how such contracted delivery worker may initiate an informal resolution process with such delivery service pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1537" destination-id="0-0-0-28662">20-1537</LINK>; (iii) the opportunity for such contracted delivery worker to submit evidence to substantiate a challenge to such deactivation; and (iv) such contracted delivery worker’s right to file a complaint with the department, or initiate a private action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236741" number="46271" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>This section shall not apply to any deactivation that occurred prior to the effective date of the local law that added this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236740" number="46272" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236780" number="46273" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236781" number="46274" version="2311">
+										<HEADING>§ 20-1533 Prior deactivations.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28654" name="20-1533"/>§ 20-1533 Prior deactivations.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236739" number="46275" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Within 1 year after the effective date of the local law that added this section, a contracted delivery worker who was subject to a prior deactivation by a delivery service may petition such delivery service for reinstatement or restoration of access to such delivery service’s delivery platform. Within 30 days after receipt of such petition, such delivery service shall reinstate or restore such contracted delivery worker’s access to such delivery platform, unless such prior deactivation occurred during the probation period or was for just cause, for a bona fide economic reason, as described in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1534" destination-id="0-0-0-28656">20-1534</LINK>, or required by federal, state, or local law or rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236738" number="46276" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>In determining whether a prior deactivation of a contracted delivery worker by a delivery service was for just cause, a fact-finder shall consider, in addition to any other relevant factors, whether: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236737" number="46277" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such contracted delivery worker knew or should have known of such delivery service’s policy, rule, or practice that formed a basis for such prior deactivation and knew or should have known of the potential consequences for violation of such policy, rule or practice; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236736" number="46278" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such delivery service’s policy, rule, or practice that formed a basis for such prior deactivation was reasonably related to safe and efficient delivery service operations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236735" number="46279" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Such delivery service’s policy, rule or practice that formed a basis for such prior deactivation was reasonable and applied consistently; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236734" number="46280" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Such prior deactivation was a reasonable response to such contracted delivery worker’s misconduct or failure to satisfactorily perform job duties and accounted for any mitigating circumstances, including, but not limited to, such contracted delivery worker’s past work history; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236733" number="46281" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Such contracted delivery worker violated the policy, rule, or practice or committed the misconduct or failure to satisfactorily perform job duties that formed a basis for such prior deactivation; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236732" number="46282" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Such delivery service considered any exculpatory evidence or other facts indicating that such contracted delivery worker did not violate such delivery service’s policy, rule or practice. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236731" number="46283" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>If a delivery service does not reinstate or restore access of a contracted delivery worker who was subject to a prior deactivation to such delivery service’s delivery platform within 30 days after receipt of a petition pursuant to subdivision a of this section, such delivery service shall provide a written explanation, in a form and manner designated by the department, to such contracted delivery worker of all the precise and detailed reasons for such prior deactivation. Such written explanation shall include information about: (i) such contracted delivery worker’s right to challenge such prior deactivation as unlawful pursuant to this subchapter; (ii) how such contracted delivery worker may initiate an informal resolution process with the delivery service pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1537" destination-id="0-0-0-28662">20-1537</LINK>; (iii) the opportunity of such contracted delivery worker to submit evidence to substantiate a challenge to such prior deactivation; and (iv) such contracted delivery worker’s right to file a complaint with the department, or initiate a private action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236730" number="46284" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Notwithstanding any other provision of this section, a delivery service may decline to immediately reinstate or restore access to such delivery service’s delivery platform to a contracted delivery worker whose access is required to be reinstated or restored pursuant to subdivision a of this section if such contracted delivery worker does not meet a minimum requirement that applies to all current contracted delivery workers for such delivery service or if such delivery service is not providing access to such delivery platform to any new contracted delivery worker, and has not provided such access during the 3 months prior to the effective date of the local law that added this section. Where such delivery service declines to immediately reinstate or restore access to such delivery platform pursuant to this subdivision, such delivery service shall maintain a waitlist of contracted delivery worker whose access to such delivery platform is required to be reinstated or restored pursuant to subdivision a of this section and reinstate or restore such contracted delivery worker’ access to such delivery platform, in the order in which such contracted delivery workers were placed on such waitlist, provided that any such contracted delivery worker meets the minimum requirements that apply to all current contracted delivery workers for such delivery service, prior to providing any other new contracted delivery worker access to such delivery platform. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236729" number="46285" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236778" number="46286" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236779" number="46287" version="2311">
+										<HEADING>§ 20-1534 Bona fide economic reasons.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28656" name="20-1534"/>§ 20-1534 Bona fide economic reasons.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236728" number="46288" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A deactivation, including a prior deactivation, shall not be considered based on a bona fide economic reason unless supported by a delivery service’s business records demonstrating that such deactivation is in response to: (i) a proportionate reduction in volume of sales or profit within the fiscal quarter that ended prior to the issuance of a notice of layoff required by subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK>; or (ii) a delivery service discontinuing its driving services in the city. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236727" number="46289" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Where a delivery service performs deactivations of contracted delivery workers based on a bona fide economic reason, such deactivations must be made in order of seniority of such contracted delivery workers, in accordance with rules of the department. For purposes of this section, seniority shall account for the date such contracted delivery worker commenced serving as a delivery worker for such service, and the amount of work performed by such contracted delivery worker in the timeframe. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236726" number="46290" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A delivery service shall make reasonable efforts to offer reinstatement or restoration of access to such delivery service’s delivery platform to any contracted delivery worker deactivated by such delivery service based on a bona fide economic reason within the previous 3 years, if any, before such delivery service may provide any other new contracted delivery worker access to such delivery platform. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236725" number="46291" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>This subdivision shall apply only to deactivations that occur on or after the effective date of the local law that added this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236724" number="46292" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236776" number="46293" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236777" number="46294" version="2311">
+										<HEADING>§ 20-1535 Burden of proof; evidence.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28658" name="20-1535"/>§ 20-1535 Burden of proof; evidence.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236723" number="46295" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>In any proceeding alleging a violation by a delivery service of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK>, such delivery service shall bear the burden of proving just cause pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK> by a preponderance of the evidence, subject to the rules of evidence as set forth in the civil practice law and rules or, where applicable, the common law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236722" number="46296" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>In determining whether a delivery service had just cause for a deactivation, a fact-finder may not consider any reasons proffered by the delivery service not included in the notice of deactivation provided to the contracted delivery worker pursuant to subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> or the written explanation provided to the contracted delivery worker pursuant to subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236721" number="46297" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A contracted delivery worker may submit evidence in any proceeding alleging a violation of this subchapter that was not provided to a delivery service pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK> or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1537" destination-id="0-0-0-28662">20-1537</LINK>, and a fact-finder shall consider such evidence, notwithstanding any failure by such contracted delivery worker to submit such evidence to such delivery service prior to such proceeding. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236720" number="46298" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236774" number="46299" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236775" number="46300" version="2311">
+										<HEADING>§ 20-1536 Provision of data.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28660" name="20-1536"/>§ 20-1536 Provision of data.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236719" number="46301" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Upon the issuance of a notice of deactivation required pursuant to subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK>, a delivery service shall provide a deactivated contracted delivery worker with information and data relevant to such contracted delivery worker’s deactivation. Such information shall include, but need not be limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236718" number="46302" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Performance data specific to such contracted delivery worker; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236717" number="46303" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>All customer comments, ratings, and complaints received regarding the contracted delivery worker; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236716" number="46304" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Anonymized and aggregated reports, covering the 12 months prior to such contracted delivery worker’s deactivation, regarding discipline, including deactivation, imposed by such delivery service on any other contracted delivery workers who engaged in the same or similar misconduct or failure to satisfactorily perform job duties forming a basis for the deactivation of the contracted delivery worker subject to such notice. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236715" number="46305" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The information or data required by subdivision a of this section shall be redacted to remove the personally identifiable information of customers, provided that a factfinder may require disclosure of certain personally identifiable information if a contracted delivery worker could not otherwise meaningfully contest the basis for the deactivation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236714" number="46306" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Upon the issuance of the notice required pursuant to subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK>, a delivery service shall provide a deactivated contracted delivery worker with information and data relevant to such contracted delivery worker’s deactivation, including all information required under subdivision a of this section, to the extent that such information is available to such delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236713" number="46307" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>For at least 6 years after deactivating a contracted delivery worker, a delivery service must continue to provide such contracted delivery worker with access to all information and data concerning such contracted delivery worker that such contracted delivery worker had access to prior to deactivation, including but not limited to such contracted delivery worker’s tax and payment records. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236712" number="46308" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236772" number="46309" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236773" number="46310" version="2311">
+										<HEADING>§ 20-1537 Informal resolution process.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28662" name="20-1537"/>§ 20-1537 Informal resolution process.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236711" number="46311" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A delivery service shall maintain an email address, website or other form of electronic communication through which a contracted delivery worker or their representative may challenge such contracted delivery worker’s deactivation, prior deactivation, or impending deactivation for which such contracted delivery worker received a notice of layoff pursuant to subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> as unlawful pursuant to this subchapter. Such delivery service must provide such contracted delivery worker an opportunity to submit evidence to substantiate any such challenge and accept written communications pursuant to this section in the language in which they are written. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236710" number="46312" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>A contracted delivery worker may seek informal resolution of a deactivation of such contracted delivery worker, or an impending deactivation for which such contracted delivery worker receives a notice of layoff pursuant to subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK>, by a delivery service by initiating, within 1 year of such deactivation or receipt of such notice of layoff, an informal resolution process through the email address, website, or other form of electronic communication maintained by such delivery service pursuant to subdivision a of this section, or through any other means that such contracted delivery worker and such delivery service agree to. The parties shall have 15 days after commencing such informal resolution process to reach a resolution, unless such contracted delivery worker and such delivery service mutually agree to a longer timeframe. If the parties resolve a challenge pursuant to this subdivision, they shall memorialize such resolution in a written agreement, on a form provided by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236709" number="46313" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A failure by a delivery service to engage in an informal resolution process as described in this section shall not be subject to a civil penalty under this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236708" number="46314" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236770" number="46315" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236771" number="46316" version="2311">
+										<HEADING>§ 20-1538 Reporting; records; information.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28664" name="20-1538"/>§ 20-1538 Reporting; records; information.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236707" number="46317" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Data collection and reporting.</CHARFORMAT> No less than annually, the department shall make available on the city’s website a report on deactivations and alleged violations of sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK> during the preceding calendar year. The department shall promulgate rules requiring that delivery services produce anonymized, aggregated data necessary to prepare such report. Such report shall include, with respect to the year preceding the release of such report: (i) the number of contracted delivery workers of each delivery service deactivated for just cause or bona fide economic reasons; (ii) the number of contracted delivery workers who filed complaints with the department alleging violations of sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK> and the outcomes of such complaints; (iii) the number of contracted delivery workers who initiated an informal resolution process; (iv) the number of contracted delivery workers who reached an informal resolution with a delivery service; (v) the number of contracted delivery workers who commenced arbitrations or private actions that include claims alleging violations of sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1532" destination-id="0-0-0-28652">20-1532</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK> and the outcomes of such proceedings; and (vi) any other information the department deems relevant. Until all contracted delivery workers placed on a waitlist pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK> have had their delivery platform access restored, such report shall also include the number of contracted delivery workers with prior deactivations who petitioned a delivery service for reinstatement or restoration of their access to such delivery service’s delivery platform and the number of contracted delivery workers who were placed on a waitlist pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1533" destination-id="0-0-0-28654">20-1533</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236705" number="46318" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Recordkeeping.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236706" number="46319" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department may promulgate rules concerning the maintenance, retention, and provision by a delivery service of data necessary to the implementation and enforcement of this subchapter, which may include a requirement that a delivery service adhere to a uniform system of records and submit such records and other reports as the department may determine, in accordance with applicable law and rules and with appropriate notice. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236704" number="46320" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>To implement or enforce the provisions of this subchapter, the department may issue an order or subpoena for the production of data, documents, testimony, or other information from a delivery service. Such data, documents, testimony, or other information may include, but are not limited to, information about the data that a delivery service monitors, collects, or stores about or from a contracted delivery worker or customer; information about discipline imposed on a contracted delivery worker; and any other information deemed relevant by the department. In accordance with applicable law and rules and upon reasonable notice of no less than 14 days, a person who receives a request or subpoena for data, documents, or other information pursuant to this section shall produce such data, documents or information to the department in its original format or a machine-readable electronic format as set forth in rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236703" number="46321" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Information and assistance program.</CHARFORMAT> The department shall establish a program that provides information and assistance to contracted delivery worker relating to the provisions of this subchapter. Such program shall include assistance by a natural person by phone and email and outreach and education to the public relating to the provisions of this subchapter. Such program shall not provide legal advice but may provide general information and referrals to legal service providers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236702" number="46322" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236768" number="46323" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236769" number="46324" version="2311">
+										<HEADING>§ 20-1539 Progressive discipline policy.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28666" name="20-1539"/>§ 20-1539 Progressive discipline policy.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236701" number="46325" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A delivery service shall maintain a written progressive discipline policy in a single writing and adhere to such policy. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236700" number="46326" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The written policy required pursuant to subdivision a of this section shall satisfy all requirements of this subchapter and, at a minimum, address the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236699" number="46327" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Types of misconduct by a contracted delivery worker that may warrant discipline; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236698" number="46328" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Any performance standards used to assess failure to satisfactorily perform job duties by a contracted delivery worker; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236697" number="46329" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Disciplinary measures that may be applied to a contracted delivery worker, including but not limited to deactivation; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236696" number="46330" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Procedures for notifying a contracted delivery worker of disciplinary measures that a delivery service intends to take against such contracted delivery worker and providing an opportunity to respond; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236695" number="46331" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Procedures for applying discipline against a contracted delivery worker. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236694" number="46332" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The written policy required pursuant to subdivision a of this section must be clear and specific such that a reasonable person can understand the acts and omissions that may result in deactivation or other disciplinary measures. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236693" number="46333" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A delivery service shall provide the written policy required pursuant to subdivision a of this section to each contracted delivery worker retained by such delivery service in English and in any other language as the department may determine by rule. A delivery service shall provide such policy to each contracted delivery worker no later than the effective date of this subdivision, or prior to such contracted delivery worker’s first trip, whichever is later, in a form and manner that the department may determine by rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236692" number="46334" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>A delivery service shall notify each contracted delivery worker of any change to the written policy required pursuant to subdivision a of this section at least 14 days before such change takes effect. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236691" number="46335" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The department may promulgate rules establishing minimum requirements for the progressive discipline policy required pursuant to subdivision a of this section, including, but not limited to, requiring that a delivery service establish a system of graduated discipline based on the accrual of disciplinary points, strikes, or other similar consequences for misconduct or failure to satisfactorily perform job duties. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236690" number="46336" version="2311">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236766" number="46337" version="2311">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-236767" number="46338" version="2311">
+										<HEADING>§ 20-1540 Exceptions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28668" name="20-1540"/>§ 20-1540 Exceptions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-236689" number="46339" version="2311">
+											<PARA>This subchapter shall not: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236688" number="46340" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Apply to the deactivation of any contracted delivery worker by a delivery service during such contracted delivery worker’s probation period with such service; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236687" number="46341" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Limit or otherwise affect the applicability of any right or benefit conferred upon or afforded to a contracted delivery worker by the provisions of any other law, regulation, rule, requirement, policy, or standard, including but not limited to any federal, state, or local law providing for protections against retaliation or discrimination. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236686" number="46342" version="2311">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Apply to a delivery service that does not maintain a website, mobile application, or other internet service through which such delivery service offers or assigns a trip to a contracted delivery worker retained by such delivery service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236675" number="46343" version="2376">
+											<PARA>(L.L. 2026/034, 1/17/2026, eff. 1/17/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-240367" number="46344" version="2376">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/034" destination-id="0-0-0-28648">L.L. 2026/034</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-117]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

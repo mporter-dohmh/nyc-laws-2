@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-99841" number="66432" version="282">
+			<HEADING>Chapter 30: Neighborhood Redevelopment Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7957" name="T28C030"/>Chapter 30: Neighborhood Redevelopment Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57858" number="66433" version="3">
+								<HEADING>§ 30-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7959" name="T28C030_30-01"/>§ 30-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57859" number="66434" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administrative Code.</CHARFORMAT> &quot;Administrative Code&quot; shall mean the Administrative Code of the City.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57860" number="66435" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building.</CHARFORMAT> &quot;Building&quot; shall mean any multiple dwelling which is occupied by Tenants and (prior to Disposition) owned by the City, including any vacant land adjacent thereto, which is or may be the subject of a Project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57861" number="66436" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City.</CHARFORMAT> &quot;City&quot; shall mean the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57862" number="66437" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> &quot;Commissioner&quot; shall mean the Commissioner of HPD or his or her designee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57863" number="66438" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHCR.</CHARFORMAT> &quot;DHCR&quot; shall mean the State of New York Division of Housing and Community Renewal.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57864" number="66439" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disposition.</CHARFORMAT> &quot;Disposition&quot; shall mean the date of title transfer of a Building from the City to a Sponsor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57865" number="66440" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Final Selection.</CHARFORMAT> &quot;Final Selection&quot; shall mean a decision by HPD to select a Building for the Program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57866" number="66441" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">FMR.</CHARFORMAT> &quot;FMR&quot; shall mean the fair market rent set by the § 8 program or any other successor program of the United States Department of Housing and Urban Development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57867" number="66442" version="1781">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Housing Maintenance Code.</CHARFORMAT> &quot;Housing Maintenance Code&quot; shall mean <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T27C002" destination-id="0-0-0-0">Chapter 2 of Title 27</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57868" number="66443" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HPD.</CHARFORMAT> &quot;HPD&quot; shall mean the Department of Housing Preservation and Development of the City, or its designee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57869" number="66444" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Intake Rent.</CHARFORMAT> &quot;Intake Rent&quot; shall mean the rent set by HPD which takes effect after Project Commencement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57870" number="66445" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interim Payment Agreement.</CHARFORMAT> &quot;Interim Payment Agreement&quot; shall mean an agreement entered into between HPD, the Sponsor and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57871" number="66446" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Laws.</CHARFORMAT> &quot;Laws&quot; shall mean any and all applicable laws, ordinances, orders, rules and regulations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57872" number="66447" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lessee.</CHARFORMAT> &quot;Lessee&quot; shall mean the Sponsor during the period between Project Commencement and Disposition if HPD and Sponsor enter into a temporary lease of the Building.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57873" number="66448" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Post-Rehabilitation Rent.</CHARFORMAT> &quot;Post-Rehabilitation Rent&quot; shall mean the rent set by HPD which takes effect after Substantial Completion.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57874" number="66449" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Preliminary Selection.</CHARFORMAT> &quot;Preliminary Selection&quot; shall mean a preliminary determination by HPD to select a Building for the Program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57875" number="66450" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program.</CHARFORMAT> &quot;Program&quot; shall mean the Neighborhood Redevelopment Program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57876" number="66451" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project.</CHARFORMAT> &quot;Project&quot; shall mean a project in the Program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57877" number="66452" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project Activity.</CHARFORMAT> &quot;Project Activity&quot; shall mean any activity performed or required to be performed by the Sponsor in connection with a Project.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57878" number="66453" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project Commencement.</CHARFORMAT> &quot;Project Commencement&quot; shall mean the date the Project has commenced, as set forth in the notice described in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-04" destination-id="0-0-0-7961">30-04</LINK>(e).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57879" number="66454" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualified Not-For-Profit Corporation.</CHARFORMAT> &quot;Qualified Not-For-Profit Corporation&quot; shall mean a not-for-profit entity selected by HPD to participate in the Program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57880" number="66455" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rehabilitation.</CHARFORMAT> &quot;Rehabilitation&quot; shall mean the installation, replacement, or repair of one or more Building systems or the correction of inadequate, unsafe, or insanitary conditions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57881" number="66456" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rules.</CHARFORMAT> &quot;Rules&quot; shall mean the rules set forth in this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57882" number="66457" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sponsor.</CHARFORMAT> &quot;Sponsor&quot; shall mean the entity selected by HPD to lease, own and/or develop the Project, and any entity substantially controlled by such Sponsor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57883" number="66458" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Subsidy.</CHARFORMAT> &quot;Subsidy&quot; shall mean a loan or a grant made by HPD to a Sponsor for Project Activities.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57884" number="66459" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Substantial Completion.</CHARFORMAT> &quot;Substantial Completion&quot; shall mean the date on which HPD certifies that (a) construction work comprising at least 95 percent of the approved Rehabilitation cost has been satisfactorily completed, and (b) all work required to remove Housing Maintenance Code violations which were of record before the Rehabilitation of the Building and were then classified as &quot;B&quot; and &quot;C&quot; has been completed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57885" number="66460" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Tenants.</CHARFORMAT> &quot;Tenants&quot; shall mean residential tenants of record occupying a dwelling unit in a Building. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57886" number="66461" version="3">
+								<HEADING>§ 30-02 General.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7963" name="T28C030_30-02"/>§ 30-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57887" number="66462" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Coverage.</CHARFORMAT> These Rules govern the procedures for: selecting Buildings for the Program, selecting Sponsors for the Program, providing Subsidies for Projects, Project operation, determination and establishment of rents, and providing notices to Tenants. Buildings in the Program shall be subject to these Rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57888" number="66463" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Program Description.</CHARFORMAT> Under the Program, titles to Buildings will be conveyed to Sponsors who will thereafter be responsible for the Rehabilitation of such Buildings. Sale of the Buildings will be pursuant to applicable Laws and each Disposition will require approval of the Mayor and the City Council, acting in their respective capacities pursuant to such Laws.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57889" number="66464" version="3">
+								<HEADING>§ 30-03 Selection of Sponsors.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7965" name="T28C030_30-03"/>§ 30-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Selection of Sponsors.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57890" number="66465" version="3">
+									<PARA>HPD may select a Sponsor for a Project by any method which it determines will best further the purposes of the Program, including, without limitation, pursuant to a request for qualifications process, pursuant to a request for proposals process, selection from a pre-qualified list or, in the discretion of HPD, by a direct designation of an entity judged by HPD to be suitable for the task. HPD, in selecting a Sponsor, may consider any relevant factors, including, but not limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57891" number="66466" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the Sponsor&apos;s prior record in other City housing programs;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57892" number="66467" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the Sponsor&apos;s prior selection by the City as a developer in another program;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57893" number="66468" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the Sponsor&apos;s record as a property owner, developer, or manager;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57894" number="66469" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>the Sponsor&apos;s relevant experience in and knowledge of the neighborhood where the Project is located, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57895" number="66470" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>any relevant written comments by Tenants. It is intended that the Sponsor will be a Qualified Not-For-Profit Corporation.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57896" number="66471" version="3">
+								<HEADING>§ 30-04 Selection of Buildings, Tenant Notification.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7961" name="T28C030_30-04"/>§ 30-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Selection of Buildings, Tenant Notification.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57897" number="66472" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Eligible Buildings.</CHARFORMAT> HPD may select Buildings for the Program if:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57898" number="66473" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Rehabilitation of the Building is technically and financially feasible;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57899" number="66474" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Building has not been accepted into another HPD disposition program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57900" number="66475" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of Preliminary Selection.</CHARFORMAT> After HPD has found a Building to be eligible pursuant to subdivision (a) of this section and has preliminarily selected the Building for the Program, HPD shall provide all Tenants of the Building with a document containing the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57901" number="66476" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A statement that HPD is considering placing the Building in the Program;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57902" number="66477" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A description of the Program;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57903" number="66478" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A statement that an Intake Rent will be set;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57904" number="66479" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A statement that the Building may be eligible for other HPD programs and the name, address and phone number of an HPD employee who may provide information on how to apply for such other programs;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57905" number="66480" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The name of the Sponsor selected by HPD to develop the Project; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57906" number="66481" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>A statement that the Building will remain in the Program unless accepted into another HPD program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57907" number="66482" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Tenant Meeting.</CHARFORMAT> HPD shall hold a Tenant meeting prior to making a Final Selection, giving notice to Tenants at least two business days prior to such meeting.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57908" number="66483" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of Final Selection.</CHARFORMAT> No sooner than thirty (30) days after the Preliminary Selection, HPD shall notify the Tenants of a Building of the Final Selection of the Building for the Program. No later than ninety (90) days after the notice of Final Selection, the Tenants of a Building selected for the Program may apply for any other HPD disposition program that accepts applications from Tenants.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57909" number="66484" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of Project Commencement.</CHARFORMAT> No sooner than ninety (90) days after the notice of Final Selection, HPD shall notify the Tenants of a Building that the Project has commenced, unless the Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period. If the Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period and have been rejected from such program, then, immediately after the later of such rejection or ninety (90) days after the notice of Final Selection, HPD shall notify such Tenants that the Project has commenced.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57910" number="66485" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of Intake Rent.</CHARFORMAT> Either at the time of the notice of Project Commencement or thereafter, HPD shall notify each Tenant of the Intake Rent and the date it becomes effective, which effective date shall be not less than thirty (30) days after the date of the notice of Intake Rent, and shall, in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-09" destination-id="0-0-0-7967">30-09</LINK>, provide information on rental assistance which may be available to Tenants and the procedures to apply for such assistance.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57911" number="66486" version="3">
+								<HEADING>§ 30-05 Subsidy.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7969" name="T28C030_30-05"/>§ 30-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Subsidy.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57912" number="66487" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Eligible Costs.</CHARFORMAT> Subject to the limitations set forth in applicable Laws, a Subsidy may be made in such amounts as may be required for Project Activities.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57913" number="66488" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Commitment Letter.</CHARFORMAT> HPD may state Subsidy terms in a commitment letter signed by the Commissioner. Such commitment letter, if any, may contain such terms as HPD may deem necessary or desirable in order to effectuate the purposes of these Rules and to protect the City&apos;s interests. The provision of the Subsidy shall be made subject to satisfaction of all the terms and conditions contained in such commitment letter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57914" number="66489" version="3">
+								<HEADING>§ 30-06 Rent Setting.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7971" name="T28C030_30-06"/>§ 30-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rent Setting.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57915" number="66490" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Establishment of Intake Rents.</CHARFORMAT> HPD shall from time to time on a program-wide basis establish Intake Rents for all dwelling unit Buildings selected for the Program based upon a minimum rent level per zoning room based on operating costs in similar Buildings. The Intake Rent and the rationale therefore shall be kept on file by HPD and be available for public inspection. HPD shall provide notice of Intake Rent pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-04" destination-id="0-0-0-7961">30-04</LINK>(f).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57916" number="66491" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Pre-commitment meeting.</CHARFORMAT> After the notice of Project Commencement pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-04" destination-id="0-0-0-7961">30-04</LINK>(e), and prior to the issuance of a commitment letter containing the terms and conditions for a Subsidy, HPD shall send a notice informing the Tenants of the time and place of a meeting to discuss the Program at least two business days prior to such meeting. A representative of HPD shall attend such meeting.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57917" number="66492" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Projection of Post-Rehabilitation Rents.</CHARFORMAT> HPD shall determine a rent for each dwelling unit in the Building to take effect upon Substantial Completion. The Post-Rehabilitation Rent per occupied dwelling unit may be based upon the Tenants&apos; income or may reflect the expenses for the Building as projected by HPD less the effective annual net commercial income, if any. If the Post-Rehabilitation Rent reflects the Building&apos;s expenses, HPD shall project the annual maintenance and operating expenses for the Building after Substantial Completion, including allowances for vacancies and debt service coverage. The expenses shall be projected by HPD based on its experience and knowledge of the operation of similar buildings. For those apartments which are vacant at the time of the sending of the notice of Substantial Completion pursuant to subdivision (h) of this section, HPD shall set Post-Rehabilitation Rents at no greater than one hundred and ten percent (110%) of the FMR for the area in which the Building is located.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57918" number="66493" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Pre-Disposition notice.</CHARFORMAT> Following the pre-commitment meeting held pursuant to subdivision (b) of this section, and not less than thirty (30) days prior to Disposition, HPD shall send a notice which shall</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57919" number="66494" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>inform each Tenant of the contemplated Rehabilitation which will be performed in the Project;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57920" number="66495" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>advise each Tenant of the expected rental increase to result from the Rehabilitation which will take effect after Substantial Completion (i.e., the Post-Rehabilitation Rent);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57921" number="66496" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-09" destination-id="0-0-0-7967">30-09</LINK>;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57922" number="66497" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>apprise each Tenant of such Tenant&apos;s right to submit written comments; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57923" number="66498" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>advise each Tenant that where relocation during Rehabilitation is necessary, HPD will use its best efforts to minimize inconvenience to affected Tenants.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57924" number="66499" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Implementation of Intake Rent.</CHARFORMAT> Commencing no earlier than the date set forth in the notice of Intake Rent sent pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-04" destination-id="0-0-0-7961">30-04</LINK>(f), HPD shall charge the Intake Rent, except that rents for Tenants whose rents at such time are greater than the Intake Rent shall not be decreased.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57925" number="66500" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Registration of Rent.</CHARFORMAT> Not less than thirty (30) days after Disposition, Sponsor shall register with DHCR the rent charged to each Tenant in the Building at the time of Disposition. Leases shall contain a provision satisfactory to HPD requiring notice to the Tenant of the subsequent establishment of the Post-Rehabilitation Rent.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57926" number="66501" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Increase in Projected Post-Rehabilitation Rents.</CHARFORMAT> If the Post-Rehabilitation Rents established by HPD pursuant to subdivision (c) of this section reflect the Building&apos;s expenses, and HPD determines that its projection of maintenance and operating costs must be increased based on unforeseen changes in the circumstances and factors which formed the basis of the original projection, including, but not limited to, unexpected increases in fuel or utility costs, HPD shall notify Tenants of the amount of the expected rent increase over and above the Post-Rehabilitation Rent set forth in the pre-Disposition notice sent pursuant to subdivision (d) of this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57927" number="66502" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of Substantial Completion.</CHARFORMAT> Following Substantial Completion, HPD shall send a notice to each Tenant that the Rehabilitation is substantially complete and that the Tenant&apos;s rent will be increased to the Post-Rehabilitation Rent in not less than sixty (60) days. Such notice shall state that the Tenant has an opportunity to comment regarding the quality of Rehabilitation. Such notice shall also include the amount of the Post-Rehabilitation Rent, its effective date, and provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-09" destination-id="0-0-0-7967">30-09</LINK>. Prior to the establishment of Post-Rehabilitation Rents, HPD shall give due consideration to Tenant comments regarding the quality of the Rehabilitation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57928" number="66503" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Implementation and Registration of Post-Rehabilitation Rents.</CHARFORMAT> Not less than sixty (60) days after the sending of the notice of Substantial Completion pursuant to subdivision (h) of this section, HPD shall complete and sign a rent order, and shall mail such order to the Tenant with a copy to the Sponsor. The rent set forth on each rent order shall be the Post-Rehabilitation Rent for such apartment as was determined in accordance with subdivision (c) of this section and as set forth in the pre-Disposition notice or as adjusted pursuant to subdivision (g) of this section. If an apartment is vacant at the time of establishment of rents, the rent order shall be mailed to the Sponsor. Immediately upon receipt of the rent order or a copy thereof, the Sponsor shall register the Post-Rehabilitation Rent for each Tenant in the Building with DHCR.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57929" number="66504" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Two year leases.</CHARFORMAT> The Sponsor must offer two year leases to all Tenants upon Substantial Completion.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57930" number="66505" version="3">
+								<HEADING>§ 30-07 Project Operation Prior to Disposition if HPD Temporarily Leases the Building to the Sponsor.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7973" name="T28C030_30-07"/>§ 30-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project Operation Prior to Disposition if HPD Temporarily Leases the Building to the Sponsor.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57931" number="66506" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lease.</CHARFORMAT> Prior to Disposition, HPD may temporarily lease the Building to a Lessee pursuant to the terms of a written lease.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57932" number="66507" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Tenant selection policy.</CHARFORMAT> Lessee shall rent vacant apartments only to low and/or moderate income Tenants as defined by HPD and in accordance with HPD guidelines. HPD may also, in the public interest, require that other persons, determined by HPD to be in need of housing, receive priority in the renting of apartments. HPD may require that rentals be pre-approved by HPD, that specified lists of eligible persons be used, or may direct any other Tenant selection method be used.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57933" number="66508" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Successor Tenants.</CHARFORMAT> Persons claiming to be successor Tenants, if any, prior to a unit entering rent stabilization, are subject to the rules set forth in 28 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C024" destination-id="0-0-0-7751">Chapter 24</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57934" number="66509" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Interim Payment Agreement.</CHARFORMAT> HPD may require the Lessee to enter into one or more Interim Payment Agreements in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C030_30-09" destination-id="0-0-0-7967">30-09</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57935" number="66510" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Limitation on Collection of Arrears.</CHARFORMAT> At such time as a Tenant is one month or more in arrears on the payment of rent to Lessee, Lessee may commence a proceeding for such rent arrears and/or for possession of the apartment. Lessee may not sue for arrears which accrued more than three (3) months prior to the commencement of the lease for the Building.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57936" number="66511" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Vacancy Rents.</CHARFORMAT> Rents for vacant apartments shall be set by Lessee, subject to HPD approval.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57937" number="66512" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Commencement of Legal Proceedings.</CHARFORMAT> Lessee may commence legal proceedings, including eviction proceedings for failure to pay rent in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C021_21-23" destination-id="0-0-0-7733">21-23</LINK>(c), with the prior approval of HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57938" number="66513" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Tenant Complaints.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57939" number="66514" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Complaints shall, in the first instance, be directed to Lessee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57940" number="66515" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Tenants shall have the right to file written complaints with HPD staff if a Tenant deems Lessee&apos;s response to be inadequate or unsatisfactory.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57941" number="66516" version="3">
+								<HEADING>§ 30-08 Project Operation After Disposition.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7975" name="T28C030_30-08"/>§ 30-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project Operation After Disposition.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57942" number="66517" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Regulatory Agreement.</CHARFORMAT> A Sponsor may be required to execute a regulatory agreement with HPD as a condition for the Project. The regulatory agreement shall be recorded and shall run with the land for the period set forth therein. The regulatory agreement shall require the Sponsor and all of Sponsor&apos;s successors and assigns to comply with Project requirements.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57943" number="66518" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Use Restrictions.</CHARFORMAT> HPD may impose restrictions upon the use of a Building and may require Sponsor to agree to comply with such restrictions as a condition for Disposition or Subsidy. Such use restrictions may be enforced by any means which HPD determines to be necessary or appropriate, including, but not limited to, provisions in any deed, land disposition agreement, regulatory agreement, note, mortgage, security agreement, lien, restrictive declaration, or other legal document. HPD may require a Sponsor to provide security for its compliance with use restrictions in such types and amounts as are determined by HPD to be necessary or desirable. Such types of security may include, but shall not be limited to, surety bonds, letters of credit, or cash.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57944" number="66519" version="3">
+								<HEADING>§ 30-09 Rental Assistance.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7967" name="T28C030_30-09"/>§ 30-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rental Assistance.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57945" number="66520" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building&apos;s participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs and assist Tenants in completing rental assistance applications.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57946" number="66521" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews, providing the necessary income certification and complying with all procedures to process an application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57947" number="66522" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant&apos;s eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Sponsor of all applicants for rental assistance and shall forward to the Sponsor copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Sponsor, the Tenant and HPD before it becomes effective. This Interim Payment Agreement shall include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57948" number="66523" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the amount of the increased rent for the apartment;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57949" number="66524" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the amount of rent that the Tenant must pay pending the final eligibility determination of the rental assistance application (as such amount is determined in accordance with subdivision (d) of this section);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57950" number="66525" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>a statement of the grounds for termination pursuant to subdivision (e) of this section; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57951" number="66526" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57952" number="66527" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A Tenant who receives an Interim Payment Agreement will be required to pay the greater of (1) the amount set forth in the Interim Payment Agreement, which is the amount that s(he) would pay on a monthly basis if the rental assistance application is approved, or (2) the rent charged prior to implementation of the rent increase.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57953" number="66528" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57954" number="66529" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>any change in the Tenant&apos;s household income which renders the Tenant ineligible for rental assistance; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57955" number="66530" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any change in the rent charged by the City; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57956" number="66531" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57957" number="66532" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Sponsor; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57958" number="66533" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57959" number="66534" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-57960" number="66535" version="3">
+								<HEADING>§ 30-10 Miscellaneous Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7977" name="T28C030_30-10"/>§ 30-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Miscellaneous Provisions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-57961" number="66536" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">HPD Discretion.</CHARFORMAT> All determinations to be made by HPD in accordance with these Rules shall be in the sole discretion of HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57962" number="66537" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Statutory Authority not Limited.</CHARFORMAT> Nothing in these Rules shall be deemed to limit HPD&apos;s authority pursuant to applicable Laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57963" number="66538" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Method of Notification.</CHARFORMAT> Unless otherwise provided herein, notification shall be in English and Spanish, and shall either be posted in a common area of the Building and affixed to or placed under each apartment door of the Building, or mailed to every apartment in the Building, as determined by HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57964" number="66539" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Technical Violations.</CHARFORMAT> Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules shall not invalidate any action taken pursuant to these Rules, nor shall such technical violations give rise to any rights, claims, or causes of action. The Commissioner, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-57965" number="66540" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Funding Source Requirements.</CHARFORMAT> Notwithstanding any provision of these Rules to the contrary, if the requirements of any funding source for a Project conflict with the requirements of these Rules, the requirements of the funding source shall govern.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

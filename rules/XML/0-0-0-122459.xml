@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-122459" number="102025" version="1565">
+			<HEADING>Chapter 11: Procedural Rules for Formal Adjudications</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-16399" name="T52C011"/>Chapter 11: Procedural Rules for Formal Adjudications</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122460" number="102026" version="1567">
+								<HEADING>§ 11-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16551" name="T52C011_11-01"/>§ 11-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122461" number="102027" version="1571">
+									<PARA>Except as otherwise provided, the definitions set forth in 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C001_1-02" destination-id="0-0-0-16417">1-02</LINK> apply in this chapter. In addition, the following terms mean:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122462" number="102028" version="3021">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Case</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an adjudication pursuant to CAPA, under Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1046" destination-id="0-0-0-0">1046</LINK> of the Charter, or an adjudication referred to OATH, pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1048" destination-id="0-0-0-0">1048</LINK> of the Charter.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122463" number="102029" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Filing</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means submitting papers to the hearing officer, whether in person, by mail, or by electronic means, for inclusion in the record of proceedings in a case.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122464" number="102030" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Petition</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a document filed by the Board, analogous to a complaint in a civil action, which states the claims to be adjudicated.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122465" number="102031" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Petitioner</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the Board.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122466" number="102032" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Respondent</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a party against whom claims are asserted by the Board.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122467" number="102033" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122468" number="102034" version="1567">
+								<HEADING>§ 11-02 Applicability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16553" name="T52C011_11-02"/>§ 11-02 Applicability.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122469" number="102035" version="3021">
+									<PARA>This chapter applies solely to cases that are subject to CAPA, including hearings, pre-hearing and post-hearing matters, brought by the Board pursuant to the Act or the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122472" number="102036" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155071" number="102037" version="3021">
+								<HEADING>§ 11-03 Proceedings Before Designation of Hearing Officer.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16555" name="T52C011_11-03"/>§ 11-03 Proceedings Before Designation of Hearing Officer.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122473" number="102038" version="1747">
+									<PARA>Proceedings before the case is referred to a hearing officer shall be governed by <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1046" destination-id="0-0-0-0">1046</LINK>
+										</CHARFORMAT> of the Charter and 52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C009" destination-id="0-0-0-16395">Chapters 9</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C010" destination-id="0-0-0-16397">10</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122474" number="102039" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122475" number="102040" version="1567">
+								<HEADING>§ 11-04 Designation of Hearing Officer.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16557" name="T52C011_11-04"/>§ 11-04 Designation of Hearing Officer.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122476" number="102041" version="1565">
+									<PARA>The Board shall designate, at its sole discretion, one or more hearing officers to preside over cases pursuant to this chapter. The designated hearing officer(s) shall be: (i) one or more members of the Board; (ii) another person or persons assigned by the Board; or (iii) the chief administrative law judge of OATH or such administrative law judge as the chief administrative law judge may assign.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122477" number="102042" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122478" number="102043" version="1567">
+								<HEADING>§ 11-05 Commencement of Proceedings and Pleadings.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16559" name="T52C011_11-05"/>§ 11-05 Commencement of Proceedings and Pleadings.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122479" number="102044" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The petition.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122480" number="102045" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The Board shall institute proceedings pursuant to this chapter by serving a petition, sworn to or affirmed as to the truth thereof, on the respondent(s). The petition shall comply with the requirements in OATH Rules of Practice §§ 1-22 and 1-23 (48 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-22" destination-id="0-0-0-11329">1-22</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-23" destination-id="0-0-0-2999">1-23</LINK>). The petition shall set forth the facts which, if proved, constitute violations of the Act or these rules or require repayment of public funds. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122481" number="102046" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The petition shall be accompanied by the following: notice of the respondent&apos;s right to file an answer, the deadline to file an answer, and the place(s) to serve and file an answer; notice that failure to serve and file a timely answer shall be deemed an admission of all allegations contained in the petition; notice of the respondent&apos;s right to representation by an attorney or other representative; and notice that a person representing the respondent(s) must file a notice of appearance with the hearing officer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122482" number="102047" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service of the petition.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122483" number="102048" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The Board shall serve the petition upon the respondent(s).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122484" number="102049" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Service of the petition may be made by regular first-class mail or electronic means to the respondent&apos;s last known residential or business address or last known email address or fax number.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122485" number="102050" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Service of the petition shall be complete upon mailing, if service was by first-class mail, or upon the date of transmission, if service was by electronic means.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122486" number="102051" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Answer.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122487" number="102052" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The respondent(s) must file an answer to the petition with the hearing officer and serve the same answer on the Board.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122488" number="102053" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>If the petition was served on the respondent(s) by regular first-class mail, the answer must be filed and served within 26 calendar days of the date the petition was postmarked. If the petition was served on the respondent(s) by electronic means, the answer must be filed and served within 21 calendar days of the date of the transmission of the petition.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122489" number="102054" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The answer may include affidavits or affirmations, documentary exhibits, or other evidentiary material in rebuttal of the petition. The answer may be accompanied by a memorandum of law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122490" number="102055" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>If the respondent fails to serve and file a timely answer, all allegations of the petition shall be deemed admitted, and the case shall proceed as scheduled. If the answer fails to specifically address any allegation in the petition, such allegation shall be deemed admitted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122491" number="102056" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The time to serve and file an answer may be extended only upon the consent of all parties or upon application to the hearing officer for good cause shown.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122492" number="102057" version="1572">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amendment of Pleadings.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Pleadings shall be amended in accordance with OATH Rules of Practice § 1-25 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-25" destination-id="0-0-0-11335">1-25</LINK>).</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122493" number="102058" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122494" number="102059" version="1567">
+								<HEADING>§ 11-06 Filing of Papers.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16561" name="T52C011_11-06"/>§ 11-06 Filing of Papers.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122495" number="102060" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Generally.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> The notice accompanying the petition shall notify the parties of the designated hearing officer(s) and of the place to file papers. Papers may be filed with the hearing officer in person, by mail or by electronic means.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122496" number="102061" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Headings.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> If an OATH index number has been assigned pursuant to section 11-07(c), the subject matter heading for each document must indicate the OATH index number.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122497" number="102062" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Means of service on adversary.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Submission of papers to the hearing officer by electronic means, mail, or personal delivery without providing equivalent method of service to all other parties shall be deemed to be an ex parte communication.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122498" number="102063" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Proof of service.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Proof of service must be maintained by the parties for all papers filed with the hearing officer. Proof of service must be in the form of an affidavit by the person effecting service, or in the form of a signed acknowledgement of receipt by the person receiving the papers. A written acknowledgment of service by the person served is adequate proof of service. Proof of service for papers served by electronic means, in addition to the foregoing, may be in the form of a record confirming delivery or acknowledging receipt of the electronic transmission.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122499" number="102064" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122500" number="102065" version="1567">
+								<HEADING>§ 11-07 Docketing the Case at OATH.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16563" name="T52C011_11-07"/>§ 11-07 Docketing the Case at OATH.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122501" number="102066" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Only cases referred to OATH must be docketed, and only the Board may docket a case at OATH.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122502" number="102067" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Following service of the petition upon the respondent, the Board shall docket a case by delivering to OATH a completed intake sheet, with a petition and appropriate proof of service of the petition.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122503" number="102068" version="1573">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>When a case is docketed, OATH shall place it on the trial calendar, the conference calendar, or on open status. Cases involving the same respondent(s) shall be scheduled for joint hearings or conferences. The case shall be given an index number and assigned to a hearing officer pursuant to OATH Rules of Practice § 1-26(b) (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-26" destination-id="0-0-0-8507">1-26</LINK>(b)).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122504" number="102069" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>After docketing the case at OATH and selecting a hearing or conference date, the Board shall serve a notice of hearing or notice of conference on the respondent within five business days. The notice shall be served by first class mail or electronic means, and appropriate proof of service shall be maintained by the Board.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122505" number="102070" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>A conference or hearing shall be scheduled for a date that is at least two weeks after the date the answer must be served and filed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122506" number="102071" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The administrative law judge may determine that the case is not ready for a conference or hearing and may adjourn the conference or hearing, or may remove the case from the conference or hearing calendar and place it on open status.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122507" number="102072" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122508" number="102073" version="1567">
+								<HEADING>§ 11-08 Disqualification of Hearing Officers.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16565" name="T52C011_11-08"/>§ 11-08 Disqualification of Hearing Officers.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122509" number="102074" version="1573">
+									<PARA>Motions for disqualification of administrative law judges serving as hearing officers must be filed in accordance with OATH Rules of Practice § 1-27 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-27" destination-id="0-0-0-11337">1-27</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122510" number="102075" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122511" number="102076" version="1567">
+								<HEADING>§ 11-09 Conferences.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16567" name="T52C011_11-09"/>§ 11-09 Conferences.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122512" number="102077" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Only cases referred to OATH are eligible for conferences.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122513" number="102078" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Conferences may be held for the formulation and simplification of issues, the possibility of obtaining admissions or stipulations of fact and of admissibility and authenticity of documents, the order of proof and of witnesses, discovery issues, legal issues, pre-hearing applications, scheduling, and settlement of the case.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122514" number="102079" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Conferences may be scheduled at the discretion of the administrative law judge, whether or not a case has been placed on the OATH conference calendar, on the application of either party or </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">sua sponte</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">. At the discretion of the administrative law judge, conferences may be conducted by telephone.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122515" number="102080" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>All parties are required to attend conferences as scheduled unless timely application for additional time is made to the administrative law judge.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122516" number="102081" version="1573">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Settlement conferences and agreements must be conducted in accordance with OATH Rules of Practice § 1-31 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-31" destination-id="0-0-0-11325">1-31</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122517" number="102082" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>If the case is not settled at the conference, outstanding pre-hearing matters, including discovery issues, must be raised during the conference. If the case is not settled at the conference, a hearing date may be set. The parties must know their availability and the availability of their witnesses for a hearing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122518" number="102083" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122519" number="102084" version="1567">
+								<HEADING>§ 11-10 Notice of Conference or Hearing.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16569" name="T52C011_11-10"/>§ 11-10 Notice of Conference or Hearing.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122520" number="102085" version="1573">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>When a case is placed on either the conference calendar or the trial calendar, the Board shall serve the respondent(s) with notice in accordance with OATH Rules of Practice § 1-28 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-28" destination-id="0-0-0-11339">1-28</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122521" number="102086" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The notice of conference or hearing shall be served by first class mail, or, upon consent of the parties, by electronic means, and appropriate proof of service shall be maintained. A copy of the notice of conference, with proof of service, must be filed with OATH at or before the commencement of the conference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122522" number="102087" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122523" number="102088" version="1567">
+								<HEADING>§ 11-11 Adjournments.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16571" name="T52C011_11-11"/>§ 11-11 Adjournments.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122524" number="102089" version="1573">
+									<PARA>Applications for adjournments of conferences or hearings before OATH shall be governed by OATH Rules of Practice § 1-32 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-32" destination-id="0-0-0-11345">1-32</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122525" number="102090" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122526" number="102091" version="1567">
+								<HEADING>§ 11-12 Discovery.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16573" name="T52C011_11-12"/>§ 11-12 Discovery.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122527" number="102092" version="1573">
+									<PARA>Discovery in OATH proceedings shall be conducted in accordance with OATH Rules of Practice § 1-33 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-33" destination-id="0-0-0-11333">1-33</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122528" number="102093" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122529" number="102094" version="1958">
+								<HEADING>§ 11-13 Pre-Hearing Motions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16575" name="T52C011_11-13"/>§ 11-13 Pre-Hearing Motions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122530" number="102095" version="1573">
+									<PARA>Pre-hearing motions pursuant to OATH proceedings shall be filed in accordance with OATH Rules of Practice § 1-34 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-34" destination-id="0-0-0-11347">1-34</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122531" number="102096" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122532" number="102097" version="1567">
+								<HEADING>§ 11-14 Appearances at OATH.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16577" name="T52C011_11-14"/>§ 11-14 Appearances at OATH.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122533" number="102098" version="1573">
+									<PARA>Appearances at OATH shall comply with the requirements set forth in OATH Rules of Practice § 1-11 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-11" destination-id="0-0-0-11317">1-11</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122534" number="102099" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122535" number="102100" version="1567">
+								<HEADING>§ 11-15 Ex-parte Communications.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16579" name="T52C011_11-15"/>§ 11-15 Ex-parte Communications.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122536" number="102101" version="1565">
+									<PARA>No ex parte communications, other than those related to ministerial matters regarding a conference or hearing, shall be made to a hearing officer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122537" number="102102" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122538" number="102103" version="1567">
+								<HEADING>§ 11-16 Role of the Hearing Officer.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16581" name="T52C011_11-16"/>§ 11-16 Role of the Hearing Officer.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122539" number="102104" version="1565">
+									<PARA>In the conduct of an adjudication, a hearing officer may:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122540" number="102105" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>administer oaths and affirmations, examine witnesses, rule upon offers of proof, receive written and oral testimony, and oversee and regulate discovery procedures;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122541" number="102106" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>upon the request of any party, or subject to the hearing officer&apos;s discretion, subpoena the attendance of witnesses and the production of books, records, or other information;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122542" number="102107" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>regulate the course of the hearing in accordance with 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C011_11-20" destination-id="0-0-0-16589">11-20</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122543" number="102108" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>dispose of procedural requests or similar matters;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122544" number="102109" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>make findings of fact or decisions, determinations or orders, as authorized by law; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122545" number="102110" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>take any other action authorized by law or agency rule consistent therewith.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122546" number="102111" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122547" number="102112" version="1567">
+								<HEADING>§ 11-17 Consolidation; Separate Hearings.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16583" name="T52C011_11-17"/>§ 11-17 Consolidation; Separate Hearings.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122548" number="102113" version="1573">
+									<PARA>All or portions of separate cases may be consolidated for the hearing, or portions of a single case may be severed for separate hearings, in accordance with OATH Rules of Practice § 1-41 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-41" destination-id="0-0-0-11353">1-41</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122549" number="102114" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122550" number="102115" version="1567">
+								<HEADING>§ 11-18 Witnesses and Documents.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16585" name="T52C011_11-18"/>§ 11-18 Witnesses and Documents.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122551" number="102116" version="1573">
+									<PARA>The parties must have all of their witnesses available on the hearing date. A party intending to introduce documents into evidence must bring to the hearing copies of those documents for the hearing officer, the witness, and the other parties. Repeated failure to comply with this section may be cause for sanctions, as set forth in OATH Rules of Practice § 1-13(e) (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-13" destination-id="0-0-0-11321">1-13</LINK>(e)).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122552" number="102117" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122553" number="102118" version="1567">
+								<HEADING>§ 11-19 Subpoenas.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16587" name="T52C011_11-19"/>§ 11-19 Subpoenas.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122554" number="102119" version="1573">
+									<PARA>Subpoenas may be issued in accordance with OATH Rules of Practice § 1-43 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-43" destination-id="0-0-0-11351">1-43</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122555" number="102120" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122556" number="102121" version="1567">
+								<HEADING>§ 11-20 Order of Proceedings.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16589" name="T52C011_11-20"/>§ 11-20 Order of Proceedings.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122557" number="102122" version="1565">
+									<PARA>Testimony and argument on the law and facts shall be presented in the following order: petitioner; witnesses called by the petitioner, if any; cross-examination; the respondent(s); witnesses called by the respondent(s); cross-examination; and closing statements. Each party shall be afforded an opportunity to present rebuttal testimony, if deemed appropriate by the hearing officer. Closing statements, if any, shall be made first by petitioner. The order of proceedings may be modified at the discretion of the hearing officer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122558" number="102123" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122559" number="102124" version="1567">
+								<HEADING>§ 11-21 Interpreters.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16591" name="T52C011_11-21"/>§ 11-21 Interpreters.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122560" number="102125" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>OATH will provide language assistance services to a party or their witnesses in need of such services to communicate at a trial or conference. All requests for language assistance must be made to OATH’s calendar unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155075" number="102126" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A request for language assistance by telephone may be made at any time before the trial or conference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155074" number="102127" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A request for in-person interpretation must be made at least five (5) business days before the trial or conference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155073" number="102128" version="3021">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A request for sign language interpretation must be made at least three (3) calendar days before the trial or conference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122561" number="102129" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122562" number="102130" version="1567">
+								<HEADING>§ 11-22 Failure to Appear.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16593" name="T52C011_11-22"/>§ 11-22 Failure to Appear.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122563" number="102131" version="1573">
+									<PARA>All parties, counsel and other representatives are required to be present at the hearing and prepared to proceed at the time scheduled for commencement of the hearing, subject to the requirements set forth in OATH Rules of Practice § 1-45 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-45" destination-id="0-0-0-11359">1-45</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122564" number="102132" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122565" number="102133" version="1570">
+								<HEADING>§ 11-23 Evidence at the hearing.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16595" name="T52C011_11-23"/>§ 11-23 Evidence at the hearing.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-123105" number="102134" version="1573">
+									<PARA>Evidence shall be governed by OATH Rules of Practice §§ 1-46 and 1-47 (48 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-46" destination-id="0-0-0-11363">1-46</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-47" destination-id="0-0-0-11365">1-47</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122566" number="102135" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122567" number="102136" version="1567">
+								<HEADING>§ 11-24 Official Notice.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16597" name="T52C011_11-24"/>§ 11-24 Official Notice.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122568" number="102137" version="1573">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In reaching a decision, the hearing officer may take official notice, before or after submission of the case for decision, on request of a party or </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">sua sponte</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> on notice to the parties, of any fact which may be judicially noticed by the courts of this state, pursuant to OATH Rules of Practice § 1-48(a)</CHARFORMAT> (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-48" destination-id="0-0-0-11367">1-48</LINK>(a))<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122569" number="102138" version="1573">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Official notice may be taken, without notice to the parties, of rules published in the Rules of the City of New York or in The City Record, pursuant to OATH Rules of Practice § 1-48(b) (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-48" destination-id="0-0-0-11367">1-48</LINK>(b)).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122570" number="102139" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122571" number="102140" version="1567">
+								<HEADING>§ 11-25 Public Access to Proceedings.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16599" name="T52C011_11-25"/>§ 11-25 Public Access to Proceedings.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122572" number="102141" version="3021">
+									<PARA>Other than settlement conferences, all proceedings shall be open to the public, in accordance with OATH Rules of Practice § 1-49 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-49" destination-id="0-0-0-11369">1-49</LINK>). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122573" number="102142" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122574" number="102143" version="1567">
+								<HEADING>§ 11-26 Hearing Motions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16601" name="T52C011_11-26"/>§ 11-26 Hearing Motions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122575" number="102144" version="1573">
+									<PARA>Motions may be made during the hearing orally or in writing, in accordance with OATH Rules of Practice § 1-50 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-50" destination-id="0-0-0-11349">1-50</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122576" number="102145" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122577" number="102146" version="1567">
+								<HEADING>§ 11-27 Transcript.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16603" name="T52C011_11-27"/>§ 11-27 Transcript.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122578" number="102147" version="1573">
+									<PARA>Hearings shall be stenographically or electronically recorded, and the recordings shall be transcribed, in accordance with OATH Rules of Practice § 1-51 (48 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001_1-51" destination-id="0-0-0-11371">1-51</LINK>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122579" number="102148" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122580" number="102149" version="1567">
+								<HEADING>§ 11-28 Decision Made on the Record.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16605" name="T52C011_11-28"/>§ 11-28 Decision Made on the Record.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122581" number="102150" version="1565">
+									<PARA>The hearing officer may conclude a case by making a report and recommendation on the record.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122582" number="102151" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122583" number="102152" version="1567">
+								<HEADING>§ 11-29 Written Comments.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16607" name="T52C011_11-29"/>§ 11-29 Written Comments.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122584" number="102153" version="1565">
+									<PARA>Once the hearing officer has issued a recommended final determination, each party shall have 20 days from issuance of the recommendation to submit written comments to the Board. The comments should raise any objections to the recommended determination, and objections not raised in the comments will be deemed waived in any further proceedings. Comments shall be limited to the record of the adjudicatory proceeding. Comments shall be served upon all other parties. Upon application filed with the Board&apos;s General Counsel, the General Counsel may shorten or extend the time for comments for good cause shown. No personal appearances shall be made before the Board unless the Board specifically requests that the parties appear.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122585" number="102154" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122586" number="102155" version="1567">
+								<HEADING>§ 11-30 Final Determination.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16609" name="T52C011_11-30"/>§ 11-30 Final Determination.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122587" number="102156" version="1565">
+									<PARA>The Board shall provide a final determination affirming, rejecting, or modifying the hearing officer&apos;s recommended final determination within 30 days of the conclusion of the written comments period, or as soon thereafter as is practicable. The final determination shall notify the candidate of the commencement of the four-month period during which a special proceeding may be brought to challenge the Board&apos;s determination pursuant to Article 78 of the Civil Practice Law and Rules. If the Board rejects or modifies the hearing officer&apos;s recommended final determination, the Board shall provide a written determination stating the basis for any assessed penalty or public funds determination, including any findings of fact and conclusions of law. Determinations made by the Board pursuant to this chapter may not be appealed to the Board unless the Board specifically provides otherwise in its determination.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122588" number="102157" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

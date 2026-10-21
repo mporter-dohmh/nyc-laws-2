@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-229820" number="58628" version="2128">
+			<HEADING>Chapter 9: Local Brownfield Cleanup Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10973" name="T24C009"/>Chapter 9: Local Brownfield Cleanup Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-45544" number="58629" version="1402">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206144" number="58630" version="1402">
+										<HEADING>§ 24-901 Short Title. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10975" name="24-901"/>§ 24-901 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short Title. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45545" number="58631" version="3">
+											<PARA>This chapter shall be known and may be cited as the &quot;New York city local brownfield cleanup law&quot;.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45546" number="58632" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206145" number="58633" version="1402">
+										<HEADING>§ 24-902 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10977" name="24-902"/>§ 24-902 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45547" number="58634" version="3">
+											<PARA>For the purposes of this chapter the following terms shall mean: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45548" number="58635" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Applicant&quot; shall mean a person who has submitted a request to participate in the local brownfield cleanup program but is not yet an enrollee. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45549" number="58636" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Certificate of completion&quot; shall mean a written certificate that is issued by the office to an enrollee who has successfully investigated and remediated a local brownfield site to the satisfaction of the office. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45550" number="58637" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Change of use&quot; shall mean the transfer of title to all or part of a local brownfield site, change in management of a local brownfield site, the erection of any structure on the site, the creation of a park or other public or private recreational facility on the site, or any activity that is likely to disrupt or expose contamination or to increase direct human exposure to contamination; or any other conduct that will or may tend to significantly interfere with an ongoing or completed remedial program at such site and the continued ability to implement the engineering and institutional controls associated with such site. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45551" number="58638" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Community based organization&quot; shall mean a community based organization as defined in section 970-r of the general municipal law. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45552" number="58639" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Contaminant&quot; shall mean hazardous waste and/or petroleum. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45553" number="58640" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Contamination&quot; or &quot;contaminated&quot; shall mean the presence of a contaminant in any environmental media, including soil, surface water, groundwater, air, or indoor air. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45554" number="58641" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Declaration of covenants and restrictions&quot; shall mean controls on the use of a site that are listed on the deed and that seek to prevent potential exposure to any residual contamination remaining at the site. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45555" number="58642" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Delegated brownfield site&quot; shall mean any real property for which state or federal law requires the investigation or remediation, or a portion of an investigation or remediation, to be supervised and/or approved by a state and/or federal agency, but where such state and/or federal agency has expressly authorized in writing that such real property may be investigated and remediated under the city&apos;s supervision or according to a mutually agreed-upon form of supervised oversight, subject to any and all appropriate restrictions as may be required by law or agreed to by the parties. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45556" number="58643" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Director&quot; shall mean the director of the office of environmental remediation. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45557" number="58644" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Enrollee&quot; shall mean an applicant who has been accepted into the local brownfield cleanup program and has signed a local brownfield cleanup agreement. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45558" number="58645" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Hazardous waste&quot; shall mean a hazardous waste as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-1301" destination-id="0-0-0-10979">27-1301</LINK> of the environmental conservation law. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45559" number="58646" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Historic fill material&quot; shall mean non-indigenous material, deposited or disposed of to raise the topographic elevation of real property, which material may have been contaminated prior to emplacement, and is in no way connected with the subsequent operations at the location of the emplacement and which includes, without limitation, construction debris, dredge spoils, incinerator residue, demolition debris, coal ash, fly ash, and non-hazardous waste.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45560" number="58647" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Historic fill material&quot; does not include any material which is chemical production waste or waste from processing of metal or mineral ores, residues, slag or tailings. In addition, historic fill material does not include a municipal solid waste site built after nineteen hundred sixty two. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45561" number="58648" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Light to moderate levels of contamination&quot; shall mean detectable levels of contamination, the presence of which does not require an applicant or enrollee to conduct any mandatory, governmental-supervised investigation or remediation of the contamination under any state or federal law. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45562" number="58649" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Local brownfield site&quot; or &quot;site&quot; shall mean any real property within the city, the redevelopment or reuse of which may be complicated by the presence or potential presence of light to moderate levels of contamination, or any real property that meets the definition of a delegated brownfield site, including, but not limited to, real property containing historic fill material and real property rejected from state programs on grounds that the environmental contamination is not sufficient to warrant state involvement. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45563" number="58650" version="1773">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Local brownfield site&quot; or &quot;site&quot; shall not include real property: (1) containing discharges of petroleum, except as authorized by the state department of environmental conservation upon agreement with the office or by state law, (2) at the time of application to this program and pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-1305" destination-id="0-0-0-10981">27-1305</LINK> of the environmental conservation law, listed in the state registry of inactive hazardous waste disposal sites and classified as either (i) causing or presenting an imminent danger of causing irreversible or irreparable damage to the public health or environment – immediate action required, or (ii) significant threat to the public health or environment – action required; (3) listed on the national priorities list pursuant to 42 U.S.C. § 9605; (4) subject to an enforcement action under title seven or nine of article twenty-seven of the environmental conservation law, except a treatment, storage or disposal facility subject to a permit; provided, that nothing herein contained shall be deemed to exclude from the scope of the term &quot;local brownfield site&quot; a hazardous waste treatment, storage or disposal facility having interim status according to regulations promulgated by the state department of environmental conservation; (5) subject to an order for cleanup pursuant to article twelve of the navigation law or pursuant to title ten of article seventeen of the environmental conservation law except such property shall not be deemed ineligible if it is subject to a stipulation agreement; or (6) subject to any other on-going city, state or federal environmental enforcement action related to the contamination which is at or emanating from the real property. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45564" number="58651" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Office&quot; shall mean the office of environmental remediation. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45565" number="58652" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Participant&quot; shall mean an enrollee who either: (1) was the owner of the local brownfield site at the time of disposal or discharge of contaminants, or (2) is otherwise a person responsible according to applicable principles of statutory or common law liability, unless such person&apos;s liability arises solely as a result of such person&apos;s ownership or operation of or involvement with the site subsequent to the disposal or discharge of contaminants. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45566" number="58653" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Petroleum&quot; shall mean oil or petroleum of any kind and in any form including, but not limited to, oil, petroleum, fuel oil, oil sludge, oil refuse, oil mixed with other wastes and crude oils, gasoline and kerosene. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45567" number="58654" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Remedial action work plan&quot; shall mean a written document providing for the development and implementation of a remedial program for contamination within the boundaries of the local brownfield site; provided, however, that a participant shall also be required to provide in the remedial action work plan for the development and implementation of a remedial program for contamination that has emanated from the local brownfield site. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45568" number="58655" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Remedial investigation report&quot; shall mean a report that fully characterizes the nature and extent of contamination at and/or emanating from a brownfield site. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45569" number="58656" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Site management&quot; shall mean the management of physical barriers and methods and non-physical means to limit human and environmental exposure to contamination at and/or emanating from a site, as well as the implementation of any necessary monitoring, reporting, certification and/or operation and maintenance of a remedy, after the issuance of a certificate of completion. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45570" number="58657" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Site management plan&quot; shall mean a written document providing for site management. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45571" number="58658" version="1402">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Volunteer&quot; shall mean an enrollee other than a participant, including without limitation a person whose liability arises solely as a result of such person&apos;s ownership or operation of or involvement with the local brownfield site subsequent to the disposal or discharge of contaminants, provided, however, that such person exercises appropriate care with respect to contamination found at the site by taking reasonable steps to: (1) stop any continuing release; (2) prevent any threatened future release; and (3) prevent or limit human, environmental, or natural resource exposure to any previously released contamination.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45572" number="58659" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206146" number="58660" version="1402">
+										<HEADING>§ 24-903 Rules for the local brownfield cleanup program. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10983" name="24-903"/>§ 24-903 Rules for the local brownfield cleanup program<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45573" number="58661" version="3">
+											<PARA>The director shall develop and administer a local brownfield cleanup program and shall promulgate rules to effectuate the provisions of this chapter including, but not limited to, rules:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45574" number="58662" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Prescribing the form for an application to participate in the local brownfield cleanup program and establishing an application review process to ensure that only eligible local brownfield sites, as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-904" destination-id="0-0-0-10985">24-904</LINK> of this chapter, are accepted into the local brownfield cleanup program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45575" number="58663" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Prescribing a local brownfield cleanup agreement, including a requirement that the enrollee pay for costs incurred by the city and an indemnification provision holding the city harmless from any claim, suit, action, and cost arising out of or resulting from the fulfillment or attempted fulfillment of the agreement.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45576" number="58664" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Prescribing requirements for remedial investigation reports, remedial action work plans, and such other reports and work plans as the office shall require, and providing mechanisms for the preparation, submission, review, approval, modification, and rejection of such reports and work plans.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45577" number="58665" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Providing adequate procedures to ensure that remedial action work plans and remedial actions are protective of public health and the environment, and consistent with the current, intended or reasonably anticipated residential, commercial, industrial or other end use of the local brownfield site. Cleanup standards and remedial selection criteria shall be consistent with standards and criteria applicable to the state brownfield cleanup program, including all applicable guidance documents.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45578" number="58666" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Prescribing procedures for citizen participation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45579" number="58667" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Providing for access by the office or any person so authorized by the office (1) to any real property that has either submitted a request to participate in the local brownfield cleanup program, is enrolled in the local brownfield cleanup program, or has been issued a certificate of completion, for the purpose of ensuring that any applicant, enrollee, or recipient of a certificate of completion complies with the provisions of this chapter or rules promulgated pursuant thereto, including, but not limited to, providing access for the purpose of inspecting and taking samples of contaminants and/or environmental media, and for the purpose of inspecting the adequacy of site management activities; (2) to information relating to any applicant&apos;s or enrollee&apos;s current and past activities concerning contaminants; and (3) to documents relating to the current and past contamination of a local brownfield site.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45580" number="58668" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Prescribing mechanisms for the office to determine whether the remedial actions are complete and to issue documentation indicating that the remedial actions are complete, including through the issuance of a certificate of completion.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45581" number="58669" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Providing for the issuance of a clean property certification to those properties that have successfully completed the local brownfield cleanup program or other programs equivalent to the local brownfield cleanup program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45582" number="58670" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Establishing procedures and enforcement mechanisms, including recording of the declaration of covenants and restrictions and notification of the department of buildings and other appropriate agencies of such declaration, to ensure that the owner of the local brownfield site or its successors or assigns continues in full force and effect all institutional and engineering controls required at the site in accordance with the local brownfield cleanup agreement, remedial action work plan, declaration of covenant and restrictions, site management plan, and any other applicable document or plan. The procedures shall include the process for notifying the public regarding compliance with institutional and engineering controls.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45583" number="58671" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(j)<TAB tab-count="1"/>Requiring notice to the office of any change of use at a local brownfield site and an opportunity for the office to prohibit such change of use for cause.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45584" number="58672" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206147" number="58673" version="1402">
+										<HEADING>§ 24-904 Eligibility. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10985" name="24-904"/>§ 24-904 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligibility. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45585" number="58674" version="3">
+											<PARA>The office shall determine whether to accept or reject an application to participate in the local brownfield cleanup program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45586" number="58675" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The office shall reject the application if:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45587" number="58676" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the real property does not meet the definition of a local brownfield site as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-902" destination-id="0-0-0-10977">24-902</LINK> of this chapter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45588" number="58677" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>there is an action or proceeding relating to the local brownfield site against the applicant that is pending in any civil or criminal court in any jurisdiction, or before any city, state or federal administrative agency or body, wherein the city, state or federal government seeks penalties or the investigation, removal, or remediation of contamination; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45589" number="58678" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>there is an order against the applicant providing for the investigation, removal, or remediation of contamination relating to the local brownfield site.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45590" number="58679" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The office may reject the application if the office determines that the public interest would not be served by accepting the application.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45591" number="58680" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206148" number="58681" version="1402">
+										<HEADING>§ 24-905 Citizen participation. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10987" name="24-905"/>§ 24-905 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Citizen participation. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45592" number="58682" version="1865">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The borough president, council member, senator, and member of assembly representing the area in which the local brownfield site is located, community board for the district in which the local brownfield site is located, residents living on or immediately adjacent to the local brownfield site, community based organizations, and other appropriate community groups shall be notified upon receipt by the office of the application to participate in the local brownfield cleanup program; before the office finalizes a remedial action work plan or approves a report on remedial action; and before the enrollee commences construction at the local brownfield site. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-086]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45593" number="58683" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The office shall provide opportunities for public comment and shall prescribe a procedure for enrollees to make documents available to the public.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45594" number="58684" version="1388">
+											<PARA>(Am. 2022 N.Y. Laws Ch. 790, 12/28/2022, eff. 6/26/2023; Am. 2023 N.Y. Laws Ch. 98, 3/3/2023, eff. 3/3/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-202112" number="58685" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206149" number="58686" version="1402">
+										<HEADING>§ 24-906 Certificate of completion. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10989" name="24-906"/>§ 24-906 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certificate of completion. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45595" number="58687" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A certificate of completion shall include (1) a finding that the enrollee has successfully completed the local brownfield cleanup program, (2) a statement that, subject to the provisions of this section and except as provided in the remedial action work plan, site management plan, declaration of covenants and restrictions, or certificate of completion, the city shall not take or require any further investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding the contamination addressed at the site, and (3) a recommendation that no other governmental entity take or require any investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding the contamination addressed at the site. The director shall seek to enter into agreements with federal and/or state agencies and other entities that formally recognize cleanups for which a city certificate of completion has been issued, and that stipulate that the federal and/or state agency or other entity does not intend or anticipate taking further actions requiring additional cleanup and investigation for contamination that an enrollee has appropriately addressed under the local brownfield cleanup program, subject to such terms and conditions as may be required by the federal and/or state agency or other entity. Nothing in this section shall in any way be interpreted as a binding legal commitment or obligation on behalf of the director to enter into such an agreement with the federal and/or state agency or other entity for any site enrolled in the local brownfield cleanup program, nor in any way restrict the director&apos;s discretion in negotiating the terms and conditions of such an agreement with the federal and/or state agency or other entity. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45596" number="58688" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The city nonetheless shall reserve all of its rights concerning any further investigation and/or remediation the office deems necessary due to:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45597" number="58689" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>environmental contamination at, on, under, or emanating from the local brownfield site if, in light of such conditions, the site is no longer protective of public health or the environment; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45598" number="58690" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>non-compliance with the terms of the local brownfield cleanup agreement, the remedial action work plan, the site management plan, declaration of covenants and restrictions, or the certificate of completion; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45599" number="58691" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>fraud committed by the applicant in the application for or by the enrollee during participation in the local brownfield cleanup program; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45600" number="58692" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>a written finding by the office that a change in an environmental standard, factor, or criterion upon which the remedial action work plan was based, renders the local brownfield site remedial program implemented at the site no longer protective of public health or the environment; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45601" number="58693" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(v)<TAB tab-count="1"/>a change in the local brownfield site&apos;s use subsequent to the office&apos;s issuance of the certificate of completion unless additional remediation is undertaken as determined by the office, which shall meet the standard for protection of public health and the environment that applies under this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45602" number="58694" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>In the case of a volunteer, subparagraph v of paragraph one of this subdivision shall not apply if the property has been remediated for unrestricted use as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-1415" destination-id="0-0-0-10991">27-1415</LINK> of the environmental conservation law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45603" number="58695" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The certificate of completion provided pursuant to this section shall run with the land, extending to the enrollee&apos;s successors or assigns through acquisition of title to the local brownfield site and to a person who develops or otherwise occupies the local brownfield site; provided, however, that such persons act with due care and in good faith to adhere to the requirements of the local brownfield cleanup agreement, remedial action work plan, site management plan, declaration of covenants and restrictions, and certificate of completion. The certificate of completion does not extend, and cannot be transferred, to a person who is responsible for the disposal or the discharge of contaminants on the local brownfield site according to applicable principles of statutory or common law liability as of the effective date of the certification of completion issued pursuant to this chapter, unless that person was party to the local brownfield cleanup agreement for the local brownfield site.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45604" number="58696" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The provisions of this section shall not affect an action or a claim, including a statutory or common law claim for contribution or indemnification, that an enrollee has or may have against a third party.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45605" number="58697" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Nothing in this section shall be construed to affect the liability of any person with respect to any costs, damages, or investigative or remedial activities that are not included in the local brownfield cleanup agreement, or remedial action work plan for the local brownfield site.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45606" number="58698" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206150" number="58699" version="1402">
+										<HEADING>§ 24-907 Enforcement. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10993" name="24-907"/>§ 24-907 Enforcement<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-137404" number="58700" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any applicant, enrollee, or recipient of a certificate of completion who misrepresents any material fact related to the investigation, remediation or site management of a local brownfield site; or any person or entity that violates any provision of a site management plan for a local brownfield site; or any person or entity that violates any provision of this chapter or the rules of the office of environmental remediation, shall be liable for a civil penalty of not more than twenty-five thousand dollars. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139782" number="58701" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A civil penalty may be recovered in an action in a court of competent jurisdiction or in a proceeding before an administrative tribunal within the jurisdiction of the office of administrative trials and hearings pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the charter, which proceeding shall be commenced by the service of an administrative summons or a notice of violation returnable before such tribunal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139781" number="58702" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The director of the office of environmental remediation may designate other city agencies to issue such administrative summonses and notices of violation. Employees or designees of the office are authorized to enter private property, in accordance with applicable law, to inspect for the violations described in this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139780" number="58703" version="1174">
+											<PARA>(Am. L.L. 2022/028, 1/9/2022, eff. 4/9/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45608" number="58704" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-206151" number="58705" version="1402">
+										<HEADING>§ 24-908 Withholding of permits. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10995" name="24-908"/>§ 24-908 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Withholding of permits. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45609" number="58706" version="3">
+											<PARA>Where the office has determined that the owner of a local brownfield site or its successors or assigns has failed to continue in full force and effect all institutional and engineering controls required at such site in accordance with any applicable document or plan, it shall notify the department of buildings of such failure and the department of buildings shall withhold the issuance of permits from such site.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45610" number="58707" version="1402">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2009/027" destination-id="0-0-0-24918">L.L. 2009/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

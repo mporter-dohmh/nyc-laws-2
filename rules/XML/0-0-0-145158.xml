@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-145158" number="94700" version="2656">
+			<HEADING>Chapter 10: Green Building Standards</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10911" name="T43C010"/>Chapter 10: Green Building Standards</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81526" number="94701" version="3">
+								<HEADING>§ 10-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10913" name="T43C010_10-01"/>§ 10-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81527" number="94702" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Definitions of the terms &quot;capital project&quot;, &quot;city agency&quot;, &quot;green building standards&quot;, &quot;LEED energy and atmosphere credit 1&quot;, &quot;LEED green building rating system&quot;, and &quot;not less stringent&quot; set forth in subdivision (a) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter shall apply to such terms as they appear in this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81528" number="94703" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>As used in this chapter, the following terms shall have the following meanings:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81529" number="94704" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Construction cost.</CHARFORMAT> The term &quot;construction cost&quot; means capital dollars allocated to construction as defined in the Certificate to Proceed for Construction or Certificate to Proceed for Design and Construction or with respect to entities that are not City agencies, cost allocated to construction of a project intended to achieve a public purpose of the City as such project is described in supporting documentation submitted to the Office of Management and Budget for the issuance of a Certificate to Proceed for Construction or Certificate to Proceed for Design and Construction.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81530" number="94705" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Estimated project cost.</CHARFORMAT> The term &quot;estimated project cost&quot; means all costs of a project that is intended to achieve a public purpose of the City, as such project is described in supporting documentation submitted to the Office of Management and Budget for the issuance of a Certificate to Proceed for Construction or a Certificate to Proceed for Design and Construction, including but not limited to the cost of site acquisition, preparation, design and construction.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81531" number="94706" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Floor area.</CHARFORMAT> The term &quot;floor area&quot; means all occupied and unoccupied space including, but not limited to, cellars, basements, interior shafts, penthouses and wall thickness. It shall be measured from the outside surface of exterior walls or from the centerline of walls shared by adjacent buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81532" number="94707" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>HVAC comfort controls.</CHARFORMAT> The term &quot;HVAC comfort controls&quot; means control systems and components, including, but not limited to, building management systems and related devices such as thermostats, actuators, and sensors used to regulate the equipment that provide, either collectively or individually, the processes of heating, ventilating, or air-conditioning to a building or portion of a building.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81533" number="94708" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Phased project.</CHARFORMAT> The term &quot;phased project&quot; means a project of a City agency undertaken in phases for which the Office of Management and Budget issues a separate Certificate to Proceed for Construction or Certificate to Proceed for Design and Construction for each phase.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81534" number="94709" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Plumbing fixture.</CHARFORMAT> The term &quot;plumbing fixture&quot; means all toilets, urinals, lavatories, showers, and kitchen sinks that form part of a plumbing system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81535" number="94710" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Plumbing system.</CHARFORMAT> The term &quot;plumbing system&quot; means a domestic plumbing system, including all plumbing fixtures and piping and fittings associated with such fixtures.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81536" number="94711" version="2306">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Rehabilitation work.</CHARFORMAT> The term &quot;rehabilitation work&quot; in relation to major systems means the partial or total reconstruction of the system. Such term shall include all construction work on such systems except minor alterations or ordinary repairs as described in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T27C001" destination-id="0-0-0-0">Chapter 1 of Title 27</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81537" number="94712" version="402">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Reporting form.</CHARFORMAT> The term &quot;reporting form&quot; means the Local Law 86 reporting database, reporting worksheet and reporting instructions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81538" number="94713" version="2306">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Substantial reconstruction.</CHARFORMAT> The term &quot;substantial reconstruction&quot; means a capital project in which the scope of work includes rehabilitation work in at least two of the three major systems – electrical, HVAC (heating, ventilating and air conditioning) and plumbing – of a building and reconstruction work affects at least fifty percent (50%) of the entire building&apos;s floor area. For purposes of this definition, only work that does not constitute minor alterations or ordinary repairs as described in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T27C001" destination-id="0-0-0-0">Chapter 1 of Title 27</LINK> of the Administrative Code shall be considered in determining the amount of affected floor area.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81539" number="94714" version="3">
+								<HEADING>§ 10-02 Selected Green Building Rating System.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10915" name="T43C010_10-02"/>§ 10-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Selected Green Building Rating System.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81540" number="94715" version="1746">
+									<PARA>Pursuant to paragraph (11) of subdivision (a) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter, on and after June 26, 2009 the &quot;selected green building rating system&quot; is the Leadership in Energy and Environmental Design (LEED) 2009 New Construction and Major Renovations Rating System, LEED 2009 for Commercial Interiors Rating System, LEED 2009 for Schools New Construction and Major Renovations Rating System, LEED 2009 for Core and Shell Development Rating System, and LEED 2009 for Existing Buildings: Operations and Maintenance Rating System published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines except that for projects that either received funding from the city treasury or received design approval prior to June 26, 2009 or that applied to the United States Green Building Council for certification prior to June 26, 2009, the selected green building rating system may be New Construction version 2.2, Existing Buildings version 2.0, or Commercial Interiors version 2.0 of the Leadership in Energy and Environmental Design (LEED) building rating system published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines. Except as otherwise provided in subdivision (a) of 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-05" destination-id="0-0-0-10921">10-05</LINK> for calculation of required reductions in energy cost, the selected green building rating system shall apply to capital projects subject to subdivision (b) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter unless an alternative, not less stringent, green building standard has been specifically approved by the Director of the Office of Environmental Coordination as set forth in such subdivision.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81541" number="94716" version="3">
+								<HEADING>§ 10-03 Applicability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10917" name="T43C010_10-03"/>§ 10-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicability.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81542" number="94717" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Except as otherwise provided in subdivision (b) of this section, capital projects within spaces classified in the occupancy groups listed in paragraph (1) of this subdivision having one or more of the six characteristics listed in paragraph (2) of this subdivision, are subject to this chapter and the green building requirements of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter, summarized in 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-04" destination-id="0-0-0-10919">10-04</LINK>. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81543" number="94718" version="402">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Occupancy Groups.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100665" number="94719" version="403">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="4" horizontal-alignment="0">
+												<COLUMNFORMAT column-width="25" percentage="yes"/>
+												<COLUMNFORMAT column-width="25" percentage="yes"/>
+												<COLUMNFORMAT column-width="25" percentage="yes"/>
+												<COLUMNFORMAT column-width="25" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)</PARA>
+												</COL>
+												<COL>
+													<PARA>F-3 Assembly (museums, etc.) </PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>B-2 Storage (low hazard)</PARA>
+												</COL>
+												<COL>
+													<PARA>F-4 Assembly (restaurants, etc.)</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>C Mercantile</PARA>
+												</COL>
+												<COL>
+													<PARA>G Education</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>E Business</PARA>
+												</COL>
+												<COL>
+													<PARA>H-1 Institutional (restrained)</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F-1a Assembly (theaters, etc.)</PARA>
+												</COL>
+												<COL>
+													<PARA>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F-1b Assembly (churches, concert halls, etc.)</PARA>
+												</COL>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81544" number="94720" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Project Characteristics.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81545" number="94721" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Capital projects for or in new buildings and additions to existing buildings, including fit-outs of condominium units and leased space. A capital project for or in a new building or an addition to an existing building is covered by subdivision b of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter if the construction cost of the capital project is two million dollars or more. With respect to projects involving the fit-out of condominium units and leased space, only space and components under the exclusive control of the tenant or unit owner are subject to the design and construction requirements of such subdivision. With respect to phased projects of City agencies, each phase shall be covered only if the estimated construction cost of such phase is two million dollars or more.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81546" number="94722" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Capital projects in existing buildings subject to substantial reconstruction, including fit-outs of condominium units and leased space. A capital project in a building in which 50% of the entire building&apos;s floor area is subject to reconstruction work is covered by subdivision b of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter if the construction cost of the capital project is two million dollars or more and the scope of work of the project includes rehabilitation work in at least two of the three major systems – electrical, HVAC (heating, ventilating and air conditioning) and plumbing – of the building. With respect to the fit-out of condominium units and leased space, only space and components under the exclusive control of the tenant or unit owner are subject to the design and construction requirements of such subdivision. With respect to phased projects of City agencies, each phase shall be covered only if the estimated construction cost of such phase is two million dollars or more.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81547" number="94723" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Installation or replacement of plumbing systems that includes the installation or replacement of plumbing fixtures. A capital project that includes the installation or replacement of a plumbing system is covered by subdivision d of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter if it includes the installation or replacement of plumbing fixtures and the estimated construction cost of the installation or replacement of the plumbing system is $500,000 dollars or more.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81548" number="94724" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Installation or replacement of boilers. A capital project that is not subject to subdivision b of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter involving the installation or replacement of boilers at an estimated construction cost of two million dollars or more is covered by subdivision c (1) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81549" number="94725" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Installation or replacement of lighting systems. A capital project that is not subject to subdivision b of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter and that includes the installation or replacement of lighting systems at an estimated construction cost of one million dollars or more is covered by subdivision c (1) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81550" number="94726" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Installation or replacement of HVAC comfort controls. A capital project that is not subject to subdivision b or paragraph (1) of subdivision c of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter and that includes the installation or replacement of HVAC comfort controls at an estimated construction cost for such installation or replacement of two million dollars or more is covered by paragraph (2) of subdivision c of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81551" number="94727" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Entities that are not City agencies.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81552" number="94728" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Notwithstanding subdivision (a) of this section, a capital project of an entity that is not a City agency is not subject to the requirements of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter and this chapter unless:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81553" number="94729" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>50% or more of the estimated project cost is paid out of the City treasury; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81554" number="94730" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the project receives ten million dollars or more of the estimated project cost from the City treasury.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81555" number="94731" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Entities that are not City agencies and that receive capital dollars from the City treasury shall be on notice that a project, as such project is described in supporting documentation submitted to the Office of Management and Budget for the issuance of a Certificate to Proceed for Construction or Certificate to Proceed for Design and Construction, shall be subject to all applicable provisions of Local Law 86 of 2005 at any time that the City capital contribution to such project equals or exceeds one of the amounts set forth in paragraph 1 of this subdivision. All City funding agreements shall contain notice of this requirement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81556" number="94732" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>When determining whether the City contribution is 50% or more or $10 million or more of the estimated project cost, the cost of the entire project, as described in supporting documentation submitted to the Office of Management and Budget for the issuance of a Certificate to Proceed for Construction or Certificate to Proceed for Design and Construction, including land or other property acquisition and subsequent construction or rehabilitation costs, shall be considered.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81557" number="94733" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Entities that are not City agencies shall act in good faith in describing capital projects in supporting documentation submitted to the Office of Management and Budget for the issuance of a Certificate to Proceed for Construction or Certificate to Proceed for Design and Construction, and shall not seek to do so in a manner so as to circumvent the requirements of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter and this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81558" number="94734" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stand-alone parking garages.</CHARFORMAT> Notwithstanding any inconsistent provision of this chapter, stand-alone parking garages are not covered by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter and this chapter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81559" number="94735" version="3">
+								<HEADING>§ 10-04 Table Summaries of Green Building Standards.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10919" name="T43C010_10-04"/>§ 10-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table Summaries of Green Building Standards.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81560" number="94736" version="1746">
+									<PARA> The following tables summarize the requirements of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter as they apply to the capital projects described in 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-03" destination-id="0-0-0-10917">10-03</LINK>:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81561" number="94737" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Requirements for capital projects for or in new buildings, additions to existing buildings and capital projects in existing buildings subject to substantial reconstruction:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81562" number="94738" version="404">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table A </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100667" number="94739" version="407">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="9" horizontal-alignment="0">
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+												<COLUMNFORMAT column-width="11" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Estimated Construction Cost</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Occupancy Group</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Green Building Standard Required</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Additional Energy Cost Reduction Required (See 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-05" destination-id="0-0-0-10921">10-05</LINK>(a) for method of calculation)</CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>$2M and lower than $12M</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED Silver or higher</PARA>
+												</COL>
+												<COL>
+													<PARA>N/A</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>H-1 Institutional (restrained)</PARA>
+												</COL>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>G Education<LINEBRK/>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED-certified or<LINEBRK/>higher</PARA>
+												</COL>
+												<COL>
+													<PARA>N/A</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>$12M or more</PARA>
+												</COL>
+												<COL>
+													<PARA>G Education</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED-certified or higher</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 20% reduction in energy costs. Additional 5% or 10% (whichever is achievable) reduction required if payback within 7 years.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Greater than $12M and lower than $30M</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business<LINEBRK/>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>H-1 Institutional (restrained)</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED Silver or higher</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 20% reduction in energy costs. Additional 5% reduction required if payback within 7 years.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED-certified or higher</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 20% reduction in energy costs. Additional 5% reduction required if payback within 7 years.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>$30M or more</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business<LINEBRK/>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>H-1 Institutional (restrained)</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED Silver or higher</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 25% reduction in energy costs. Additional 5% reduction required if payback within 7 years.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>LEED-certified or higher</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 25% reduction in energy costs. Additional 5% reduction required if payback within 7 years.</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81563" number="94740" version="408">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Requirements for capital projects involving the installation or replacement of boilers, lighting systems and HVAC comfort controls:</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81564" number="94741" version="408">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table B</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100674" number="94742" version="411">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="7" horizontal-alignment="0">
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Estimated Construction Cost</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Occupancy Group</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Energy Cost Reduction Required (See 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-05" destination-id="0-0-0-10921">10-05</LINK>(a) for method of calculation)</CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Boiler – $2M or more</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business<LINEBRK/>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>G Education<LINEBRK/>H-1 Institutional (restrained)<LINEBRK/>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 10% reduction in energy costs.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Lighting systems – $1M or more</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business<LINEBRK/>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>G Education<LINEBRK/>H-1 Institutional (restrained)<LINEBRK/>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 10% reduction in energy costs.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>HVAC comfort controls – $2M or more</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business<LINEBRK/>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>G Education<LINEBRK/>H-1 Institutional (restrained)<LINEBRK/>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 5% reduction in energy costs.</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81565" number="94743" version="411">
+									<PARA>Notes to Table B: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100679" number="94744" version="411">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Capital projects required to comply with subdivision (a) of this section are not required to also comply with the energy cost reduction requirements summarized in this table.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100678" number="94745" version="411">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Capital projects for the installation of boilers at an estimated construction cost of two million dollars or more are not required to also comply with the energy cost reduction requirements summarized in this table for the installation of HVAC comfort controls. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100671" number="94746" version="409">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Requirements for capital projects involving the installation or replacement of plumbing systems that includes the installation or replacement of plumbing fixtures:</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81566" number="94747" version="409">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table C </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100676" number="94748" version="411">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="7" horizontal-alignment="0">
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+												<COLUMNFORMAT column-width="14" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Estimated Construction Cost for Plumbing Systems</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Occupancy Group</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water Use Reduction Required (See 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-05" destination-id="0-0-0-10921">10-05</LINK>(b) for method of calculation)</CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>$500,000 or more</PARA>
+												</COL>
+												<COL>
+													<PARA>B-1 Storage (moderate hazard)<LINEBRK/>B-2 Storage (low hazard)<LINEBRK/>C Mercantile<LINEBRK/>E Business</PARA>
+												</COL>
+												<COL>
+													<PARA>Minimum 30% reduction in water use or 20% if the Department of Buildings rejects an application for the use of waterless urinals.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>F-1a Assembly (theaters, etc.)<LINEBRK/>F-1b Assembly (churches, concert halls, etc.)<LINEBRK/>F-3 Assembly (museums, etc.)<LINEBRK/>F-4 Assembly (restaurants, etc.)<LINEBRK/>G Education<LINEBRK/>H-1 Institutional (restrained)<LINEBRK/>H-2 Institutional (incapacitated)</PARA>
+												</COL>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-100675" number="94749" version="410">
+									<PARA>Note to Table C: Capital projects required to comply with the provisions of subdivision (a) or (b) of this section are also subject to any applicable water use reduction requirements, summarized in this table. </PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81567" number="94750" version="3">
+								<HEADING>§ 10-05 Calculation of Required Energy Cost Reduction and Potable Water Use Reduction.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10921" name="T43C010_10-05"/>§ 10-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Calculation of Required Energy Cost Reduction and Potable Water Use Reduction.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81568" number="94751" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The required energy cost reduction, summarized in the tables set forth in subdivisions (a) and (b) of 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-04" destination-id="0-0-0-10919">10-04</LINK>, shall be calculated in accordance with the methodology prescribed under LEED Energy and Atmosphere Credit 1 of LEED NC v.2.1 or the New York State Energy Conservation Construction Code, whichever is more stringent.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81569" number="94752" version="411">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The required potable water use reduction, summarized in the table set forth in subdivision (c) of 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-04" destination-id="0-0-0-10919">10-04</LINK>, shall be determined by a methodology not less stringent than that prescribed in the LEED water efficiency credit 3.2 of LEED NC v.2.1 or v.2.2.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81570" number="94753" version="3">
+								<HEADING>§ 10-06 Procedures.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10923" name="T43C010_10-06"/>§ 10-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Procedures.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81571" number="94754" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Application for USGBC certification.</CHARFORMAT> In accordance with subdivision (k) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter and this chapter, a City agency must apply to the U.S. Green Building Council for certification of projects accounting for at least 50% of the amount of capital dollars allocated for capital projects of such agency unless the agency is utilizing an approved green building rating system other than the LEED green building rating system. This subdivision does not apply to the projects of entities that are not City agencies.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81572" number="94755" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting requirements.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81573" number="94756" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Each agency responsible for the expenditure of City funds on a capital project, whether it is a project of a City agency or a project of an entity that is not a City agency for which City capital funds will be expended, shall complete and submit applicable reporting forms for each capital project subject to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter in accordance with guidelines issued by the Director of the Office of Environmental Coordination.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81574" number="94757" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Director of the Office of Environmental Coordination will prepare an Annual Report in accordance with § 3 of local law 86 for the year 2005.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81575" number="94758" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Indexation of construction costs to inflation.</CHARFORMAT> The construction costs listed in subdivisions (b), (c), (d) and (g) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter shall be indexed to inflation. The Director of the Office of Environmental Coordination shall publish such costs at the start of each calendar year, beginning January 1, 2008.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-81576" number="94759" version="3">
+								<HEADING>§ 10-07 Exemptions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-10925" name="T43C010_10-07"/>§ 10-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exemptions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-81577" number="94760" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Director of the Office of Environmental Coordination may, on behalf of the Mayor, administer exemptions for capital projects from one or more of the requirements outlined in 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C010_10-04" destination-id="0-0-0-10919">10-04</LINK> if, in his or her sole discretion, such exemption is necessary in the public interest.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81578" number="94761" version="1746">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The total value of the exemptions granted pursuant to subdivision (a) of this section may not exceed 20% of the capital dollars in each fiscal year accounting for capital projects subject to each of subdivisions (b), (c) and (d) of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="224.1" destination-id="0-0-0-0">224.1</LINK> of the Charter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-81579" number="94762" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Requests for exemption, including an explanation of the reason for such request and supporting documentation, shall be submitted to the Director of the Office of Environmental Coordination as soon as is practicable after the agency becomes aware of the necessity for such exemption.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

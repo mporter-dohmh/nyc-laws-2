@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="1">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-474" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-53377" number="61709" version="1248">
+			<HEADING>Title 25: Department of Mental Health and Retardation [Repealed]</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15512" name="Title 25"/>Title 25: Department of Mental Health and Retardation [Repealed]</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-53380" number="61710" version="1245">
+				<PARA>
+					<PARAFORMAT justify="center">(Repealed City Record 11/9/2018, eff. 12/9/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-032]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-99591" number="113785" version="2131">
+			<HEADING>Chapter 7: Living in Communities Family and Friend Reunification (LINC VI) Rental Assistance Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-13429" name="T68C007"/>Chapter 7: Living in Communities Family and Friend Reunification (LINC VI) Rental Assistance Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-94552" number="113786" version="2131">
+				<PARA>
+					<PARAFORMAT justify="center">(Title and Chapter Amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94879" number="113787" version="2131">
+								<HEADING>§ 7-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13465" name="T68C007_7-01"/>§ 7-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-94880" number="113788" version="2131">
+									<PARA>For the purposes of this chapter, the following terms shall have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94885" number="113789" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner</CHARFORMAT>&quot; means the Commissioner of DSS or the Commissioner&apos;s designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130643" number="113790" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHS</CHARFORMAT>&quot; means the New York City Department of Homeless Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130642" number="113791" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DSS</CHARFORMAT>&quot; means the New York City Department of Social Services, which is the entity consisting of HRA and DHS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130641" number="113792" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Host family</CHARFORMAT>&quot; means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the LINC VI rental assistance payments will be applied. &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Host family</CHARFORMAT>&quot; shall include the primary occupant and may consist of a single individual. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130640" number="113793" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Household</CHARFORMAT>&quot; means the individuals who are in receipt of LINC VI rental assistance pursuant to this chapter, regardless of eligibility for public assistance. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130639" number="113794" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HRA</CHARFORMAT>&quot; means the New York City Human Resources Administration. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130638" number="113795" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Living in Communities Family and Friend Reunification Rental Assistance Program</CHARFORMAT>&quot; or &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">LINC VI Rental Assistance Program</CHARFORMAT>&quot; means the rental assistance program described in this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130637" number="113796" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Primary occupant</CHARFORMAT>&quot; means the person who has the primary responsibility for payment of the monthly rent for the residence towards which the LINC VI rental assistance payments will be applied or the owner of such residence. The primary occupant must reside in such residence. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130636" number="113797" version="2139">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program participant</CHARFORMAT>&quot; means a household member who has entered into an agreement for housing to which LINC VI rental assistance payments have been or are being applied. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94886" number="113798" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94887" number="113799" version="2131">
+								<HEADING>§ 7-02 Administration of the LINC VI Rental Assistance Program.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13467" name="T68C007_7-02"/>§ 7-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administration of the LINC VI Rental Assistance Program.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-94888" number="113800" version="2131">
+									<PARA>HRA shall administer the LINC VI Rental Assistance Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94889" number="113801" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94890" number="113802" version="2131">
+								<HEADING>§ 7-03 Renewals.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13469" name="T68C007_7-03"/>§ 7-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Renewals.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-102068" number="113803" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Subject to the availability of funding, a household in receipt of LINC VI rental assistance will receive four one-year renewals of such assistance if it meets the following continued eligibility requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130648" number="113804" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The household&apos;s total gross income does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130647" number="113805" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Where such activities are made available to the household, at least one member of the household must be continually engaged in ongoing case management activities designed to assist the household member in obtaining, maintaining and/or enhancing employment or to secure any benefits for which such member or household is eligible; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130646" number="113806" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>All members of the household eligible for Public Assistance must receive Public Assistance. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130645" number="113807" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HRA will determine a household&apos;s eligibility for renewal of LINC VI rental assistance at the end of each year of the household&apos;s participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household&apos;s monthly rental assistance amount pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-04" destination-id="0-0-0-13471">7-04</LINK>. Except as provided in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-05" destination-id="0-0-0-13473">7-05</LINK>, the monthly rental assistance amount will not change during the one-year renewal period. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130644" number="113808" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HRA in its discretion may waive any of the requirements set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-03" destination-id="0-0-0-13469">7-03</LINK>(a) on a case-by-case basis if the household&apos;s failure to meet the requirement was due to circumstances beyond the household&apos;s control, or where non-renewal is likely to result in the household&apos;s entry into shelter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-102067" number="113809" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 10/20/2015, eff. 11/19/2015; amended City Record 12/30/2015, eff. 1/29/2016; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94909" number="113810" version="2131">
+								<HEADING>§ 7-04 Maximum Monthly Rent Obligations and Calculation of Rental Assistance Amounts.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13471" name="T68C007_7-04"/>§ 7-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maximum Monthly Rent Obligations and Calculation of Rental Assistance Amounts.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-94910" number="113811" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Maximum Monthly Rent.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94911" number="113812" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The household&apos;s monthly rent shall not exceed the amounts set forth in the table below: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+										<LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94913" number="113813" version="2131">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="4" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="90" percentage="no"/>
+												<COLUMNFORMAT column-width="90" percentage="no"/>
+												<COLUMNFORMAT column-width="90" percentage="no"/>
+												<COLUMNFORMAT column-width="90" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>Household Size</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">1 – 2</CHARFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">3 – 4</CHARFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">5 or more</CHARFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Maximum Rent</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">$650</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">$750</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94914" number="113814" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Where the primary occupant receives Public Assistance, the household&apos;s monthly rent cannot exceed the difference between the primary occupant&apos;s payment obligation for the residence and the primary occupant&apos;s shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household&apos;s lease or rental agreement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94915" number="113815" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>In no event shall the household&apos;s monthly rent exceed the household&apos;s proportionate share of the rent for the residence. The determination of what constitutes the household&apos;s proportionate share of the rent shall be based on the formula set forth in Section 2525.7 of Title 9 of the New York Codes, Rules and Regulations or a comparable measure. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94916" number="113816" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rental Assistance Amount.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94917" number="113817" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The monthly rental assistance amount shall be equal to the household&apos;s monthly rent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94918" number="113818" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>HRA shall pay the monthly rental assistance amount directly to the primary occupant of the residence, each month for so long as the household remains eligible, the household continues to reside in the residence, and funding for the program remains available. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94919" number="113819" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94920" number="113820" version="2131">
+								<HEADING>§ 7-05 Moves.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13473" name="T68C007_7-05"/>§ 7-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Moves.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-94921" number="113821" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A household receiving LINC VI rental assistance may not move to a new residence and maintain eligibility for LINC VI rental assistance except with the approval of HRA and provided that the move must be to a residence within the City of New York. The LINC VI program participant must obtain such approval prior to moving to a new residence, provided that HRA may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant&apos;s control. If the household is moving with its current host family to a new residence. HRA shall grant approval for the move. In all other situations, HRA shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move. If the requested move would result in an increase in the household&apos;s monthly rent, approval will also be subject to the availability of funding. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94922" number="113822" version="2131">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If HRA has approved a move to a new residence, HRA shall recalculate the monthly rental assistance amount and that amount shall not change for one year from the effective date of the lease or rental agreement for the new residence. If the effective date of the lease or rental agreement for the new residence is not more than ten months after the start of the household&apos;s current year of participation in the program, then the household&apos;s current year of LINC VI rental assistance shall begin anew on the effective date of such lease or rental agreement. If the effective date of the lease or rental agreement for the new residence is more than ten months after the start of the household&apos;s current year of participation in the program and the household is eligible for renewal of LINC VI assistance, then the household&apos;s renewal period shall begin on the effective date of such lease or rental agreement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94923" number="113823" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94924" number="113824" version="2131">
+								<HEADING>§ 7-06 Agency Review Conference and DSS Administrative Appeal Process.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13475" name="T68C007_7-06"/>§ 7-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency Review Conference and DSS Administrative Appeal Process.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-94967" number="113825" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Right to DSS Administrative Review.</CHARFORMAT> A LINC VI program participant may request an agency review conference and/or DSS administrative hearing to seek review of any determinations or actions made by DHS and/or HRA under this chapter, as well as any failures to act, or failures to act with reasonable promptness, by HRA in implementing the provisions of this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130686" number="113826" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency Review Conference.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130685" number="113827" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If a LINC VI program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130684" number="113828" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A LINC VI program participant may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent a program participant from later requesting a DSS administrative hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130683" number="113829" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>An agency review conference must be requested within sixty days after the challenged determination or action, provided that if a DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130682" number="113830" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A request for an agency review conference will extend the time period to request a DSS administrative hearing as set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-06" destination-id="0-0-0-13475">7-06</LINK>(c)(2) to sixty days after the date of the agency review conference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130681" number="113831" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Request for a DSS Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130680" number="113832" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as DSS may set forth in an appeals notice. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130679" number="113833" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Except as provided in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-06" destination-id="0-0-0-13475">7-06</LINK>(b)(4), a request for an administrative hearing must be made within sixty days after the challenged determination or action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130678" number="113834" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Authorized Representative.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130677" number="113835" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Except where impracticable to execute a written authorization, a person or organization seeking to represent a LINC VI program participant must have the program participant&apos;s written authorization to represent them at an agency review conference or administrative hearing and to review their case record, provided that such written authorization is not required from an attorney retained by such program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee&apos;s authorization. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130676" number="113836" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Once DSS has been notified that a person or organization has been authorized to represent a LINC VI program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the program participant relating to the conference and hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130675" number="113837" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Continued Assistance</CHARFORMAT>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130674" number="113838" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If a LINC VI program participant requests an administrative appeal of a determination by DSS that rental assistance payments issued under 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-04" destination-id="0-0-0-13471">7-04</LINK> are to be reduced, restricted, suspended or discontinued, or that the program participant&apos;s household is not eligible for renewal pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-03" destination-id="0-0-0-13469">7-03</LINK>(b), such program participant shall have the right to continued receipt of LINC VI rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-06" destination-id="0-0-0-13475">7-06</LINK>(l), provided that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130673" number="113839" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130672" number="113840" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The appeal is based on a claim of incorrect computation or an incorrect factual determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130671" number="113841" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>There is no right to continued rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130670" number="113842" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Rental assistance payments will not continue pending the issuance of a hearing decision when: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130669" number="113843" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The LINC VI program participant has voluntarily waived their right to the continuation of such assistance in writing; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130668" number="113844" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The LINC VI program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130667" number="113845" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>If a LINC VI program participant requests an additional appeal pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-06" destination-id="0-0-0-13475">7-06</LINK>(m), rental assistance payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to such 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C007_7-06" destination-id="0-0-0-13475">7-06</LINK>(m). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130666" number="113846" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice.</CHARFORMAT> DSS shall provide the LINC VI program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the program participant has withdrawn their hearing request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130665" number="113847" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Examination of Case Record.</CHARFORMAT> The LINC VI program participant or their authorized representative has the right to examine the contents of their LINC program case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such program participant with copies of all such documents, and copies of any additional documents in the possession of HRA and/or DHS that the program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the program participant with copies of such documents no later than at the time of the administrative hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130664" number="113848" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adjournment.</CHARFORMAT> The administrative hearing may be adjourned for good cause by the administrative hearing officer on their own motion or at the request of the LINC VI program participant or HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130663" number="113849" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conduct of Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130662" number="113850" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130661" number="113851" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130660" number="113852" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The LINC VI program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130659" number="113853" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130658" number="113854" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Abandonment of Request for Administrative Hearing.</CHARFORMAT> Absent a request to reschedule an administrative hearing made prior to the hearing date, DSS will consider an administrative hearing request abandoned if neither the LINC VI program participant nor their authorized representative appears at the hearing. However, DSS will restore the case to the calendar if, within fifteen calendar days of the scheduled hearing date, the LINC VI program participant or their authorized representative contacts DSS and provides a good cause reason for failing to appear at the hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130657" number="113855" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing Record.</CHARFORMAT> The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130656" number="113856" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing Decision.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130655" number="113857" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130654" number="113858" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A copy of the decision, accompanied by written notice to the LINC VI program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130653" number="113859" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional Appeal.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130652" number="113860" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided that the Commissioner receives it through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer&apos;s decision. The record before the Commissioner shall consist of the hearing record, the hearing officer&apos;s decision and any affidavits, documentary evidence, or written arguments that the LINC VI program participant may wish to submit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130651" number="113861" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the LINC VI program participant or HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130650" number="113862" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A copy of the Commissioner&apos;s decision, accompanied by written notice to the LINC VI program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130649" number="113863" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94968" number="113864" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 10/20/2015, eff. 11/19/2015; amended City Record 12/30/2015, eff. 1/29/2016; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-94969" number="113865" version="2131">
+								<HEADING>§ 7-07 Additional Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13477" name="T68C007_7-07"/>§ 7-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Additional Provisions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-94979" number="113866" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Households in the LINC VI Rental Assistance Program will be referred to service providers who will assist them with connecting to appropriate services in their communities. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130692" number="113867" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Rental assistance provided under the LINC VI Rental Assistance Program cannot be combined with any other rent subsidies, except on a case-by-case basis. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130691" number="113868" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A primary occupant who has entered into a lease or rental agreement with a household receiving LINC VI rental assistance is prohibited from demanding, requesting, or receiving any monies, goods or services above the agreed-upon monthly rental amount. A primary occupant who demands, requests or receives any monies, goods or services above the agreed-upon monthly rental amount will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a primary occupant on a disqualification list, HRA will provide notice to the primary occupant and opportunity for the primary occupant to object in writing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130690" number="113869" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>As a condition of participating in the LINC VI Rental Assistance Program, a primary occupant who has entered into a lease or rental agreement with a household receiving LINC VI rental assistance is prohibited from raising the household&apos;s monthly rent for one year from the effective date of the lease or rental agreement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130689" number="113870" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The program participant must promptly inform HRA if any new person moves into the residence towards which LINC VI rental assistance payments are being applied. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130688" number="113871" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>If a program participant is evicted or moves from the residence to which LINC VI rental assistance payments have been or are being applied, the primary occupant must return any over-payment to HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130687" number="113872" version="2132">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Any residence to which LINC VI rental assistance shall be applied must pass a safety and habitability inspection. Additionally, if the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of whether any host family member has an indicated child protective history in New York City or is registered as a sex offender pursuant to Article 6-C of the New York Correction Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-94980" number="113873" version="2131">
+									<PARA>(Added City Record 6/11/2015, eff. 7/11/2015; amended City Record 12/30/2015, eff. 1/29/2016; amended City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-130632" number="113874" version="2131">
+								<HEADING>§ 7-08 LINC VI Rental Assistance Program Expiration and Repeal.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17336" name="T68C007_7-08"/>§ 7-08 LINC VI Rental Assistance Program Expiration and Repeal.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-130634" number="113875" version="2131">
+									<PARA>The provisions of this chapter shall expire and this chapter shall be deemed repealed in its entirety on December 31, 2024.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-130633" number="113876" version="2131">
+									<PARA>(Added City Record 10/28/2021, eff. 11/28/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-067]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,251 @@
+/* CSS to match style mapping */
+
+
+/* Level Styles */
+.Title
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	18pt;
+	color:	#000000;
+	text-align:	center;
+	margin-top:	27pt;
+	margin-bottom:	9pt;
+	border-bottom:	2pt solid;
+}
+
+.Chapter
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	16pt;
+	color:	#008080;
+	text-align:	center;
+	margin-top:	36pt;
+	margin-bottom:	14pt;
+	padding-bottom:	2pt;
+	border-bottom:	3pt solid #008080;
+}
+
+.Subchapter
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	16pt;
+	color:	#808080;
+	text-align:	center;
+	margin-top:	18pt;
+	margin-bottom:	9pt;
+}
+
+.Appendix
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	16pt;
+	color:	#008080;
+	text-align:	center;
+	margin-top:	36pt;
+	margin-bottom:	14pt;
+	padding-bottom:	2pt;
+	border-bottom:	3pt solid #008080;
+}
+
+.Part
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	14pt;
+	color:	#000000;
+	text-align:	center;
+	margin-top:	29pt;
+}
+
+.Article
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	14pt;
+	color:	#000000;
+	text-align:	center;
+	margin-top:	29pt;
+}
+
+.Subarticle
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	color:	#000080;
+	text-align:	left;
+	margin-top:	29pt;
+	margin-bottom:	14pt;
+}
+
+.Subarticle---Part
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	color:	#000080;
+	text-align:	left;
+	margin-top:	18pt;
+}
+
+.Section
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	12pt;
+	color:	#000080;
+	text-align:	left;
+	margin-top:	20pt;
+	margin-left:	18pt;
+}
+
+.Subsection
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	10pt;
+	color:	#000080;
+	text-align:	left;
+	margin-top:	9pt;
+}
+
+.Normal-Level
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	left;
+	margin-top:	9pt;
+}
+
+
+
+/* Paragraph Styles */
+.EdNote
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	italic;
+	font-weight:	normal;
+	font-size:	9pt;
+	color:	#800000;
+	text-align:	left;
+	margin-top:	9pt;
+	margin-left:	36pt;
+	margin-right:	36pt;
+	padding-left:	2pt;
+	border-left:	1pt solid #800000;
+	padding-top:	2pt;
+	border-top:	1pt solid #800000;
+	padding-right:	2pt;
+	border-right:	2pt solid #800000;
+	padding-bottom:	2pt;
+	border-bottom:	2pt solid #800000;
+}
+
+.EdNoteSm
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	9pt;
+	text-align:	left;
+	margin-top:	9pt;
+	margin-left:	36pt;
+	margin-right:	36pt;
+}
+
+.Introduction
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	10pt;
+	text-align:	center;
+	margin-top:	9pt;
+	margin-bottom:	9pt;
+}
+
+.Normal
+{
+	font-family:	"Times New Roman",serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	11pt;
+	text-align:	left;
+	line-height:	1.148;
+	margin-bottom:	10pt;
+}
+
+.Small
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	normal;
+	font-size:	8pt;
+	text-align:	left;
+}
+
+.Small-Bold
+{
+	font-family:	"Arial",sans-serif;
+	font-style:	normal;
+	font-weight:	bold;
+	font-size:	8pt;
+	text-align:	left;
+}
+
+
+
+/* Field Styles */
+.Note
+{
+}
+
+.Popup
+{
+}
+
+
+
+/* Highlighter Styles */
+.ALP
+{
+	color:	#0000FF;
+}
+
+
+
+/* Link Styles */
+.Data
+{
+	text-decoration:	 underline;
+	color:	#800080;
+}
+
+.Jump
+{
+	text-decoration:	 underline;
+	color:	#008000;
+}
+
+.Web
+{
+	text-decoration:	 underline;
+	color:	#800000;
+}
+

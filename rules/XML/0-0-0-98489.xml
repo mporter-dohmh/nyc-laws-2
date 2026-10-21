@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-98489" number="34770" version="202">
+			<HEADING>Chapter 38: Emissions Reduction Technologies for New Cook Stoves</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-14307" name="T15C038"/>Chapter 38: Emissions Reduction Technologies for New Cook Stoves</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98539" number="34771" version="202">
+								<HEADING>§ 38-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-14309" name="T15C038_38-01"/>§ 38-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-98538" number="34772" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Access point</CHARFORMAT> means that which enables a device, appliance or equipment to be reached by ready access or by a means that first requires the removal or movement of a panel, door or similar obstruction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98558" number="34773" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Air filtration device</CHARFORMAT> means a device composed of fibrous materials which removes solid particulates. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98557" number="34774" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">CFM</CHARFORMAT> means cubic feet per minute. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98556" number="34775" version="2691">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cook stove</CHARFORMAT> means any wood fired or anthracite coal fired appliance used for the preparation of food intended for onsite consumption or retail purchase. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-096]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98555" number="34776" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Discharge point</CHARFORMAT> means the point at which particulate matter is released from a stack into the open air. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98554" number="34777" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Electrostatic Precipitator (ESP)</CHARFORMAT> means a filtration device that removes fine particles, like dust and smoke, from a flowing gas using the force of an induced electrostatic charge minimally impeding the flow of gases through the unit. An ESP is a type of emissions control device. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98553" number="34778" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Emissions control device</CHARFORMAT> means equipment that is installed on a cook stove to reduce particulate matter emissions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98552" number="34779" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Existing</CHARFORMAT> means installed before May 6, 2016. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98551" number="34780" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">New</CHARFORMAT> means installed on or after May 6, 2016. NFPA means National Fire Prevention Association. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98550" number="34781" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Optical particle counter</CHARFORMAT> means an instrument based on the principle of light scattering from particles. It is a real time instrument that is used to measure particles above 0.05 micrometers in diameter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98549" number="34782" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Particulate matter</CHARFORMAT> or <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">PM</CHARFORMAT> means any air or gas-borne material, except water, that exists as a liquid or solid. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98548" number="34783" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Peak load</CHARFORMAT> means the addition of twenty percent to the amount of solid fuel that is normally used for cooking in the cook stove. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98547" number="34784" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">RH correction function</CHARFORMAT> means a function related to relative humidity correction. When this function is enabled, the particle growth effect due to high humidity is corrected by computing the mass concentration based on the original dry environment particle population. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98546" number="34785" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Smoke</CHARFORMAT> means small gas borne and airborne particulate matter arising from a process of combustion in sufficient quantity to be visible. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98545" number="34786" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stack</CHARFORMAT> means any duct, control equipment exhaust or similar apparatus, which vents gases and/or particulate matter into the open air. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98544" number="34787" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Test port plate</CHARFORMAT> means a template cover that is designed to prevent any of the air stream from escaping when the existing access plate is removed and which has an opening for the test probe to fit securely. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98543" number="34788" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Total suspended particulates (TSP)</CHARFORMAT> means small airborne particles with diameters measuring less than 100 micrometers. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98542" number="34789" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Treated firewood</CHARFORMAT> shall have the same meaning as set forth in Subdivision 13 of Section 192.5 of Title 6 of the New York Code Rules and Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98541" number="34790" version="202">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">UL</CHARFORMAT> means Underwriters Laboratories. Wet scrubber system means any emission control device that mixes an aqueous stream or slurry with the exhaust gases from an indirect heat exchanger to control emissions of particulate matter (PM). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98501" number="34791" version="2691">
+									<PARA>(Added City Record 4/24/2017, eff. 5/24/2017; amended City Record 10/27/2023, eff. 4/27/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-096]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-146159" number="34792" version="2691">
+								<HEADING>§ 38-02 Control Devices to Reduce Emissions from New Cook Stoves.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-14311" name="T15C038_38-02"/>§ 38-02 Control Devices to Reduce Emissions from New Cook Stoves.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-98502" number="34793" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>No person shall install a new cook stove without installing an emissions control device that is either a wet scrubber, electrostatic precipitator, or air filtration device as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98536" number="34794" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The emission control device must reduce total PM by 75 percent or greater. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98537" number="34795" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Wet scrubbers and air filtration devices must comply with UL 1978 and be correctly sized for the cooking appliance as specified by the manufacturer of the cook stove. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98535" number="34796" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Electrostatic precipitators must comply with UL 867 or 710, must have a certificate of approval from the Fire Department, and must be correctly sized for the cooking appliance as specified by the manufacturer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98534" number="34797" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance Requirements.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98533" number="34798" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Cook stoves must comply with all applicable laws and rules, including applicable provisions in the New York City Construction Codes, New York City Fire Code and Fire Department rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98532" number="34799" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Only treated firewood, as defined in this rule, shall be used in any new cook stove where the fuel source for the cook stove is wood. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98531" number="34800" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Testing Requirements for Emissions Control Devices.</CHARFORMAT> Testing that meets the requirements of this subdivision must be performed on an emissions control device that is installed on a cook stove. Testing may be performed in the field using the procedures specified in paragraph 1 of this subdivision or may be performed by a laboratory as specified in paragraph 2 of this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98530" number="34801" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Field Testing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98529" number="34802" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>i.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emissions reduction standard.</CHARFORMAT> Field test data must show that the emissions control device has reduced the cook stove&apos;s total PM emissions by 75 percent or more. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98528" number="34803" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>ii.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Requirements.</CHARFORMAT> Field testing shall be performed during peak load, using an Optical Particle Counter for Total Suspended Particulates (TSP). Peak load assumes that unburnt wood is introduced at the start of the testing and that the same composition of unburnt wood and embers is maintained during the testing. Sampling shall be performed with the emissions control device on and off. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98527" number="34804" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>iii.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Air Filtration Devices and ESPs.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98526" number="34805" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>For air filtration devices and ESPs, readings must be taken from within the clean out access point downstream of the device, or at the discharge point when the unit is on. When taking samples while the unit is off, samples may be taken upstream or downstream of the emissions control device. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98525" number="34806" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>Remove the access plate and replace with a test port plate and place the sampling probe inside a precut hole, or place the sampling probe directly within the discharge point. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98524" number="34807" version="2691">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>Samples must be taken using the Optical Particle Counter (OPC), and shall be taken for ten minutes at 2 liters per minute pump speed, twice with the unit on and twice with the unit off. If the OPC is equipped with a filter assembly, a new glass or PVC fiber filter shall be used for each test. If the OPC is equipped with RH correction function, it should be enabled when the humidity is expected to exceed 50 percent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-096]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98523" number="34808" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>iv.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Wet Scrubbers.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98522" number="34809" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>For wet scrubbers, samples must be taken from within the clean out access point or discharge point. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98521" number="34810" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>Remove the access plate and replace with a test port plate and place the sampling probe inside through a precut hole, or place the sampling probe directly within the discharge point. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98520" number="34811" version="2691">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>A minimum 20 liter sample shall be drawn into a 37mm glass or PVC fiber filter. The sample should be drawn for at least ten minutes at 2 liters per minute pump speed, twice with the unit on and twice with the unit off. Filters should be changed for each test. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-096]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98519" number="34812" version="2691">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>D.<TAB tab-count="1"/>Except as otherwise expressly provided in this subparagraph (iv), samples shall be taken in accordance with the following Sections of NIOSH Method 0500, Issue 2, August 15, 1994: &quot;Equipment&quot; Section (except that a 37mm glass or PVC fiber filter should be used), &quot;Preparation of Filters&quot; Section, &quot;Sampling&quot; Section (except that the total sample volume shall be 20 liters), and &quot;Sample Preparation&quot; Section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-096]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98559" number="34813" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>E.<TAB tab-count="1"/>The filters must then be collected and the weight of the filters shall be determined by an Industrial Hygienist in an Environmental Protection Agency (EPA) accredited laboratory. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98518" number="34814" version="1174">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Laboratory Testing.</CHARFORMAT> Laboratory testing shall be performed in a National Environmental Laboratory Accreditation Conference (NELAC) or New York State Department of Health Environmental Laboratory Approval Program (ELAP) certified laboratory and shall follow EPA Method 5, Appendix A-3 to 40 C.F.R. Part 60, or EPA Method 202, Appendix M to 40 C.F.R. Part 51, for particulate matter. During each test, samples must be collected from the outlet of the control device. Laboratory test data must show that the emissions control device has reduced the cook stove&apos;s total PM emissions by 75 percent or more. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98517" number="34815" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting Requirements.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98516" number="34816" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The results of the testing required by this Section must be submitted on forms prescribed by the department available on the department&apos;s website and must include the following information: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98515" number="34817" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>i.<TAB tab-count="1"/>Name and address of the manufacturer of the cook stove, brand name, trade name, model number of the cook stove, any additional equipment installed to enhance or support the operation of the emissions control device, the maximum air flow rate, and other relevant operating conditions during the test, as specified by the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98514" number="34818" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>ii.<TAB tab-count="1"/>A description of the emissions control device used on the cook stove model being certified. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98513" number="34819" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>iii.<TAB tab-count="1"/>A statement that testing has been conducted in accordance with the requirements of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98512" number="34820" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Additional reporting requirements for field testing conducted in accordance with paragraph one of subdivision c of this section. For air filtration devices and ESPs, the installer of the emissions control device must submit a print out to the Department with the readings of Total Suspended Particulates (TSP), and also submit pictures of the filter with the unit on and off. For wet scrubbers, complete laboratory results shall be submitted to the Department to document the reduction in PM. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98511" number="34821" version="2691">
+									<PARA>(Added City Record 4/24/2017, eff. 5/24/2017; amended City Record 10/27/2023, eff. 4/27/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-096]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98499" number="34822" version="202">
+								<HEADING>§ 38-03 Emissions Control Device Maintenance.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-14313" name="T15C038_38-03"/>§ 38-03 Emissions Control Device Maintenance.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-98509" number="34823" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any emissions control device installed or operated under this chapter shall be operated, cleaned, and maintained in accordance with the manufacturer&apos;s specifications. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98510" number="34824" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Notwithstanding subdivision (a) of this section, every emissions control device installed or operated pursuant to this chapter must comply with Section FC 609.4.1 of the New York City Fire Code. Emissions control devices must be cleaned by a person holding a FDNY Certificate of Fitness for commercial cooking system and precipitator cleaning. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98508" number="34825" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Notwithstanding subdivision (a) of this section, the cooking exhaust system shall be cleaned in accordance with the rules of the Fire Department and as frequently as necessary to maintain the system free of grease accumulations in accordance with NFPA 96 Chapter 14. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98507" number="34826" version="202">
+									<PARA>(Added City Record 4/24/2017, eff. 5/24/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98500" number="34827" version="202">
+								<HEADING>§ 38-04 Emissions Control Device Certification.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-14317" name="T15C038_38-04"/>§ 38-04 Emissions Control Device Certification.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-98504" number="34828" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The manufacturer of an emissions control device may seek department certification by submitting documentation that field testing has been conducted in accordance with the applicable procedures in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C038_38-02" destination-id="0-0-0-14311">38-02</LINK>(c)(1) and that such device meets the requirements of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C038_38-02" destination-id="0-0-0-14311">38-02</LINK>. Such documentation must be submitted in accordance with the requirements of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C038_38-02" destination-id="0-0-0-14311">38-02</LINK>(d). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98506" number="34829" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Additionally, the manufacturer or owner of an emissions control device may seek department certification by submitting documentation from an independent testing laboratory that tests in accordance with an EPA accredited laboratory testing method that the emissions control device has been tested in accordance with the applicable procedures set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C038_38-02" destination-id="0-0-0-14311">38-02</LINK>(c)(2) and that such device meets the requirements of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C038_38-02" destination-id="0-0-0-14311">38-02</LINK>. Such documentation must be submitted in accordance with the requirements of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C038_38-02" destination-id="0-0-0-14311">38-02</LINK>(d). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98505" number="34830" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The department will maintain a list of approved certified emissions control devices for use with particular models of cook stoves on the department&apos;s website and will update the list periodically as necessary. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98497" number="34831" version="202">
+									<PARA>(Added City Record 4/24/2017, eff. 5/24/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98498" number="34832" version="202">
+								<HEADING>§ 38-05 Records.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-14315" name="T15C038_38-05"/>§ 38-05 Records.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-98496" number="34833" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Recordkeeping.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98495" number="34834" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>On or after the effective date of this section, any person who owns or operates a new cook stove must maintain records showing all maintenance work performed on the emissions control device, including the date, time, and a brief description of maintenance work performed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98494" number="34835" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>On or after the effective date of this section, any person who owns or operates a new cook stove must maintain records regarding the date of installation and replacement of any emissions control device installed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98493" number="34836" version="202">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>For purposes of this subdivision, maintenance includes, but is not limited to, preventative maintenance, breakdown repair, and cleaning performed on the emissions control device <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98492" number="34837" version="202">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Retention of Records.</CHARFORMAT> All records required by this section must be retained for at least one year and must be made available to the Department upon request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-98490" number="34838" version="202">
+									<PARA>(Added City Record 4/24/2017, eff. 5/24/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

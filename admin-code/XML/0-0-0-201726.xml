@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-201726" number="36072" version="1267">
+			<HEADING>Chapter 14: Limits on Volatile Organic Compound Emissions in Carpet and Carpet Cushion</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7185" name="T17C014"/>Chapter 14: Limits on Volatile Organic Compound Emissions in Carpet and Carpet Cushion</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29596" number="36073" version="3">
+										<HEADING>§ 17-1401 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7187" name="17-1401"/>§ 17-1401 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29597" number="36074" version="3">
+											<PARA>As used in this chapter the following terms have the following meanings: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29598" number="36075" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Carpet. A heavy fabric used to cover a floor and made from wool, cotton, or other natural or synthetic fibers. Such term shall include carpet backing.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29599" number="36076" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Carpet business. Any person engaged in the business of selling or installing carpet or carpet cushion.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29600" number="36077" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Carpet adhesive. Any adhesive labeled for use in the installation of carpet, vinyl backed carpet, or artificial grass.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29601" number="36078" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Carpet backing. Materials such as fabrics, yarns, or chemical compounds at the underside of a carpet, used to reinforce the carpet&apos;s construction.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29602" number="36079" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Carpet cushion. A padding made of hair, felt, jute, foam or sponge rubber, or other natural or man-made materials, that is placed on the floor before a carpet is laid.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29603" number="36080" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Emission factor. The mass of a compound emitted from a specific unit area of product surface per unit of time.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29604" number="36081" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Owner. Any person having a legal or equitable interest in or control of any building, premises or part thereof, including but not limited to the record owner, a tenant or lessee.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29605" number="36082" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Person. Any natural person, agent, firm, partnership, corporation or other legal entity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29606" number="36083" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Total volatile organic compound or TVOC. Sum of the concentrations of all identified and unidentified VOCs between and including n-pentane through n-heptadecane (C5-C17) as measured by the gas chromatography/mass spectrometry total ion current (GC/MS TIC) method and expressed as a toluene equivalent value.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29607" number="36084" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(10)<TAB tab-count="1"/>Volatile organic compound or VOC. Carbon-containing compounds with vapor pressures at standard conditions ranging between those for n-pentane through n-heptadecane (C5-C17), excluding carbon monoxide, carbon dioxide, carbonic acid, metallic carbides and carbonates and ammonium carbonate. For the purposes of this chapter, formaldehyde and acetaldehyde are considered to be VOCs.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29608" number="36085" version="3">
+										<HEADING>§ 17-1402 Sale or installation of non-compliant carpet or carpet cushion prohibited.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7189" name="17-1402"/>§ 17-1402 Sale or installation of non-compliant carpet or carpet cushion prohibited.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29609" number="36086" version="3">
+											<PARA>On and after July 1, 2013 it shall be unlawful for a carpet business to sell or offer for sale carpet or carpet cushion designed for installation or use in the interior of a building or for a carpet business or owner to install or lay or to cause the installation or laying of carpet or carpet cushion in the interior of any building, premises or part thereof in the city that is not compliant with the standards set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1404" destination-id="0-0-0-7191">17-1404</LINK>.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29610" number="36087" version="3">
+										<HEADING>§ 17-1403 Carpet adhesive.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7193" name="17-1403"/>§ 17-1403 Carpet adhesive.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29611" number="36088" version="3">
+											<PARA>Carpet adhesive used in the installation of carpet in the interior of any building in the city shall comply with subpart 228-2 of part 228 of title 6 of the official compilation of the codes, rules and regulations of the state of New York.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29612" number="36089" version="3">
+										<HEADING>§ 17-1404 Standard for testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7191" name="17-1404"/>§ 17-1404 Standard for testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29613" number="36090" version="3">
+											<PARA>Testing of materials, other than carpet adhesive, covered by this chapter shall be in accordance with American Society for Testing and Materials (ASTM) D 5116-10 (standard guide for small-scale environmental chamber determination of organic emissions from indoor materials/products) or as otherwise specified in the rules of the department. Carpet shall comply with the emission factor limits in table I for a 14-day testing period. Carpet cushion shall comply with the emission factor limits in table II for a 24-hour testing period.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29614" number="36091" version="3">
+										<HEADING>§ 17-1405 Recordkeeping requirements for carpet businesses.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7195" name="17-1405"/>§ 17-1405 Recordkeeping requirements for carpet businesses.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29615" number="36092" version="419">
+											<PARA>Carpet businesses shall not remove the original manufacturer&apos;s labels from carpets or carpet cushions unless removal is necessary during installation. Carpet businesses shall obtain documentation from the manufacturer, in a form the department finds acceptable, that all carpet or carpet cushion sold, offered for sale or installed within the city is compliant with the standards set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1404" destination-id="0-0-0-7191">17-1404</LINK> unless the manufacturer&apos;s label otherwise indicates that the carpet or carpet cushion is compliant pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1406" destination-id="0-0-0-7197">17-1406</LINK>. Such documentation shall be kept on file and available for inspection by consumers and officers and employees of the department or the department of consumer affairs within seventy-two hours of the request. If carpet or carpet cushion is sold outside the city for installation in the city, such documentation shall be available for inspection by consumers and the department at the site upon installation.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29616" number="36093" version="806">
+										<HEADING>§ 17-1406 Green label, green label plus and other certification programs.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7197" name="17-1406"/>§ 17-1406 Green label, green label plus and other certification programs.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29617" number="36094" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Carpets and carpet cushions that have been certified by, and carry the seal or symbol of, the following certification programs shall be deemed to comply with the standards set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1404" destination-id="0-0-0-7191">17-1404</LINK>:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29618" number="36095" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>Carpet and Rug Institute (CRI) Green Label certification program, version effective February 16, 2010 or such other version as may be specified in the rules of the department;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29619" number="36096" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>Carpet and Rug Institute (CRI) Green Label Plus certification program, version effective February 16, 2010 or such other version as may be specified in the rules of the department; and iii. other certification programs as may be specified in the rules of the department.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29620" number="36097" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding the provisions of subdivision a, this section shall not apply to any certification program if the emission factor allowed for any individual VOC or for TVOC by the applicable version of such program exceeds the standards set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1404" destination-id="0-0-0-7191">17-1404</LINK>.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29621" number="36098" version="3">
+										<HEADING>§ 17-1407 Notice.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7199" name="17-1407"/>§ 17-1407 Notice.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29622" number="36099" version="3">
+											<PARA>Notice of the requirements of this chapter shall be posted in a conspicuous location at the premises of a carpet business within the city where carpet or carpet cushion are sold or offered for sale to consumers or, provided in written form to consumers at the time of sale within the city. If carpet or carpet cushion is sold outside the city for installation in the city, such notice shall be provided to the consumer prior to installation. The form and wording of such notice shall be specified by the department of health and mental hygiene.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29623" number="36100" version="3">
+										<HEADING>§ 17-1408 Construction.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7201" name="17-1408"/>§ 17-1408 Construction.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29624" number="36101" version="3">
+											<PARA>Nothing in this chapter shall be construed to require the removal or replacement of carpet or carpet cushion installed prior to July 1, 2013.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29625" number="36102" version="3">
+										<HEADING>§ 17-1409 Enforcement and penalties.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7203" name="17-1409"/>§ 17-1409 Enforcement and penalties.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29626" number="36103" version="420">
+											<PARA>The provisions of this chapter shall be enforced by the department and the department of consumer and worker protection. Any person found to be in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1402" destination-id="0-0-0-7189">17-1402</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1403" destination-id="0-0-0-7193">17-1403</LINK> of this chapter or rules of the department promulgated pursuant thereto shall be liable for a civil penalty of not more than five hundred dollars for each violation. Any person found to be in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1405" destination-id="0-0-0-7195">17-1405</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1407" destination-id="0-0-0-7199">17-1407</LINK> of this chapter or rules of the department promulgated pursuant thereto shall be liable for a civil penalty of not more than two hundred fifty dollars for each violation. Such civil penalties may be recovered in proceedings before the environmental control board or any tribunal established within the office of administrative trials and hearings or in an action in any court of appropriate jurisdiction. Notices of violation returnable to such board or tribunal may be served by officers and employees of the department and the department of consumer and worker protection. In any proceeding it shall be an affirmative defense that the respondent is a laborer in the employ of the carpet business to do the physical work of installing the carpet and that he or she has no ownership interest in or control of the business or in any corporation, partnership or other legal entity that owns or controls the business and that he or she has no managerial or supervisory responsibility. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29627" number="36104" version="706">
+											<PARA>(Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-124498" number="36105" version="476">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128164" number="36106" version="475">
+										<HEADING>§ 17-1410 Exemptions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7205" name="17-1410"/>§ 17-1410 Exemptions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29628" number="36107" version="3">
+											<PARA>This chapter shall not apply to antique or hand-made rugs or carpets made of natural fibers such as wool, cotton or jute with no VOC containing carpet cushion or carpet backing. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29629" number="36108" version="922">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table I<LINEBRK/>Carpet 14-Day VOC Emissions Test Criteria<LINEBRK/>
+												</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29630" number="36109" version="923">
+											<PARA>
+												<TABLE>
+													<TABLEFORMAT number-of-widths="3" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+														<COLUMNFORMAT column-width="216" percentage="no"/>
+														<COLUMNFORMAT column-width="144" percentage="no"/>
+														<COLUMNFORMAT column-width="144" percentage="no"/>
+													</TABLEFORMAT>
+													<ROW>
+														<COL>
+															<PARA>
+																<CELL header="true">
+																	<CELLFORMAT alignment="bottom">
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Volatile Organic Compound</CHARFORMAT>
+																	</CELLFORMAT>
+																</CELL>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA>
+																<CELL header="true">
+																	<CELLFORMAT alignment="bottom">
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chemical Abstract<LINEBRK/>Service #</CHARFORMAT>
+																	</CELLFORMAT>
+																</CELL>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA>
+																<CELL header="true">
+																	<CELLFORMAT alignment="bottom">
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maximum Emission Factor (</CHARFORMAT>
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">m</CHARFORMAT>
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">g/m</CHARFORMAT>
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+																		</CHARFORMAT>
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" baseline="-60">2</CHARFORMAT>
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+																		</CHARFORMAT>
+																		<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">/hr)</CHARFORMAT>
+																	</CELLFORMAT>
+																</CELL>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Acetaldehyde</PARA>
+														</COL>
+														<COL>
+															<PARA>75-07-0</PARA>
+														</COL>
+														<COL>
+															<PARA>130</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Benzene</PARA>
+														</COL>
+														<COL>
+															<PARA>71-43-2</PARA>
+														</COL>
+														<COL>
+															<PARA>55</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Carbon disulfide</PARA>
+														</COL>
+														<COL>
+															<PARA>75-15-0</PARA>
+														</COL>
+														<COL>
+															<PARA>744</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Carbon tetrachloride</PARA>
+														</COL>
+														<COL>
+															<PARA>56-23-5</PARA>
+														</COL>
+														<COL>
+															<PARA>37</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Chlorobenzene</PARA>
+														</COL>
+														<COL>
+															<PARA>108-90-7</PARA>
+														</COL>
+														<COL>
+															<PARA>930</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Chloroform</PARA>
+														</COL>
+														<COL>
+															<PARA>67-66-3</PARA>
+														</COL>
+														<COL>
+															<PARA>279</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Dichlorobenzene (1,4-)</PARA>
+														</COL>
+														<COL>
+															<PARA>106-46-7</PARA>
+														</COL>
+														<COL>
+															<PARA>744</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Dichloroethylene (1,1)</PARA>
+														</COL>
+														<COL>
+															<PARA>75-35-4</PARA>
+														</COL>
+														<COL>
+															<PARA>65</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Dimethylformamide (N,N-)</PARA>
+														</COL>
+														<COL>
+															<PARA>68-12-2</PARA>
+														</COL>
+														<COL>
+															<PARA>74</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Dioxane (1,4-)</PARA>
+														</COL>
+														<COL>
+															<PARA>123-91-1</PARA>
+														</COL>
+														<COL>
+															<PARA>2790</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Epichlorohydrin</PARA>
+														</COL>
+														<COL>
+															<PARA>106-89-8</PARA>
+														</COL>
+														<COL>
+															<PARA>2</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Ethylbenzene</PARA>
+														</COL>
+														<COL>
+															<PARA>100-41-4</PARA>
+														</COL>
+														<COL>
+															<PARA>1860</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Ethylene glycol</PARA>
+														</COL>
+														<COL>
+															<PARA>107-21-1</PARA>
+														</COL>
+														<COL>
+															<PARA>372</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Ethylene glycol monoethyl ether</PARA>
+														</COL>
+														<COL>
+															<PARA>110-80-5</PARA>
+														</COL>
+														<COL>
+															<PARA>65</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Ethylene glycol monoethyl ether acetate</PARA>
+														</COL>
+														<COL>
+															<PARA>111-15-9</PARA>
+														</COL>
+														<COL>
+															<PARA>279</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Ethylene glycol monomethyl ether</PARA>
+														</COL>
+														<COL>
+															<PARA>109-86-4</PARA>
+														</COL>
+														<COL>
+															<PARA>55</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Ethylene glycol monomethyl ether acetate</PARA>
+														</COL>
+														<COL>
+															<PARA>110-49-6</PARA>
+														</COL>
+														<COL>
+															<PARA>83</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Formaldehyde</PARA>
+														</COL>
+														<COL>
+															<PARA>50-00-0</PARA>
+														</COL>
+														<COL>
+															<PARA>16.7</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Hexane (n-)</PARA>
+														</COL>
+														<COL>
+															<PARA>110-54-3</PARA>
+														</COL>
+														<COL>
+															<PARA>6510</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Isophorone</PARA>
+														</COL>
+														<COL>
+															<PARA>78-59-1</PARA>
+														</COL>
+														<COL>
+															<PARA>1860</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Isopropanol</PARA>
+														</COL>
+														<COL>
+															<PARA>67-63-0</PARA>
+														</COL>
+														<COL>
+															<PARA>6510</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Methyl chloroform</PARA>
+														</COL>
+														<COL>
+															<PARA>71-55-6</PARA>
+														</COL>
+														<COL>
+															<PARA>930</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Methylene chloride</PARA>
+														</COL>
+														<COL>
+															<PARA>75-09-2</PARA>
+														</COL>
+														<COL>
+															<PARA>372</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Methyl t-butyl ether</PARA>
+														</COL>
+														<COL>
+															<PARA>1634-04-4</PARA>
+														</COL>
+														<COL>
+															<PARA>7440</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Naphthalene</PARA>
+														</COL>
+														<COL>
+															<PARA>91-20-3</PARA>
+														</COL>
+														<COL>
+															<PARA>8.2</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Phenol</PARA>
+														</COL>
+														<COL>
+															<PARA>108-95-2</PARA>
+														</COL>
+														<COL>
+															<PARA>186</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Prophylene glycol monomethyl ether</PARA>
+														</COL>
+														<COL>
+															<PARA>107-98-2</PARA>
+														</COL>
+														<COL>
+															<PARA>6510</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Styrene</PARA>
+														</COL>
+														<COL>
+															<PARA>100-42-5</PARA>
+														</COL>
+														<COL>
+															<PARA>410</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Tetrachloroethylene</PARA>
+														</COL>
+														<COL>
+															<PARA>127-18-4</PARA>
+														</COL>
+														<COL>
+															<PARA>32</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Toluene</PARA>
+														</COL>
+														<COL>
+															<PARA>108-88-3</PARA>
+														</COL>
+														<COL>
+															<PARA>280</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Trichloroethylene</PARA>
+														</COL>
+														<COL>
+															<PARA>79-01-6</PARA>
+														</COL>
+														<COL>
+															<PARA>558</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Vinyl acetate</PARA>
+														</COL>
+														<COL>
+															<PARA>108-05-4</PARA>
+														</COL>
+														<COL>
+															<PARA>186</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Xylenes, technical mixture<LINEBRK/>(m-, o-, p-xylene combined)</PARA>
+														</COL>
+														<COL>
+															<PARA>108-38-3<LINEBRK/>95-47-6<LINEBRK/>06-42-3</PARA>
+														</COL>
+														<COL>
+															<PARA>651</PARA>
+														</COL>
+													</ROW>
+												</TABLE>
+											</PARA>
+											<PARA>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29631" number="36110" version="922">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table II<LINEBRK/>Carpet Cushion 24-Hour VOC Emissions Test Criteria<LINEBRK/>
+												</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29632" number="36111" version="1078">
+											<PARA>
+												<TABLE>
+													<TABLEFORMAT number-of-widths="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+														<COLUMNFORMAT column-width="216" percentage="no"/>
+														<COLUMNFORMAT column-width="216" percentage="no"/>
+													</TABLEFORMAT>
+													<ROW>
+														<COL>
+															<PARA>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Volatile Organic Compound</CHARFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">24-hour Testing Period:<LINEBRK/>Maximum Emission Factor<LINEBRK/>(</CHARFORMAT>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">m</CHARFORMAT>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">g/m</CHARFORMAT>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+																</CHARFORMAT>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" baseline="-60">2</CHARFORMAT>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+																</CHARFORMAT>
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0"> per hour)</CHARFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Butylated hydroxytoluene</PARA>
+														</COL>
+														<COL>
+															<PARA>300</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Formaldehyde</PARA>
+														</COL>
+														<COL>
+															<PARA>50</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>4-Phenylcyclohexene (4PCH)</PARA>
+														</COL>
+														<COL>
+															<PARA>50</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA>Total Volatile Organic Compounds</PARA>
+														</COL>
+														<COL>
+															<PARA>1,000</PARA>
+														</COL>
+													</ROW>
+												</TABLE>
+											</PARA>
+											<PARA>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

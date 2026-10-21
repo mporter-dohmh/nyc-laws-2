@@ -1,0 +1,1193 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-233809" number="58143" version="2212">
+			<HEADING>Chapter 5-A: Water Pollution Control</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10895" name="T24C005A"/>Chapter 5-A: Water Pollution Control</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-45321" number="58144" version="91">
+				<HEADING>Subchapter 1: General</HEADING>
+				<PARA>Subchapter 1: General</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112273" number="58145" version="91">
+										<HEADING>§ 24-540 Policy.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19099" name="24-540"/>§ 24-540 Policy.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130668" number="58146" version="1762">
+											<PARA>Land development and associated increases in site impervious cover increase stormwater runoff causing flooding, soil erosion, and sediment transport and deposition in waterways. A high percentage of impervious area correlates with a higher rate of stormwater runoff, which generates greater pollutant loadings to the city&apos;s separate stormwater and combined sewer systems. Pollutants found in urban runoff include, but are not limited to, nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs). <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112322" number="58147" version="91">
+											<PARA>Clearing and grading during construction may increase soil erosion and add to the loss of native vegetation necessary for terrestrial and aquatic habitats. Improperly designed and constructed stormwater management practices increase the velocity of stormwater runoff thereby increasing erosion and sedimentation. Impervious surfaces allow less water to percolate into the soil, thereby decreasing groundwater recharge and stream baseflow. Stormwater runoff, soil erosion and nonpoint source pollution can be controlled and minimized through the regulation of stormwater runoff from land development activities. Regulation of land development activities by means of performance standards governing long-term stormwater management and site design produces development compatible with the natural functions of a particular site and thereby mitigates the adverse effects of erosion and sedimentation from development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112321" number="58148" version="91">
+											<PARA>Material handling and storage, equipment maintenance and cleaning, and other activities at industrial facilities are often exposed to stormwater, which can pick up pollutants and transport them to surface waters directly or via a storm sewer. Appropriate stormwater management at industrial facilities can reduce these impacts. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112320" number="58149" version="848">
+											<PARA>This chapter establishes stormwater management controls for construction projects to reduce the flow of stormwater runoff and water borne pollutants into sewers that empty directly into the waters of the state or that overflow into such waters because of rain or snowmelt events that exceed the design capacity of wastewater treatment plants. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112319" number="58150" version="848">
+											<PARA>The purpose and intent of this chapter is to (i) reduce pollutants discharged in stormwater runoff from construction activities to the maximum extent practicable through appropriate erosion and sediment controls; (ii) minimize, to the maximum extent practicable, increases in stormwater runoff volume and velocity, and pollutant loading in stormwater runoff, from development sites; (iii) ensure the proper maintenance of post-construction stormwater management practices; and (iv) ensure compliance by certain industrial facilities served by the city separate storm sewer system with applicable requirements to manage stormwater runoff in order to reduce pollutants in stormwater from industrial activities to the maximum extent practicable. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112318" number="58151" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112325" number="58152" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132127" number="58153" version="846">
+										<HEADING>§ 24-541 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19101" name="24-541"/>§ 24-541 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130669" number="58154" version="848">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112316" number="58155" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Authorized inspection agent.</CHARFORMAT> The term &quot;authorized inspection agent&quot; means an individual who has been authorized pursuant to a contract entered into by the department to conduct inspections on behalf of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112315" number="58156" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term &quot;commissioner&quot; means the commissioner of environmental protection or the authorized representative of such commissioner. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112314" number="58157" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered development project.</CHARFORMAT> The term &quot;covered development project&quot; means development activity that involves or results in an amount of soil disturbance greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-553" destination-id="0-0-0-19111">24-553</LINK>. Such term includes development activity that is part of a larger common plan of development or sale involving or resulting in soil disturbance greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-553" destination-id="0-0-0-19111">24-553</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112313" number="58158" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of environmental protection. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112312" number="58159" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Detention system.</CHARFORMAT> The term &quot;detention system&quot; means a system that slows and temporarily holds storm water runoff so that it can be released at a controlled rate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112311" number="58160" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Developer.</CHARFORMAT> The term &quot;developer&quot; means a person that owns or leases land on which development activity that is part of a covered development project is occurring, and/or a person that has operational control over the development activity&apos;s construction plans and specifications, including the ability to make modifications to the construction plans and specifications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112310" number="58161" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Development activity.</CHARFORMAT> The term &quot;development activity&quot; means soil disturbance on a site including but not limited to land contour work, clearing, grading, excavation, demolition, construction, reconstruction, new development, redevelopment, creation or replacement of impervious surface, stockpiling activities or placement of fill. Clearing activities include but are not limited to the cutting and skidding of trees, stump removal and/or brush root removal. Such term does not include routine maintenance (such as road resurfacing) that is performed to maintain the original line and grade, hydraulic capacity, or original purpose of a facility. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112309" number="58162" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Erosion and sediment controls.</CHARFORMAT> The term &quot;erosion and sediment controls&quot; means stormwater management practices designed to minimize the discharge of pollutants during development activities including, but not limited to, structural erosion and sediment control practices, construction sequencing to minimize exposed soils, soil stabilization, dewatering control measures, and other pollution prevention and good housekeeping practices appropriate for construction sites. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112308" number="58163" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Impaired water.</CHARFORMAT> The term &quot;impaired water&quot; includes (i) a water body for which NYSDEC has established a total maximum daily load (&quot;TMDL&quot;), (ii) a water body for which NYSDEC expects that existing controls such as permits will resolve the impairment, and (iii) a water body identified by NYSDEC as needing a TMDL. A list of impaired waters is issued by NYSDEC pursuant to section 303(d) of the federal water pollution control act, chapter 26 of title 33 of the United States code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112307" number="58164" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Industrial stormwater source.</CHARFORMAT> The term &quot;industrial stormwater source&quot; means any premises or facility that is subject to the MSGP. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112306" number="58165" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Larger common plan of development or sale.</CHARFORMAT> The term &quot;larger common plan of development or sale&quot; means a contiguous area where multiple separate and distinct development activities are occurring, or will occur, under one plan. The term &quot;plan&quot; in &quot;larger common plan of development or sale&quot; is broadly defined as any announcement or piece of documentation including a sign, public notice of hearing, sales pitch, advertisement, drawing, permit application, uniform land use review procedure (ULURP) application, state environmental quality review act (SEQRA) or city environmental quality review (CEQR) application, application for a special permit, authorization, variance or certification pursuant to the zoning resolution, subdivision application, computer design, or physical demarcation (including boundary signs, lot stakes, and surveyor markings) indicating that development activities may occur on a specific plot. Such term does not include area-wide rezonings or projects discussed in general planning documents. For discrete development activities that are located within a larger common plan of development or sale that are at least 1/4 mile apart, each activity may be treated as a separate plan of development or sale provided that any interconnecting road, pipeline or utility project that is part of the same &quot;common plan&quot; is not concurrently being disturbed. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112304" number="58166" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">MS4.</CHARFORMAT> The term &quot;MS4&quot; means the city municipal separate storm sewer system. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-132154" number="58167" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">MS4 covered development project or MS 4 project.</CHARFORMAT> The term &quot;MS4 covered development project&quot; or &quot;MS 4 project&quot; means a covered development project that is subject to the NYSDEC construction general permit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-132153" number="58168" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">MS4 SWPPP acceptance form.</CHARFORMAT> The term &quot;MS4 SWPPP acceptance form&quot; means for MS 4 projects the form developed by NYSDEC to be used to indicate acceptance of a SWPPP by a municipality. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112302" number="58169" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Multi sector general permit or &quot;MSGP.&quot;</CHARFORMAT> The term &quot;multi sector general permit&quot; or &quot;MSGP&quot; means the New York state department of environmental conservation SPDES multi sector general permit for stormwater discharges associated with industrial activity, Permit No. GP-0-12-001 or its successor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-132155" number="58170" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal operations and facilities.</CHARFORMAT> The term &quot;municipal operations and facilities&quot; means any operation or facility serving a New York city governmental purpose and over which the city of New York has operational control. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112301" number="58171" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">New development.</CHARFORMAT> The term &quot;new development&quot; means any construction or disturbance of a parcel of land that is currently undisturbed or unaltered by human activities and in a natural state. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112300" number="58172" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of intent or NOI.</CHARFORMAT> The term &quot;notice of intent&quot; or &quot;NOI&quot; means for MS 4 projects the document submitted to NYSDEC to obtain coverage under the NYSDEC construction general permit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112299" number="58173" version="2257">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of termination or NOT.</CHARFORMAT> The term &quot;notice of termination&quot; or &quot;NOT&quot; means (i) for an MS4 covered development project or MS 4 project, the document submitted to NYSDEC to terminate coverage under the NYSDEC construction general permit and stormwater construction permit and (ii) for any other project, the document submitted to the department to terminate coverage under the stormwater construction permit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-114]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112298" number="58174" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NYC MS4 Permit.</CHARFORMAT> The term &quot;NYC MS4 permit&quot; means the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112297" number="58175" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NYSDEC.</CHARFORMAT> The term &quot;NYSDEC&quot; means the New York state department of environmental conservation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112296" number="58176" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NYSDEC construction general permit.</CHARFORMAT> The term &quot;NYSDEC construction general permit&quot; means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from construction activities, Permit No. GP-0-15-002 or its successor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112295" number="58177" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NYSDEC MS4 general permit.</CHARFORMAT> The term &quot;NYSDEC MS4 general permit&quot; means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from municipal separate storm sewer systems (MS4s), Permit No. GP-0-15-003 or its successor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112294" number="58178" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Owner.</CHARFORMAT> The term &quot;owner&quot; means a person having legal title to premises, a mortgagee or vendee in possession, a trustee in bankruptcy, a receiver, or any other person having legal ownership or control of premises. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112293" number="58179" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person.</CHARFORMAT> The term &quot;person&quot; means an individual, corporation, partnership, limited liability company or other legal entity. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112292" number="58180" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Pollutant.</CHARFORMAT> The term &quot;pollutant&quot; means dredged soil, filter backwash, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand and industrial, municipal, and agricultural waste discharged into water; which may cause or might reasonably be expected to cause pollution of the waters of the state in contravention of the standards or guidance values adopted as provided in subdivision a of section 750-1.2 of title 6 of the New York codes, rules and regulations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112291" number="58181" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Pollutants of concern.</CHARFORMAT> The term &quot;pollutants of concern&quot; means pollutants that might reasonably be expected to be present in stormwater in quantities that may cause or contribute to an exceedance of water quality standards. These pollutants include but are not limited to nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs). <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112290" number="58182" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Post-construction stormwater management facility or post-construction facility.</CHARFORMAT> The term &quot;post-construction stormwater management facility&quot; or &quot;post-construction facility&quot; means a stormwater management practice serving a developed site and consisting of technology or strategies designed to reduce pollutants in stormwater runoff or reduce runoff rate or volume from the developed site through infiltration, retention, detention, or other method or treatment. Such term includes, but is not limited to, detention systems and retention systems. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112289" number="58183" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Premises.</CHARFORMAT> The term &quot;premises&quot; means any building, lot, parcel of land, or portion of land, whether improved or unimproved, including adjacent sidewalks and parking strips. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112288" number="58184" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualified inspector.</CHARFORMAT> The term &quot;qualified inspector&quot; means a person who is knowledgeable in the principles and practices of erosion and sediment control. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112287" number="58185" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualified professional.</CHARFORMAT> The term &quot;qualified professional&quot; means a person who is knowledgeable in the principles and practices of stormwater management and treatment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112286" number="58186" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Redevelopment.</CHARFORMAT> The term &quot;redevelopment&quot; means reconstruction of or modification to any existing previously developed land such as residential, commercial, industrial, institutional or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land where there had not been previous construction. Redevelopment specifically applies to constructed areas with impervious surface or urban fill. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112285" number="58187" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Retention system.</CHARFORMAT> The term &quot;retention system&quot; means a system that captures storm water runoff on site with no release. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112283" number="58188" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Storm sewer.</CHARFORMAT> The term &quot;storm sewer&quot; means a sewer, the primary purpose of which is to carry stormwater. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112282" number="58189" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stormwater or stormwater runoff.</CHARFORMAT> The term &quot;stormwater&quot; or &quot;stormwater runoff&quot; means runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112281" number="58190" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stormwater construction permit.</CHARFORMAT> The term &quot;stormwater construction permit&quot; means a permit issued by the department authorizing development activity on land on which there is a covered development project in accordance with an approved stormwater pollution prevention plan (SWPPP). <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112280" number="58191" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stormwater maintenance permit.</CHARFORMAT> The term &quot;stormwater maintenance permit&quot; means a permit issued by the department where maintenance of post-construction stormwater management facilities by owners of real property is required. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112279" number="58192" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stormwater management practices or SMPs.</CHARFORMAT> The term &quot;stormwater management practices&quot; or &quot;SMPs&quot; means measures to prevent flood damage and/or to prevent or reduce point source or nonpoint source pollution inputs to stormwater runoff and water bodies. Such term includes erosion and sediment controls, post-construction stormwater management facilities, and practices to manage stormwater runoff from industrial activities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112278" number="58193" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stormwater pollution prevention plan or SWPPP.</CHARFORMAT> The term &quot;stormwater pollution prevention plan&quot; or &quot;SWPPP&quot; means (i) when used in connection with a covered development project, a plan for controlling stormwater runoff and pollutants during construction and, where required by department rules, after construction is completed, or (ii) when used in connection with an industrial stormwater source, a plan, which is required by the MSGP, for controlling stormwater runoff and pollutants. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112277" number="58194" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Waters of the state.</CHARFORMAT> The term &quot;waters of the state&quot; means lakes, bays, sounds, ponds, impounding reservoirs, springs, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Atlantic ocean within the territorial seas of the state of New York and all other bodies of surface water, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters that do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112276" number="58195" version="2257">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021; Am. L.L. 2025/150, 10/25/2025, eff. 10/25/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-114]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112324" number="58196" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132128" number="58197" version="846">
+										<HEADING>§ 24-542 Entry and inspection.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19103" name="24-542"/>§ 24-542 Entry and inspection.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112275" number="58198" version="91">
+											<PARA>An authorized representative of the department may enter on any property, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, to inspect for compliance with this chapter and rules of the department promulgated hereunder. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112272" number="58199" version="91">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-112326" number="58200" version="91">
+				<HEADING>Subchapter 2: Construction and Post-Construction Stormwater Controls</HEADING>
+				<PARA>Subchapter 2: Construction and Post-Construction Stormwater Controls</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112327" number="58201" version="92">
+										<HEADING>§ 24-550 General.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19105" name="24-550"/>§ 24-550 General.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130671" number="58202" version="848">
+											<PARA>This subchapter regulates land development activities of covered development projects. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112414" number="58203" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112417" number="58204" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132129" number="58205" version="846">
+										<HEADING>§ 24-551 Stormwater construction permit required.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19107" name="24-551"/>§ 24-551 Stormwater construction permit required.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112415" number="58206" version="92">
+											<PARA>It shall be unlawful to commence or engage in any development activity on the site of a covered development project unless and until a stormwater construction permit has been issued by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112412" number="58207" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112418" number="58208" version="92">
+										<HEADING>§ 24-552 Review of stormwater pollution prevention plan or SWPPP.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19109" name="24-552"/>§ 24-552 Review of stormwater pollution prevention plan or SWPPP.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130672" number="58209" version="859">
+											<PARA>Before the commencement of development activity on the site of a covered development project the developer must submit to the department for review in accordance with rules of the department a stormwater pollution prevention plan, certified by a qualified professional, and for MS 4 projects covered by the NYSDEC construction general permit a copy of the notice of intent. The department or a qualified professional designated by the department shall review the SWPPP within time periods to be specified in the rules of the department. If the department accepts the SWPPP and all other requested documentation, the department shall issue a stormwater construction permit to the developer and, for MS 4 projects subject to the NYSDEC construction general permit, shall issue an MS4 SWPPP acceptance form for filing with NYSDEC. If the department rejects the SWPPP the department shall send notice of such rejection to the developer indicating the specific deficiencies that caused the department to reject the SWPPP. The department may require that the SWPPP and other documents be submitted electronically. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112410" number="58210" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112419" number="58211" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132130" number="58212" version="846">
+										<HEADING>§ 24-553 Rules.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19111" name="24-553"/>§ 24-553 Rules.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130673" number="58213" version="848">
+											<PARA>The department shall promulgate rules to carry out the provisions of this subchapter, including but not limited to rules that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112409" number="58214" version="848">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Set forth the content of SWPPPs, including identifying those development projects requiring only erosion and sediment controls during construction and those development projects requiring erosion and sediment controls and post-construction stormwater management facilities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112408" number="58215" version="848">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Establish design standards for erosion and sediment controls and post-construction stormwater management facilities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112407" number="58216" version="848">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Establish exemptions from permit requirements. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112406" number="58217" version="848">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Provide for the regulation of development activity of less than one acre, based either on total disturbance of soil or on amount of impervious surface created or replaced, where the department determines an appropriate reduction in the threshold is necessary to carry out the purposes of this chapter. In making such determination, the department shall evaluate the potential costs and the anticipated water quality benefits of lowering the threshold. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112405" number="58218" version="93">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Establish procedures and fees for the review of SWPPPs and the issuance and renewal of permits required by this subchapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112404" number="58219" version="848">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Establish training, experience and/or education requirements for qualified professionals and qualified inspectors. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112403" number="58220" version="93">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>Establish record keeping, inspection and reporting requirements for applicants and permittees to monitor compliance with this subchapter and approved SWPPPs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112402" number="58221" version="93">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>Establish requirements for compliance certifications by contractors to be included with SWPPPs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112401" number="58222" version="93">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>Establish standards for the maintenance, inspection, repair and replacement of required erosion and sediment controls and post-construction stormwater management facilities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112399" number="58223" version="848">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>For MS 4 projects, ensure that such rules are not less stringent than the NYC MS4 permit and the NYSDEC construction general permit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-132142" number="58224" version="848">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112420" number="58225" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132131" number="58226" version="846">
+										<HEADING>§ 24-554 SWPPP to be retained on site.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19113" name="24-554"/>§ 24-554 SWPPP to be retained on site.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130674" number="58227" version="848">
+											<PARA>A copy of the SWPPP shall be retained at the site of the project from the date of initiation of development activities to the date of termination of the project as determined in accordance with the rules of the department and shall be made available to officers and employees of the department and/or qualified inspectors authorized by the department in accordance with the rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112397" number="58228" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112421" number="58229" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132132" number="58230" version="846">
+										<HEADING>§ 24-555 Recordkeeping.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19115" name="24-555"/>§ 24-555 Recordkeeping.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112398" number="58231" version="92">
+											<PARA>A developer shall keep and maintain records of all inspections and tests required to be performed pursuant to this subchapter and rules of the department, as follows: records of inspections and tests performed during construction must be maintained throughout construction and for 5 years after completion of construction; and records of post-construction inspections and tests must be maintained for 5 years after performance of such inspections or tests. Such records and tests shall be made available to the department in accordance with the rules of the department. The department may require such records to be maintained and provided to the department electronically. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112395" number="58232" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112422" number="58233" version="92">
+										<HEADING>§ 24-556 Compliance with terms and conditions of SWPPP required.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19117" name="24-556"/>§ 24-556 Compliance with terms and conditions of SWPPP required.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130675" number="58234" version="689">
+											<PARA>Every stormwater construction permit issued by the department shall include the condition that the applicant and all contractors and subcontractors performing work at the site will comply with this subchapter, rules of the department and the terms and conditions of the SWPPP. Any changes in the SWPPP are subject to the prior approval of the department in accordance with rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112393" number="58235" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112423" number="58236" version="92">
+										<HEADING>§ 24-557 Suspension or revocation of permit.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19119" name="24-557"/>§ 24-557 Suspension or revocation of permit.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130676" number="58237" version="848">
+											<PARA>The department may suspend or revoke a stormwater construction permit, after notice and the opportunity for a hearing in accordance with the rules of the department, when the department or, in the case of an MS 4 project, NYSDEC finds that there is substantial non-compliance with this subchapter, the rules of the department, the NYSDEC construction general permit or the SWPPP, including any major change to erosion or sediment controls or any change in a post-construction stormwater management facility during construction that has or could have an effect on the discharge of pollutants, or when a permit was issued in error and conditions are such that a permit should not have been issued. When a permit is revoked or suspended all development activity at the project site shall cease and shall not be resumed until the issuance of a new permit or until such suspension is terminated except that the department may allow performance of work that is necessary to ensure public safety or to stabilize the construction site. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112391" number="58238" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112424" number="58239" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132133" number="58240" version="846">
+										<HEADING>§ 24-558 Stop work order.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19121" name="24-558"/>§ 24-558 Stop work order.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112392" number="58241" version="93">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Whenever the department finds that any development activity is being executed in violation of this subchapter, the SWPPP or rules of the department to the extent that work being performed at the site has or could have an effect on the discharge of pollutants or stormwater runoff volume or velocity, the department may issue a stop work order with respect to such work. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112390" number="58242" version="93">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such order shall be posted at the site and served personally on or mailed to the owner or developer or to the person executing the work at the site or the agent of any of them. When there is an immediate danger of a release of pollutants a verbal order to stop work may be given followed promptly by a written order in accordance with this subdivision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112389" number="58243" version="93">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112388" number="58244" version="93">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued any work covered by the stop work order, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112387" number="58245" version="93">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Upon application in accordance with the rules of the department, the commissioner shall rescind the stop work order where the commissioner finds (i) that the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted or, (ii) that the stop work order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such stop work order. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112386" number="58246" version="93">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>It shall be unlawful to tamper with, remove or deface a written posted stop work order from the location where it was affixed unless and until such stop work order has been rescinded by the commissioner. The owner or other person in control of the location shall ensure that the stop work order remains posted until rescinded by the commissioner. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112384" number="58247" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112425" number="58248" version="92">
+										<HEADING>§ 24-559 Post-construction stormwater management facilities.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19123" name="24-559"/>§ 24-559 Post-construction stormwater management facilities.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130677" number="58249" version="2257">
+											<PARA>Where post-construction stormwater management facilities are required by the department, the department shall not approve a notice of termination for the project until the execution and recording of a maintenance easement, which shall be binding on all subsequent owners of the real property served by such post-construction stormwater management facility, except where the corporation counsel has determined that such a maintenance easement is not necessary due to the property&apos;s ownership or use by a public agency or instrumentality. For post-construction stormwater management facilities subject to such an exception, when there is a subsequent conveyance or cessation of public use, the corporation counsel may require the execution and recording of a maintenance easement at that time. The easement shall provide for access to post-construction stormwater management facilities at reasonable times in accordance with law for periodic inspection by the department or qualified professionals authorized by the department to ensure that such facilities are maintained in good working condition to meet the applicable design standards. The easement shall be recorded by the grantor in the office of the city register or, if applicable, the county clerk after approval by the corporation counsel. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-114]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112382" number="58250" version="2257">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021; Am. L.L. 2025/150, 10/25/2025, eff. 10/25/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-114]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112426" number="58251" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132134" number="58252" version="846">
+										<HEADING>§ 24-560 Stormwater maintenance permit.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19125" name="24-560"/>§ 24-560 Stormwater maintenance permit.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130678" number="58253" version="848">
+											<PARA>It is the duty of all owners of real property, jointly and severally, served by a post-construction stormwater management facility required by a SWPPP accepted by the department pursuant to this subchapter to provide for the inspection and maintenance of such facility in accordance with this section and the rules of the department. The department shall maintain a record of all such post-construction stormwater management facilities and the property served by each such facility. As soon as practicable after final stabilization of a site, the owner of property served by a post-construction stormwater management facility shall submit to the department an application for a stormwater maintenance permit for such facility. Such owner shall provide for the renewal of such permit every 5 years in accordance with the rules of the department. The department shall issue or renew such permit upon receipt of a satisfactory inspection report certified by a qualified professional retained by the owner indicating that the facility has been installed and/or is operated and maintained in good working condition to meet applicable design standards and the rules of the department. A facility shall be maintained in good working condition throughout its useful life and replaced in accordance with the rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112380" number="58254" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-130913" number="58255" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-132135" number="58256" version="846">
+				<HEADING>Subchapter 3: Industrial Stormwater Sources</HEADING>
+				<PARA>Subchapter 3: Industrial Stormwater Sources</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112378" number="58257" version="92">
+										<HEADING>§ 24-570 Applicability.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19127" name="24-570"/>§ 24-570 Applicability.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130679" number="58258" version="848">
+											<PARA>This subchapter applies to sites served by the city municipal separate storm sewer system. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112376" number="58259" version="847">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2020/091, 9/27/2020, eff. 3/26/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112427" number="58260" version="846">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/091" destination-id="0-0-0-20657">L.L. 2020/091</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-132136" number="58261" version="846">
+										<HEADING>§ 24-571 Authority to enter and inspect.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19129" name="24-571"/>§ 24-571 Authority to enter and inspect.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112377" number="58262" version="93">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall have the authority to enter and inspect any premises or facility, including, but not limited to, its equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection. Such entry and inspection shall be conducted during normal operating hours for purposes of determining whether such premises or facility generates significant contributions of pollutants of concern to an impaired water. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112375" number="58263" version="93">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall have the authority to enter and inspect industrial stormwater sources including, but not limited to, their equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, and shall, at a minimum, conduct inspections of such sources in accordance with the schedule and requirements for such inspections set forth in the NYC MS4 Permit. Such entry and inspection shall be conducted during normal operating hours for purposes of determining compliance with this subchapter and any rule promulgated pursuant thereto. The department may enter and inspect such premises and facilities for purposes including, but not limited to, the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112374" number="58264" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>To conduct a visual observation for evidence of unauthorized discharges, illicit connections, and potential discharges of pollutants to stormwater; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112373" number="58265" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>To evaluate the facility&apos;s compliance with applicable MSGP requirements; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112372" number="58266" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>To evaluate the facility&apos;s compliance with any other relevant local stormwater requirements. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112370" number="58267" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112428" number="58268" version="92">
+										<HEADING>§ 24-572 Compliance with the MSGP.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19131" name="24-572"/>§ 24-572 Compliance with the MSGP.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112371" number="58269" version="92">
+											<PARA>All industrial stormwater sources must comply with all applicable conditions of the MSGP. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112368" number="58270" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112429" number="58271" version="92">
+										<HEADING>§ 24-573 Recordkeeping.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19133" name="24-573"/>§ 24-573 Recordkeeping.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112369" number="58272" version="93">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Industrial stormwater sources shall, upon the department&apos;s request or pursuant to the rules of the department, submit to the department any information or records necessary to determine compliance with the MSGP and this subchapter and any rule promulgated pursuant thereto. Such records may include, but need not be limited to, stormwater pollution prevention plans and reports of monitoring activities and results required pursuant to the MSGP. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112367" number="58273" version="93">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department may require such records to be maintained and provided to the department electronically. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112365" number="58274" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-112430" number="58275" version="92">
+				<HEADING>Subchapter 4: Enforcement</HEADING>
+				<PARA>Subchapter 4: Enforcement</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112366" number="58276" version="92">
+										<HEADING>§ 24-580 General.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19135" name="24-580"/>§ 24-580 General.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112364" number="58277" version="92">
+											<PARA>Notwithstanding any other provision of law, the commissioner, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of this chapter and the rules promulgated pursuant thereto. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112362" number="58278" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112431" number="58279" version="92">
+										<HEADING>§ 24-581 Orders.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19137" name="24-581"/>§ 24-581 Orders.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112363" number="58280" version="92">
+											<PARA>The commissioner, and the environmental control board within the office of administrative trials and hearings, shall have the power to issue such orders as may be provided for in this chapter and the rules promulgated pursuant thereto and such additional orders as may be necessary for the enforcement of such provisions. Such orders may include, but are not limited to, orders requiring (i) inspection by a qualified inspector or qualified professional, (ii) maintenance, repair or replacement of post-construction stormwater management facilities, (iii) compliance with the MSGP through actions including, but not limited to, monitoring, analysis, and reporting or (iv) the installation, implementation and maintenance of SMPs. The department shall promulgate rules governing the appeal of such orders where they are issued by department employees or authorized inspection agents. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112360" number="58281" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112432" number="58282" version="92">
+										<HEADING>§ 24-582 Commissioner&apos;s cease and desist orders.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19139" name="24-582"/>§ 24-582 Commissioner&apos;s cease and desist orders.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112361" number="58283" version="93">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Whenever the commissioner has reasonable cause to believe that (i) a condition exists in violation of any of the provisions of sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-559" destination-id="0-0-0-19123">24-559</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-560" destination-id="0-0-0-19125">24-560</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-572" destination-id="0-0-0-19131">24-572</LINK> or in violation of any order or rule issued by the board or commissioner pursuant to such provisions or to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-581" destination-id="0-0-0-19137">24-581</LINK> in furtherance of such provisions and (ii) that such condition creates or may create an imminent danger to the sewer system or to the public health or to the life or safety of persons, the commissioner may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation in which the condition is located to take such action as may be necessary to halt or prevent such condition. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112359" number="58284" version="93">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>If service of the order cannot be made personally because such person cannot be located at such time then service may be made by delivering a copy to a person of suitable age and discretion at the residence or place of business of the person sought to be served. If service cannot be made personally or by such delivery to a person of suitable age and discretion because of inability to locate or to obtain the name or address of such person at such time, service may be made by conspicuously posting a copy of such order upon the property to which it relates and mailing the order to the most recent residential or business address of record of the person sought to be served. The posting and mailing of such order shall be sufficient notice of such order to all persons having a duty in relation thereto under the provisions of this subdivision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112358" number="58285" version="93">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>If the order is not complied with or so far complied with as such commissioner may regard as reasonable, within the time specified therein, such commissioner may act to halt or prevent such condition by: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112357" number="58286" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>sealing, blocking or otherwise inactivating any equipment, facility, or device; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112356" number="58287" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>sealing, blocking or otherwise inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112355" number="58288" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112354" number="58289" version="93">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Any person affected by such an order may make written application to the environmental control board within the office of administrative trials and hearings for a hearing. Such hearing shall be provided, pursuant to the rules of such board within such office, and shall be held within two business days after the receipt of such application. The board may suspend, modify or terminate such order. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112353" number="58290" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112433" number="58291" version="92">
+										<HEADING>§ 24-583 Environmental control board cease and desist orders.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19141" name="24-583"/>§ 24-583 Environmental control board cease and desist orders.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112352" number="58292" version="93">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>In the case of any continued or knowing violation of the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-559" destination-id="0-0-0-19123">24-559</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-560" destination-id="0-0-0-19125">24-560</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-572" destination-id="0-0-0-19131">24-572</LINK> or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant to such provisions or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-581" destination-id="0-0-0-19137">24-581</LINK> in furtherance of such provisions or where the board finds that the violation of any of such provisions or conditions presents or may present a danger to the environment or threatens to interfere with the operation of the sewer system, the board, after notice and the opportunity for a hearing in accordance with the rules of such board within such office, may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation to cease and desist from any activity or process which causes or is conducted so as to cause such violation within the time specified in such order. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112351" number="58293" version="93">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such order may provide that if the order is not complied with or so far complied with as the commissioner may regard as reasonable within the time specified therein, the commissioner may take such action as shall be specified therein including but not limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112350" number="58294" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>sealing, blocking or inactivating any equipment, facility or device; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112349" number="58295" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>sealing, blocking or inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112348" number="58296" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112347" number="58297" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112434" number="58298" version="92">
+										<HEADING>§ 24-584 Action by corporation counsel.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19143" name="24-584"/>§ 24-584 Action by corporation counsel.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112346" number="58299" version="92">
+											<PARA>If the respondent fails to comply with any order issued by the environmental control board within the office of administrative trials and hearings, or the commissioner or the board or the commissioner otherwise deems it necessary, the corporation counsel, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order issued by the board or commissioner. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112345" number="58300" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112436" number="58301" version="92">
+										<HEADING>§ 24-585 Civil penalties.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19145" name="24-585"/>§ 24-585 Civil penalties.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112344" number="58302" version="2257">
+											<PARA>Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant thereto shall be liable for a civil penalty not exceeding $15,000 for each violation. In the case of a continuing violation each day&apos;s continuance shall be a separate and distinct offense. The office of administrative trials and hearings, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the charter, shall have the power to impose such civil penalties. A proceeding to impose such penalties shall be commenced by the service of a notice of violation returnable to such office. Such office, after a hearing as provided in accordance with applicable law and rules, shall have the power to enforce its final decisions and orders imposing such civil penalties as if they were money judgments pursuant to subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the charter. A civil penalty imposed by such office may also be collected in an action brought in the name of the city in any court of competent jurisdiction. The environmental control board within the office of administrative trials and hearings, in its discretion, may, within the limits set forth in this section, establish a schedule of civil penalties indicating the minimum and maximum penalty for each separate offense or may use a schedule adopted by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-114]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112343" number="58303" version="2257">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019; Am. L.L. 2025/150, 10/25/2025, eff. 10/25/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-114]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112435" number="58304" version="92">
+										<HEADING>§ 24-586 Criminal penalties.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19147" name="24-586"/>§ 24-586 Criminal penalties.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112342" number="58305" version="92">
+											<PARA>In addition to the civil penalties set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-585" destination-id="0-0-0-19145">24-585</LINK>, any person who knowingly violates or fails to comply with any provision of this chapter or any order or rule issued by the commissioner, or the environmental control board within the office of administrative trials and hearings, pursuant thereto shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than two hundred fifty nor more than ten thousand dollars, or by imprisonment not exceeding thirty days, or both for each offense. In the case of a continuing violation each day&apos;s continuance shall be a separate and distinct offense. In addition to its application to any other person, the fine provided for in this paragraph shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112341" number="58306" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112437" number="58307" version="92">
+										<HEADING>§ 24-587 Liability to the city.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19149" name="24-587"/>§ 24-587 Liability to the city.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112340" number="58308" version="92">
+											<PARA>Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued pursuant thereto shall be liable to the city for any expense, including but not limited to costs for response, remediation and emergency services or any other loss or damage suffered by the city by reason of such violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112339" number="58309" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112438" number="58310" version="92">
+										<HEADING>§ 24-588 Service.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19151" name="24-588"/>§ 24-588 Service.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112338" number="58311" version="92">
+											<PARA>Unless otherwise provided in this chapter, service of any notice or order required by this subchapter may be made either personally or by mail. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112337" number="58312" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112439" number="58313" version="92">
+										<HEADING>§ 24-589 Issuance.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19153" name="24-589"/>§ 24-589 Issuance.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112336" number="58314" version="92">
+											<PARA>Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets, orders and notices of violation based upon violations of this chapter or rules of the department promulgated hereunder. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112335" number="58315" version="92">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112440" number="58316" version="92">
+										<HEADING>§ 24-590 Delegation to authorized inspection agents.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19155" name="24-590"/>§ 24-590 Delegation to authorized inspection agents.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112334" number="58317" version="93">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall have the authority to delegate to authorized inspection agents the authority to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112333" number="58318" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Carry out inspections pursuant to this chapter or any rule promulgated pursuant thereto; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112332" number="58319" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Issue orders pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-581" destination-id="0-0-0-19137">24-581</LINK>, or issue orders pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-524" destination-id="0-0-0-10877">24-524</LINK> when deemed necessary and appropriate in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112331" number="58320" version="93">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Issue notices of violation for civil penalties pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-585" destination-id="0-0-0-19145">24-585</LINK>, or notices of violation pursuant to subdivision f of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-524" destination-id="0-0-0-10877">24-524</LINK> when the basis for such notice of violation is observed in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112330" number="58321" version="93">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Authorized inspection agents shall perform their duties in accordance with this chapter and rules of the department promulgated pursuant thereto, which rules shall set forth the categories of violations for which such notices may be issued by such agents, the categories of orders that may be issued by such agents and the circumstances in which such agents shall obtain department approval or refer matters to the department for further action. In addition, the department shall, through standards imposed by means of procurement or rulemaking, ensure that such agents are subject to appropriate eligibility criteria, training requirements and grounds for revoking inspection and enforcement authority. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112328" number="58322" version="2480">
+											<PARA>(L.L. 2017/097, 5/30/2017, eff. 6/1/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-037]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-245326" number="58323" version="2480">
+				<HEADING>Subchapter 5: Water Quality Testing at Waterfront Properties</HEADING>
+				<PARA>Subchapter 5: Water Quality Testing at Waterfront Properties</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-245328" number="58324" version="2480">
+										<HEADING>§ 24-591 Waterbody testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30079" name="24-591"/>§ 24-591 Waterbody testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-245345" number="58325" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245344" number="58326" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water quality indicator.</CHARFORMAT> The term “water quality indicator” means the following parameters as measured by the department: fecal coliform and enterococcus bacteria, dissolved oxygen, chlorophyll a, nitrogen, and water clarity. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245343" number="58327" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Waterbody.</CHARFORMAT> The term “waterbody” means a waterfront located adjacent to the shoreline bordering New York city, or a waterway, such as a creek, river, canal, or channel, located within the geographical boundaries of New York city. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245342" number="58328" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Testing.</CHARFORMAT> The commissioner shall conduct sampling and testing for water quality indicators at no less than 15 testing sites based on the following criteria: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245341" number="58329" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>At least once each month from November to April, and at least once each week from May to October. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245340" number="58330" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The commissioner shall select such testing sites based on their location within: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245339" number="58331" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>1,000 feet of a combined sewer outfall; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245338" number="58332" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>an area of a waterbody used for secondary contact recreation, such as boating or fishing; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245337" number="58333" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>within 5 and 20 feet from a waterbody’s shore or other access point, or as close to such distance as possible while maintaining a minimum of 5 feet of water depth at low tide for vessel navigation safety. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245336" number="58334" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>No testing site selected by the commissioner pursuant to this subdivision shall include a site at a waterbody being tested or surveyed by the department of health and mental hygiene. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245335" number="58335" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Posting water quality information online.</CHARFORMAT> At least once each week the commissioner shall conspicuously post on the department’s website the final results of all sampling and testing conducted pursuant to subdivision b of this section for bacteria, including fecal coliform and enterococcus, and at least once each quarter the commissioner shall conspicuously post on the department’s website all other water quality indicators. The results of such sampling and testing required to be posted online pursuant to this subdivision shall be disaggregated by:&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245334" number="58336" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The type of water quality indicator tested; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245333" number="58337" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The level of such water quality indicator found in the sample, indicated with units of measurement as determined by the commissioner; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245332" number="58338" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The site where such sample was collected, including the approximate distance from the waterbody’s shore or other access point; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245331" number="58339" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The date such sample was collected; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245330" number="58340" version="2480">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The method of testing utilized to determine the measurement for each water quality indicator. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245327" number="58341" version="2480">
+											<PARA>(L.L. 2026/091, 5/16/2026, eff. 2/10/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-121]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

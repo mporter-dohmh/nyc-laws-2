@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-236364" number="62405" version="2519">
+			<HEADING>Chapter 39: Rental Assistance Voucher Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-30167" name="T26C039"/>Chapter 39: Rental Assistance Voucher Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246216" number="62406" version="2519">
+										<HEADING>§ 26-3901 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30169" name="26-3901"/>§ 26-3901 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246269" number="62407" version="2519">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246268" number="62408" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term “department” means the department of housing preservation and development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246267" number="62409" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Household.</CHARFORMAT> The term “household” means an individual or family. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246266" number="62410" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Income-eligible.</CHARFORMAT> The term “income-eligible” means an applicant whose total gross income does not exceed 50 percent of the area median income, as defined by the United States department of housing and urban development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246265" number="62411" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Regulatory agreement.</CHARFORMAT> The term “regulatory agreement” means a legally binding agreement between the owner of a building and a federal, state, or local agency or instrumentality or a restrictive declaration that requires all or some of the units in such building to be income-restricted or occupied by households meeting specified requirements set forth in such agreement. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246264" number="62412" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Shelter.</CHARFORMAT> The term “shelter” means temporary emergency housing provided to homeless adults, adult families, families with children, and runaway and homeless youth by the city or a provider under contract or similar agreement with the city. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246263" number="62413" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Unit.</CHARFORMAT> The term “unit” means an apartment, room, or single room occupancy. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246262" number="62414" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246282" number="62415" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246283" number="62416" version="2519">
+										<HEADING>§ 26-3902 Rental assistance voucher program.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30171" name="26-3902"/>§ 26-3902 Rental assistance voucher program.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246261" number="62417" version="2519">
+											<PARA>Subject to appropriations and as further set forth in section 26-3906, there shall be a rental assistance voucher program which shall be administered in accordance with this chapter. The application process for such rental assistance voucher program shall begin within 180 days of the enactment of the local law that added this section and eligibility determinations shall begin no later than 240 days after the enactment of such local law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246260" number="62418" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246280" number="62419" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246281" number="62420" version="2519">
+										<HEADING>§ 26-3903 Eligibility.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30173" name="26-3903"/>§ 26-3903 Eligibility.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246259" number="62421" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A household that meets the following criteria shall be eligible for the rental assistance voucher program established pursuant to this chapter: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246258" number="62422" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An income-eligible tenant or lawful occupant of a unit, who is named as a respondent in a pending eviction proceeding for nonpayment of rent in housing court, provided that such unit is subject to rent stabilization. A tenant or lawful occupant is not eligible if such unit is subject to a regulatory agreement; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246257" number="62423" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>An income-eligible household who is residing in a shelter operated by or on behalf of an agency other than the department of social services or human resources administration; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246256" number="62424" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>An income-eligible household residing in a shelter operated by or on behalf of the department of social services or human resources administration but whose income exceeds 200 percent of the federal poverty level or who does not work enough hours to meet the work requirements set forth in clause (i) of subparagraph (A) of paragraph (8) of subdivision (a) of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T68C010_10-04" destination-id="0-0-0-0">section 10-04 of title 68</LINK> of the rules of the city of New York or successor provision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246255" number="62425" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall verify that a household is income-eligible. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246254" number="62426" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall not consider whether a household is employed as a condition of eligibility. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246253" number="62427" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A household who receives a rental assistance voucher pursuant to this chapter shall annually certify its income for the purpose of determining continued eligibility and any adjustments to such rental assistance. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246252" number="62428" version="2520">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>A household meeting the criteria in paragraph 1 of subdivision a of this section shall not use such a rental assistance voucher to move from its current unit to a new unit except in cases where such move (i) is necessary for a reasonable accommodation of a disability, (ii) is necessary to enable the household to leave a situation of domestic violence, provided that the household assisted by such voucher does not include the perpetrator of such violence, or (iii) in other extraordinary health and safety circumstances as determined by the commissioner of housing preservation and development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246251" number="62429" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246278" number="62430" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246279" number="62431" version="2519">
+										<HEADING>§ 26-3904 Maximum monthly rents.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30175" name="26-3904"/>§ 26-3904 Maximum monthly rents.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246250" number="62432" version="2519">
+											<PARA>Maximum rental allowances shall be set in accordance with section 982.503 of title 24 of the code of federal regulations, regarding voucher payment standard amounts, or a successor provision, at the payment standard used for the housing choice voucher program administered by the department pursuant to section 1437f of title 42 of the United States code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246249" number="62433" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246276" number="62434" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246277" number="62435" version="2519">
+										<HEADING>§ 26-3905 Monthly rental assistance and rental contribution.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30177" name="26-3905"/>§ 26-3905 Monthly rental assistance and rental contribution.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246248" number="62436" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall provide monthly rental assistance to an owner or a landlord on behalf of a household in receipt of a rental assistance voucher in an amount equal to the actual monthly rent of the leased unit, up to the maximum rental allowance, minus the household rent contribution as described in subdivision b of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246247" number="62437" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The monthly rental contribution for a household receiving a rental assistance voucher pursuant to this section shall be the greater of: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246246" number="62438" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>30 percent of the monthly adjusted income of such household; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246245" number="62439" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>if such household is receiving payments for public assistance as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-134" destination-id="0-0-0-9473">21-134</LINK>, and a part of those payments, adjusted in accordance with the actual housing costs of the family, is specifically designated to meet the housing costs of the family, the portion of those payments that is so designated. These payments include, but are not limited to any shelter assistance or housing assistance administered by any federal, state or local agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246244" number="62440" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>When a household rents a unit for less than the maximum rental allowance and all utilities are not included in the rent, the household rent contribution shall be: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246243" number="62441" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>if such household is not receiving payments for public assistance, 30 percent of the monthly adjusted income of the household minus the utility allowance. If the utility allowance exceeds 30 percent of such household’s monthly adjusted income, the department shall issue a payment to the household in the amount of the difference to pay for utilities; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246242" number="62442" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>if such household is receiving payments for public assistance as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-134" destination-id="0-0-0-9473">21-134</LINK> and a part of those payments, adjusted in accordance with the actual housing costs of the family, is specifically designated by that agency to meet the housing costs of the family, the portion of those payments that is so designated, plus 30 percent of the monthly adjusted non-public assistance income of such household. If the utility allowance exceeds 30 percent of such household’s monthly adjusted income or such household’s sole income is from cash assistance, the department will issue a payment to the household in the amount of the difference to pay for utilities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246241" number="62443" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246274" number="62444" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246275" number="62445" version="2519">
+										<HEADING>§ 26-3906 Funding and waiting list.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30179" name="26-3906"/>§ 26-3906 Funding and waiting list.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246240" number="62446" version="2519">
+											<PARA>The number of eligible households who receive a rental assistance voucher pursuant to this chapter shall be limited by the amount of funding appropriated for the program established pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246239" number="62447" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Upon expenditure of funding appropriated for such program, the department may place an eligible household on a waiting list. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246238" number="62448" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding subdivision a of this section, to maintain proper administration of such program, the department may close such waiting list and stop accepting new applications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246237" number="62449" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Nothing in this section shall be construed to limit the department’s authority to maintain an internal waiting list to maintain proper administration of such program. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246236" number="62450" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Up to 10 percent of the funds appropriated may be used by the department for administrative expenses attributable to administering the rental assistance voucher program established pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246235" number="62451" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246272" number="62452" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246273" number="62453" version="2519">
+										<HEADING>§ 26-3907 Rulemaking.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30181" name="26-3907"/>§ 26-3907 Rulemaking.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246234" number="62454" version="2519">
+											<PARA>The department shall promulgate rules as necessary for the implementation of this section, including but not limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246233" number="62455" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Administration of the application process and waiting list for the rental assistance voucher program established pursuant to this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246232" number="62456" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Calculation of the maximum monthly rents, including any utility allowances; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246231" number="62457" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The establishment of priorities for the distribution of rental assistance vouchers issued pursuant to the program established by this chapter, provided that 50 percent of the available funding in any fiscal year shall be used to provide vouchers to the households described in paragraph 1 of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-3903" destination-id="0-0-0-30173">26-3903</LINK> and 50 percent of the available funding in any fiscal year shall be used to provide vouchers to the households described in paragraphs 2 and 3 of such subdivision a. A substantial portion of the vouchers issued to households residing in shelter shall be distributed to households in each type of shelter described in paragraphs 2 and 3 of such subdivision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246230" number="62458" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Discontinuance and renewals of rental assistance provided pursuant to this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246229" number="62459" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Landlord requirements and household obligations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246228" number="62460" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Housing quality standards and any inspection requirements; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246227" number="62461" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Methods for calculating household income; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246226" number="62462" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Occupancy standards; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246225" number="62463" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>Requirements governing moves out of a unit that receives rental assistance pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246224" number="62464" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246270" number="62465" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-246271" number="62466" version="2519">
+										<HEADING>§ 26-3908 Report.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30183" name="26-3908"/>§ 26-3908 Report.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-246223" number="62467" version="2519">
+											<PARA>Beginning on August 1, 2027, and annually thereafter, the department shall submit to the speaker of the council and post on its website a report that includes the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246222" number="62468" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the total number of households enrolled in the rental assistance voucher program established pursuant to this chapter, disaggregated by the eligibility categories established by subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-3903" destination-id="0-0-0-30173">26-3903</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246221" number="62469" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the total number of households newly enrolled in the fiscal year prior to the submission of such report, disaggregated by borough of residence, number of people in such households, and primary language spoken in such households; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246220" number="62470" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>the average amount of rental assistance provided to households; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246219" number="62471" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>the total amount of rental assistance provided during the prior fiscal year, disaggregated by administrative costs and the total amount paid as rental assistance; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246218" number="62472" version="2519">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>the total number of households on the waitlist as of the end of the prior fiscal year. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246215" number="62473" version="2519">
+											<PARA>(L.L. 2026/126, 7/30/2026, eff. 1/26/2027) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246213" number="62474" version="2519">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/126" destination-id="0-0-0-30165">L.L. 2026/126</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

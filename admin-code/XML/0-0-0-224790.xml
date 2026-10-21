@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-224790" number="18720" version="1867">
+			<HEADING>Chapter 23-A: Enhanced 911 Telephone Surcharge</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-4323" name="T11C023-a"/>Chapter 23-A: Enhanced 911 Telephone Surcharge</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-15300" number="18721" version="1662">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219535" number="18722" version="1662">
+										<HEADING>§ 11-2321 Short title. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4325" name="11-2321"/>§ 11-2321 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short title. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15301" number="18723" version="3">
+											<PARA>This chapter shall be known and may be cited as the &quot;enhanced 911 telephone surcharge act.&quot;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15302" number="18724" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219536" number="18725" version="1662">
+										<HEADING>§ 11-2322 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4327" name="11-2322"/>§ 11-2322 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15303" number="18726" version="3">
+											<PARA>When used in this chapter the following terms shall mean: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15304" number="18727" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;E911 system&quot; means an enhanced emergency telephone service which automatically connects a person dialing the digits 9-1-1 to the answering point established within the New York city police department, and which shall include, but not be limited to, selective routing, automatic number identification and automatic location identification.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15305" number="18728" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;Lifeline&quot; means a discounted or low-priced telephone service available to eligible low-income residential customers.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15306" number="18729" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;Access line&quot; means a communications circuit that connects a customer location to a facility housing the switching system and related equipment that provides telephone service.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15307" number="18730" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>&quot;911 service area&quot; means the area within the geographic boundaries of the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15308" number="18731" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>&quot;Municipality&quot; means any New York city agency, or any public benefit corporation, local development corporation or other governmental entity the majority of whose members or governing body is appointed by a city official.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15309" number="18732" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>&quot;Public safety agency&quot; means a public safety agency as defined in subdivision five of section three hundred one of the county law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15310" number="18733" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>&quot;Service supplier&quot; means a service supplier as defined in subdivision seven of section three hundred one of the county law that provides service within the 911 service area.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15311" number="18734" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>&quot;System costs&quot; means the costs associated with obtaining and maintaining the telecommunication equipment, all operations and maintenance costs and the telephone services costs necessary to establish and provide an E911 system.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15312" number="18735" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;Voice over internet protocol service&quot; or &quot;VOIP service&quot; shall mean any service that (i) enables real-time, two-way voice communications; (ii) requires a broadband connection from the user&apos;s location; (iii) requires internet protocol compatible customer premises equipment (CPE); and (iv) permits users generally to receive calls that originate on the public switched telephone network and to terminate calls to the public switched telephone network. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15313" number="18736" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219537" number="18737" version="1662">
+										<HEADING>§ 11-2323 Establishment of surcharge for E911 system. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4329" name="11-2323"/>§ 11-2323 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Establishment of surcharge for E911 system. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15314" number="18738" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In accordance with the provisions of article six of the county law, as amended, there is hereby established a surcharge of one dollar per telephone access line, or equivalent, per month on the customers of every service supplier within the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15315" number="18739" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The surcharge imposed by subdivision (a) of this section shall be used to pay for the costs associated with obtaining, operating and maintaining the telecommunication equipment and telephone services needed to provide an enhanced 911 emergency telephone system to serve the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15316" number="18740" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>All service suppliers that provide local access service within the 911 service area in the city of New York shall begin to add the monthly surcharge of one dollar per telephone access line per month as provided in subdivision (a) of this section to all service bills no later than the forty-fifth day after the effective date of the local law that increased such surcharge to one dollar per telephone access line per month. Notwithstanding the foregoing sentence, all providers of voice over internet protocol service that provide such service within the 911 service area shall begin to add the monthly surcharge of one dollar per telephone access line, or equivalent, per month as provided in subdivision (a) of this section to all service bills no later than the forty-fifth day after the effective date of the local law that added this sentence. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15317" number="18741" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219538" number="18742" version="1662">
+										<HEADING>§ 11-2324 Application; limitations; exemptions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4331" name="11-2324"/>§ 11-2324 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Application; limitations; exemptions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15318" number="18743" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The surcharge established pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2323" destination-id="0-0-0-4329">11-2323</LINK> shall be imposed on a per access line basis on all current bills rendered for local exchange access service within the 911 service area.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15319" number="18744" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No such surcharge shall be imposed upon:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15320" number="18745" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>more than seventy-five exchange access lines per customer per location;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15321" number="18746" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any lifeline customers of a local telephone service supplier;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15322" number="18747" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>a public safety agency; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15323" number="18748" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>any municipality, as defined in subdivision (e) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2322" destination-id="0-0-0-4327">11-2322</LINK> of this chapter. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15324" number="18749" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219539" number="18750" version="1662">
+										<HEADING>§ 11-2325 Collection of surcharge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4333" name="11-2325"/>§ 11-2325 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Collection of surcharge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15325" number="18751" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The appropriate service supplier or suppliers serving the New York city 911 service area shall act as collection agents for the city and shall remit the funds collected as the surcharge to the commissioner of finance each month. Such funds shall be remitted no later than thirty days after the last business day of such period.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15326" number="18752" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The service supplier shall be entitled to retain as an administrative fee an amount equal to two per cent of its collections of the surcharge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15327" number="18753" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The surcharge required to be collected by the service supplier shall be added to and stated separately in its billings to the customer.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15328" number="18754" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The service supplier shall annually provide to the commissioner of finance an accounting of the surcharge amounts billed and collected. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15329" number="18755" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219540" number="18756" version="1662">
+										<HEADING>§ 11-2326 Liability for surcharge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4335" name="11-2326"/>§ 11-2326 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Liability for surcharge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15330" number="18757" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Each service supplier customer who is subject to the provisions of this chapter shall be liable to the city for the surcharge until it has been paid to the city, except that payment to a service supplier is sufficient to relieve the customer from further liability for such surcharge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15331" number="18758" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The service supplier shall have no obligation to take any legal action to enforce the collection of any surcharge. However, whenever the service supplier remits the funds collected as the surcharge to the city, it shall also provide the city with the name and address of any customer refusing or failing to pay the surcharge imposed by this chapter and shall state the amount of such surcharge remaining unpaid. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15332" number="18759" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-219541" number="18760" version="1662">
+										<HEADING>§ 11-2327 System revenues; adjustment of surcharge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4337" name="11-2327"/>§ 11-2327 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">System revenues; adjustment of surcharge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15333" number="18761" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>All surcharge monies remitted to the commissioner of finance by a service supplier and all other monies dedicated to the payment of system costs from whatever source derived or received by the city of New York shall be expended only upon authorization of the council, and only for payment of system costs as permitted by this chapter. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate records of the amount and source of all such revenues and of the amount and object or purpose of all expenditures thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15334" number="18762" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If at the end of any fiscal year the total amount of all such revenues exceeds the amount necessary for payment of system costs in such fiscal year, such excess shall be reserved and carried over for the payment of system costs in the following fiscal year in conformance with applicable law. However, if at the end of any fiscal year such E911 reserved fund balance exceeds an amount equal to five per cent of that necessary for the payment of system costs in such fiscal year, the council shall by local law reduce the surcharge for the following fiscal year to a level that more adequately reflects the system cost requirements of its E911 system. The council may also reestablish or increase such surcharge, subject to the provisions of section three hundred three of the county law, if the revenues generated by such surcharge and by any other source are not adequate to pay for system costs. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15335" number="18763" version="1662">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1991/094" destination-id="0-0-0-26648">L.L. 1991/094</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

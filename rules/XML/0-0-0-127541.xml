@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-127541" number="50400" version="2976">
+			<HEADING>Chapter 61: Relocation Assistance Credit per Employee</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19897" name="T19C061"/>Chapter 61: Relocation Assistance Credit per Employee</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-153981" number="50401" version="2976">
+								<HEADING>§ 61-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19899" name="T19C061_61-01"/>§ 61-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-154040" number="50402" version="2976">
+									<PARA>When used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154039" number="50403" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Aggregate employment shares.</CHARFORMAT> The term “aggregate employment shares” means the sum of all employment shares maintained by an eligible business in a taxable year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154038" number="50404" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term “commissioner” means the commissioner of finance, or such commissioner’s designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154037" number="50405" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible aggregate employment shares.</CHARFORMAT> The term “eligible aggregate employment shares” means, in the case of an eligible business, the amount, if any, of aggregate employment shares maintained by an eligible business in eligible premises in the taxable year in which such eligible business claims a credit pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="22-628" destination-id="0-0-0-0">22-628</LINK> of the Administrative Code of the City of New York; provided, however, that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154036" number="50406" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>such amount shall not exceed the lesser of: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154035" number="50407" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the number of aggregate employment shares maintained by such eligible business in eligible premises in the taxable year during which such eligible business relocates; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154034" number="50408" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the maximum approved employment shares for such eligible business; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154033" number="50409" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>an amount equal to the product of multiplying the aggregate employment shares and the linear scalar for such eligible business in such tax year; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154032" number="50410" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a full-time work week or part-time work week at eligible premises prior to the date of relocation shall not be taken into account in determining eligible aggregate employment shares. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154031" number="50411" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible business.</CHARFORMAT> The term “eligible business” means any person subject to a tax imposed under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C005" destination-id="0-0-0-0">chapter 5</LINK>, subchapter 2, 3 or 3-A of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C006" destination-id="0-0-0-0">chapter 6 of title 11</LINK> of the Administrative Code of the City of New York, that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154030" number="50412" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>has been conducting substantial business operations at one or more business locations outside of New York state for the 24 consecutive months immediately preceding the taxable year during which such eligible business relocates but has not maintained employment shares at premises in New York state at any time during the period beginning January 1, 2025 and ending on the date such business enters into a lease or a contract to purchase the premises that will qualify as eligible premises pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T22C006-e" destination-id="0-0-0-0">chapter 6-E of title 22</LINK> the Administrative Code of the City of New York; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154029" number="50413" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>on or after July 1, 2025 relocates all or part of such business operations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154028" number="50414" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible premises.</CHARFORMAT> The term “eligible premises” means one or more non-residential premises that consist of at least 10,000 square feet that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154027" number="50415" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>are wholly contained in real property located in the city of New York; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154026" number="50416" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>if contained in real property wholly contained in the borough of Manhattan, are premises for which final certificates of occupancy were issued prior to January 1, 2000, regardless of whether such certificates of occupancy were amended after such date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154025" number="50417" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employment share.</CHARFORMAT> The term “employment share” means, for each employee, partner or sole proprietor of an eligible business, the sum of: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154041" number="50418" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the number of full-time work weeks worked by such employee, partner or sole proprietor during the eligible business’s taxable year divided by the number of weeks in the taxable year; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154024" number="50419" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business’s taxable year divided by an amount equal to twice the number of weeks in the taxable year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154023" number="50420" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>Employment share shall not include full-time or part-time work weeks attributable to employees, partners or sole proprietors acquired by an eligible business as a result of a merger with or acquisition of another person, or a transaction having a comparable effect, that occurs after June 30, 2025, and before the end of the taxable year in which a credit is claimed by such eligible business pursuant to this section, or to successors, if any, to those employees, partners or sole proprietors. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154022" number="50421" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Full-time work week.</CHARFORMAT> The term “full-time work week” means a week during which at least 35 hours of gainful work has been performed by an employee, partner or sole proprietor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154021" number="50422" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Linear scalar.</CHARFORMAT> The term “linear scalar” means, for an eligible business in a taxable year, the quotient of dividing the total square footage of an eligible premises by the product of multiplying such business’s aggregate employment shares by 175. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154020" number="50423" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lease or contract submission date.</CHARFORMAT> The term “lease or contract submission date” means the date and time at which a business that was issued a notice pursuant to 19 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C061_61-03" destination-id="0-0-0-19903">61-03</LINK>(c) submitted to the commissioner a valid lease or contract to purchase an eligible premises. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154019" number="50424" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maximum approved employment shares.</CHARFORMAT> The term “maximum approved employment shares” means a limitation on the aggregate employment shares that an eligible business may receive in any taxable year determined by the commissioner pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="22-628" destination-id="0-0-0-0">22-628</LINK> of the Administrative Code of the City of New York based on documentation submitted by such business demonstrating such business’s intention to relocate, existing workforce and employment plans following relocation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154018" number="50425" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Part-time work week.</CHARFORMAT> The term “part-time work week” means a week during which at least 15 but less than 35 hours of gainful work has been performed by an employee, partner or sole proprietor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154017" number="50426" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person.</CHARFORMAT> The term “person” includes any individual, partnership, association, joint-stock company, corporation, estate or trust, limited liability company, and any combination of the foregoing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154016" number="50427" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Preliminary eligibility recording date.</CHARFORMAT> The term “preliminary eligibility recording date” means the date and time at which a business submitted a completed preliminary eligibility application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154015" number="50428" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program total.</CHARFORMAT> The term “program total” means the sum of maximum approved aggregate employment shares included in all initial certifications of eligibility issued by the commissioner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154014" number="50429" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Relocate.</CHARFORMAT> The term “relocate” means, with respect to an eligible business, to transfer a preexisting business operation to an eligible premises, or to establish a new business operation at such premises, provided that an eligible business shall not be deemed to have relocated unless at least one employee, partner or sole proprietor of the eligible business is transferred to such premises from a preexisting business operation conducted outside the state of New York. The date of relocation shall be the first day on which the individual so transferred commences work at such eligible premises. The taxable year of relocation shall be the taxable year in which the date of relocation occurs. For purposes of this chapter, an eligible business may relocate only once but may add or substitute other eligible premises throughout such period. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154013" number="50430" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154047" number="50431" version="2976">
+								<HEADING>§ 61-02 Authorization to Provide Relocation Assistance Credit per Employee.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19901" name="T19C061_61-02"/>§ 61-02 Authorization to Provide Relocation Assistance Credit per Employee.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-154012" number="50432" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An eligible business that relocates shall be allowed to receive a credit against a tax imposed by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C005" destination-id="0-0-0-0">chapter 5</LINK> or subchapter 2, 3 or 3-A of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C006" destination-id="0-0-0-0">chapter 6 of title 11</LINK> of the Administrative Code of the City of New York, as described in subdivision (r) of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-503" destination-id="0-0-0-0">11-503</LINK>, subdivision 24 of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-604" destination-id="0-0-0-0">11-604</LINK>, § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-643.10" destination-id="0-0-0-0">11-643.10</LINK>, or subdivision 24 of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-654" destination-id="0-0-0-0">11-654</LINK> of the Administrative Code of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154011" number="50433" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No eligible business shall be authorized to receive a credit against tax pursuant to subdivision (a) of this section, unless the premises with respect to which it is claiming the credit are eligible premises and until it has obtained an initial certification of eligibility from the commissioner and an annual certification from the commissioner as to the number of eligible aggregate employment shares maintained by such eligible business that may qualify for obtaining a tax credit for the eligible business’s taxable year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154010" number="50434" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154046" number="50435" version="2976">
+								<HEADING>§ 61-03 Preliminary Eligibility Application.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19903" name="T19C061_61-03"/>§ 61-03 Preliminary Eligibility Application.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-154009" number="50436" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A business may submit a completed preliminary eligibility application to the commissioner. Such application must be on a form prescribed by the commissioner. Such application must include, but not be limited to, information sufficient to determine such business’s potential program eligibility and intent to relocate to an eligible premises. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154008" number="50437" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Upon receipt by the commissioner of a preliminary eligibility application, the commissioner shall review such application and, if the commissioner determines such application is complete, the commissioner shall record such application and assign such application a preliminary eligibility recording date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154007" number="50438" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The commissioner shall not record a preliminary eligibility application with a preliminary eligibility recording date on or after July 1, 2028. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154006" number="50439" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Upon recording of a preliminary eligibility application, the commissioner shall transmit notice of such preliminary eligibility recording date to the applicant business. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154005" number="50440" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154045" number="50441" version="2976">
+								<HEADING>§ 61-04 Lease for or Contract to Ourchase an Eligible Premises.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19905" name="T19C061_61-04"/>§ 61-04 Lease for or Contract to Ourchase an Eligible Premises.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-154004" number="50442" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A business that is issued a notice pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C061_61-03" destination-id="0-0-0-19903">61-03</LINK>(c) may submit to the commissioner a valid lease for or contract to purchase an eligible premises. A business must both enter into and submit to the commissioner such lease or contract during a three month period following the preliminary eligibility application recording date. Such lease or contract must be submitted along with a form prescribed by the commissioner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154003" number="50443" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Upon receipt by the commissioner of such lease or contract, the commissioner shall record such lease or contract and assign such submission a lease or contract submission date. The commissioner shall not record submission of a valid lease or contract to purchase an eligible premises with a submission date that is on or after July 1, 2028. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154002" number="50444" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The commissioner shall transmit notice of such lease or contract submission date to the applicant business. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154001" number="50445" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154044" number="50446" version="2976">
+								<HEADING>§ 61-05 Initial Certification of Eligibility.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19907" name="T19C061_61-05"/>§ 61-05 Initial Certification of Eligibility.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-154000" number="50447" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A business that receives notice pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C061_61-04" destination-id="0-0-0-19905">61-04</LINK>(c) may apply for initial certification of eligibility. Such application must be on a form prescribed by the commissioner. Such application must include, but not be limited to, information necessary to determine: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153999" number="50448" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>eligibility to receive a credit against tax pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C061_61-02" destination-id="0-0-0-19901">61-02</LINK>(a), and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153998" number="50449" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the appropriate maximum approved employment shares to include on the initial certification of eligibility. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153997" number="50450" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No initial certification of eligibility shall be issued by the commissioner to an eligible business on or after July 1, 2028 unless such business relocates to such premises not later than 36 months from such preliminary eligibility application recording date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153996" number="50451" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Each initial certification of eligibility must include the maximum approved employment shares. The maximum approved employment shares for an eligible business shall not exceed 500 employment shares for such eligible business. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153995" number="50452" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The commissioner shall not issue an initial certification of eligibility that would cause the program total to exceed 3,000 maximum approved employment shares. For the purpose of determining whether such maximum program total has been reached, initial certifications of eligibility must be approved by the commissioner in an order based on the preliminary eligibility recording date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153994" number="50453" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If an eligible business submits an application for an initial certification of eligibility and there are other eligible businesses with earlier preliminary eligibility recording dates that could submit applications for initial certification of eligibility that, if approved, would cause the program total to be exceeded, the commissioner may notify the applicant business that its application is being held pending review of such other eligible businesses’ applications. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153993" number="50454" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154043" number="50455" version="2976">
+								<HEADING>§ 61-06 Annual Certification.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19909" name="T19C061_61-06"/>§ 61-06 Annual Certification.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-153992" number="50456" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>After each year for the duration of the benefit period, an eligible business seeking to receive a credit pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C061_61-02" destination-id="0-0-0-19901">61-02</LINK>(a) must file an application for an annual certification. Such application must be on a form prescribed by the commissioner. Such application must include, but not be limited to, information necessary to determine continued eligibility to receive a credit against tax pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C061_61-02" destination-id="0-0-0-19901">61-02</LINK>(a). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153991" number="50457" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Such application must be filed electronically. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153990" number="50458" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154042" number="50459" version="2976">
+								<HEADING>§ 61-07 Administrative Appeals.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19911" name="T19C061_61-07"/>§ 61-07 Administrative Appeals.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-153989" number="50460" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A business may appeal: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153988" number="50461" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the denial of recording of a preliminary eligibility application or the submission of a lease or contract to purchase an eligible premises, <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153987" number="50462" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the denial of an initial certification of eligibility, <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153986" number="50463" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the maximum approved employment shares included in an initial certification of eligibility, <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153985" number="50464" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the denial of an application for annual certification, or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153984" number="50465" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the amount of eligible aggregate employment shares approved in an annual certification. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153983" number="50466" version="2976">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A business must submit such appeal in writing to the commissioner within 10 days of notice of any such denial or determination. Such appeal shall be considered by the commissioner, and the commissioner shall notify such applicant in writing concerning the appeals determination rendered by the commissioner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-153980" number="50467" version="2976">
+									<PARA>(Added City Record 11/20/2025, eff. 12/20/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-115]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

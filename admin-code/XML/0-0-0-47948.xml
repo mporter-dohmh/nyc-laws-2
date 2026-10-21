@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-47948" number="61524" version="3">
+			<HEADING>Chapter 18: Housing Portal</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-11735" name="T26C018"/>Chapter 18: Housing Portal</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-47949" number="61525" version="3">
+										<HEADING>§ 26-1801 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11737" name="26-1801"/>§ 26-1801 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-47950" number="61526" version="3">
+											<PARA>As used in this chapter: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47951" number="61527" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Affordable unit.</CHARFORMAT> The term &quot;affordable unit&quot; means a dwelling unit for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from the department pursuant to the private housing finance law, other than article viii-b of such law, or the general municipal law, (ii) a tax exemption pursuant to section 420-c, 421-a or 489 of the real property tax law or (iii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the New York city zoning resolution; provided that (i) such dwelling unit is not subject to federal or state requirements the department determines would be inconsistent with the provisions of this chapter and not filled by direct referral by a governmental agency or instrumentality, (ii) such dwelling unit is not owned in the form of shares in a cooperative corporation that is incorporated pursuant to article ii, iv, v or xi of the private housing finance law, and (iii) such dwelling unit satisfies the additional conditions of paragraph 1 and 2: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47952" number="61528" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Before July 1, 2021, such unit satisfies the conditions of subparagraph (a) or, on or after such date, such unit satisfies the conditions of subparagraph (a) or subparagraph (b): <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47953" number="61529" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The issuance or renewal of such loan, grant or tax exemption, conveyance of such property or generation of such floor area bonus or effective date of such mandatory inclusionary housing requirement occurs or is executed or renewed, as determined by the department, on or after January 1, 2018. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47954" number="61530" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For the purposes of a requirement imposed pursuant to this chapter, such unit is deemed to have satisfied the conditions of this paragraph unless such unit is subject to a regulatory agreement with the department, such agreement was executed before January 1, 2018 and has not been thereafter renewed and the department determines that such agreement is inconsistent with such requirement; provided that, where the department determines that one or more dwelling units are exempt from one or more requirements imposed pursuant to this chapter because of a regulatory agreement that satisfies the foregoing conditions, the department shall electronically submit each year to the mayor and the speaker of the council a report identifying the number of such units, disaggregated by the affordable housing program to which such agreements apply; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47955" number="61531" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>On or after July 1, 2020, such unit is offered by the owner for lease or sale. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47956" number="61532" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Department. </CHARFORMAT>The term &quot;department&quot; means the department of housing preservation and development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47957" number="61533" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Dwelling unit.</CHARFORMAT> The term &quot;dwelling unit&quot; means a dwelling unit as defined in the housing maintenance code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47958" number="61534" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Housing portal.</CHARFORMAT> The term &quot;housing portal&quot; means the website created pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-1802" destination-id="0-0-0-11739">26-1802</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47959" number="61535" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Information, full unit.</CHARFORMAT> The term &quot;full unit information&quot; means, with respect to a dwelling unit, the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47960" number="61536" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Street address of the building containing such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47961" number="61537" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Apartment or unit number of such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47962" number="61538" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Floor area of such unit in square feet, unless such unit satisfies criteria the department establishes to determine whether collection or disclosure of such information would be impracticable; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47963" number="61539" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Number of bedrooms in such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47964" number="61540" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Contact information for the owner of such unit or a person managing such unit on behalf of such owner; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47965" number="61541" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>A statement as to whether such unit is occupied; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47966" number="61542" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>A statement as to whether such unit is an affordable unit and, if such unit is an affordable unit, (i) a description of each affordable housing program for which such unit is serving as an affordable unit, (ii) the maximum lawful rent for such unit and (iii) the actual rent being charged for such unit, if any; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47967" number="61543" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Such other information as the department may specify by rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47968" number="61544" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Information, limited unit.</CHARFORMAT> The term &quot;limited unit information&quot; means, with respect to a dwelling unit, the full unit information for such unit excluding the information described by paragraphs 2, 6, and 7 of the definition of full unit information; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47969" number="61545" version="1788">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.*<TAB tab-count="1"/>Any information described by paragraph 8 of such definition that the department specifies by rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47970" number="61546" version="3">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">*<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0"> Editor&apos;s note:</CHARFORMAT> as numbered in L.L. 2018/064.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47971" number="61547" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Information, offered unit.</CHARFORMAT> The term &quot;offered unit information&quot; means, with respect to a dwelling unit that is being offered for rent or sale, the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47972" number="61548" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>If such unit is being offered for rent: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47973" number="61549" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The proposed monthly rent for such unit and, if a temporary reduction in such rent is being offered, including but not limited to a certain number of months in occupancy without rent, the net effective rent for such unit and the period that such net effective rent will apply; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47974" number="61550" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The amount and a description of each fee, if any, that occupants of such unit will be required to pay in addition to monthly rent for such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47975" number="61551" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>If such unit is being offered for sale: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47976" number="61552" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The proposed sale price of such unit; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47977" number="61553" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The estimated annual property tax payments owed for such unit; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47978" number="61554" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Whether the owner will be responsible for payment of utility services for such unit and for which utility services the owner is responsible; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47979" number="61555" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Unless such unit satisfies criteria the department establishes to determine whether disclosure of the following information would be impracticable, provided that disclosure of such information shall not be deemed impracticable if such unit is (i) in a newly constructed project and (ii) being rented or sold for the first time after such unit becomes or is due to become an affordable unit, in a manner determined by the department: a floor plan for such unit, including measurements for each room in such unit, or a floor plan of a dwelling unit that is located in the building that contains such unit and substantially identical to such unit, together with a statement indicating that such floor plan is of a dwelling unit that is located within such building and that is substantially identical to such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47980" number="61556" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Unless such unit satisfies criteria the department establishes to determine whether disclosure of the following information would be impracticable, provided that disclosure of such information shall not be deemed impracticable if such unit is (i) in a newly constructed project and (ii) being rented or sold for the first time after such unit becomes or is due to become an affordable unit, in a manner determined by the department: photographs of each room in such unit or photographs of each room in a dwelling unit that is located in the building that contains such unit and substantially identical to such unit, together with a statement indicating that such photographs are of a dwelling unit that is located within such building and that is substantially identical to such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47981" number="61557" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>The number of floors in the building where such unit is located and a statement as to whether such unit has elevator access; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47982" number="61558" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>A description of the pet policy for such unit; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47983" number="61559" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>A statement as to whether the following amenities or services will be available to the occupant of such unit and whether such occupant will be required to pay a fee for using such amenities or services: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47984" number="61560" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Air conditioning; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47985" number="61561" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A gymnasium or pool located in or on the premises of such building; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47986" number="61562" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A security guard, watch person or a person with similar responsibilities is routinely in or on the premises of such building; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47987" number="61563" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A person responsible for accepting deliveries on behalf of such occupant is routinely in or on the premises of such building; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47988" number="61564" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>An intercommunication device that such occupant can use to allow entry into such unit or such building; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47989" number="61565" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>A description of the process to apply for occupancy of such unit, including: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47990" number="61566" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Whether any deposits, application fees or other charges are required to be paid before an applicant will be considered for occupancy of such unit and a statement as to which, if any, of such deposits, fees or charges are refundable; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47991" number="61567" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A listing of the qualifications, if any, that an applicant must possess to be considered for occupancy of such unit; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47992" number="61568" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>At the time such information is submitted, a statement indicating the status of the application process applicable to such unit in a manner established by the department; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47993" number="61569" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>The contact information of a person that may be contacted for additional information relating to such unit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47994" number="61570" version="1765">
+											<PARA>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<TAB tab-count="1"/>Listed unit.</CHARFORMAT> The term &quot;listed unit&quot; means a dwelling unit for which full unit information and, where applicable, offered unit information has been provided to the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47995" number="61571" version="712">
+											<PARA>(L.L. 2018/064, 1/19/2018, eff. 1/19/2018; Am. L.L. 2020/081, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-47996" number="61572" version="3">
+										<HEADING>§ 26-1802 Housing portal.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11739" name="26-1802"/>§ 26-1802 Housing portal.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-47997" number="61573" version="2262">
+											<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7316325&amp;GUID=EB9836BF-CBC7-4EAE-AB8C-2C4DFE5295C0&amp;Options=ID|Text|&amp;Search=">L.L. 2025/158, 11/8/2025, eff. 5/8/2027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235274" number="61574" version="2262">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>By no later than July 1, 2020, the department shall, with the cooperation of all other relevant agencies, create and thereafter maintain a website that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47998" number="61575" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Allows an owner of an affordable unit or a person acting on behalf of such owner to use such website to offer such unit for rent or sale and accept applications for occupancy of such unit, if such person provides the department with full unit information and offered unit information for such unit in a time and manner established by department rule, provided further that the department shall, by no later than July 1, 2021, electronically submit to the mayor and the speaker of the council recommendations relating to allowing owners of dwelling units other than affordable units to use such website to offer such units for rent or sale and accept applications for occupancy of such units, provided further that nothing in this chapter shall be construed to prohibit (i) offering such units on a building-wide or project-wide basis in a manner established by the department or (ii) offering occupied affordable units which subsequently become vacant in accordance with department requirements; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47999" number="61576" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Allows a user of such website to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48000" number="61577" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>View limited unit information and offered unit information for listed units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48001" number="61578" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>View full unit information for a listed unit if such user verifies, in a manner established by department rule, that such user is a lawful leaseholder or owner of such unit, provided that this functionality (i) shall only be required on and after January 1, 2021, but may be implemented earlier than such date, and (ii) may be implemented through a system other than the housing portal; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48002" number="61579" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>View a selection of listed units based on search criteria entered by such user; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48003" number="61580" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Apply for occupancy of each listed unit for which the owner thereof is accepting applications for occupancy through such website and for which such user appears to be eligible; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48004" number="61581" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Track the progress of applications submitted by such user through such website, including such user&apos;s position on waiting lists for listed units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48005" number="61582" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Automatically populate applications for occupancy of listed units with information provided by such user; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48006" number="61583" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Receive notifications by electronic mail and text message when a new listed unit is posted that matches criteria specified by such user or posted information changes for a listed unit specified by such user; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48007" number="61584" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Obtain limited unit information for listed units in a non-proprietary format that permits automated processing; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48008" number="61585" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Indicate in such website whether such user is interested in being considered for an affordable unit that subsequently becomes vacant, provided that consideration of users for such units may be carried out in a manner determined by the department, users shall only be considered for such units that satisfy their indicated preferences and such website may require users at regular intervals to review and update their relevant profile information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48009" number="61586" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Commencing in 2020, the owner of a dwelling unit, excluding dwelling units owned and operated by the New York city housing authority, shall: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48010" number="61587" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>If the dwelling unit (i) is an affordable unit or (ii) satisfies the criteria to be deemed an affordable unit except that such unit does not satisfy the additional conditions set forth in paragraph 1 and 2 the definition of affordable unit, annually provide the department with full unit information for such unit in a time and manner established by department rule; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48011" number="61588" version="405">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>If the dwelling unit is an affordable unit and is available for rent or sale, provide the department with offered unit information for such unit in a time and manner established by department rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48012" number="61589" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>An owner of a dwelling unit that satisfies the criteria to be deemed an affordable unit except that such unit does not satisfy the additional conditions set forth in paragraphs 1 and 2 of the definition of affordable unit may make such unit that becomes vacant available through the portal, provided that such owner provides the department with offered unit information for such unit in a time and manner established by department rule. Notwithstanding any provision of this chapter to the contrary, any such unit that is required to be made available through the portal in accordance with department requirements must do so in accordance with this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48013" number="61590" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The department shall conduct outreach to owners of units described in subdivision c to encourage them to offer their occupied affordable units that subsequently become vacant via the portal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48014" number="61591" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>When information entered by a user in the portal indicates that the user has an income below 80 percent of area median income for such user&apos;s household size, the department shall notify such user with a link to the website for the New York city housing authority. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48015" number="61592" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Nothing in this chapter shall be construed to require the provision to the department or the disclosure of information about any dwelling unit where the department determines that such disclosure could result in an unwarranted invasion of personal privacy of an occupant of or applicant for such unit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48016" number="61593" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The city does not warranty the completeness, accuracy, content or fitness for any particular purpose of any information made available on the housing portal, nor are any such warranties to be implied or inferred with respect to the information furnished therein. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48017" number="61594" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The city is not liable for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of information provided by any third party and made available on the housing portal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48018" number="61595" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>This chapter shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this chapter shall not result in liability to an agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48019" number="61596" version="712">
+											<PARA>(L.L. 2018/064, 1/19/2018, eff. 1/19/2018; Am. L.L. 2020/081, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48020" number="61597" version="2262">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2025/158" destination-id="0-0-0-28452">L.L. 2025/158</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-235275" number="61598" version="2262">
+										<HEADING>§ 26-1803 Violations.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11741" name="26-1803"/>§ 26-1803 Violations.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-48021" number="61599" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>An owner who fails to provide information with respect to a dwelling unit pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-1802" destination-id="0-0-0-11739">26-1802</LINK> shall be subject to a civil penalty for each month as follows until such violation is corrected, except that (i) for a violation that occurs within the first six months that such unit is subject to the requirements of such subdivision, the department may, in lieu of imposing such a penalty, provide the owner of such unit with a written warning and (ii) the department may by rule establish alternative civil penalties relating to any dwelling unit in a building that contains four or fewer dwelling units, any dwelling unit in a building that is owner-occupied and contains six or fewer dwelling units or any dwelling unit in a building that is owned by a housing development fund company, as such term is defined in article 11 of the private housing finance law, and contains ten or fewer dwelling units, provided that such alternative civil penalties do not exceed the civil penalties that could be imposed in accordance with paragraphs 1 through 4 and subdivision b: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48022" number="61600" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>For the first six-month period, $100 per month; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48023" number="61601" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>For the second six-month period, $250 per month; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48024" number="61602" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>For the third six month-period, $1,000 per month; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48025" number="61603" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>For the fourth six month-period and for each month thereafter, $2,000 per month. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48026" number="61604" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>For a second or subsequent violation of this chapter involving the same dwelling unit, the department may impose and recover a civil penalty that is twice the amount specified in subdivision a, as applicable. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48027" number="61605" version="682">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department may recover civil penalties pursuant to this section in an action in a court of appropriate jurisdiction or in a proceeding before the office of administrative trials and hearings acting pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the New York city charter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48028" number="61606" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Upon receipt of a credible complaint alleging that an owner has violated any provision of this chapter with respect to an affordable unit, the department shall investigate and, upon verifying such allegation in a manner to be determined by department rules, such owner shall be subject to a civil penalty in accordance with this section. The department shall by rule establish criteria for determining whether such a complaint is credible. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48029" number="61607" version="712">
+											<PARA>(L.L. 2018/064, 1/19/2018, eff. 1/19/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-021]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

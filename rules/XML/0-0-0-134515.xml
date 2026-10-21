@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-134515" number="103953" version="2286">
+			<HEADING>Chapter 15: Installation of Side Guards on Large Vehicles</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-17650" name="T55C015"/>Chapter 15: Installation of Side Guards on Large Vehicles</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-87690" number="103954" version="2286">
+								<HEADING>§ 15-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17652" name="T55C015_15-01"/>§ 15-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-134518" number="103955" version="2286">
+									<PARA>As used in this chapter, and unless otherwise specified, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134575" number="103956" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency.</CHARFORMAT> The term &quot;Agency&quot; means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the City treasury. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134592" number="103957" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">BIC.</CHARFORMAT> The term &quot;BIC&quot; means the New York City Business Integrity Commission. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134591" number="103958" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chief Fleet Management Officer.</CHARFORMAT> The term &quot;Chief Fleet Management Officer&quot; means the DCAS official appointed by the Commissioner, in accordance with Executive Order 161 of 2012, who is responsible for implementing policies and procedures to ensure safe, reliable, and proper use of City vehicles, or their duly authorized designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134590" number="103959" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City.</CHARFORMAT> The term &quot;City&quot; means the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134589" number="103960" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City Contracted Vehicle.</CHARFORMAT> The term &quot;City Contracted Vehicle&quot; means any Large Vehicle that is utilized within the City on a weekly or more frequent basis to fulfill requirements material to the scope of a Contract. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134588" number="103961" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City Fleet.</CHARFORMAT> The term &quot;City Fleet&quot; means vehicles owned by Agencies of the City or leased for periods of over one (1) year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134587" number="103962" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term &quot;Commissioner&quot; means the Commissioner of the New York City Department of Citywide Administrative Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134586" number="103963" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contract.</CHARFORMAT> The term &quot;Contract&quot; means any contract awarded by the City and registered with the New York City Comptroller after the Effective Date and whose cost is to be paid from funds belonging to or administered by the City, where such contract has an estimate value of $2,000,000 or more. This definition does not include (1) Agency on-call emergency contracts, including on-call storm emergency contracts; (2) the following types of contracts that are governed by rules of the Procurement Policy Board: emergency procurements; intergovernmental contracts; government to government contracts; and contracts for the provision of work or services by public utilities; and (3) renewals, exemptions or modifications of contracts registered with the Comptroller prior to the Effective Date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134585" number="103964" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contractor.</CHARFORMAT> The term &quot;Contractor&quot; means any entity that enters into a contract with the City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134584" number="103965" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DCAS.</CHARFORMAT> The term &quot;DCAS&quot; means the New York City Department of Citywide Administrative Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134583" number="103966" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effective Date.</CHARFORMAT> The term &quot;Effective Date&quot; means January 1, 2023. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134582" number="103967" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Large Vehicle.</CHARFORMAT> The term &quot;Large Vehicle&quot; means a motor vehicle with a manufacturer&apos;s gross vehicle weight rating exceeding 10,000 pounds. Such term does not include street sweepers, fire engines, car carriers, off-road construction vehicles, or any specialized vehicles or vehicle types on which Side Guard installation is deemed impractical by the Department in accordance with Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="6-141" destination-id="0-0-0-0">6-141</LINK>(c). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134581" number="103968" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice to Proceed.</CHARFORMAT> The term &quot;Notice to Proceed&quot; means the written direction to a Contractor by an Agency to commence work pursuant to a Contract registered with the New York City Comptroller. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134580" number="103969" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Side Guard.</CHARFORMAT> The term &quot;Side Guard&quot; means a lateral protective safety device fit to the side of a Large Vehicle that is designed to prevent pedestrians and bicyclists from falling into the exposed space between the front axle and the rear axle of such vehicles and that meets the requirements of 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-02" destination-id="0-0-0-17654">15-02</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134579" number="103970" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Subcontractor.</CHARFORMAT> The term &quot;Subcontractor&quot; means any entity that enters into a subcontract to perform work on behalf of a Contractor which enters into City contract registered with the City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134578" number="103971" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Volpe Side Guard Standard.</CHARFORMAT> The term &quot;Volpe Side Guard Standard&quot; means the United States Department of Transportation&apos;s Volpe Side Guard standard published and referred to as &quot;U.S. DOT Standard DOT-VNTSC-OSTR-16-05&quot;, as amended, or a functionally equivalent national vehicle Side Guard standard, as determined by DCAS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134577" number="103972" version="2286">
+									<PARA>(Added City Record 10/7/2022, eff. 11/6/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-134598" number="103973" version="2286">
+								<HEADING>§ 15-02 Side Guard Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17654" name="T55C015_15-02"/>§ 15-02 Side Guard Requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-134576" number="103974" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Requirements.</CHARFORMAT> Unless prohibited by Federal, State, or City law, or an exemption has been issued pursuant to 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-04" destination-id="0-0-0-17658">15-04</LINK>, all Large Vehicles in the City Fleet must be equipped with Side Guards by the Effective Date and all City Contracted Vehicles performing work under a Contract are required to be equipped with Side Guards by the Effective Date or in compliance with the Phase-In Period set forth in 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-03" destination-id="0-0-0-17656">15-03</LINK>(b). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134574" number="103975" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Satisfaction of Side Guard Requirements.</CHARFORMAT> The requirements for Side Guards will be considered satisfied if one or more of the following three situations is present: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134573" number="103976" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The Large Vehicle is equipped with Side Guards that allow for a maximum 13.8 inch ground clearance, a maximum 13.8 inch top clearance up to four feet in height, and a minimum 440 pound impact strength that achieves a smooth and continuous longitudinal (forward to backward) impact surface flush with the vehicle sidewall, known as the &quot;NYC Volpe Side Guard Standard&quot;. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134572" number="103977" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Side Guards may include rail style guards, provided that such rails are no less than four inches tall and no more than 11.8 inches apart. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134571" number="103978" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Side Guards may incorporate other vehicle features such as toolboxes and ladders, or the function of a Side Guard may be performed by those features, subject to the approval of DCAS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134570" number="103979" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Large Vehicle cannot maintain a Side Guard due to the design or operations of the vehicle, subject to the Contractor&apos;s application to DCAS for, and the grant of, an exemption from these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134569" number="103980" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The Large Vehicle is designed or equipped on each side of the unit such that, by virtue of its shape and characteristics, its component parts can be regarded as replacing or functioning as Side Guards in accordance with the Volpe Side Guard Standard, or will perform the function of Side Guards with modifications separate from installation of Volpe Standard sideguards, subject to the approval of DCAS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134568" number="103981" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>In the case that mandated Federal standards are established for truck Side Guards, DCAS will assess any Federal specification guidelines and issue revised rules relating to the New York City specification(s), if required. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134567" number="103982" version="2286">
+									<PARA>(Added City Record 10/7/2022, eff. 11/6/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-134597" number="103983" version="2286">
+								<HEADING>§ 15-03 City Contracted Vehicles.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17656" name="T55C015_15-03"/>§ 15-03 City Contracted Vehicles.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-134566" number="103984" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>All City Agency Contracts involving City Contracted Vehicles must contain specifications reflecting the requirements set forth in this chapter, including the submission of compliance plans and reports described in subdivision (c) of this section, which specifications will be reviewable by DCAS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134565" number="103985" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Contracts may include additional charges by the Contractor for the installation of Side Guards at a price not to exceed $3,000.00 per vehicle unless otherwise approved by DCAS, in its sole discretion. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134564" number="103986" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Contractors shall ensure that the Subcontractors have access to funding to add Side Guards to City Contracted Vehicles used in City Agency Contracts. Contractors shall reimburse Subcontractors for the costs of any Side Guards installed on vehicles which are required to comply with these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134563" number="103987" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Contractors must provide a list of vehicles that require retrofits to be performed, as well as an affidavit stating that any add-on fees for Side Guard installations will only be included for trucks not previously equipped with Side Guards under any City contract or otherwise previously fitted and equipped with operational Side Guards. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134562" number="103988" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Phase-in Period for City Contracted Vehicles.</CHARFORMAT> Except when a Contractor or a Subcontractor is granted an exemption pursuant to 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-04" destination-id="0-0-0-17658">15-04</LINK>, the requirements of this chapter will apply. Side Guards must be installed and fully operational no later than: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134561" number="103989" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Twelve (12) months from the issuance of a Notice to Proceed pursuant to an individual Contract utilizing ten (10) or fewer Large Vehicles; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134560" number="103990" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Eighteen (18) months from the issuance of a Notice to Proceed pursuant to an individual Contract utilizing more than ten (10) Large Vehicles. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134559" number="103991" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance Plan and Reports.</CHARFORMAT> Any Contract entered after the Effective Date must require the Contractor to submit the following to the Chief Fleet Management Officer: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134558" number="103992" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A written compliance plan within fourteen (14) days following the Notice to Proceed or the placing of the first order under the Contract, as applicable. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134557" number="103993" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A report that includes the following information, submitted six (6) months following the Notice to Proceed or the placing of the first order under the Contract, as applicable, or when requested by the Chief Fleet Management Officer: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134556" number="103994" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the number of Large Vehicles used in the performance of the Contract by the Contractor and any Subcontractor; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134555" number="103995" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the number of Large Vehicles used in the performance of the Contract by the Contractor and any Subcontractor that are retrofitted with safety enhancing equipment as required by these rules; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134554" number="103996" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>one or more photographs of both sides of each Large Vehicle used in the performance of the Contract by the Contractor and any Subcontractor that is retrofitted with safety enhancing equipment as required by these rules. The photographs must also show the Large Vehicle&apos;s license plate number with the safety enhancing equipment fitted on the vehicle; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134553" number="103997" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>a certification that the Contractor and any Subcontractor under the Contract have complied with the requirements of these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134552" number="103998" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The Chief Fleet Management Officer will review written compliance plans and reports to confirm that the Agency or Contractor (including its Subcontractor) meets the requirements of these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134551" number="103999" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Record Retention and Audits.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134550" number="104000" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Contractors and their Subcontractors must keep records of their Compliance Plans and Reports for a period of six (6) years from the date of the Notice to Proceed, or from the payment of the last invoice pursuant to their Contract with the City, whichever occurs later. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134549" number="104001" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>At any time during a Contract, or during the record retention period set forth in subdivision (d) of 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-03" destination-id="0-0-0-17656">15-03</LINK>, DCAS will have, upon reasonable notice, full access to and the right to request and inspect documents and records in accordance with applicable law that are maintained or retained by or on behalf of the Contractor and its Subcontractor pursuant to such subdivision (d). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134548" number="104002" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>DCAS is authorized to request and perform the physical inspection of any Large Vehicle used in the performance by an Agency, Contractor or Subcontractor, in order to ensure compliance with contract provisions required by this chapter, in accordance with applicable law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134547" number="104003" version="2286">
+									<PARA>(Added City Record 10/7/2022, eff. 11/6/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-134596" number="104004" version="2286">
+								<HEADING>§ 15-04 Exemptions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17658" name="T55C015_15-04"/>§ 15-04 Exemptions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-134546" number="104005" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>City Agencies and Contractors (including on behalf of any of its Subcontractors using Large Vehicles in the performance of the Contract) may submit an application, on a form available on DCAS&apos; website, to the Chief Fleet Management Officer for an annual exemption from the requirements of these Rules if they have determined that compliance is impractical; or it will disrupt provision of public safety or public health services; or there are limitations in the capacity of vendors to supply Side Guards; or because the vehicle cannot maintain a Side Guard due to the design or operations of such vehicle. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134545" number="104006" version="2492">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Contractors (including on behalf of any of its Subcontractors using Large Vehicles in the performance of the Contract) may also submit requests for an exemption from the timeframes of the installation schedule set forth in 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-03" destination-id="0-0-0-17656">15-03</LINK> based on a claim of undue financial hardship. However, Contractors will have the opportunity to account for and factor in the costs for Side Guards as part of the bid pricing they submit for a Contract as part of Contract pricing structures. An exemption request based on financial hardship must satisfactorily explain why the financial hardship has remained despite the opportunity for the Contractor to account for the costs in its bid prices. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134544" number="104007" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Exemptions may be available if one or more of the following circumstances exist and there is sufficient evidence or proof provided with respect to such circumstances: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134543" number="104008" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Supply chain disruption; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134542" number="104009" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Delays in the commencement of work or payments which are not caused by the fault of the Contractor; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134541" number="104010" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>If removing the vehicle from service would have a material effect on the contractor&apos;s ability to perform work under the Contract; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134540" number="104011" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Natural or man-made emergencies. For purposes of this paragraph, &quot;natural or man-made emergencies&quot; means acts or events beyond the control and without any fault or negligence of the Contractor. Such events may include, but are not limited to, pandemic, fire, flood, earthquake, storm or other natural disaster, civil commotion, war, terrorism, riot, and labor disputes not brought about by any act or omission of the Contractor; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134539" number="104012" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Any other circumstance, whether or not anticipated or found to be usual or typical, which is accompanied by supporting information provided pursuant to paragraph (d) of this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134538" number="104013" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The application for an exemption must include all of the following information and statements, to be verified in an affidavit accompanying the application: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134537" number="104014" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A list of all Large Vehicles that the applicant owns, leases or otherwise controls to conduct the applicant&apos;s business; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134536" number="104015" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A statement, accompanied by supporting documents, and if applicable, financial statements, that retrofitting the applicant&apos;s Large Vehicles in order to comply with these rules is impractical; or would disrupt provision of public safety or public health services; or would cause the applicant to suffer an undue financial hardship. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134535" number="104016" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The Chief Fleet Management Officer will evaluate an exemption request and make a determination within 90 days of receipt whether to approve or deny such request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134534" number="104017" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>An annual exemption granted pursuant to this section will expire one year from the date it has been granted, except for exemptions granted pursuant to 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C015_15-02" destination-id="0-0-0-17654">15-02</LINK>(b)(2). Exemptions granted pursuant to such paragraph will remain applicable as long as the specific vehicle(s) are in operation by the Agency or, as to a Contractor or Subcontractor, the life of the Contract with the City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134533" number="104018" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The Chief Fleet Management Officer may renew an exemption for additional one-year periods in the event that the Agency, a Contractor or a Subcontractor submits a written statement verified by affidavit that such Agency, a Contractor or a Subcontractor continues to be eligible for the exemption. The Chief Fleet Management Officer retains the discretion to reject an exemption request if, based on such Officer&apos;s determination, circumstances have changed that would obviate the basis for such previously granted exemption. Applications to renew an exemption must be submitted using the form available on DCAS&apos; website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134532" number="104019" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>The Chief Fleet Management Officer shall have the sole authority to grant a exemption of the requirements set forth in these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134531" number="104020" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Appeals.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134530" number="104021" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If the Chief Fleet Management Officer denies the request for exemption and/or extension of exemptions from the requirements of these rules, the Contractor or Subcontractor may appeal in writing to the Commissioner or their designee within 30 days of receipt of the Chief Fleet Management Officer&apos;s determination, on a form available on DCAS&apos; website. Receipt of notice by the Contractor or Subcontractor shall be deemed to be no later than five (5) days from the date of mailing or upon delivery, if delivered. Filing of the appeal shall be accomplished by actual delivery of the appeal document to the Commissioner or their designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134529" number="104022" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The written appeal by the Contractor must briefly state all the facts or other bases upon which the Contractor contests the Chief Fleet Management Officer&apos;s determination, and must include supporting documentation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134528" number="104023" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The Commissioner or their designee will consider the merits of the Contractor&apos;s appeal and provide a written decision no later than 90 days after receipt of such appeal. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134527" number="104024" version="2286">
+									<PARA>(Added City Record 10/7/2022, eff. 11/6/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-134595" number="104025" version="2286">
+								<HEADING>§ 15-05 Violations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17660" name="T55C015_15-05"/>§ 15-05 Violations.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-134526" number="104026" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A Contractor may be assessed up to $4,000 for each City Contracted Vehicle, including those vehicles used on behalf of the Contractor by its Subcontractor(s), that are found to be out of compliance with the requirements of these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134525" number="104027" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>In addition to other remedies provided by law or specified in the Contract, any person who knowingly makes a false statement of material fact to any City Agency with respect to the financial condition of the Contractor submitted in connection with a request for an exemption from compliance with these Rules may be fined not less than $100 nor more than $1,000 for each such false statement and the person on whose behalf such false, deceptive or fraudulent representation was made, shall thenceforth be disqualified from bidding on any contracts for the City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134524" number="104028" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>For purposes of this section, a person knowingly makes a false statement of material fact when such statements regarding the Contractor&apos;s financial condition fail to comply with the standards set forth in Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="6-112" destination-id="0-0-0-0">6-112</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134523" number="104029" version="2286">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A Contractor shall be responsible and liable for the actions or omissions of its subcontractor(s), and for any assessments imposed upon such subcontractor(s) pursuant to these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-134522" number="104030" version="2286">
+									<PARA>(Added City Record 10/7/2022, eff. 11/6/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-134594" number="104031" version="2286">
+								<HEADING>§ 15-06 Vehicles Regulated by the Business Integrity Commission (BIC).</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17662" name="T55C015_15-06"/>§ 15-06 Vehicles Regulated by the Business Integrity Commission (BIC).</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-134521" number="104032" version="2286">
+									<PARA>In the event that a City Contracted Vehicle is also a vehicle licensed or regulated by the New York City Business Integrity Commission (BIC), any laws or rules applicable to or promulgated by BIC will govern with respect to Side Guard matters addressed by these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146533" number="104033" version="2722">
+									<PARA>(Added City Record 10/7/2022, eff. 11/6/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-078]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

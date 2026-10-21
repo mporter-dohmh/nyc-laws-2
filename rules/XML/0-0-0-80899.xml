@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-474" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-80898" number="93966" version="1405">
+			<HEADING>Title 42: Department of Probation</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15536" name="Title 42"/>Title 42: Department of Probation</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-80899" number="93967" version="1961">
+				<HEADING>Chapter 1: Procedure for Obtaining Pre-Sentence Reports</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-10767" name="T42C001"/>Chapter 1: Procedure for Obtaining Pre-Sentence Reports</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+				<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+						<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-80900" number="93968" version="3">
+									<HEADING>§ 1-01 Requests for Records.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-10769" name="T42C001_1-01"/>§ 1-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Requests for Records.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-80901" number="93969" version="1406">
+										<PARA>The request for such records shall be in writing, indicating the case name and appellate court where pending, submitted by the subject-defendant, counsel on appeal, or the Assistant District Attorney, or by order of the sentencing court or by subpoena and directed to the New York City Department of Probation, Office of the General Counsel, 115 Leonard Street, New York, N.Y. 10013. In order to identify the correct records, the request shall also include the following information: </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-114300" number="93970" version="2513">
+										<PARA>
+											<TAB tab-count="1"/>Defendant&apos;s full name. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80902" number="93971" version="748">
+										<PARA>
+											<TAB tab-count="1"/>NYSIS number. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80903" number="93972" version="748">
+										<PARA>
+											<TAB tab-count="1"/>Indictment or Docket number. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80904" number="93973" version="748">
+										<PARA>
+											<TAB tab-count="1"/>County of conviction. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80905" number="93974" version="748">
+										<PARA>
+											<TAB tab-count="1"/>Sentence received, date and name of judge. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80906" number="93975" version="748">
+										<PARA>The request should also include whenever possible the following: </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80907" number="93976" version="748">
+										<PARA>
+											<TAB tab-count="1"/>Aliases used by defendant. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80908" number="93977" version="748">
+										<PARA>
+											<TAB tab-count="1"/>If sentenced to probation, the county and name of supervising officer. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80909" number="93978" version="748">
+										<PARA>
+											<TAB tab-count="1"/>If sentenced to a term of imprisonment, the name and address of the facility where served and the inmate identification number. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80910" number="93979" version="3">
+										<PARA>
+											<TAB tab-count="1"/>Defendant&apos;s date of birth.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-80911" number="93980" version="3">
+									<HEADING>§ 1-02 Production of Records.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-10771" name="T42C001_1-02"/>§ 1-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Production of Records.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-80912" number="93981" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Basic procedure. </CHARFORMAT>Upon receipt of a proper request, as indicated above, the Department of Probation shall cause three copies of the pre-sentence investigation report to be forwarded to the appropriate appellate court. Said records may then be obtained from the Office of the Clerk of that court. <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Under no circumstances will the Department of Probation release pre-sentence investigation reports directly to any defendant or attorney. </CHARFORMAT>CPL 390.50 provides that probation records are confidential, and are available only for purposes of initial sentencing and upon appeal, and that in those instances &quot;the court shall release&quot; the records.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80913" number="93982" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Time of requests for production. </CHARFORMAT>Requests for probation records should be made as far in advance of the date for perfection of the appeal as is possible. Cases which are two or more years old are archived and take a minimum of three to four weeks to locate and forward to the appellate court. Some take longer.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-80914" number="93983" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to produce records.</CHARFORMAT> It is the responsibility of the requesting party to ascertain whether the probation records have reached the appellate court. No notice will be sent by the Department of Probation. However, if the appellate court indicates that the records have not been received in a reasonable time, further inquiries should be directed either in writing or by telephone to the New York City Department of Probation, Office of the General Counsel, (212) 374-3718, 115 Leonard Street, New York, N.Y. 10013.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

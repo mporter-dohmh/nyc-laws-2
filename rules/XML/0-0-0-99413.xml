@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-99413" number="824" version="262">
+			<HEADING>Chapter 27: Signs</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-658" name="T01C027"/>Chapter 27: Signs</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1103" number="825" version="3">
+								<HEADING>§ 27-01 Stair and Elevator Signs in Buildings Which Have at Least One Elevator.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-660" name="T01C027_27-01"/>§ 27-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stair and Elevator Signs in Buildings Which Have at Least One Elevator.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1104" number="826" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Applicability. </CHARFORMAT>These rules and regulations shall apply to all buildings which have at least one elevator including:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1105" number="827" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any existing office buildings occupied or arranged to be occupied for an occupant load of more than one hundred (100) persons above or below the street level or more than a total of five hundred (500) persons in the entire building, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1106" number="828" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>All other existing buildings which have at least one elevator, pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="0-0-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Web\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-390" destination-id="0-0-0-0">27-390</LINK> of the Administrative (Building) Code, as enacted by Local Law 16 of 1984.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1107" number="829" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Signs at elevator landings.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1108" number="830" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Elevator landing sign. </CHARFORMAT>On all floors other than the main entrance floor, a sign shall be posted and maintained on every floor at the elevator landing. The sign shall read &quot;IN CASE OF FIRE, USE STAIRS UNLESS OTHERWISE INSTRUCTED.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1109" number="831" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Floor diagram sign. </CHARFORMAT>The sign shall contain a floor diagram showing the location where it is posted and the location and letter identification of the stairs on the floor and each elevator bank.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1110" number="832" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">J-2 multiple dwellings. </CHARFORMAT>The floor diagram sign may be omitted on all residential floors in J-2 multiple dwellings provided that:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1111" number="833" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The stair is in the line of sight from the elevator call button, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1112" number="834" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The stair is located a maximum of twenty (20) feet from the elevator call button, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1113" number="835" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>There is not more than one stair, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1114" number="836" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Two sissor stairs, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1115" number="837" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>A stair or fire escape serves only an individual apartment and directional signs with arrows and reading &quot;TO STAIRS&quot; are provided.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1116" number="838" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Location.</CHARFORMAT> The sign(s) shall be located:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1117" number="839" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Directly above the call button, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1118" number="840" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Its top shall not be above six (6) feet from the floor level.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1119" number="841" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The sign(s) may be placed on the wall or an adjacent conspicuous place where there is insufficient wall space at the call button, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1120" number="842" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The sign(s) may be placed on the elevator door(s) where there is insufficient wall space or an adjacent conspicuous place at the elevator landing. <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Exception: </CHARFORMAT>Raised signs on horizontal sliding flush type elevator doors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1121" number="843" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Floor number sign(s). </CHARFORMAT>Floor numbering sign(s) shall be posted and maintained within each stair enclosure on every floor. The floor numbering sign shall be posted and maintained on the stair side of the door, or if no door, nearby on the wall or an adjacent conspicuous place.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1122" number="844" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stair and elevator identification signs. </CHARFORMAT>Each stair and each bank of elevators shall be identified by an alphabetic letter. A sign indicating the letter of identification for the elevator bank shall be posted and maintained at each elevator landing directly above or as part of the sign specified in 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C027_27-01" destination-id="0-0-0-660">27-01</LINK>(b). The stair identification signs shall be posted and maintained on the occupancy and stair sides of the door, or if no door, nearby on the wall or an adjacent conspicuous place.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1123" number="845" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stair re-entry signs. </CHARFORMAT>Stair re-entry signs shall be posted and maintained on the stair door at each floor in buildings classified in Occupancy Group E, occupied or arranged to be occupied for an occupant load of more than a total of 500 persons in the entire building indicating re-entry is provided. The signs shall be attached approximately five feet above the floor. The signs shall read as follows and may be either independent or combined with the corresponding sign required by §§ 27-392 and 27-393:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1124" number="846" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Where no re-entry is provided:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1125" number="847" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Where no re-entry is provided from the stairs to any floor, the sign shall read &quot;NO RE-ENTRY FROM THIS STAIR&quot; and such sign shall be posted and maintained on the occupancy side of the stair door at each floor. No re-entry sign shall be required on the stair side of the door.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1126" number="848" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>On every floor where failsafe re-entry locking devices are installed on exit doors, a sign reading &quot;NO RE-ENTRY FROM THIS STAIR EXCEPT DURING FIRE OR EMERGENCY&quot; shall be posted on the occupancy side of the stair door.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1127" number="849" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Where re-entry is provided to specified floors:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1128" number="850" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>On the stair side of the door at floors where re-entry is provided, the sign shall read &quot;RE-ENTRY ON THIS FLOOR.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1129" number="851" version="2498">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Where no re-entry is provided on that floor, the sign on the stair side of the door shall read, &quot;NO RE-ENTRY, NEAREST RE-ENTRY ON THE ____ AND ____ FLOORS.&quot; The floor numbers of the nearest re-entry below and the nearest re-entry floor above shall be entered in the blank spaces.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1130" number="852" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Size of signs. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1131" number="853" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Signs for new buildings shall be limited to combined elevator landing and floor diagram signs, conforming with paragraph (4) below. Signs for existing buildings in Occupancy Group J-2 may be either independent signs as required or combined signs, conforming with the size requirements as set forth in the following subdivisions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1132" number="854" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Elevator landing signs. </CHARFORMAT>Elevator landing signs shall be at least two and one-half (2 1/2) inches by ten (10) inches.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1133" number="855" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Floor diagram signs. </CHARFORMAT>Floor diagram signs shall be at least eight (8) inches by twelve (12) inches.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1134" number="856" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Combined elevator landing and floor diagram signs. </CHARFORMAT>Combined elevator landing and diagram signs shall be at least ten (10) inches by twelve (12) inches.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1135" number="857" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lettering and coloring of signs. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1136" number="858" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Lettering and background shall be in contrasting colors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1137" number="859" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Lettering shall be of bold-type and properly spaced to provide good legibility.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1138" number="860" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The lettering and numerals of the signs shall be at least one-half inch high, except that:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1139" number="861" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Floor numbering sign numerals shall be at least three inches high.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1140" number="862" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Elevator identification sign letters shall be at least three inches high.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1141" number="863" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Material for signs. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1142" number="864" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Signs shall be of metal or other durable materials.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1143" number="865" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Fire resistive pressure sensitive vinyl decals may be permitted if the plastic is printed on the reverse side.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1144" number="866" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Attachment of signs. </CHARFORMAT>Signs shall be securely attached to the wall or partition.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1145" number="867" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Signs in existing buildings. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1146" number="868" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Signs installed prior to March 27, 1984 may be accepted by the Commissioner, provided that such signs will adequately accomplish the intended purpose.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1147" number="869" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>In buildings existing prior to March 27, 1984, the Commissioner may modify the requirements as to location of signs where compliance would cause practical difficulty or undue hardship.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1148" number="870" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>All existing buildings not already subject to the requirements of Local Law 5 as of January 18, 1983 shall comply with these requirements on or before October 1, 1985.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1149" number="871" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance date.</CHARFORMAT> Signs shall be installed on or before October 1, 1985.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1150" number="872" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Report of compliance. </CHARFORMAT>Owners shall file a report with the Department of Buildings certifying that they have posted the signs in compliance with the Building Code requirements on or before October 1, 1985.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1151" number="873" version="2326">
+								<HEADING>§ 27-02 Caution Sign Tapes Required on Elevators Being Serviced. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-662" name="T01C027_27-02"/>§ 27-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Caution Sign Tapes Required on Elevators Being Serviced. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1154" number="874" version="2326">
+									<PARA>(Repealed City Record 11/7/2022, eff. 12/7/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-080]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-135102" number="875" version="2326">
+								<HEADING>§ 27-03 Signs on any Sidewalk Shed, Fence, Railing, Footbridge, Catch Platform, Builder&apos;s Sidewalk Shanty, and Over-the-Sidewalk Chute Erected at Demolition or Construction Sites. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-664" name="T01C027_27-03"/>§ 27-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Signs on any Sidewalk Shed, Fence, Railing, Footbridge, Catch Platform, Builder&apos;s Sidewalk Shanty, and Over-the-Sidewalk Chute Erected at Demolition or Construction Sites. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1155" number="876" version="85">
+									<PARA>(Repealed City Record 12/3/2015, eff. 1/2/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1156" number="877" version="3">
+								<HEADING>§ 27-04 311 Advisory Signs Required on Construction Sites. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-666" name="T01C027_27-04"/>§ 27-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">311 Advisory Signs Required on Construction Sites. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1157" number="878" version="85">
+									<PARA>(Repealed City Record 12/3/2015, eff. 1/2/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

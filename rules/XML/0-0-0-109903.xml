@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-109903" number="36561" version="1184">
+			<HEADING>Chapter 52: After Hours Noise Complaints</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15388" name="T15C052"/>Chapter 52: After Hours Noise Complaints</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-109904" number="36562" version="1184">
+								<HEADING>§ 52-01 After Hours Response Time at Construction Sites.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15390" name="T15C052_52-01"/>§ 52-01 After Hours Response Time at Construction Sites.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-109916" number="36563" version="2297">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>When a complaint is made to the Department of Environmental Protection (DEP) concerning after hours noise at a construction site, DEP staff will determine whether an after hours variance has been issued pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-223" destination-id="0-0-0-0">24-223</LINK>(a) of the New York City Noise Control Code by the Department of Buildings (DOB). If there is no variance, an inspection will be conducted the same day if the complaint is received during likely working hours. If the complaint is not received during likely working hours, the inspection will be conducted the following weekend or during the same after hours period, as applicable. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109915" number="36564" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>For locations with a DOB variance, an inspection will be conducted during the next time period during which the after hours variance is in effect. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109914" number="36565" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For locations with a DOB variance, DEP will prioritize inspections based upon the number of complaints received per location on a given day. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109913" number="36566" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>DEP staff should also monitor after hour complaints to identify situations where complaints have been received about three of more construction sites within a one mile radius of each other and were received within four hours of each other. Where feasible and when such complaints were received during likely working hours, the inspections will be conducted at such locations whether or not there is a variance. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109912" number="36567" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If an after hours complaint is received regarding noise occurring on a weekday, DEP staff shall inspect the location the following weekday. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109911" number="36568" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If an after hours complaint is received regarding noise occurring on a weekend, DEP staff shall inspect at least 95% of such complaints the following weekend, and the remaining percentage of such complaints, if any, shall be inspected the weekend thereafter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109909" number="36569" version="1184">
+									<PARA>(Added City Record 9/14/2018, eff. 10/14/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-109910" number="36570" version="1184">
+								<HEADING>§ 52-02 After Hours Response Time for Street Work.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15392" name="T15C052_52-02"/>§ 52-02 After Hours Response Time for Street Work.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-109907" number="36571" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>When a complaint is reported to DEP concerning after hours noise from street construction, which would require an after hours variance from the Department of Transportation (DOT), DEP staff will check the DOT website. If there is no variance, or a variance only for that one day, an inspection will be conducted that day or night. If it is unclear from the website if there is a variance, or if there is a variance within the first three days of receiving such complaint, DEP will conduct an inspection to ascertain if there is a DOT permit and to monitor for noise. DEP staff should inspect 75% of all street construction complaints within three days or less. The remainder of the 25% of complaints should be inspected by the fourth day. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109906" number="36572" version="1184">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>DEP staff should also monitor after-hour complaints to identify situations where three or more complaints relate to the same work location and are received within four hours of each other. Where feasible and the three or more complaints are received within working hours, the inspection will be conducted for those locations whether or not there is an after hours variance. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109905" number="36573" version="1184">
+									<PARA>(Added City Record 9/14/2018, eff. 10/14/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-030]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

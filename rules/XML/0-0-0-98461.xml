@@ -1,0 +1,908 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-98461" number="43322" version="191">
+			<HEADING>Chapter 6: Commercial Motor Vehicles</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-4867" name="T19C006"/>Chapter 6: Commercial Motor Vehicles</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-35987" number="43323" version="3">
+								<HEADING>§ 6-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4869" name="T19C006_6-01"/>§ 6-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-35988" number="43324" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City.</CHARFORMAT> &quot;City&quot; shall mean the City of New York. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35989" number="43325" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial motor vehicle.</CHARFORMAT> A &quot;commercial motor vehicle&quot; is:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35990" number="43326" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any truck, tractor, trailer or semi-trailer, and any other motor vehicle constructed or specially equipped for the transportation of goods, wares and merchandise which is commonly known as an auto truck or light delivery car;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35991" number="43327" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Any traction engine, road roller, tractor crane, truck crane, power shovel, road building machine, snow plow, road sweeper, sand spreader, well driller, or well servicing rig; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35992" number="43328" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Any earth-moving equipment as defined in the Vehicle and Traffic Law; provided that such motor vehicles are used principally in the city or used principally in connection with a business carried on within the city. Although trailers and semi-trailers are defined as commercial motor vehicles under the law, they are only considered in computing the tax due on tractors, as more specifically set forth in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C006_6-02" destination-id="0-0-0-4871">6-02</LINK>. There is no separate or additional tax on trailers or semi-trailers as such. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35993" number="43329" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner of Finance.</CHARFORMAT> The &quot;Commissioner of Finance&quot; is the Commissioner of Finance of the City. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35994" number="43330" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maximum gross weight.</CHARFORMAT> &quot;Maximum gross weight&quot; is the weight of the motor vehicle plus the weight of the maximum load to be carried, if any, by such vehicle. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35995" number="43331" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Motor vehicle.</CHARFORMAT> A &quot;motor vehicle&quot; is any vehicle operated upon a public highway or public street propelled by any power other than muscular power. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35996" number="43332" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Motor vehicle for transportation of passengers.</CHARFORMAT> A &quot;motor vehicle for transportation of passengers&quot; is:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35997" number="43333" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any motor vehicle licensed as a taxicab or as a coach, or any motor vehicle, not so licensed, which carries passengers for compensation, including limousine service, whether the compensation paid by or on behalf of the passenger is based on mileage, trip, time consumed or any other basis; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35998" number="43334" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Any omnibus, except one operated pursuant to a franchise when, under such franchise or under a contract (relating to transportation to or from airports in the city) with the Port of New York Authority, the holder of the franchise pays to the city or to the Port of New York Authority a percentage of its gross earnings or gross receipts or one used exclusively in interstate commerce; provided such motor vehicles are used regularly, even though not principally, in the city. The law excludes from the definition of a motor vehicle for transportation of passengers any motor vehicle used principally for the transportation of children to and from schools. It also excludes any motor vehicle used principally for the transportation of children to and from day camps operated by the non-profit organizations described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C006_6-03" destination-id="0-0-0-4873">6-03</LINK> or used exclusively for transportation of persons in connection with funerals. However, motor vehicles which are normally used for the transportation of persons in connection with funerals but which are also used for the transportation of persons for other purposes, are subject to the tax. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-35999" number="43335" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Omnibus.</CHARFORMAT> An &quot;omnibus&quot; is any motor vehicle for transportation of passengers for hire having a seating capacity of more than seven persons. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36000" number="43336" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Owner.</CHARFORMAT> An &quot;owner&quot; is any person owning a commercial motor vehicle or a motor vehicle for the transportation of passengers and shall include a purchaser under a reserve title contract, conditional sales agreement or vendor&apos;s lien agreement. In addition, an owner shall be deemed to include any lessee, licensee or bailee having the exclusive use of a commercial motor vehicle or a vehicle for the transportation of passengers, under a lease or otherwise, for a period of thirty days or more, except where the lessor, licensor or bailor has filed a return as provided by the law as owner thereof and paid the tax. In the case of a commercial motor vehicle or vehicle for the transportation of passengers under the exclusive use of a lessee, licensee or bailee for a period of less than thirty days, the tax is payable by the owner of the vehicle and not the lessee, licensee or bailee. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36001" number="43337" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person.</CHARFORMAT> &quot;Person&quot; shall mean an individual, partnership, corporation, joint stock company, society, association, receiver, lessee, trustee, estate, referee, assignee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36002" number="43338" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registered owner.</CHARFORMAT> The &quot;registered owner&quot; is the person who registers a motor vehicle as owner thereof pursuant to the registration requirements of the Vehicle and Traffic Law of the State of New York. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36003" number="43339" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registration fee.</CHARFORMAT> The &quot;registration fee&quot; is the full annual fee or charge prescribed in the Vehicle and Traffic Law of the State of New York for the registration of a motor vehicle. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36004" number="43340" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Tax year.</CHARFORMAT> The &quot;tax year&quot; begins June first of any calendar year and extends through May thirty-first of the following calendar year. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36005" number="43341" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Use.</CHARFORMAT> &quot;Use&quot; is any use of a motor vehicle upon the public highways or streets of the city.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36006" number="43342" version="3">
+								<HEADING>§ 6-02 Imposition of the Tax.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4871" name="T19C006_6-02"/>§ 6-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Imposition of the Tax.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36007" number="43343" version="3">
+									<PARA>The law provides for a tax on certain motor vehicles payable for each tax year, as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36008" number="43344" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On commercial motor vehicles used principally within the city, that is, if most of their mileage during the year is within the city, regardless of whether the business of their owners or operators is principally within the city; or on commercial motor vehicles used principally in connection with business carried on within the city, regardless of the mileage within or without the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36009" number="43345" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>For tax years ending on or before May 31, 1972, twenty dollars for each such vehicle having a maximum gross weight of five tons or less, and thirty dollars for each such vehicle having a maximum gross weight of more than five tons, provided, however, that for each such vehicle having a registration fee is prescribed in the Vehicle Traffic Law of the State of New York which is less than twenty dollars, the tax shall be an amount equal to such registration fee, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36010" number="43346" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>For tax years beginning on and after June 1, 1972, forty dollars for each such vehicle having a maximum gross weight of five tons or less, and sixty dollars for each such vehicle having a maximum gross weight of more than five tons, provided, however, that for each such vehicle having a registration fee prescribed in the Vehicle and Traffic Law of the State of New York which is less than forty dollars, the tax shall be an amount equal to such registration fee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36011" number="43347" version="748">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>On motor vehicles for the transportation of passengers which are used regularly even though not principally in the city, one hundred dollars for each such vehicle. A motor vehicle for the transportation of passengers which does not do most of its traveling on the city streets but does travel on the city streets regularly is subject to the tax. A motor vehicle will be deemed to be used regularly in the city and subject to the tax where it is used in the city thirty or more different days during a tax year. In applying the tax on commercial motor vehicles with respect to tractors, trailers and semi-trailers, the tax is measured by the weight of the tractor plus the maximum gross weight of the trailer or semi-trailer with the greatest such maximum gross weight to be drawn by such tractor. No trailer or semi-trailer is subject to any separate or additional tax under the law. Where the first use of any motor vehicle subject to the tax occurs on or after December 1st and before March 1st in any tax year, the tax for that year shall be one-half of the annual tax hereinabove provided; and where the first use occurs on or after March 1st in any tax year, the tax for that year shall be one-fourth of the annual tax hereinabove provided. The above tax is in addition to any and all other taxes, including the Compensating Use Tax, imposed by the City. No tax is payable with respect to motor vehicles which do not travel upon the public highways or public streets of the city. Thus, the tax does not apply to vehicles which, during the entire tax year, are located outside the city, or are &quot;dead storage,&quot; or are upon private property within or without the city which they never leave to travel upon the public highways or public streets of the city.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36012" number="43348" version="3">
+								<HEADING>§ 6-03 Exemptions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4873" name="T19C006_6-03"/>§ 6-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exemptions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36013" number="43349" version="3">
+									<PARA>The tax does not apply to motor vehicles owned and operated, or leased for their exclusive use by:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36014" number="43350" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The State of New York, or any public corporation (including a corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the state;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36015" number="43351" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The United States of America;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36016" number="43352" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The United Nations or other world-wide international organizations of which the United States of America is a member;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36017" number="43353" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36018" number="43354" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Any foreign nation or representative of a foreign nation with respect to motor vehicles for which they need not pay a registration fee under the provisions of the Vehicle and Traffic Law;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36019" number="43355" version="748">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Dealers in new and used motor vehicles where the use of the motor vehicle is confined solely to demonstrations to prospective customers or to delivery by or to the dealer and the vehicle bears dealer&apos;s license plates. Where a lease of a motor vehicle for the exclusive use by any of the exempt persons described in this section, commences after June 1st or terminates prior to May 31st of any tax year, the owner thereof, who is otherwise subject to the tax, shall be liable for the tax with respect to such motor vehicle for the period during which such motor vehicle is not leased for the exclusive use by exempt persons. The date of first use during a tax year of the motor vehicle by such owner shall determine the amount of tax due with respect to such vehicle. In no event, however, is an exempt person subject to the tax, and in no event shall one owner be liable for payment of more than one tax with respect to any one motor vehicle during any one tax year. Persons claiming exemption from the tax under the provisions of this section shall make an application to the Commissioner of Finance for an exemption from the tax. Such application must be made in the form of an affidavit setting forth </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36020" number="43356" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the character of the organization, </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36021" number="43357" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the purposes for which it was organized, </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36022" number="43358" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>its actual activities, </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36023" number="43359" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the sources of its income from the disposition of such income, </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36024" number="43360" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>whether or not any of its income is credited to surplus or may enure to the benefit of any private shareholder or individual, </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36025" number="43361" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>generally all facts relating to its operations which may affect its right to exemption. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36026" number="43362" version="1093">
+									<PARA>Such affidavit must be supplemented by a copy of its certificate of incorporation or corporate charter, if a corporation; or a copy of its constitution or articles of association and by-laws, if an incorporated association. In addition, there should be submitted a current financial statement for a recent period of at least one year, in such form as to indicate its assets and liabilities, and its receipts and disbursements, as well as a photostatic copy of the letter, if any, from the Treasury Department of the United States granting the applicant exemption from the Federal Income Tax under § 501(c)(3) of the United States Internal Revenue Code. The Commissioner of Finance may require such further information as he deems appropriate. However, persons to whom the Commissioner of Finance has issued a certificate of exemption under either the New York City Sales Tax Law or the Tax On Occupancy of Hotel Rooms Law need not apply for exemption under this law, but may furnish such certificate of exemption or a photostatic copy thereof as evidence of exemption under the provisions of this law.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36027" number="43363" version="3">
+								<HEADING>§ 6-04 Presumptions and Burden of Proof.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4875" name="T19C006_6-04"/>§ 6-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Presumptions and Burden of Proof.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36028" number="43364" version="3">
+									<PARA>For the purpose of the proper administration of the law and to prevent evasion of the tax, the law presumes that all commercial motor vehicles used in the city are used principally in the city or used principally in connection with a business carried on within the city and are subject to the tax until the contrary is established; and the law presumes that all motor vehicles used for the transportation of passengers in the city are used regularly, even though not principally in the city and are subject to the tax until the contrary is established. The burden of proving that a motor vehicle is not taxable under the law shall be on the owner of the motor vehicle.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36029" number="43365" version="3">
+								<HEADING>§ 6-05 Records To Be Kept.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4877" name="T19C006_6-05"/>§ 6-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Records To Be Kept.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36030" number="43366" version="748">
+									<PARA>Every owner of a commercial motor vehicle shall keep records of the acquisition and use in the City of each such commercial motor vehicle showing the date of acquisition, the number of miles traveled in the City, and the number of miles traveled by such article outside the City, the weight of the vehicle and the weight of the vehicle plus the weight of the maximum load to be carried, together with the full annual fee or charge paid under the Vehicle and Traffic Law of the State of New York for the registration of the vehicle. Every owner of a motor vehicle for transportation of passengers shall keep records of each such vehicle showing the date of acquisition and use in the City and the basis for the compensation charged to passengers for transporting such passengers. Where the owner operates the vehicle pursuant to a franchise under which he pays to the City a percentage of its gross earnings or gross receipts, or operates the vehicle for the transportation of children to and from schools or day camps, or operates the vehicle exclusively for the transportation of persons in connection with funerals, he shall maintain sufficient records to establish these facts. The foregoing records shall be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years, except that the Commissioner of Finance may consent to their destruction within that period or may require that they be kept longer.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36031" number="43367" version="3">
+								<HEADING>§ 6-06 Registration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4879" name="T19C006_6-06"/>§ 6-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registration.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36032" number="43368" version="1833">
+									<PARA>In accordance with the powers granted to him by the law, the Commissioner of Finance has determined that the certificates of registration described in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-806" destination-id="0-0-0-0">11-806</LINK>(a) of the Administrative Code of the City of New York need not be filed. Further, in accordance with the powers granted to him by the law, the Commissioner of Finance has determined that information registration certificates described in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-806" destination-id="0-0-0-0">11-806</LINK>(b) of the Administrative Code of the City of New York need not be filed.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36033" number="43369" version="3">
+								<HEADING>§ 6-07 Returns.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4881" name="T19C006_6-07"/>§ 6-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Returns.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36034" number="43370" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On or before the twentieth day of June in each tax year, every owner of a motor vehicle subject to tax under the law shall file a return with the Commissioner of Finance. A supplemental return shall also be filed by every owner with respect to each motor vehicle subject to tax acquired after the commencement of any tax year and for which a return of supplemental return has not been filed. Such supplemental return shall be filed with the Commissioner of Finance within five days after the acquisition of the motor vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36035" number="43371" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Ordinarily information returns need not be filed. However, the Commissioner of Finance may permit or require returns, supplemental returns or information returns to be filed at times other than those specified in these regulations, where he deems it necessary in order to insure payment of the tax imposed by the law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36036" number="43372" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The form of returns, supplemental returns or information returns shall be prescribed by the Commissioner of Finance and shall contain such information as he may deem necessary for the proper administration of the law. The Commissioner of Finance may require amended returns, amended supplemental returns or amended information returns to be filed within twenty days after notice and to contain the information specified in the notice.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36037" number="43373" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If a return, supplemental return or information return is not filed, or if a return of any kind when filed is incorrect or insufficient on its face, the Commissioner of Finance shall take the necessary steps to enforce the filing of such a return or of a corrected return.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36038" number="43374" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electronic filing.</CHARFORMAT> Pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C017_17-03" destination-id="0-0-0-5235">17-03</LINK>, the Commissioner may authorize the electronic filing of returns and reports required by this section.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36039" number="43375" version="3">
+								<HEADING>§ 6-08 Payment of Tax.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4883" name="T19C006_6-08"/>§ 6-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Payment of Tax.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36040" number="43376" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>At the time of filing a return or supplemental return the owner shall pay to the Commissioner of Finance the tax imposed by the law. Such tax shall be due and payable on the last day on which such return or supplemental return is required to be filed, regardless of whether such a return is filed or whether the return which is filed correctly indicates the amount of tax due. Where an owner of a motor vehicle subject to tax under the law replaces it with another motor vehicle during a tax year, he shall be entitled, upon approval by the Commissioner of Finance, to have any tax paid with respect to the replaced vehicle credited toward the tax payable with respect to the replacement vehicle for the balance of such tax year, and he shall pay no additional tax for such tax year with respect to it unless its nature or its maximum gross weight requires the payment of a higher amount of tax than that paid with respect to the replaced vehicle. A supplemental return, where required, shall be filed with respect to a replacement vehicle irrespective of whether additional tax is payable. Where the transferrer does not desire credit for tax paid with respect to any replacement vehicle, a transferee of a motor vehicle subject to tax under the law who acquires it during a tax year from an owner who has paid the tax shall not be required to pay the tax with respect to such motor vehicle for the balance of such tax year if, and only if, he obtains and submits to the Commissioner of Finance together with his return or supplemental return, a certificate or its equivalent (as prescribed by the Commissioner of Finance) signed by the prior owner to the effect that the prior owner has not had the tax paid credited toward any replacement vehicle and will not seek to obtain such a credit for any replacement vehicle acquired in the future. Nothing contained in this section shall be deemed to authorize a refund merely because a motor vehicle with respect to which the tax has been paid is sold or otherwise disposed of during the course of the tax year. Payment of the tax may be made in cash, or by check, money order or draft drawn to the order of the City Collector, to the borough office of the Bureau of City Collections, where the taxpayer has his principal place of business. Cash payments may be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of the tax. Where payment is made by uncertified check, the Commissioner of Finance may withhold issuance of the stamp or other indicia or payment prescribed until the check has been converted into collectible funds. The borough offices of the Bureau of City Collections are located as follows: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36041" number="43377" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>Manhattan (New York County) Room 100 Municipal Building Center and Chambers Streets New York, N.Y. 10007 <LINEBRK/>
+										<TAB tab-count="1"/>Bronx – Tremont and Arthur Avenues Bronx, N.Y. 10457 <LINEBRK/>
+										<TAB tab-count="1"/>Brooklyn (Kings County) – Room 1 Municipal Building 210 Joralemon Street Brooklyn, N.Y. 11201 <LINEBRK/>
+										<TAB tab-count="1"/>Queens Borough Hall 120-55 Queens Blvd. Kew Gardens, N.Y. 11424 <LINEBRK/>
+										<TAB tab-count="1"/>Richmond-Borough Hall, Room 200 350 St. Marks Place Staten Island, N.Y. 10301 </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36042" number="43378" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electronic payment.</CHARFORMAT> Pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C017_17-03" destination-id="0-0-0-5235">17-03</LINK>, the Commissioner may authorize the electronic payment of any tax required to be paid by this section.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36043" number="43379" version="3">
+								<HEADING>§ 6-09 Stamps or Other Indicia of Payment.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4885" name="T19C006_6-09"/>§ 6-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stamps or Other Indicia of Payment.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36044" number="43380" version="1093">
+									<PARA>The Commissioner of Finance may issue suitable stamps or other indicia as evidence of payment of or exemption from the tax imposed by the law. If a stamp is issued it shall be affixed to and prominently and conspicuously displayed on the motor vehicle for which it has been issued so as to be readily visible, without, however, interfering with the vision of the operator thereof. Compliance with this section will be deemed sufficient when the stamp, if one is issued, is properly affixed to the front air-vent window on either the left or right side of such motor vehicle or, if there be none, on any side window, or if such motor vehicle is a type which has no side windows,on the top of the dashboard immediately facing the operator&apos;s seat, or on some other visible and conspicuous place near the operator&apos;s seat; or, if some other indicia of payment or exemption from the tax is issued, when it is kept with the vehicle so as to be readily available. An owner who transfers title to a motor vehicle shall not transfer any stamp or other indicia of payment to the transferee except on a transfer to a person to whom he has properly given the certificate provided for in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C006_6-08" destination-id="0-0-0-4883">6-08</LINK> with regard to not obtaining a credit toward any tax payable with respect to a replacement vehicle. Upon the transfer of a vehicle subject to the law, the stamp or other indicia of payment issued shall be returned to the Commissioner of Finance, or shall be destroyed by the transferrer of the vehicle except where the transfer of the stamp or other indicia of payment is permitted as hereinabove provided.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36045" number="43381" version="3">
+								<HEADING>§ 6-10 Fees for Issuance of Duplicate Tax Stamp.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4887" name="T19C006_6-10"/>§ 6-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fees for Issuance of Duplicate Tax Stamp.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36046" number="43382" version="3">
+									<PARA>Whenever any tax stamp or other indicia of payment that has been issued is lost, mutilated or destroyed, the Commissioner of Finance will issue a duplicate tax stamp or other indicia of payment to the holder of the lost, mutilated or destroyed tax stamp or other indicia of payment upon the payment of a fee of $5.00.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36047" number="43383" version="3">
+								<HEADING>§ 6-11 Determination of Tax Deficiency.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4889" name="T19C006_6-11"/>§ 6-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Determination of Tax Deficiency.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36048" number="43384" version="3">
+									<PARA>If a return required by the law is not filed, or if a return when filed is incorrect or insufficient, the Commissioner of Finance will determine the amount of tax due from such records or information as may be obtainable and, if necessary, may estimate the tax on the basis of external indices such as motor vehicle registration with the Bureau of Motor Vehicles and/or any other factors. Notice of such determination will be given to the person liable for the payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within thirty days after the giving of notice of such determination, shall apply in writing to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance, on his own motion shall redetermine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of Civil Practice Law and Rules if application therefor is made to the Supreme Court within thirty days after the giving of the notice of such determination. A proceeding under Article 78 of Civil Practice Law and Rules shall not be instituted unless;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36049" number="43385" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance undertaking, issued by a surety company authorized to transact business in this state and approved by the Superintendent of Insurance of this state as to solvency and responsibility, in such amount and with such sureties as a justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36050" number="43386" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the applicant shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36051" number="43387" version="3">
+								<HEADING>§ 6-12 Refunds.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4891" name="T19C006_6-12"/>§ 6-12 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Refunds.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36052" number="43388" version="748">
+									<PARA>The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, if written application to the Commissioner of Finance for such refund shall be made within one year from the payment thereof. No refund will be granted merely because a motor vehicle with respect to which the tax has been paid is sold or otherwise disposed of during the course of the tax year. An application for refund or credit may be made by the owner of a motor vehicle or any other person who paid the tax to the Commissioner of Finance. The application must set forth the grounds upon which the claim for refund or credit is made and the application must show on its face that it has been filed with the Commissioner of Finance within one year from the date of payment of the tax. The application must be accompanied by a cancelled check or other evidence of payment of the tax, and such other additional information as the Commissioner of Finance may require. Whenever the Commissioner of Finance approves a refund or credit he may require a general release to the city before making such refund or granting such credit. Where payment of the tax is made by check and the check cannot be presented as evidence of payment, a photostatic copy thereof, showing both the front and back of the check, will be accepted in lieu thereof. The Commissioner of Finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant. The Commissioner of Finance reserves the fight to audit the taxpayer&apos;s books and records prior to making any refund or he may grant the refund or credit subject to audit. The granting of a refund or credit before audit is without prejudice to the right of the Commissioner of Finance to determine after audit the applicant&apos;s right to the refund or credit and his liability for tax. The Commissioner of Finance will deny any application for refund or credit where he determines that the statutory requirements have not been met or that the grounds set forth in the application are without merit. An application for refund or credit shall be deemed an application for a revision of any tax, penalty or interest complained of, and the Commissioner of Finance may receive evidence with respect thereto. The Commissioner of Finance will make his determination and give notice thereof to the applicant. The Commissioner of Finance&apos;s determination may be reviewed by a proceeding pursuant to Article 78 of the Civil Practice Law and Rules, provided such proceeding is instituted within thirty days after the giving of notice of such determination and provided that a final determination of tax due was not previously made. Such proceeding shall not be instituted unless an undertaking is filed with the Commissioner of Finance for such amount and with such sureties as a Justice of the Supreme Court shall approve, to the effect that if such proceeding is dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding. A person shall not be entitled to a revision, refund or credit of a tax, interest or penalty covered by a determination of tax for which he has had a hearing or an opportunity for a hearing as provided by law or has failed to avail himself of the remedies therein provided.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36053" number="43389" version="3">
+								<HEADING>§ 6-13 Remedies Exclusive.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4893" name="T19C006_6-13"/>§ 6-13 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Remedies Exclusive.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36054" number="43390" version="3">
+									<PARA>The remedies provided by the law shall be the exclusive remedies available to any person for the review of tax liability imposed by the law; and no determination or proposed determination of tax or determination on any application for refund shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by an action or proceeding other than a proceeding under Article 78 of the Civil Practice Law and Rules; provided, however, that a taxpayer may proceed by declaratory judgment if he institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the Treasurer prior to the institution of such suit and posts a bond for costs as set forth in those regulations.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36055" number="43391" version="3">
+								<HEADING>§ 6-14 Bulk Sales.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4895" name="T19C006_6-14"/>§ 6-14 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Bulk Sales.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36056" number="43392" version="748">
+									<PARA>Whenever there is made a sale, transfer or assignment in bulk or any part or the whole of a stock of merchandise or of fixtures, or merchandise and of fixtures pertaining to the conducting of the business of the seller, transferrer or assignor, otherwise than in the ordinary course of trade and in the regular prosecution of said business, the purchaser, transferee or assignee shall at least ten days before taking possession of such merchandise, fixtures, or merchandise and fixtures, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms and conditions thereof whether or not the seller, transferrer or assignor, has represented to, or informed the purchaser, transferee or assignee that it owes any tax pursuant to the law and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the city, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assignor any such sums of money, property or choses in action to the extent of the amount of the city&apos;s claim. For failure to comply with the provisions of this section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code, shall be personally liable for the payment to the city of any such taxes theretofore or thereafter determined to be due to the city from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36057" number="43393" version="3">
+								<HEADING>§ 6-15 General Powers of the Commissioner of Finance.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4897" name="T19C006_6-15"/>§ 6-15 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General Powers of the Commissioner of Finance.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36058" number="43394" version="3">
+									<PARA>In addition to all other powers granted to the Commissioner of Finance under the law, he is authorized and empowered:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36059" number="43395" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>To make, adopt and amend rules and regulations appropriate to the carrying out of the law and the purposes thereof;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36060" number="43396" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>To extend, for cause shown, the time for filing any return for a period not exceeding sixty days; and to compromise disputed claims in connection with the taxes thereby imposed;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36061" number="43397" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>To request information concerning motor vehicles and persons subject to the provisions of the law from the Bureau of Motor Vehicles and from the Department of Taxation and Finance of the State of New York or any successor to their duties, or the Treasury Department of the United States relative to any person; and to afford information to such Bureau of Motor Vehicles, Department of Taxation and Finance or any successor to their duties, or to such Treasury Department relative to any person, any other provision of the law to the contrary notwithstanding;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36062" number="43398" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>To delegate his functions thereunder to a Deputy Commissioner of Finance or other employee or employees of his department;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36063" number="43399" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>To assess, reassess, determine, revise and readjust the tax imposed under the law;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36064" number="43400" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>To provide methods for identifying motor vehicles not subject to or exempt from the tax imposed under the law;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36065" number="43401" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>To provide that a certificate of registration need not be filed with respect to any or all types of motor vehicles, or to provide that such certificate of registration with respect to any or all types of motor vehicles shall be contained on or combined with any return or supplemental return required to be filed under the law.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36066" number="43402" version="3">
+								<HEADING>§ 6-16 Penalties and Interest.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4899" name="T19C006_6-16"/>§ 6-16 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Penalties and Interest.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36067" number="43403" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Interest on underpayments. </CHARFORMAT>If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36068" number="43404" version="748">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Civil penalties.</CHARFORMAT> Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36069" number="43405" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to file return.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36070" number="43406" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, there is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36071" number="43407" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36072" number="43408" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36073" number="43409" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to pay tax shown on return.</CHARFORMAT> In case of failure to pay the amount shown as tax on a return required to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36074" number="43410" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to pay tax required to be shown on return. </CHARFORMAT>In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C006_6-11" destination-id="0-0-0-4889">6-11</LINK>), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36075" number="43411" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Limitations on additions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36076" number="43412" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>With respect to any return the amount of the addition to tax is limited to the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36077" number="43413" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>At no time will the addition for one (1) month be more than five percent (5%).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36078" number="43414" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>If paragraphs (1) and (2) of this subdivision are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e., the lesser of $100 or 100% of tax due).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36079" number="43415" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>If paragraphs (1) and (3) of this subdivision are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (determined without regard to subparagraph (ii) of such paragraph (1)) which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36080" number="43416" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The provisions of this paragraph may be illustrated by the following examples:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36081" number="43417" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">(a)<TAB tab-count="1"/>
+										</CHARFORMAT>Assume the taxpayer filed his tax return for the year June 1, 1983 to May 31, 1984 (due June 20, 1983) on September 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return $1,000. The amount shown due on the return of $800 is paid on October 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from June 21 through October 20, and 0.5% for the fractional part of the month from October 21 through October 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows: <LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36082" number="43418" version="1717">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="26" percentage="yes"/>
+												<COLUMNFORMAT column-width="5" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>20 percent (5% per month for 3 months from June 21 through September 20 and 5% for the fractional part of the month from September 20 through September 30) of the amount due of $1,000 required to be shown on the return</PARA>
+												</COL>
+												<COL>
+													<PARA> $200</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Reduced by the amount of the addition imposed under paragraph (2) for those months</PARA>
+												</COL>
+												<COL>
+													<PARA> $16</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Addition to tax under paragraph (1)</PARA>
+												</COL>
+												<COL>
+													<PARA> $184</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36083" number="43419" version="1093">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: <LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36084" number="43420" version="1093">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="26" percentage="yes"/>
+												<COLUMNFORMAT column-width="5" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984 through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)</PARA>
+												</COL>
+												<COL>
+													<PARA> $12</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)</PARA>
+												</COL>
+												<COL>
+													<PARA> $50</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)</PARA>
+												</COL>
+												<COL>
+													<PARA> $40</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Maximum amount of the addition under paragraph (3)</PARA>
+												</COL>
+												<COL>
+													<PARA> $10</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36085" number="43421" version="1093">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>A taxpayer files his tax return for the year June 1, 1983 to May 31, 1984 on February 2, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on February 2, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, or 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: <LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36086" number="43422" version="1093">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="26" percentage="yes"/>
+												<COLUMNFORMAT column-width="5" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>Penalty at 5% for maximum of 5 months, or 25% of $500</PARA>
+												</COL>
+												<COL>
+													<PARA> $125.00</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Less reduction for the amount of the addition under paragraph (2): </PARA>
+												</COL>
+												<COL>
+													<PARA>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2% of the 5 months June 21 through November 20 of the net amount due ($500)</PARA>
+												</COL>
+												<COL>
+													<PARA>$12.50</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>Addition to tax under paragraph (1)</PARA>
+												</COL>
+												<COL>
+													<PARA>$112.00</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36087" number="43423" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Reasonable cause as used in paragraphs (1), (2) and (3) must be affirmatively shown in a written statement. The taxpayer&apos;s previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36088" number="43424" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36089" number="43425" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>destruction of the taxpayer&apos;s place of business records by fire or other casualty;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36090" number="43426" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36091" number="43427" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36092" number="43428" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Underpayment due to negligence.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36093" number="43429" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36094" number="43430" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under this section of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36095" number="43431" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Underpayment due to fraud.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36096" number="43432" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36097" number="43433" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under this section of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36098" number="43434" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36099" number="43435" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36100" number="43436" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The additions to tax and penalties provided by this subdivision shall be paid and enforced in the same manner as taxes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36101" number="43437" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36102" number="43438" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Criminal penalties. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36103" number="43439" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to obey a subpoena; false testimony.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36104" number="43440" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36105" number="43441" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>fails or refuses to attend without lawful excuse,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36106" number="43442" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>refuses to be sworn,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36107" number="43443" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>refuses to answer any material and proper question, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36108" number="43444" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36109" number="43445" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36110" number="43446" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Willful failure to file a return or report or pay the tax.</CHARFORMAT> Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36111" number="43447" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fraudulent returns, reports, statements or other documents.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36112" number="43448" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Any person who willfully makes and subscribes any return, report statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36113" number="43449" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36114" number="43450" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36115" number="43451" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Any person who counterfeits or forges, or causes or procures to be counterfeited or forged, or aids or assists in counterfeiting or forging, by any way, act, or means, any stamp, indicia of payment or indicia that no tax is payable authorized by the law, or who knowingly acquires, possesses, disposes of or uses such a counterfeited or forged stamp, indicia of payment or indicia that no tax is payable, or who transfers a stamp, indicia of payment or indicia that no tax is payable where such a transfer is not authorized by the law shall be guilty of a misdemeanor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36116" number="43452" version="1833">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The owner or driver of any motor vehicle subject to the tax imposed by the law who, upon demand, shall fail to exhibit the stamp or other indicia of payment of the tax to the Commissioner of Finance, his duly authorized agent or employee, or any police officer of this city or state, as required by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-809" destination-id="0-0-0-0">11-809</LINK>(a) of the Administrative Code, shall be guilty of a misdemeanor (punishment for which shall be a fine of not more than two hundred fifty dollars, or imprisonment for not more than thirty days, or both such fine and imprisonment.)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36117" number="43453" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Any person failing to file a certificate of registration or information registration certificate as required by the law shall be guilty of a misdemeanor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-36118" number="43454" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The Commissioner&apos;s certificate.</CHARFORMAT> The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a motor vehicle has not been registered, that a return has not been filed, or that information has not been supplied pursuant to the provisions of the law, shall be presumptive evidence thereof.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36119" number="43455" version="3">
+								<HEADING>§ 6-17 Returns To Be Secret.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4901" name="T19C006_6-17"/>§ 6-17 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Returns To Be Secret.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36120" number="43456" version="748">
+									<PARA>Except in accordance with proper judicial order, or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any other officer or employee of the City to divulge or make known in any manner any information relating to or contained in any registration, or any kind of return required by law. The officers charged with the custody of such registration and returns pertaining to the tax under the law shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the city, the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the registration, return or facts shown therein are directly involved in such action or proceeding, in either of which events, the court may require the production of, and may admit in evidence, so much said registration, return, or of the facts shown therein, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a person or his duly authorized representative of a certified copy of any registration or return filed by him; nor to prohibit the publication of statistics so classified as to prevent the identification of particular registrations and returns and the items thereof; nor to prohibit the delivery of a certified copy of any registration or return to the United States of America or any department thereof, the State of New York or any department thereof, the City of New York or any department thereof provided it is requested for official business; nor to prohibit the inspection by the Corporation Counsel or other legal representatives of the city, or by the District Attorney of any county within the city, of the registration or return of any person who shall bring action to set aside or review any tax hereunder, or against whom an action or proceeding under the law is instituted. Returns pertaining to any motor vehicle registered hereunder shall be preserved for three years and thereafter until the Commissioner of Finance permits them to be destroyed.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36121" number="43457" version="3">
+								<HEADING>§ 6-18 Notices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4903" name="T19C006_6-18"/>§ 6-18 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notices.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36122" number="43458" version="3">
+									<PARA>Any notice authorized or required by the law may be given to the person for whom it was intended by mailing it in a postpaid envelope addressed to such person at the address given in the last return or information registration certificate filed by him pursuant to the provisions of the law, or in any application or return made by him, or if no such registration or return has been filed or application made, then to such address as may be obtainable. The mailing of a notice as provided in this section shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of the law by the giving of notice shall commence to run from the date of mailing of such notice as in this section provided.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-36123" number="43459" version="3">
+								<HEADING>§ 6-19 Statute of Limitations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4905" name="T19C006_6-19"/>§ 6-19 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Statute of Limitations.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-36124" number="43460" version="748">
+									<PARA>The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the city to levy, appraise, assess, determine or enforce the collection of any tax or penalty provided by the law. However, except in the case of a willfully false or fraudulent registration or return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of filing such return; provided, however, that where no registration or no return has been made as provided by law, the tax may be assessed at any time. Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a person has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

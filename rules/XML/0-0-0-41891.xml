@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-474" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-41890" number="50922" version="1248">
+			<HEADING>Title 21: Tax Commission</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15508" name="Title 21"/>Title 21: Tax Commission</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-41891" number="50923" version="3">
+				<HEADING>Chapter 1: General</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-5771" name="T21C001"/>Chapter 1: General</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+				<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+						<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-41892" number="50924" version="3">
+									<HEADING>§ 1-01 Scope.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-5773" name="T21C001_1-01"/>§ 1-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-41893" number="50925" version="3">
+										<PARA>This title shall govern the disposition of all applications to the Tax Commission for correction of tentative real property tax assessments.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-41894" number="50926" version="3">
+									<HEADING>§ 1-02 Intent.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-5775" name="T21C001_1-02"/>§ 1-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Intent.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-41895" number="50927" version="3">
+										<PARA>This title is intended to provide the public with a system of administrative review of applications protesting tentative real property tax assessments.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-41896" number="50928" version="3">
+									<HEADING>§ 1-03 Definitions.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-5777" name="T21C001_1-03"/>§ 1-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-41897" number="50929" version="748">
+										<PARA>Unless the context requires otherwise, the definitions contained in this rule apply. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41898" number="50930" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Administrative Code.</CHARFORMAT> &quot;Administrative Code&quot; means the Administrative Code of the City of New York. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41899" number="50931" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Applicant.</CHARFORMAT> &quot;Applicant&quot; means the person or entity applying for review of an assessment who is named as the applicant on the application form as filed or amended. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41900" number="50932" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Application.</CHARFORMAT> &quot;Application&quot; means application for administrative review by the Tax Commission of a tentative real property tax assessment set by the Department of Finance. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41901" number="50933" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Business day.</CHARFORMAT> &quot;Business day&quot; means any day other than a Saturday, Sunday, or a legal holiday of the City of New York. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41902" number="50934" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Calendar page.</CHARFORMAT> &quot;Calendar page&quot; means a listing, in calendar format, of the applications filed by a group representative for which hearings will be conducted at the same time. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41903" number="50935" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Charter.</CHARFORMAT> &quot;Charter&quot; means the New York City Charter. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41904" number="50936" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Counsel.</CHARFORMAT> &quot;Counsel&quot; means the Counsel to the Tax Commission. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41905" number="50937" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Department of Finance.</CHARFORMAT> &quot;Department of Finance&quot; means the Department of Finance of the City of New York. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41906" number="50938" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Deferral of review or defer review.</CHARFORMAT> &quot;Deferral of review&quot; or &quot;defer review&quot; means that the application shall receive Tax Commission review in the year following its filing, provided there is a valid proceeding for judicial review of the assessment pending. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41907" number="50939" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Discontinuance of review or discontinue review.</CHARFORMAT> &quot;Discontinuance of review&quot; or &quot;discontinue review&quot; means the discontinuance of review of an application because of a procedural defect without reaching the merits of the claims presented, as provided in 21 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T21C004_4-03" destination-id="0-0-0-5807">4-03</LINK>. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41908" number="50940" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Emergency.</CHARFORMAT> &quot;Emergency&quot; means an unforeseeable event that prevents an applicant or representative from appearing at a hearing on an application, such as an illness of the representative, the self-represented applicant or a family member for whose care such representative or applicant is responsible, or the death of a representative&apos;s or applicant&apos;s family member. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41909" number="50941" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Form.</CHARFORMAT> &quot;Form&quot; means a form published by the Tax Commission. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41910" number="50942" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Group representative.</CHARFORMAT> &quot;Group representative&quot; means, except as otherwise provided in 21 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T21C002_2-05" destination-id="0-0-0-5789">2-05</LINK>, a person or firm who is designated as the representative on three or more applications and is assigned a group number by the Tax Commission. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41911" number="50943" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Hearing officer.</CHARFORMAT> &quot;Hearing officer&quot; means a person whom the President designates to review and determine applications. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41912" number="50944" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Net lease.</CHARFORMAT> &quot;Net lease&quot; means a lease of the entire property where, in addition to rent, the lessee is obligated to pay all property charges, such as taxes, insurance and maintenance. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41913" number="50945" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>President.</CHARFORMAT> &quot;President&quot; means the President of the Tax Commission. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41914" number="50946" version="1896">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Representative.</CHARFORMAT> &quot;Representative&quot; means the person or firm, including any individual within the firm whom the firm designates, who is designated by the applicant to appear in support of an application in accordance with 21 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T21C002" destination-id="0-0-0-5779">Chapter 2</LINK>. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41915" number="50947" version="2473">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Self-represented applicant.</CHARFORMAT> &quot;Self-represented applicant&quot; means an applicant who is representing himself or herself with respect to an application. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41916" number="50948" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Tax Commission.</CHARFORMAT> &quot;Tax Commission&quot; means the Tax Commission of the City of New York. </PARA>
+									</RECORD>
+									<RECORD id="0-0-0-41917" number="50949" version="1121">
+										<PARA>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>Tax Commission&apos;s Office.</CHARFORMAT> &quot;Tax Commission&apos;s Office&quot; means the Tax Commission&apos;s main office in Manhattan.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

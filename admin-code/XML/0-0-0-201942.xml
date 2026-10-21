@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-201942" number="40251" version="2182">
+			<HEADING>Chapter 12: Capital Project Tracking</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-28158" name="T19C012"/>Chapter 12: Capital Project Tracking</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-231714" number="40252" version="2182">
+										<HEADING>§ 19-1201 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28160" name="19-1201"/>§ 19-1201 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-231735" number="40253" version="2182">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231734" number="40254" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Benchmark.</CHARFORMAT> The term “benchmark” means a benchmark as set forth in subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-199.1" destination-id="0-0-0-19331">19-199.1</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231733" number="40255" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Benchmark project.</CHARFORMAT> The term “benchmark project” has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-199.1" destination-id="0-0-0-19331">19-199.1</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231732" number="40256" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department capital project.</CHARFORMAT> The term “department capital project” has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-199.1" destination-id="0-0-0-19331">19-199.1</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231731" number="40257" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Major transportation project.</CHARFORMAT> The term “major transportation project” has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-101.2" destination-id="0-0-0-7397">19-101.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231730" number="40258" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-benchmark project.</CHARFORMAT> The term “non-benchmark project” means a department capital project that is not a benchmark project. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231749" number="40259" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project liaison.</CHARFORMAT> The term “project liaison” means a department email address or email address for the department of design and construction that a person may contact with questions about the status of a department capital project and to receive updates regarding such a project. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231729" number="40260" version="2182">
+											<PARA>(L.L. 2025/062, 5/10/2025, eff. 11/6/2026; Am. L.L. 2025/066, 5/10/2025, eff. 11/6/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-231715" number="40261" version="2182">
+										<HEADING>§ 19-1202 Benchmark and non-benchmark project tracking.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28162" name="19-1202"/>§ 19-1202 Benchmark and non-benchmark project tracking.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-231728" number="40262" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For each benchmark project, the department shall post on its website, and update three times per year, except where indicated otherwise, at least the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231727" number="40263" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A description of the benchmark project, including its location, indicating a street address if applicable, community district, and borough, and a finalized design of such benchmark project developed by or on behalf of the department if one exists, unless the commissioner determines that including such design may be a security risk; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231726" number="40264" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The benchmark that the benchmark project would contribute towards achieving, and the progress such benchmark project is expected to contribute towards such benchmark; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231725" number="40265" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The agency responsible for the benchmark project and the project liaison; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231724" number="40266" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>For a benchmark project that is a major transportation project, a link to the street design checklist required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-182.2" destination-id="0-0-0-19227">19-182.2</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231723" number="40267" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The actual or estimated start date and completion date, if any, of each phase of the benchmark project, and a visual or numerical representation of the amount of work completed on such benchmark project compared against the total amount of work required to complete such benchmark project; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231722" number="40268" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Updated each month, the current status of the benchmark project, including but not limited to whether such benchmark project is in the design, procurement, or construction phase, and, for the construction phase, the percent complete as indicated by the amount of money spent; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231721" number="40269" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>A description of any phase of the benchmark project that is delayed and the reason for such delay; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231720" number="40270" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>If commencement of the benchmark project requires presentation to a community board, the date of the presentation, if available, and a copy of any materials presented to such community board after such presentation is made; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231719" number="40271" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>Information about the funding for the benchmark project including identification of whether the funding comes from a city or non-city source, the total amount of funds allocated to such benchmark project or, when applicable, a range of the amount of funds available for such benchmark project, and the amount of funds already expended; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231718" number="40272" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>Publicly available information about contractors or other vendors providing services on the benchmark project, and on all procurements and contracts associated with such project, or a link to a website where such publicly available information may be found; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231717" number="40273" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>11.<TAB tab-count="1"/>Any actual cost overruns for each phase of the benchmark project, and the reason for such cost overrun. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231713" number="40274" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>For each non-benchmark project, the department shall post on its website, and update three times per year, at least the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231748" number="40275" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A description of the non-benchmark project, including its location, indicating a street address if applicable, community district, and borough, and a finalized design of such non-benchmark project developed by or on behalf of the department if one exists, unless the commissioner determines that including such design may be a security risk; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231747" number="40276" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The agency responsible for the non-benchmark project and the project liaison; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231746" number="40277" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>For a non-benchmark project that is a major transportation project, a link to the street design checklist required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="19-182.2" destination-id="0-0-0-19227">19-182.2</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231745" number="40278" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The actual or estimated start date and completion date, if any, of each phase of the non-benchmark project, and a visual or numerical representation of the amount of work completed on such non-benchmark project compared against the total amount of work required to complete such non-benchmark project; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231744" number="40279" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The current status of the non-benchmark project, including but not limited to whether such non-benchmark project is in the design, procurement, or construction phase, and, for the construction phase, the percent complete as indicated by the amount of money spent; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231743" number="40280" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>A description of any phase of the non-benchmark project that is delayed and the reason for such delay; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231742" number="40281" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>If commencement of the non-benchmark project requires presentation to a community board, the date of the presentation, if available, and a copy of any materials presented to such community board after such presentation is made; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231741" number="40282" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Information about the funding for the non-benchmark project including identification of whether the funding comes from a city or non-city source, the total amount of funds allocated to such non-benchmark project or, when applicable, a range of the amount of funds available for such non-benchmark project, and the amount of funds already expended; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231740" number="40283" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>Publicly available information about contractors or other vendors providing services on the non-benchmark project, and on all procurements and contracts associated with such project, or a link to a website where such publicly available information may be found; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231739" number="40284" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>Any actual cost overruns for each phase of the non-benchmark project, and the reason for such cost overrun. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231737" number="40285" version="2196">
+											<PARA>(L.L. 2025/062, 5/10/2025, eff. 11/6/2026; Am. L.L. 2025/066, 5/10/2025, eff. 11/6/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

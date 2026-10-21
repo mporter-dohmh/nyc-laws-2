@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-116171" number="10165" version="1475">
+			<HEADING>Chapter 10: Fire Extinguishing Systems and Appliances*</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1356" name="T02C010"/>Chapter 10: Fire Extinguishing Systems and Appliances*</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-116137" number="10166" version="2478">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-20">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">* Editor&apos;s note:</CHARFORMAT> Chapters 3 through 26 were reorganized and recodified (see <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="https://www1.nyc.gov/assets/dcas/downloads/pdf/cityrecord/cityrecord-04-04-19.pdf">City Record 4/4/2019, eff. 5/5/2019</LINK>). See 2 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02C005_5-01" destination-id="0-0-0-1330">5-01</LINK> for a cross-reference table of rules repealed, renumbered and transferred. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-037]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-39649" number="51452" version="3">
+			<HEADING>Chapter 4: Foreign Trade Zones</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10047" name="T22C004"/>Chapter 4: Foreign Trade Zones</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-39650" number="51453" version="3">
+										<HEADING>§ 22-401 Foreign-trade zones. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10049" name="22-401"/>§ 22-401 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Foreign-trade zones. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-39651" number="51454" version="3">
+											<PARA>The city is hereby authorized from time to time to make application to the board established by the act of congress, approved June eighteenth, nineteen hundred thirty-four, entitled &quot;An act to provide for the establishment, operation and maintenance of foreign-trade zones in ports of entry of the United States, to expedite and encourage foreign commerce, and for other purposes,&quot; for a grant or grants or any extensions thereof to such city of the privilege of establishing, operating and maintaining a foreign-trade zone or zones or any extensions thereof in such city, pursuant to the provisions of such act, and if any such application be granted, to accept such grant or grants or any extensions thereof and to establish, operate and maintain any such zone or extension thereof in accordance with law. The authorization hereby granted shall extend to and cover any application heretofore made for any such purpose by the city pursuant to the act of congress hereinbefore described, and to any amendment of such an application.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

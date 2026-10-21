@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-127155" number="67305" version="1783">
+			<HEADING>Chapter 38: Campaign Finance Act Implementation</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-8105" name="T28C038"/>Chapter 38: Campaign Finance Act Implementation</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-58816" number="67306" version="3">
+								<HEADING>§ 38-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-8107" name="T28C038_38-01"/>§ 38-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-58817" number="67307" version="3">
+									<PARA>As used in this chapter, the following terms shall have the following meaning:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58818" number="67308" version="1866">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Act.</CHARFORMAT> &quot;Act&quot; shall mean the New York City Campaign Finance Act, §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-701" destination-id="0-0-0-0">3-701</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-720" destination-id="0-0-0-0">3-720</LINK> of the New York City Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58819" number="67309" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">BCL.</CHARFORMAT> &quot;BCL&quot; shall mean the Business Corporation Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58820" number="67310" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City.</CHARFORMAT> &quot;City&quot; shall mean the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58821" number="67311" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Discretionary Tax Benefit.</CHARFORMAT> &quot;Discretionary Tax Benefit&quot; shall mean an exemption from or abatement of real property taxation approved by the City Council, including, but not limited to, any such exemption or abatement pursuant to PHFL Articles II, V, and XI, GML Article 16, or RPTL § 422.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58822" number="67312" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">EDC.</CHARFORMAT> &quot;EDC&quot; shall mean the New York City Economic Development Corporation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58823" number="67313" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">GML.</CHARFORMAT> &quot;GML&quot; shall mean the General Municipal Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58824" number="67314" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HDC.</CHARFORMAT> &quot;HDC&quot; shall mean the New York City Housing Development Corporation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58825" number="67315" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HPD.</CHARFORMAT> &quot;HPD&quot; shall mean the City&apos;s Department of Housing Preservation and Development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58826" number="67316" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">PHFL.</CHARFORMAT> &quot;PHFL&quot; shall mean the Private Housing Finance Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58827" number="67317" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">RPTL.</CHARFORMAT> &quot;RPTL&quot; shall mean the Real Property Tax Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58828" number="67318" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">UDAAP.</CHARFORMAT> &quot;UDAAP&quot; shall mean Article 16 of the General Municipal Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58829" number="67319" version="1745">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ULURP.</CHARFORMAT> &quot;ULURP&quot; shall mean the Uniform Land Use Review Procedure set forth in Sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-c" destination-id="0-0-0-0">197-c</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-d" destination-id="0-0-0-0">197-d</LINK> of the Charter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58830" number="67320" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Urban Renewal Law.</CHARFORMAT> &quot;Urban Renewal Law&quot; shall mean Article 15 of the General Municipal Law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58831" number="67321" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(n)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Zoning Resolution.</CHARFORMAT> &quot;Zoning Resolution&quot; shall mean the New York City Zoning Resolution.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-58832" number="67322" version="3">
+								<HEADING>§ 38-02 [Actions, Transactions and Agreements for Providing Affordable Housing Which Constitute &quot;Business Dealings with the City&quot;.]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-8109" name="T28C038_38-02"/>§ 38-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">[Actions, Transactions and Agreements for Providing Affordable Housing Which Constitute &quot;Business Dealings with the City&quot;.]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-58833" number="67323" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Except as otherwise provided in the Act and 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C038_38-03" destination-id="0-0-0-8111">38-03</LINK>, actions, transactions and agreements for providing affordable housing shall constitute &quot;business dealings with the city&quot; for purposes of the Act where any such action, transaction or agreement involves:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58834" number="67324" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the disposition of City-owned real property; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58835" number="67325" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a loan or grant by HPD or HDC, except as otherwise provided in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C038_38-03" destination-id="0-0-0-8111">38-03</LINK>; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58836" number="67326" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>any Discretionary Tax Benefit; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58837" number="67327" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>any discretionary approval following a public hearing by either the City Council or the Office of the Mayor, including, but not limited to, any approval pursuant to ULURP, UDAAP, the Urban Renewal Law, the PHFL or the Zoning Resolution; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58838" number="67328" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the allocation of federal low income housing tax credits by HPD pursuant to Internal Revenue Code § 42; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58839" number="67329" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the execution of an agreement with HPD regarding the creation of inclusionary housing in accordance with any applicable provision of the Zoning Resolution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58840" number="67330" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The actions, transactions or agreements set forth in subdivision a of this section shall only constitute business dealings with the City during the following periods:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58841" number="67331" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>For an action, transaction or agreement that involves the disposition of City-owned real property, the period commencing on the date that the proposed sponsor submits or makes a proposal to HPD, HDC or EDC to acquire such property and ending as provided in paragraph b of subdivision 18 of § 3-702 of the Act.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58842" number="67332" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>For an action, transaction or agreement that involves a loan or grant by HPD or HDC, the period commencing on the date that the proposed sponsor makes or submits an application or proposal to HPD or HDC for such loan or grant and ending one year after the date of construction completion or the final advance or disbursement of funds pursuant to such loan or grant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58843" number="67333" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>For an action, transaction or agreement that involves a Discretionary Tax Benefit, the period commencing with the submission of an application for such exemption or abatement and ending one year after the date of approval of such exemption or abatement by the City Council.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58844" number="67334" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>For an action, transaction or agreement that requires any discretionary approval following a public hearing by either the City Council or the Office of the Mayor, including, but not limited to, any approval pursuant to ULURP, UDAAP, the Urban Renewal Law, the PHFL or the Zoning Resolution, but not including the approval of a Discretionary Tax Benefit by the City Council, the period commencing with negotiations and ending as provided in paragraph b of subdivision 18 of § 3-702 of the Act, where applicable, or 120 days after approval by the City Council or the Office of the Mayor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58845" number="67335" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>For an action, transaction or agreement that involves the allocation of federal low income housing tax credits by HPD, the period commencing with the submission of an application for such tax credits to HPD and ending one year after the date of issuance by HPD of the Low Income Housing Credit Allocation and Certification form to the applicant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58846" number="67336" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>For an action, transaction or agreement that involves the execution of an agreement with HPD regarding the creation of inclusionary housing in accordance with any applicable provision of the Zoning Resolution, the period commencing with the submission of an application to HPD for such agreement, and ending one year after the date of execution by HPD of a certificate of completion for the inclusionary housing dwelling units.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58847" number="67337" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>For an action, transaction or agreement that involves more than one of the actions, transactions and agreements set forth in subparagraphs one through six of this subdivision, the period commencing on the earliest date provided in such subparagraphs and ending on the latest date provided in such subparagraphs.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58848" number="67338" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Notwithstanding anything to the contrary contained herein, for any proposed action or transaction that HPD determines will not be consummated or for any proposed agreement that HPD determines will not be executed, the end date shall be one year after the date upon which HPD notifies the Office of the Mayor of such determination.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-58850" number="67339" version="2306">
+								<HEADING>§ 38-03 [Actions, Transactions and Agreements for Providing Affordable Housing Which Do Not Constitute &quot;Business Dealings with the City&quot;.]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-8111" name="T28C038_38-03"/>§ 38-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">[Actions, Transactions and Agreements for Providing Affordable Housing Which Do Not Constitute &quot;Business Dealings with the City&quot;.]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-58851" number="67340" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Notwithstanding any other provision of these rules to the contrary, actions, transactions and agreements for providing affordable housing shall not constitute &quot;business dealings with the city&quot; as defined in subdivision 18 of § 3-702 of the Act where any such action, transaction or agreement:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58852" number="67341" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>is entered into with a housing development fund company that is formed as a cooperative corporation pursuant to PHFL Article XI and the Business Corporation Law, including any discretionary tax benefit granted to such company; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58853" number="67342" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>is entered into with a limited profit housing company formed pursuant to PHFL Article II that is organized and operated as a mutual company; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58854" number="67343" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>involves solely a mortgage modification; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58855" number="67344" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>involves solely the subordination, satisfaction, or assignment of a mortgage; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58856" number="67345" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>relates to approval of a certificate of incorporation for a housing development fund company; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58857" number="67346" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>involves solely a license agreement or lease for use of City-owned property for nominal consideration or no consideration; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58858" number="67347" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>is entered into by an individual or family in connection with the purchase of a one- to four-unit home, a condominium dwelling unit, or the shares attributable to a cooperative dwelling unit under a housing program administered by HPD; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58859" number="67348" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>involves a loan pursuant to PHFL § 8-b; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58860" number="67349" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>involves a loan or grant the sole purpose of which is the remediation of lead-based paint hazards; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58861" number="67350" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>involves exemption or abatement of real property taxes pursuant to RPTL §§ 420-a, 420-c, 421-a, 421-b, 488-a, or 489; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58862" number="67351" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>involves a change in ownership of property that is the subject of an action, transaction or agreement for providing affordable housing and that constituted &quot;business dealings with the city&quot; pursuant to subdivision a of 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C038_38-02" destination-id="0-0-0-8109">38-02</LINK>; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58863" number="67352" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(12)<TAB tab-count="1"/>involves an approval or consent granted pursuant to the provisions of an agreement with HPD, EDC or HDC providing for such approval or consent; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58864" number="67353" version="1866">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(13)<TAB tab-count="1"/>involves the conveyance of property pursuant to New York City Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-412.1" destination-id="0-0-0-0">11-412.1</LINK>; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58865" number="67354" version="1866">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(14)<TAB tab-count="1"/>involves provision of relocation services pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-301" destination-id="0-0-0-0">26-301</LINK> or the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. §§ 4601 et seq.); or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58866" number="67355" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(15)<TAB tab-count="1"/>is entered into for the purpose of settlement of litigation to which the City of New York, HDC, or EDC is a party; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58867" number="67356" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(16)<TAB tab-count="1"/>is entered into by an individual or entity as a grantee or borrower of Community Development Block Grant Disaster Recovery funds in connection with the rehabilitation, construction, repair, or improvement of housing; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-58868" number="67357" version="1166">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(17)<TAB tab-count="1"/>is not listed in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C038_38-02" destination-id="0-0-0-8109">38-02</LINK>.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

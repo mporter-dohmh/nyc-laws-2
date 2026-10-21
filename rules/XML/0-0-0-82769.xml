@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-474" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-150255" number="97478" version="2863">
+			<HEADING>Title 44: Comptroller</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15540" name="Title 44"/>Title 44: Comptroller</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-82769" number="97479" version="3">
+				<HEADING>Chapter 1: Bond Transfers</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-11077" name="T44C001"/>Chapter 1: Bond Transfers</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+				<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+						<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-82770" number="97480" version="3">
+									<HEADING>§ 1-01 Issuance of New Bond.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-11079" name="T44C001_1-01"/>§ 1-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Issuance of New Bond.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-82771" number="97481" version="3">
+										<PARA>Upon registration of the transfer of a registered bond, the transferee may be provided with a new bond.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-82772" number="97482" version="3">
+									<HEADING>§ 1-02 Form of New Bond.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-11081" name="T44C001_1-02"/>§ 1-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Form of New Bond.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-82773" number="97483" version="3">
+										<PARA>The new bond shall be of substantially the same form and tenor as the bond presented, except as provided below.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-82774" number="97484" version="3">
+									<HEADING>§ 1-03 Signing and Attesting of New Bond.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-11083" name="T44C001_1-03"/>§ 1-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Signing and Attesting of New Bond.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-82775" number="97485" version="3">
+										<PARA>The new bond shall be signed and attested, either:</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-82776" number="97486" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>by manual or facsimile signature by the appropriate persons in office at the time of delivery to the transferee, or</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-82777" number="97487" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>by facsimile signature of the appropriate persons in office at the time of issuance, provided, however, that in the event the new bond is not authenticated by the fiscal agent, as defined in or designated pursuant to § 70.00 of the New York Local Finance Law, as the case may be, it shall be attested by the manual signature of the City Clerk, or the deputy of the City Clerk, in office at the time of delivery to the transferee.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-82778" number="97488" version="3">
+									<HEADING>§ 1-04 Execution and Authentication of New Bond.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-11085" name="T44C001_1-04"/>§ 1-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Execution and Authentication of New Bond.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-82779" number="97489" version="3">
+										<PARA>The new bond shall be executed as of the date of the bond presented and shall be authenticated as of the date of delivery of the new bond.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-82780" number="97490" version="3">
+									<HEADING>§ 1-05 Destruction of Old Bond.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-11087" name="T44C001_1-05"/>§ 1-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Destruction of Old Bond.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-82781" number="97491" version="3">
+										<PARA>The bond presented shall be destroyed in such manner as is set forth in any agreement between the City and its fiscal agent and a certificate of destruction shall be prepared as set forth in such agreement.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-82782" number="97492" version="3">
+									<HEADING>§ 1-06 Effectiveness.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-11089" name="T44C001_1-06"/>§ 1-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effectiveness.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-82783" number="97493" version="2491">
+										<PARA>These Rules and Regulations shall be effective immediately; provided, however, that neither delivery of new bonds prior to the effective date hereof nor the application of procedures inconsistent with the requirements of these Rules and Regulations shall affect the validity of new bonds.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

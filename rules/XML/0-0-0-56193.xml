@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-56193" number="64800" version="1960">
+			<HEADING>Chapter 15: Self-Inspection of Central Heating Plants</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7663" name="T28C015"/>Chapter 15: Self-Inspection of Central Heating Plants</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-56194" number="64801" version="3">
+								<HEADING>§ 15-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7665" name="T28C015_15-01"/>§ 15-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-56195" number="64802" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Central heating plant.</CHARFORMAT> The term &quot;central heating plant&quot; as used in this chapter shall include all portions of a central heating or hot water system that are located within the public parts of a building.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56196" number="64803" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualified persons.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56197" number="64804" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Plumber licensed by the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56198" number="64805" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Oil burner installer licensed by the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56199" number="64806" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>High pressure boiler operating engineer licensed by the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56200" number="64807" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Portable high pressure boiler operating engineer licensed by the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56201" number="64808" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Boiler inspector holding a certificate of competence from the New York State Department of Labor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56202" number="64809" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Certified employee of a public utility.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56203" number="64810" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Energy auditor certified as oil burner or system replacement auditor qualified by the oil heating institutes of New York in accordance with training qualifications set by the Public Service Commission for purposes of the Home Insulation and Energy Act.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56204" number="64811" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Employee of the owner holding a certificate of fitness for pre-heated oil burners issued by the Fire Department of the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56205" number="64812" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Employee of Department of Housing Preservation and Development&apos;s Office of Energy Conservation holding a certificate of competence issued by the Assistant Commissioner of that office and engaged by the owner of the premises to conduct self-inspection.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-56206" number="64813" version="3">
+								<HEADING>§ 15-02 Form of Report.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7667" name="T28C015_15-02"/>§ 15-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Form of Report.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-56207" number="64814" version="3">
+									<PARA>The report shall be filed on forms to be prescribed by the department.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-56208" number="64815" version="3">
+								<HEADING>§ 15-03 Preliminary Certifications.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7669" name="T28C015_15-03"/>§ 15-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Preliminary Certifications.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-56209" number="64816" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The report shall be submitted with a certification by the person preparing the report that such person is qualified pursuant to this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56210" number="64817" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If the person preparing the report is an employee of a public utility, the report shall contain a certification by a supervisor of the employee that the utility has determined the employee is competent to perform the required tests and inspections.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56211" number="64818" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If a license or certificate holder is assisted in preparing the report by an employee, the license or certificate holder shall certify that such employee, is competent to perform the assigned tasks and indicate which tasks were performed by such employees.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56212" number="64819" version="1862">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Notwithstanding the foregoing, inspections by Building Department personnel or by a duly authorized insurance company in conformance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-793" destination-id="0-0-0-0">27-793</LINK> of the Administrative Code shall be acceptable in lieu of the self-inspection by a qualified person as defined in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C015_15-01" destination-id="0-0-0-7665">15-01</LINK> &quot;qualified persons&quot; provided the owner certifies as to the existence of such an inspection.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-56213" number="64820" version="3">
+								<HEADING>§ 15-04 Certification by the Owner.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7671" name="T28C015_15-04"/>§ 15-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certification by the Owner.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-56214" number="64821" version="3">
+									<PARA>Such report shall be submitted with a certification by the owner that the person preparing the report is qualified under the terms of this chapter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-56215" number="64822" version="3">
+								<HEADING>§ 15-05 Certification by the Department.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7673" name="T28C015_15-05"/>§ 15-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certification by the Department.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-56216" number="64823" version="3">
+									<PARA>Upon the filing of a certified report of an inspection of a central heating plant, an employee of the department shall inspect such report and, if the report has been prepared by a qualified person under the terms of this chapter and the required certifications have been submitted, he or she shall prepare and file among the department&apos;s records a certificate stating that the report was prepared by a qualified person, unless the department determines that the person preparing the report is not in fact a qualified person under the terms of these regulations.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-56217" number="64824" version="3">
+								<HEADING>§ 15-06 Administrative Procedures.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7675" name="T28C015_15-06"/>§ 15-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administrative Procedures.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-56218" number="64825" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Unless a postponement is granted in the manner provided below such certified report is required to be filed on or before October 15th of each year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56219" number="64826" version="1862">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>On or before October 15th an owner may request an extension of the time to file a report and to correct any defects disclosed in the report. Such application must be verified and must set forth an acceptable explanation for the applicant&apos;s inability to file or correct by October 15th. The department shall treat such application in the same manner as an application for a postponement made pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2117" destination-id="0-0-0-0">27-2117</LINK>(a) of the Housing Maintenance Code. The department shall not grant a postponement requested after October 15th.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56220" number="64827" version="1163">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>After the date on which the report is required to be filed and until the date set forth on the notice of violation as the date by which the violation must be corrected, the owner may file the report and the department shall deem the violation corrected on the date that an employee of the department certified the report in the manner provided in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C015_15-05" destination-id="0-0-0-7673">15-05</LINK>. Notwithstanding the foregoing, the department shall maintain the violation of its records with a notation of the date of the report&apos;s certification by the department, until the May 31st following the year in which the report was to be filed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-56221" number="64828" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>After the date set forth on the notice of violation as the date by which the violation must be corrected, the owner may file such report and the department shall enter a notation in its records of the date on which such report was certified by the department. After the date of certification by the department, the per diem penalty shall be stayed. The department shall maintain the violation on its records, with a notation of the date of the report&apos;s certification by the department, until May 31st following the year in which the report was to be filed.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

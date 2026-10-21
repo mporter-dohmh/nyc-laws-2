@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-129371" number="71665" version="2026">
+			<HEADING>Chapter 5: The Special One Time Assistance (SOTA) Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-17164" name="T31C005"/>Chapter 5: The Special One Time Assistance (SOTA) Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129484" number="71666" version="2026">
+								<HEADING>§ 5-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17166" name="T31C005_5-01"/>§ 5-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129501" number="71667" version="2026">
+									<PARA>For the purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129500" number="71668" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner</CHARFORMAT>&quot; means the Commissioner of the New York City Department of Social Services or the Commissioner&apos;s designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129499" number="71669" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHS</CHARFORMAT>&quot; means the New York City Department of Homeless Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129498" number="71670" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHS family shelter</CHARFORMAT>&quot; is a shelter for families with children or adult families operated by or on behalf of the DHS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129497" number="71671" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHS single adult shelter</CHARFORMAT>&quot; means a shelter for single adults operated by or on behalf of DHS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129496" number="71672" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DSS</CHARFORMAT>&quot; means the New York City Department of Social Services, which includes both DHS and the New York City Human Resources Administration. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129495" number="71673" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Gross income</CHARFORMAT>&quot; means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through the New York City Department of Youth and Community Development&apos;s Summer Youth Employment Program; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household&apos;s gross income. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129494" number="71674" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">shelter household</CHARFORMAT>&quot; means the individual or individuals who resided in shelter who intend to reside or do reside together in the SOTA unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129493" number="71675" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>The &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">household</CHARFORMAT>&quot; means the shelter household and any additional individuals who intend to reside with the shelter household in the SOTA unit if they are the spouse, domestic partner or dependent child of any member of the shelter household or the parent or step-parent of any member of the shelter household under the age of 21. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129492" number="71676" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HRA</CHARFORMAT>&quot; means the New York City Human Resources Administration. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129491" number="71677" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">PA</CHARFORMAT>&quot; means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129490" number="71678" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">program participant</CHARFORMAT>&quot; means an individual member of the household who has entered into a lease for a SOTA unit on behalf of the household and has not been terminated from the program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129489" number="71679" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">SOTA grant</CHARFORMAT>&quot; means the payments made by HRA pursuant to 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-03" destination-id="0-0-0-17168">5-03</LINK>(c). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129488" number="71680" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">SOTA unit</CHARFORMAT>&quot; is a residential unit to which SOTA payments are being applied pursuant to this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129487" number="71681" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(n)<TAB tab-count="1"/>The &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Special One-Time Assistance Program</CHARFORMAT>&quot; or the &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">SOTA Program</CHARFORMAT>&quot; means the program established pursuant to this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129486" number="71682" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129509" number="71683" version="2026">
+								<HEADING>§ 5-02 In General.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17170" name="T31C005_5-02"/>§ 5-02 In General.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129485" number="71684" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Special One Time Assistance (SOTA) program provides one year of monthly rent payments to enable eligible residents of New York City Department of Homeless Services (DHS) shelters to move to permanent residences within or outside of New York City. Available only to households with income, the program is designed to help put program participants in a position where they can be self-sufficient following the year covered by the SOTA grant. As such, it is a one-time grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129483" number="71685" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>DHS shall administer the SOTA Program, except that the account from which SOTA payments will be made will be established by HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129482" number="71686" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129508" number="71687" version="2026">
+								<HEADING>§ 5-03 Eligibility and Payments.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17168" name="T31C005_5-03"/>§ 5-03 Eligibility and Payments.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129481" number="71688" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>To be eligible for SOTA, a household must meet the following requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129480" number="71689" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The shelter household must reside in DHS shelter and have a qualifying shelter stay, except as provided in subdivision (d) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129479" number="71690" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the household must not include the perpetrator of the domestic violence that resulted in such determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129478" number="71691" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>If the shelter household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129477" number="71692" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The household must have a lease or an agreement to rent for at least one year a residence they have selected that meets the requirements set forth in 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-04" destination-id="0-0-0-17172">5-04</LINK>, including the requirement that the total rent for the unit or the household&apos;s proportionate share, as applicable, not exceed forty percent of the household&apos;s income. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129476" number="71693" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The household must not have previously had SOTA payments paid on its behalf, except as provided in subdivision (d) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129475" number="71694" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The household must: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129474" number="71695" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>provide accurate, complete and current information on income and household composition; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129473" number="71696" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>provide supporting documentation as necessary to verify eligibility; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129472" number="71697" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>agree to have its SOTA grant paid directly to the landlord; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129471" number="71698" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>agree to the household requirements set forth in section 5-05 of this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129470" number="71699" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The household&apos;s income must not exceed eighty percent of the New York City area median income for the household&apos;s size as established by the United States Department of Housing and Urban Development. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129469" number="71700" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Qualifying Shelter Stay and Limitations.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129468" number="71701" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Qualifying Shelter Stay.</CHARFORMAT> A shelter household in a DHS family shelter will have a qualifying shelter stay for purposes of 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-03" destination-id="0-0-0-17168">5-03</LINK>(a)(1) of this chapter if the shelter household has resided in a DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. An individual in a DHS single adult shelter will have a qualifying shelter stay for purposes of 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-03" destination-id="0-0-0-17168">5-03</LINK>(a)(1) if the individual has resided in a DHS shelter for at least 90 of the last 365 days. Once a household has a qualifying shelter stay, it will not lose its qualifying shelter stay by moving from one type of shelter to another. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129467" number="71702" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Changes to Qualifying Shelter Stay.</CHARFORMAT> The Commissioner may change what constitutes a qualifying shelter stay for purposes of paragraph (1) of this subdivision, upon on an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129466" number="71703" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Households must submit an application on a form and in a format established by DHS. Subject to the availability of funding, if the household meets the requirements of this section and the landlord and residence selected by the household satisfy the requirements of this chapter, DHS shall approve the household&apos;s application and refer the case to HRA to establish an account from which monthly payments will be made directly to the landlord for a period of one year, provided the household continues to reside in the SOTA unit and subject to the withholding procedures set forth in 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-07" destination-id="0-0-0-17178">5-07</LINK>. If the total monthly rent for the SOTA unit does not exceed forty percent of the household&apos;s income, the monthly payments will be equal to the total monthly rent for the SOTA unit minus any contributions from third parties. If the requirements of 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-04" destination-id="0-0-0-17172">5-04</LINK>(b) are satisfied and the total monthly rent for the SOTA unit exceeds forty percent of the household&apos;s income, the monthly payments will be equal to the household&apos;s proportionate share as described in that subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129465" number="71704" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>In extraordinary circumstances, DHS may, in its discretion, approve a second SOTA grant on behalf of a household where, for reasons outside the household&apos;s control, the household has already returned to, or is at risk of returning to, DHS shelter within six months of payment of the first SOTA grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129464" number="71705" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129507" number="71706" version="2026">
+								<HEADING>§ 5-04 The SOTA Unit.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17172" name="T31C005_5-04"/>§ 5-04 The SOTA Unit.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129463" number="71707" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A SOTA application will not be approved pursuant to subdivision (c) of 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-03" destination-id="0-0-0-17168">5-03</LINK>(a), unless the residence to which SOTA payments will be applied meets the following requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129462" number="71708" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The residence must be within one of the 50 states of the United States of America, the District of Columbia or one of the territories of the United States. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129461" number="71709" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The rent for the residence must be reasonable in comparison to other comparable units in the area where the unit is located. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129460" number="71710" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Except as provided in subdivision (b) of this section, the rent for the residence must not exceed forty percent of the household&apos;s gross income. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129459" number="71711" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>If the lease is for an individual room in an apartment or in a single-family dwelling in New York City, the rent cannot exceed the lesser of forty percent of the household&apos;s gross income or $800. The residence cannot be an individual room in an apartment or other dwelling, except in New York City. Room rentals will only be approved for households consisting of one or two adults with no children and will not be approved where the room is in a rent-stabilized or rent-controlled unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129458" number="71712" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The rent for the residence may exceed forty percent of the household&apos;s gross income only if the household&apos;s proportionate share of the rent does not exceed forty percent of the household&apos;s gross income and there is an additional individual on the lease whose proportionate share of the rent does not exceed forty percent of such individual&apos;s gross income. For purposes of this subdivision, the household&apos;s proportionate share of the rent shall be half of the rent if there is one additional individual on the lease whose income is being used to enable the household to move into a unit with a rent that is higher than would otherwise be permitted. If there is more than one such additional individual, the household&apos;s proportionate share will be determined on a case by case basis, considering such factors as household composition and number of bedrooms intended to be used primarily by the household. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129457" number="71713" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If the residence is in New York City, in the New York State counties of Nassau, Rockland, Suffolk or Westchester, or in the New Jersey counties of Bergen, Essex, Hudson, Middlesex, Passaic or Union, the residence must meet a safety and habitability assessment. If the residence is in New York City, such assessment will be the same assessment that is used in the CityFHEPS program under 68 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C010" destination-id="0-0-0-15406">Chapter 10</LINK>. If the residence is in one of the other counties listed in this subparagraph, the assessment will be substantially similar to the assessment that is used in the CityFHEPS program. Regardless of the location of the residence, the landlord must comply with all applicable Building and Housing Code standards and ensure that the SOTA unit is habitable at the time of rental and during the year covered by the SOTA grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129456" number="71714" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129506" number="71715" version="2026">
+								<HEADING>§ 5-05 Household Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17174" name="T31C005_5-05"/>§ 5-05 Household Requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129455" number="71716" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>During the year that is covered by the SOTA grant: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129454" number="71717" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The program participant must notify DSS immediately if the household plans to move out of the SOTA unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129453" number="71718" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The program participant must promptly notify DSS if they are served with eviction papers. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129452" number="71719" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The program participant must promptly notify DSS if they learn that the landlord or the person to whom rent should be sent changes. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129451" number="71720" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The household must make best efforts to maintain the actual or projected income that they reported to DHS at the time they were approved for SOTA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129450" number="71721" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The household must file for all work supports for which it is entitled. These may include public benefits and tax credits, such as the Earned Income Tax Credit (EITC), the Child Tax Credit (CTC) and the Child Care Tax Credit (CCTC). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129449" number="71722" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The household must seek all appropriate services as necessary to preserve their tenancy, including, but not limited to, job placement, landlord-tenant mediation, financial counseling and anti-eviction services. If the household is in New York City, it can receive assistance or referrals for these services from their designated service provider or local Homebase office. If the household is outside of New York City, it can receive referrals for services from a hotline operated by DSS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129448" number="71723" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The program participant must notify the landlord in writing if the landlord fails to properly maintain or make necessary repairs to the SOTA unit. If the problem persists, and the program participant would like their rent to be withheld pursuant to 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-07" destination-id="0-0-0-17178">5-07</LINK>, they must notify HRA and provide documentation of the problem and their notification to the landlord. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129446" number="71724" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the household must not include the perpetrator of the domestic violence that resulted in such determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129445" number="71725" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The household must not sublet the SOTA unit or assign their rights to the unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129444" number="71726" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>The household must otherwise cooperate with DSS in its administration of the SOTA program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129443" number="71727" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>At the end of the year covered by the SOTA grant, the household will be responsible for paying their own rent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129442" number="71728" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129505" number="71729" version="2026">
+								<HEADING>§ 5-06 Landlord Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17176" name="T31C005_5-06"/>§ 5-06 Landlord Requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129441" number="71730" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Landlords participating in the SOTA program are subject to the following requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129440" number="71731" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The landlord must accept the HRA security voucher in lieu of a cash security deposit and not request any additional security from the household; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129439" number="71732" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The landlord must not demand, request, or receive any amount above the rent or reasonable fees stipulated in the lease during the year that is covered by the SOTA grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129438" number="71733" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The landlord must deem SOTA payments that are issued by the last day of the month as timely payments towards the SOTA unit&apos;s rent for that month, regardless of any provisions in the lease to the contrary. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129436" number="71734" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>During the year covered by the SOTA grant, the landlord must not move a household from the SOTA unit to another residence without prior written approval from both DSS and the household. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129435" number="71735" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>During the year covered by the SOTA grant, the landlord must notify DSS within 5 business days of learning that the household no longer resides in the SOTA unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129434" number="71736" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>During the year covered by the SOTA grant, the landlord must notify DSS within 5 business days if any legal proceeding affecting the household&apos;s tenancy is commenced; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129433" number="71737" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>During year covered by the SOTA grant, the landlord must notify DSS as soon as reasonably practicable if ownership or management of the SOTA unit is changing; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129432" number="71738" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The landlord must return any payments from the SOTA Program to DSS for any period that the household was not residing in the SOTA unit; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129431" number="71739" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The landlord must promptly report and return to DSS any overpayments of rent, including, but not limited to overpayments caused by inaccurate information provided to DSS, or changes in ownership, payee, or management. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129430" number="71740" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>The landlord must notify DSS within 5 business days of learning that the household has permanently left or plans to permanently leave the SOTA unit during the year covered by the SOTA grant and return any payments from HRA for any period of time the household was not residing in the unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129429" number="71741" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>Landlords must comply with all applicable Building and Housing Code standards and ensure that the SOTA unit is habitable at the time of rental and during the year covered by the SOTA grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129428" number="71742" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(12)<TAB tab-count="1"/>If the SOTA unit is an individual room in an apartment or single family dwelling in New York City, utilities must be included in the rent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129427" number="71743" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(13)<TAB tab-count="1"/>The landlord of the unit may not be the spouse, domestic partner, parent, child, step-parent, step-child, grandparent, grandchild, step-parent, stepchild, sister or brother, step-brother or step-sister of any member of the household. This requirement may be waived for good cause. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129426" number="71744" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Prior to approval of a SOTA application, the landlord of the unit towards which SOTA grants will be applied must agree to the requirements in subdivision (a) of this section, must disclose if they have with respect to any household member any of the familial relationships specified in 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-06" destination-id="0-0-0-17176">5-06</LINK>(a)(13) and must certify that the unit is currently habitable and in compliance with applicable housing and building codes. These agreements, disclosures and representations shall be made on a form to be provided by DHS that indicates that failure to provide true and accurate statements is punishable as a Class A Misdemeanor pursuant to Section 175.30 of the New York Penal Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129425" number="71745" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Landlords may be banned from participation in City rental assistance programs for violations of any of the landlord requirements. Before placing a landlord on a disqualification list, DSS will provide notice to the landlord and an opportunity for the landlord to object in writing. Landlords who fail to comply with applicable Building and Housing Code standards during the year covered by the SOTA grant may be subject to the withholding procedures set forth in 31 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T31C005_5-07" destination-id="0-0-0-17178">5-07</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129424" number="71746" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129504" number="71747" version="2026">
+								<HEADING>§ 5-07 Withholding.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17178" name="T31C005_5-07"/>§ 5-07 Withholding.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129423" number="71748" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A household may request that SOTA payments be withheld from the landlord based on problems with housing conditions. HRA in its discretion may grant any such request based on: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129422" number="71749" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>submission by the household of documentation of a housing court or other court action against the landlord; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129421" number="71750" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>if the unit is outside New York City, submission by the household of documentation from the appropriate local government authority confirming the housing condition about which the household is complaining; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129420" number="71751" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>if the unit is in New York City, confirmation that a violation has been issued by the New York City Department of Buildings, the New York City Department of Housing, Preservation and Development, or other applicable agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129419" number="71752" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>In exercising its discretion, HRA may consider, among other things, the severity of the condition or conditions, the extent to which the condition or conditions affect the habitability of the unit, and any efforts by the landlord to resolve the conditions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129418" number="71753" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If the request for withholding is granted, HRA will notify both the household and the landlord. The household or the landlord may request that SOTA payments be resumed and that SOTA payments previously withheld be released. If the landlord makes the request, the landlord must provide a court order or an inspection report indicating that the condition has been cleared and must do so within 60 days of the issue being resolved. If the program participant makes the request, they must provide a written attestation that the issues that led to the withholding have been resolved. Withheld payments will only be released if the issue was resolved while the program participant continued to reside in the unit and will only be released for periods of time when the program participant resided in the unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129417" number="71754" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129503" number="71755" version="2026">
+								<HEADING>§ 5-08 Agency Review Conference and DSS Administrative Appeal Process.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17180" name="T31C005_5-08"/>§ 5-08 Agency Review Conference and DSS Administrative Appeal Process.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129416" number="71756" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Right to DSS Administrative Review.</CHARFORMAT> An applicant or program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions made by DSS under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, by DSS in implementing the provisions of this subchapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129415" number="71757" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency Review Conference.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129414" number="71758" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If an individual requests an agency review conference pursuant to subdivision (a) of this section, DSS shall informally review and attempt to resolve the issues raised. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129413" number="71759" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129412" number="71760" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129411" number="71761" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129410" number="71762" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Request for a DSS Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129409" number="71763" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129408" number="71764" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129407" number="71765" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Authorized Representative.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129406" number="71766" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual&apos;s written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee&apos;s authorization. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129405" number="71767" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129404" number="71768" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice.</CHARFORMAT> DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129403" number="71769" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Examination of Case Record.</CHARFORMAT> The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her SOTA program case file, if one exists, and all documents and records that DSS intends to use at the administrative hearing. Upon request by telephone or in writing, DSS shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of DSS that the individual identifies and requests for purposes of preparing for the administrative hearing. DSS shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, DSS must provide the individual with copies of such documents no later than at the time of the administrative hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129402" number="71770" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adjournment.</CHARFORMAT> The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or DSS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129401" number="71771" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conduct of Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129400" number="71772" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129399" number="71773" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129398" number="71774" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by DSS, to request that the hearing officer issue subpoenas, and to examine any documents offered by DSS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129397" number="71775" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129396" number="71776" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Abandonment of Request for Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129395" number="71777" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129394" number="71778" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129393" number="71779" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129392" number="71780" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129391" number="71781" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing Record.</CHARFORMAT> The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129390" number="71782" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing Decision.</CHARFORMAT> The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct DSS to take specific action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129389" number="71783" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129388" number="71784" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>DSS is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that DSS is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129387" number="71785" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional appeal.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129386" number="71786" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer&apos;s decision. The record before the Commissioner shall consist of the hearing record, the hearing officer&apos;s decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129385" number="71787" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and DSS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129384" number="71788" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129383" number="71789" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon DSS and must be complied with by DSS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129382" number="71790" version="2026">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-129502" number="71791" version="2026">
+								<HEADING>§ 5-09 Additional Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17182" name="T31C005_5-09"/>§ 5-09 Additional Provisions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-129381" number="71792" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Households using SOTA for a residence within New York City will be referred to service providers who will help connect them to appropriate services in their communities. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129380" number="71793" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Waitlists will not be maintained for the SOTA Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129379" number="71794" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Shelter residents are responsible for identifying potential housing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129378" number="71795" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>DSS reserves the right to recoup funds from anyone participating in the program who has made material misrepresentations to DSS which have led to their benefiting from a SOTA grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129377" number="71796" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The number of eligible households that can be approved for SOTA payments under this chapter will be limited by the amount of available funding. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129376" number="71797" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>DSS will continue to operate a hotline where current SOTA participants may report problems with their unit and seek assistance and guidance concerning any issues that may affect their ability to remain permanently housed, including referrals for social services within their area. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129375" number="71798" version="2026">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>This rule shall take effect September 7, 2021. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-129372" number="71799" version="3006">
+									<PARA>(Added City Record 8/6/2021, eff. 9/7/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-064]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-130977" number="61898" version="940">
+			<HEADING>Chapter 30: Tenant Data Privacy</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-21074" name="T26C030"/>Chapter 30: Tenant Data Privacy</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133490" number="61899" version="1143">
+										<HEADING>§ 26-3001 Definitions.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21076" name="26-3001"/>§ 26-3001 Definitions.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133562" number="61900" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3001. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137665" number="61901" version="1143">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133561" number="61902" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Authentication data.</CHARFORMAT> The term &quot;authentication data&quot; means the data generated or collected at the point of authentication in connection with granting a user entry to a smart access building, common area or dwelling unit through such building&apos;s smart access system, except that it does not include data generated through or collected by a video or camera system that is used to monitor entrances but not grant entry. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133560" number="61903" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Biometric identifier information.</CHARFORMAT> The term &quot;biometric identifier information&quot; means a physiological, biological or behavioral characteristic that is used to identify, or assist in identifying, an individual, including, but not limited to: (i) a retina or iris scan; (ii) a fingerprint; (iii) a voiceprint; (iv) a scan or record of a palm, hand or face geometry; (v) gait or movement patterns; or (vi) any other similar identifying characteristic. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133559" number="61904" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dwelling unit.</CHARFORMAT> The term &quot;dwelling unit&quot; has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2004" destination-id="0-0-0-2989">27-2004</LINK> of the housing maintenance code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133558" number="61905" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Minor.</CHARFORMAT> The term &quot;minor&quot; means a person under the age of 18 years, except a person over the age of 15 years who is married, a parent, serving in the military, or has been found financially independent by a court order. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133557" number="61906" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Multiple dwelling.</CHARFORMAT> The term &quot;multiple dwelling&quot; has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2004" destination-id="0-0-0-2989">27-2004</LINK> of the housing maintenance code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133556" number="61907" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Owner.</CHARFORMAT> The term &quot;owner&quot; has the same meaning as in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2004" destination-id="0-0-0-2989">27-2004</LINK> of the housing maintenance code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133555" number="61908" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reference data.</CHARFORMAT> The term &quot;reference data&quot; means the information against which authentication data is verified at the point of authentication by a smart access system in order to grant a user entry to a smart access building, dwelling unit of such building or a common area of such building. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133554" number="61909" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Smart access building.</CHARFORMAT> The term &quot;smart access building&quot; means a class A multiple dwelling, as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2004" destination-id="0-0-0-2989">27-2004</LINK> of the housing maintenance code, that utilizes a smart access system. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133553" number="61910" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Smart access system.</CHARFORMAT> The term &quot;smart access system&quot; means any system that uses electronic or computerized technology, a radio frequency identification card, a mobile phone application, biometric identifier information, or any other digital technology in order to grant entry to a class A multiple dwelling, common areas in such multiple dwelling or to an individual dwelling unit in such multiple dwelling. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133551" number="61911" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third party.</CHARFORMAT> The term &quot;third party&quot; means an entity that installs, operates or otherwise directly supports a smart access system, and has ongoing access to user data, excluding any entity that solely hosts such data. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133550" number="61912" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">User.</CHARFORMAT> The term &quot;user&quot; means a tenant of a smart access building, and any person a tenant has requested, in writing or through a mobile application, be granted access to such tenant&apos;s dwelling unit and such building&apos;s smart access system. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133549" number="61913" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133571" number="61914" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133572" number="61915" version="1143">
+										<HEADING>§ 26-3002 Data collection.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21078" name="26-3002"/>§ 26-3002 Data collection.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133552" number="61916" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3002. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137666" number="61917" version="1143">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>An owner of a smart access building or third party may not collect reference data from a user for use in a smart access system except where such user has expressly consented, in writing or through a mobile application, to the use of such smart access building&apos;s smart access system. Such owner or third party may collect only the minimum amount of authentication data and reference data necessary to enable the use of such smart access system in such building, and may not collect additional biometric identifier information from any users. Such smart access system may only collect, generate or utilize the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133548" number="61918" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the user&apos;s name; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133547" number="61919" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the dwelling unit number and other doors or common areas to which the user has access using such smart access system in such building; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133546" number="61920" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>the user&apos;s preferred method of contact; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133545" number="61921" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>the user&apos;s biometric identifier information if such smart access system utilizes biometric identifier information; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133544" number="61922" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>the identification card number or any identifier associated with the physical hardware used to facilitate building entry, including radio frequency identification card, bluetooth or other similar technical protocols; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133543" number="61923" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>passwords, passcodes, user names and contact information used singly or in conjunction with other reference data to grant a user entry to a smart access building, dwelling unit of such building or common area of such building through such building&apos;s smart access system, or to access any online tools used to manage user accounts related to such building; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133542" number="61924" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>lease information, including move-in and, if available, move-out dates; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133541" number="61925" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>the time and method of access, solely for security purposes. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133540" number="61926" version="940">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>An owner of a smart access building and any third party shall destroy any authentication data collected from or generated by such smart access system in their possession no later than 90 days after such data has been collected or generated, except for authentication data that is retained in an anonymized format. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133539" number="61927" version="940">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Reference data for any tenant who has permanently vacated a smart access building shall be removed, or anonymized where removal of such data would render the smart access system inoperable, from the smart access system no later than 90 days after such tenant has permanently vacated such building. Reference data for any user that has been granted access to such tenant&apos;s dwelling unit and is not a tenant of such smart access building shall be removed, or anonymized where removal of such data would render the smart access system inoperable, from the smart access system no later than 90 days after access expires. Reference data for any user who has withdrawn authorization from an owner or third party who had previously been given access to such reference data pursuant to subdivision a shall be removed, or anonymized where removal of such data would render the smart access system inoperable, from the smart access system no later than 90 days after such authorization has been withdrawn. The same time frame shall apply when a tenant withdraws a request that a guest be granted access to such tenant&apos;s dwelling unit via the smart access system, if such guest is not also a tenant of such smart access building. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133538" number="61928" version="940">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Reference data collected solely for the operation of such smart access system for a tenant who has permanently vacated a smart access building shall be destroyed no later than 90 days after a tenant has permanently vacated a smart access building or has withdrawn authorization from the owner of such smart access building or a third party. Reference data collected solely for use of such smart access system for any user that has been granted access to such tenant&apos;s dwelling unit and is not a tenant of such smart access building shall be destroyed within the same timeframe, following such user&apos;s withdrawal of authorization, such tenant&apos;s withdrawal of the request that such user be granted access to such tenant&apos;s dwelling unit via the smart access system or such tenant&apos;s permanent vacation. Any data collected in violation of the prohibitions set forth in paragraphs 3, 4, 5 and 6 of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-3003" destination-id="0-0-0-21080">26-3003</LINK> shall be destroyed immediately. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133537" number="61929" version="940">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>An owner of a smart access building and any third party that has an obligation to destroy data pursuant to this section shall not be required to destroy any data that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133536" number="61930" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>is necessary to detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for that activity; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133535" number="61931" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>is necessary to debug to identify and repair errors that impair existing intended functionality; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133534" number="61932" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>is protected speech under the United States or New York state constitution; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133533" number="61933" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>is necessary to comply with another law or legal obligation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133532" number="61934" version="940">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Any information that an owner of a multiple dwelling collects about a tenant&apos;s use of gas, electricity or any other utility shall be limited to such tenant&apos;s total monthly usage, unless otherwise required by law. It shall be unlawful for an owner of a multiple dwelling to collect any information about a tenant&apos;s use of internet service, except that in a multiple dwelling in which internet service is provided directly from an owner to tenants, the landlord may collect such information if such information is aggregated and anonymized, or necessary for billing purposes. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133575" number="61935" version="940">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>Notwithstanding the provisions of subdivision a, an owner may retain, separate from the smart access system, a record of the unique identification number or other unique identifier associated with the physical hardware used to facilitate building entry, including key cards or other similar technical protocols, and the dwelling unit number associated with such unique identifier, solely for the purpose of deactivating or activating the key card or other hardware associated with such unique identifier. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133531" number="61936" version="940">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>Notwithstanding any other provision of this section, reference data may be retained and utilized by a smart access system pursuant to a user request, in writing or through a mobile application, that such user&apos;s reference data be retained for longer than 90 days. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133530" number="61937" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133569" number="61938" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133570" number="61939" version="1143">
+										<HEADING>§ 26-3003 Prohibitions.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21080" name="26-3003"/>§ 26-3003 Prohibitions.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133529" number="61940" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3003. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137667" number="61941" version="1143">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>It shall be unlawful for any owner of a smart access building or third party that collects reference data or authentication data pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-3002" destination-id="0-0-0-21078">26-3002</LINK> to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133528" number="61942" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>sell, lease or otherwise disclose such data to another person except: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133527" number="61943" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>pursuant to any law, subpoena, court ordered warrant, other authorized court ordered process or active law enforcement investigation; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133526" number="61944" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>to a third party that operates or facilitates the operation of such building&apos;s smart access system, provided that the user has given express authorization, in writing or through a mobile application, and has received in writing, in advance of such authorization: (i) the name of the third party, (ii) the intended use of such data by such third party, and (iii) any privacy policy of such third party; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133525" number="61945" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>for data collected pursuant to subdivision f of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-3002" destination-id="0-0-0-21078">26-3002</LINK>, to an entity employed, retained or contracted by the owner to improve the energy efficiency of such building; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133524" number="61946" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>to a guest as expressly authorized, in writing or through a mobile application, by a tenant; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133523" number="61947" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>as otherwise required by law; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133522" number="61948" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>utilize any satellite navigation system or other similar system in the equipment or software of a smart access system to track the location of any user of a smart access system outside of the building using such smart access system; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133521" number="61949" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>use a smart access system to capture the reference data of any minor, except as authorized in writing by such minor&apos;s parent or legal guardian; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133520" number="61950" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>use a smart access system to deliberately collect information on or track the relationship status of tenants and their guests, except as otherwise required by law; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133519" number="61951" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>use a smart access system to collect or track information about the frequency and time of use of such system by a tenant and their guests to harass or evict a tenant; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133518" number="61952" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>use a smart access system to collect reference data from a person who is not a tenant in such smart access building who has not given express consent, in writing or through a mobile application, provided that reference data may be collected for any employee or agent of an owner in a smart access building, and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133517" number="61953" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>share any data that may be collected from a smart access system regarding any minor, unless such entity has received the written authorization of such minor&apos;s parent or legal guardian. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133516" number="61954" version="940">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>It shall additionally be unlawful for any owner of a smart access building, or an agent thereof, to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133515" number="61955" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>utilize data collected through a smart access system for any purpose other than: (i) to grant access to and monitor entrances and exits to the smart access building, and to common areas in such building, including but not limited to laundry rooms, mail rooms, and the like, and (ii) to grant access to dwelling units in such buildings that use a smart access system to grant entry into dwelling units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133514" number="61956" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>use a smart access system to limit the time of entry into the building by any user except as requested by a tenant; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133513" number="61957" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>require a tenant to use a smart access system to gain entry to such tenant&apos;s dwelling unit; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133512" number="61958" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>use any information collected through a smart access system to harass or evict a tenant. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133511" number="61959" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133573" number="61960" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133574" number="61961" version="1143">
+										<HEADING>§ 26-3004 Privacy policies.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21082" name="26-3004"/>§ 26-3004 Privacy policies.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133510" number="61962" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3004. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137668" number="61963" version="1143">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The owner of a smart access building, or an agent thereof, must provide to tenants a written policy in plain language that describes, at a minimum, the following information if it is not included in the privacy policy described in subdivision b: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133509" number="61964" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the data elements to be collected by the smart access system; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133508" number="61965" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the names of any entities or third parties the owner will share such data elements with, and the privacy policies of any such entities or third parties; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133507" number="61966" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>the protocols and safeguards the owner will provide for protecting such data elements; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133506" number="61967" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>the retention schedule of such data; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133505" number="61968" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>the protocols the owner will follow to address any suspected or actual unauthorized access to or disclosure of such data elements, including notification of users; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133504" number="61969" version="1811">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>guidelines for permanently destroying or anonymizing such data or removing such data from the smart access system; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133503" number="61970" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>the process used to add and remove persons who have provided written consent on a temporary basis to the smart access system. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133502" number="61971" version="940">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The owner of a smart access building, or an agent thereof, shall make available to tenants any written privacy policy of the entity that developed the smart access system utilized in such building, or any written privacy policy of the entity that currently operates the smart access system utilized in such building. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133501" number="61972" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133567" number="61973" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133568" number="61974" version="1143">
+										<HEADING>§ 26-3005 Security measures and safeguards.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21084" name="26-3005"/>§ 26-3005 Security measures and safeguards.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133500" number="61975" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3005. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137669" number="61976" version="1143">
+											<PARA>A smart access system must implement stringent security measures and safeguards to protect the security and data of tenants, guests and other individuals in smart access buildings. Such security measures and safeguards must, at a minimum, include data encryption, the ability of the user to change the password if the system uses a password and firmware that is regularly updated to enable the remediation of any security or vulnerability issues. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133499" number="61977" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133565" number="61978" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133566" number="61979" version="1143">
+										<HEADING>§ 26-3006 Private right of action.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21086" name="26-3006"/>§ 26-3006 Private right of action.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133498" number="61980" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3006. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137670" number="61981" version="1143">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A lawful occupant of a dwelling unit, or a group of such occupants, in a smart access building may bring an action alleging an unlawful sale of data in violation of paragraph one of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-3003" destination-id="0-0-0-21080">26-3003</LINK> in any court of competent jurisdiction. If such court finds that a person is in violation of such paragraph for the unlawful sale of data, such court shall, in addition to any other relief such court determines to be appropriate: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133497" number="61982" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Award to each such occupant per each unlawful sale of such occupant&apos;s data: (i) compensatory damages and, in such court&apos;s discretion, punitive damages, or (ii) at the election of each occupant, damages ranging from $200 to $1,000; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133496" number="61983" version="940">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Award to such occupants reasonable attorneys&apos; fees and court costs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133495" number="61984" version="940">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Nothing in this section shall relieve any such occupant or occupants from any obligation to pay rent or any other charge for which such occupant or occupants are otherwise liable to a person found to be in violation of this chapter. Nothing in this section shall affect any other right or responsibility of an occupant or owner afforded to such person pursuant to a lawful lease. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133494" number="61985" version="940">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>This section does not limit or abrogate any claim or cause of action a person has under common law or by other law or rule. The provisions of this section are in addition to any other remedies that may be provided for under common law or by other law or rule. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133493" number="61986" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133563" number="61987" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-133564" number="61988" version="1143">
+										<HEADING>§ 26-3007 Education efforts.*</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21088" name="26-3007"/>§ 26-3007 Education efforts.*</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-133492" number="61989" version="1143">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections designated as § 26-3007. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-069]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-137671" number="61990" version="1143">
+											<PARA>The department of housing preservation and development shall inform tenants and owners about the provisions of this chapter by, at a minimum, including information about this chapter on its website and in the housing information guide for tenants and owners described in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-1102" destination-id="0-0-0-11687">26-1102</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133489" number="61991" version="940">
+											<PARA>(L.L. 2021/063, 5/30/2021, eff. 7/29/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133487" number="61992" version="940">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/063" destination-id="0-0-0-21072">L.L. 2021/063</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-061]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,913 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-42650" number="54923" version="2171">
+			<HEADING>Chapter 3: Non-Emergency City Services</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10201" name="T23C003"/>Chapter 3: Non-Emergency City Services</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42651" number="54924" version="3">
+										<HEADING>§ 23-301 Tracking information provided. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10203" name="23-301"/>§ 23-301 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Tracking information provided. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42652" number="54925" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>311 customer service center call takers shall provide the caller with a unique identifier for such call taker at the beginning of every call and a tracking number for every call that results in a request for service or complaint being filed with a city agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-014]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42653" number="54926" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Every call, e-mail or electronic message to the 311 customer service center in regard to the reporting of a complaint about language accessibility or a request for additional language services shall be forwarded to both the agency or agencies that such complaint or request referenced and to the office of the language services coordinator. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-014]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42654" number="54927" version="3">
+											<PARA>(Am. L.L. 2017/030, 3/18/2017, eff. 7/1/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-014]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42655" number="54928" version="533">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/030" destination-id="0-0-0-20449">L.L. 2017/030</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129101" number="54929" version="533">
+										<HEADING>§ 23-302 High call volume protocol. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10205" name="23-302"/>§ 23-302 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">High call volume protocol. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-227872" number="54930" version="2205">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than September 30, 2011, the 311 customer service center shall implement a protocol for responding to high call volume. Such protocol shall include, but not be limited to, (i) a system to efficiently and effectively answer, direct and track all calls; (ii) increased utilization of automated telephone messages, short message services, social media, email alerts, and the city&apos;s website to disseminate information and to reduce non-critical information requests; (iii) a plan to ensure adequate staffing both in anticipation of, and in response to, high call volume incidents; and (iv) a virtual queue system that provides an estimated wait time to callers when the estimated wait time is more than 60 seconds. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-110]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42657" number="54931" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>A copy of such protocol shall be provided to the council.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233603" number="54932" version="2205">
+											<PARA>(Am. L.L. 2024/072, 6/22/2024, eff. 6/30/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-110]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42658" number="54933" version="3">
+										<HEADING>§ 23-303 Notifying businesses of requests for service or complaints.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10207" name="23-303"/>§ 23-303 Notifying businesses of requests for service or complaints.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42659" number="54934" version="1762">
+											<PARA>Pursuant to the provisions of this section, the department of information technology and telecommunications shall, to the extent practicable, notify business owners by text or email, in accordance with the business owner&apos;s preference, each time the address of their business is provided as part of a 311 request for service or complaint if such business owners have opted to receive such notifications via a website maintained by or on behalf of the city of New York. Such notifications shall be offered in the designated citywide languages defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK> of this code. Such notifications shall be delivered within 72 hours, to the extent practicable, and not more than 96 hours after the 311 request for service or complaint is made available as part of a public data set on the single web portal established pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T20C005" destination-id="0-0-0-7933">chapter 5</LINK> of this title. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42660" number="54935" version="3">
+											<PARA>(L.L. 2017/070, 5/10/2017, eff. 2/4/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42661" number="54936" version="252">
+										<HEADING>§ 23-304 Parking complaints.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19481" name="23-304"/>§ 23-304 Parking complaints.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114439" number="54937" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department of information technology and telecommunications shall implement and maintain on its 311 citizen center website and mobile device platforms the capability for the public to file a complaints under the category of &quot;illegal parking.&quot; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114456" number="54938" version="252">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Within such category, the public shall have the ability to submit complaints regarding improper use of a parking permit and complaints for parking in any of the following locations: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114455" number="54939" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>parking in &quot;no standing&quot; area; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114454" number="54940" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>parking in &quot;no stopping&quot; area; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114453" number="54941" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>parking on sidewalk; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114452" number="54942" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>parking in crosswalk; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114451" number="54943" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>parking in front of fire hydrant; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114450" number="54944" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>parking at bus stop; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114449" number="54945" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>parking in bus lane; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114448" number="54946" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>parking in bicycle lane; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114447" number="54947" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>parking as to obstruct a driveway; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114446" number="54948" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>double parking. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114445" number="54949" version="252">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>With respect to complaints filed pursuant to subdivision b, the public shall have ability to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114444" number="54950" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>include information about whether the vehicles used were operated on behalf of the city; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114443" number="54951" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>submit photographic evidence supporting such complaint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114442" number="54952" version="252">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The resolution of a complaint submitted pursuant to subdivision b alleging improper use of a parking permit shall be sent to the individual filing such complaint within eight hours. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114441" number="54953" version="252">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>On a monthly basis, no later than February 15, 2020, the department of information technology and telecommunications shall publish a report containing data for the previous month that shall include, but not be limited to, the number of complaints of illegal parking of vehicles operated on behalf of the city in the types of locations set forth in subdivision b. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114438" number="54954" version="711">
+											<PARA>(L.L. 2020/008, 12/27/2019, eff. 12/27/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-114437" number="54955" version="785">
+										<HEADING>§ 23-305 Service level agreements.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20798" name="23-305"/>§ 23-305 Service level agreements.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131754" number="54956" version="811">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Publication.</CHARFORMAT> The 311 customer service center shall: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131976" number="54957" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Post on the single web portal described in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-502" destination-id="0-0-0-6699">23-502</LINK> of this code each agency&apos;s service level agreements; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131975" number="54958" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Provide a link to such posting in a conspicuous location on the 311 customer service center&apos;s website; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131974" number="54959" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Create and maintain on a separate page of the 311 customer service center&apos;s website information about service level agreements. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131973" number="54960" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notification to agencies.</CHARFORMAT> The 311 customer service center shall notify the applicable agency when a customer&apos;s request for service, or complaint, referred by the 311 customer service center to such agency has not been closed within the time specified by such agency&apos;s service level agreement. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131971" number="54961" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definition.</CHARFORMAT> For purposes of this section, the term &quot;service level agreement&quot; means the maximum number of hours or days within which an agency has committed to review, take action on and close a particular category of requests for service or complaints referred by the 311 customer service center to such agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131753" number="54962" version="811">
+											<PARA>(L.L. 2021/020, 2/28/2021, eff. 2/28/2022; Am. L.L. 2021/027, 3/14/2021, eff. 2/28/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131752" number="54963" version="811">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/027" destination-id="0-0-0-20816">L.L. 2021/027</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-059]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131977" number="54964" version="811">
+										<HEADING>§ 23-306 Customer satisfaction survey.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20808" name="23-306"/>§ 23-306 Customer satisfaction survey.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131879" number="54965" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> As used in this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230884" number="54966" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Customer satisfaction survey.</CHARFORMAT> The term “customer satisfaction survey” means a survey used to evaluate the experiences of individuals who submit requests for service or complaints to the 311 customer service center and to determine their overall level of satisfaction with the resolution of any such request or complaint by the agency to which such center refers such request or complaint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230883" number="54967" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated citywide languages.</CHARFORMAT> The term “designated citywide languages” has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230882" number="54968" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The 311 customer service center shall send a customer satisfaction survey to any individual who submits a request for service or complaint to the 311 customer service center after such request for service or complaint has been designated as resolved, complete, or closed by the agency to which such center referred such request or complaint. The 311 customer service center shall send such survey to the email address or mobile phone number such individual provided to such center at the time the individual submitted the request for service or complaint. The survey shall provide, at minimum, the ability for the individual: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230881" number="54969" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>To request that the request for service or complaint be reopened, provided the 311 customer service center shall forward any such request to reopen to the agency to which such center referred such request or complaint; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230880" number="54970" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>To evaluate the individual’s satisfaction with the agency’s response; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230879" number="54971" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>To provide written feedback on the resolution of the request or complaint by such agency. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230878" number="54972" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Every customer satisfaction survey administered by the 311 customer service center or by an entity contracting with the city to conduct such customer satisfaction survey shall be made available in all designated citywide languages. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230877" number="54973" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The 311 customer service center shall, each month, publish on the website of such center: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230876" number="54974" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of requests for service or complaints received during the preceding month, disaggregated by: (i) type of request for service or complaint, and (ii) agency to which such center referred such request or complaint; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230875" number="54975" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The rate at which each such agency designated each such type of request for service or complaint as resolved, complete, or closed; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230874" number="54976" version="2157">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The rate at which any individual requested that each such type of request for service or complaint be reopened; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230873" number="54977" version="2263">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The levels of individuals’ satisfaction with each agency’s response for each such type of request for service or complaint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131876" number="54978" version="2157">
+											<PARA>(L.L. 2021/026, 3/14/2021, eff. 6/12/2021; Am. L.L. 2025/013, 2/22/2025, eff. 2/22/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-106]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131877" number="54979" version="1025">
+										<HEADING>§ 23-307 NYCHA complaints and requests for service.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21340" name="23-307"/>§ 23-307 NYCHA complaints and requests for service.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-135259" number="54980" version="1025">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The 311 customer service center shall allow the public, including residents of a New York city housing authority development, to contact the center to file complaints or requests for service relating to the New York city housing authority by phone, online and in any other manner that such center routinely accepts complaints or requests for service from the public. Such center shall refer to such authority complaints or requests for service relating to such authority. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-067]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135258" number="54981" version="1025">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The 311 customer service center shall publish annually, in a searchable and machine-readable format, all complaints or requests for service relating to such authority. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-067]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-135256" number="54982" version="1250">
+											<PARA>(L.L. 2021/127, 11/7/2021, eff. 3/7/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-067]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-155381" number="54983" version="1250">
+										<HEADING>§ 23-308 Data on wait times for interpreters.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-22688" name="23-308"/>§ 23-308 Data on wait times for interpreters.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-155388" number="54984" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> As used in this section, the term &quot;wait time&quot; means the time, in number of seconds, from when an individual who calls the 311 customer service center requests an interpreter to when such individual is connected to an interpreter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155387" number="54985" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Beginning February 15, 2023, and updated no less than once each month thereafter, the commissioner of information technology and telecommunications shall make publicly available a dataset on the wait times experienced by individuals who request an interpreter during their calls to the 311 customer service center. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155386" number="54986" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Such dataset shall be available on the city&apos;s website, and shall include, but need not be limited to, the following information for each such call made on or after January 1, 2023: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155385" number="54987" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The date and time of the call; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155384" number="54988" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The language requested for interpretation services; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155383" number="54989" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The wait time during the call. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155382" number="54990" version="1250">
+											<PARA>(L.L. 2022/096, 10/30/2022, eff. 10/30/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-155389" number="54991" version="1250">
+										<HEADING>§ 23-309 Updating 311 request for service or complaint types.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-22690" name="23-309"/>§ 23-309 Updating 311 request for service or complaint types.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-155397" number="54992" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Within 30 days of the effective date of a local law that the commissioner or head of any agency or office determines would provide an individual with the opportunity to make a new request for service from such agency or office, such commissioner or head shall notify the commissioner of information technology and telecommunications and the 311 customer service center of the potential need to add a request for service or complaint type to, or update a request for service or complaint type on, the 311 customer service center, website and mobile device platforms. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155396" number="54993" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than February 1, 2024, and every February 1 thereafter, the director of the 311 customer service center shall report to the mayor and speaker of the council all requests for service or complaint types that were added to or updated on the 311 customer service center, website and mobile device platforms during the previous year in accordance with this section. Such report shall be posted on the website of the 311 customer service center and shall include (i) the date when each such request for service or complaint type was added to or updated on the 311 customer service center, website and mobile device platforms and (ii) an explanation of any obstacles experienced by the 311 customer service center or relevant agency in adding such request for service or complaint types to, or updating such request for service or complaint types on, the 311 customer service center, website and mobile device platforms. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155395" number="54994" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Beginning February 1, 2024, the director of the 311 customer service center shall make publicly available a dataset on the submission of correspondence by the public requesting the addition of, or an update to, a request for service or complaint type. Such dataset shall be available on the city&apos;s website, updated semiannually, and include, but need not be limited to, the following information for each such submission made on or after August 1, 2023: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155394" number="54995" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The date and time of the submission; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155393" number="54996" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The subject of the correspondence; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155392" number="54997" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The office or agency to which such submission was communicated for response; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155391" number="54998" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Whether such request was implemented. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155390" number="54999" version="1250">
+											<PARA>(L.L. 2022/097, 10/30/2022, eff. 12/29/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-155398" number="55000" version="1250">
+										<HEADING>§ 23-310 Identification of spoken language.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-22692" name="23-310"/>§ 23-310 Identification of spoken language.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-155403" number="55001" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The 311 customer service center shall implement a protocol for identifying the language spoken by a caller to the 311 customer service center, and shall consider including in such protocol the use of processes that do not require a caller to make a verbal request for interpretation services. The 311 customer service center shall post on its website a description of such protocol within seven days after it is implemented. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155402" number="55002" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>If during a call to the 311 customer service center a caller makes a request for interpretation services and the wait time, as defined in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-308" destination-id="0-0-0-22688">23-308</LINK>, experienced by such caller is 300 seconds or longer, the 311 customer service center shall review such call to determine whether the wait time was due to a failure of such protocol. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155401" number="55003" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>No later than July 1, 2023, and every July 1 thereafter, the 311 customer service center shall update such protocol based on a review of all calls for which the 311 customer service center determined that there was such a failure of such protocol. The 311 customer service center shall update the description of such protocol on its website within seven days after any update to such protocol. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155400" number="55004" version="1250">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>By July 1, 2023, and every July 1 thereafter, the 311 customer service center shall submit to the mayor and speaker of the council a report on such protocol that includes a description of the implementation of such protocol; any updates or changes to such protocol since the previous report, if applicable; and any plans to update such protocol in the future. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155399" number="55005" version="1250">
+											<PARA>(L.L. 2022/098, 10/30/2022, eff. 2/27/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-135255" number="55006" version="2138">
+										<HEADING>§ 23-311 Unlicensed cannabis retailer complaints.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28024" name="23-311"/>§ 23-311 Unlicensed cannabis retailer complaints.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-230290" number="55007" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For the purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230289" number="55008" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cannabis.</CHARFORMAT> The term “cannabis” has the same meaning as set forth in section 3 of the cannabis law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230288" number="55009" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cannabis product.</CHARFORMAT> The term “cannabis product” has the same meaning as set forth in section 3 of the cannabis law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230287" number="55010" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Unlicensed cannabis retailer.</CHARFORMAT> The term “unlicensed cannabis retailer” means a person selling or offering for sale cannabis, cannabis products, or items marketed as cannabis or cannabis products without a license to sell such products pursuant to article 4 of the cannabis law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230286" number="55011" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department of information technology and telecommunications, in consultation with the office of the sheriff, shall implement and maintain through its 311 customer service center, mobile device platform, and any other platform that the center routinely uses to accept complaints, the capability for the public to file a complaint under the category of “unlicensed cannabis retailer.” Such department of information technology and telecommunications shall collect the complaint details and documentation set forth in subdivision c of this section and send any such complaint and documentation to the office of the sheriff. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230285" number="55012" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A person submitting a complaint under the category of “unlicensed cannabis retailer” shall have the ability to submit the following documentation with such complaint: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230284" number="55013" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Photographic evidence supporting such complaint; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230283" number="55014" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Information relating to the suspected sale of cannabis, cannabis products, unlicensed tobacco, or unlicensed electronic cigarette products; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230282" number="55015" version="2138">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The name, address, and hours of operation of an unlicensed cannabis retailer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230280" number="55016" version="2138">
+											<PARA>(L.L. 2024/130, 12/21/2024, eff. 9/17/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-104]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-230279" number="55017" version="2182">
+										<HEADING>§ 23-312 Tree pruning complaints or requests for service.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28156" name="23-312"/>§ 23-312 Tree pruning complaints or requests for service.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-231711" number="55018" version="2182">
+											<PARA>The 311 customer service center, in consultation with the department of parks and recreation, shall provide to any person who submits a complaint or request for service relating to the pruning of any tree under the jurisdiction of the department of parks and recreation: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231710" number="55019" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A link to the map required by paragraph 5 of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="18-157" destination-id="0-0-0-21570">18-157</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231709" number="55020" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A link to a page of the website of the department of parks and recreation that includes information about tree pruning and a map showing completed and scheduled tree pruning activities by such department; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231708" number="55021" version="2182">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Information or resources about a program to train and certify volunteers in the pruning of trees. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231706" number="55022" version="2243">
+											<PARA>(L.L. 2025/061, 5/10/2025, eff. 11/6/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-234676" number="55023" version="2243">
+										<HEADING>§ 23-313 Rooftop activity complaints.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28384" name="23-313"/>§ 23-313 Rooftop activity complaints.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-234681" number="55024" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department of information technology and telecommunications shall implement and maintain on its 311 citizen center website and mobile device platforms the capability for the public to file a complaint under the category of “rooftop activity complaint.” This complaint category shall contain subcategories for “rooftop occupancy without proper certificate or permit complaints” and “exceeding authorized rooftop occupancy complaints” in order that each such complaint may be referred to the appropriate agency to take action as necessary to address the complaint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234680" number="55025" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department of information technology and telecommunications shall implement and maintain on its 311 citizen center website and mobile device platforms the capability for the public to file a noise complaint from rooftop activity under the category “noise” with the subcategory “rooftop activity.” <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234679" number="55026" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>With respect to complaints filed pursuant to subdivisions a and b, the public shall have the ability to submit photographic evidence or recordings supporting such complaints. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234677" number="55027" version="2243">
+											<PARA>(L.L. 2025/125, 9/13/2025, eff. 9/13/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-231705" number="55028" version="2261">
+										<HEADING>§ 23-314 Plan for broadband internet access.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28444" name="23-314"/>§ 23-314 Plan for broadband internet access.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-235200" number="55029" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> As used in this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235199" number="55030" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Broadband internet.</CHARFORMAT> The term “broadband internet” means internet access that utilizes high-speed transmission technologies that provides sustained data transmission speeds of not less than 100 megabits per second for downloads and not less than 25 megabits per second for uploads. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235198" number="55031" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term “commissioner” means the commissioner of information technology and telecommunications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235197" number="55032" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term “department” means the department of information technology and telecommunications. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235196" number="55033" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Digital accessibility.</CHARFORMAT> The term “digital accessibility” means websites, tools, or technologies that may be used by persons with disabilities. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235195" number="55034" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Digital literacy.</CHARFORMAT> The term “digital literacy” means the ability to use technology or digital tools. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235194" number="55035" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Emerging business enterprise.</CHARFORMAT> The term “emerging business enterprise” has the same meaning as set forth in subparagraph c of paragraph 6 of subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1304" destination-id="0-0-0-0">1304</LINK> of the charter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235193" number="55036" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Franchise.</CHARFORMAT> The term “franchise” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="362" destination-id="0-0-0-0">362</LINK> of the charter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235192" number="55037" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Franchisee.</CHARFORMAT> The term “franchisee” means a person who holds a franchise to provide cable television, information services, or other public service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235191" number="55038" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Internet service provider.</CHARFORMAT> The term “internet service provider” means a person that provides individuals, corporations, or other entities with the ability to connect to broadband internet. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235190" number="55039" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Low-cost broadband internet.</CHARFORMAT> The term “low-cost broadband internet” means broadband internet offered to eligible households at a cost per household consistent with section 399-zzzzz of the general business law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235189" number="55040" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Network infrastructure.</CHARFORMAT> The term “network infrastructure” means any hardware or software installed or maintained by an internet service provider that facilitates the provision of internet access by such internet service provider to an individual, corporation, or other entity. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235188" number="55041" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Secondary purpose.</CHARFORMAT> The term “secondary purpose” means the use of broadband internet service, or network infrastructure, for purposes other than providing home broadband internet, and includes video surveillance or data surveillance, and collection, retention, transfer, or analysis of user data including browsing history, application usage, and personal information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235187" number="55042" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Underserved.</CHARFORMAT> The term “underserved” has the same meaning as set forth in paragraph (b) of subdivision 1 of section 224-c of the public service law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235186" number="55043" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than November 1, 2026, the department shall post on its website a preliminary internet master plan for expanding access to broadband internet in homes throughout the city. Such plan shall include information about how the department may work with franchisees and internet service providers, including but not limited to not-for-profit or community-based internet service providers, and internet service providers that are emerging business enterprises, to facilitate the provision of low-cost broadband internet in homes, and shall prioritize recommendations for expanding access to and adoption of broadband internet in underserved areas. No later than 60 days prior to the posting of the preliminary internet master plan, the department shall solicit public recommendations regarding the provisions of the preliminary plan, including through outreach to labor organizations, and a social media campaign, a website announcement, an online platform for submitting comments, or a public hearing. The preliminary internet master plan shall include, but need not be limited to, recommendations relating to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235185" number="55044" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Establishment of goals for expanding access to low-cost broadband internet in areas with the fewest options for low-cost broadband internet, as determined by the department; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235184" number="55045" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Development of strategies to promote access to low-cost broadband internet; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235183" number="55046" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Development of strategies to promote digital literacy, access to computers or mobile devices, and digital accessibility; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235182" number="55047" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Identification of ways to work with internet service providers, including but not limited to local not-for-profit internet service providers or internet service providers that are emerging business enterprises, to improve access to low-cost broadband internet; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235181" number="55048" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>An assessment of the feasibility of utilizing city-owned property for the installation of network infrastructure, and any recommendations for coordinating such utilization; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235180" number="55049" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>An assessment of the feasibility and estimated costs of establishing incentives for the development of network infrastructure that multiple internet service providers may use; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235179" number="55050" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Identification of areas of the city where internet service providers may install network infrastructure; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235178" number="55051" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Any recommendations regarding the utilization of any unutilized or underutilized network infrastructure, including unutilized fiber strands; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235177" number="55052" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>Information about the availability of broadband internet, including the types of internet connections, available speeds, and usage policies of each internet service provider; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235176" number="55053" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>An assessment of whether the availability and speeds of broadband internet differ for any geographic area of the city as compared to the availability and speed of broadband internet city-wide; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235175" number="55054" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>11.<TAB tab-count="1"/>An analysis of any potential impacts on the public and private workforce by the implementation of such plan, and recommendations regarding any safety standards or training that would facilitate such implementation; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235174" number="55055" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>12.<TAB tab-count="1"/>An estimate of the costs of implementation of such plan, including an itemized list of the estimated cost of implementing each recommendation included in such plan and a list of potential grants or other sources of funding that could be utilized for such implementation; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235173" number="55056" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>13.<TAB tab-count="1"/>An assessment of the availability of public and private grant programs to encourage private investment in network infrastructure. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235172" number="55057" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall provide a draft copy of the internet master plan required by this section to the internet advisory board established pursuant to paragraph d of this section prior to the posting of such internet master plan. The internet advisory board may review the draft copy of the internet master plan and provide recommendations regarding the such plan to the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235171" number="55058" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>There shall be an internet advisory board. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235170" number="55059" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Members of the internet advisory board shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235169" number="55060" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The commissioner or such commissioner’s designee, who shall be chair of the board; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235168" number="55061" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Three members appointed by the mayor; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235167" number="55062" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Three members appointed by the speaker of the council; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235166" number="55063" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>One member appointed by the public advocate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235165" number="55064" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>To the extent practicable, each member appointed to the board shall have experience with information technology, digital equity, or the development, installation, deployment, or maintenance of network infrastructure. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235164" number="55065" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Members of the board shall serve without compensation and shall meet no less than once every 6 months. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235163" number="55066" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Each member appointed to the board shall be appointed for a term of 3 years. In the event of a vacancy on the board during any such term, a successor shall be chosen in the same manner as the original appointment. A member appointed to fill a vacancy shall serve for the balance of the unexpired term. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235162" number="55067" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The board may review any plan posted pursuant to subdivisions b, e, or g of this section and may make recommendations regarding implementation of any part of any such plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235161" number="55068" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>No later than May 1, 2027, the department shall post on its website an internet master plan, including the recommendations as set forth in paragraphs 1 through 13 of subdivision b, and consideration of the feedback received on the preliminary internet master plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235160" number="55069" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>No later than May1, 2028, and annually thereafter, the department shall post on its website a report that provides information about any progress toward implementing any part of the plan required by subdivision e or updates pursuant to subdivision g. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235159" number="55070" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>No later than May 1, 2031, and no later than November 1 every 5 years thereafter, the department shall post on its website an updated internet master plan that may include any recommendations as set forth in paragraphs 1 through 13 of subdivision b. No later than 60 days prior to the posting of such updated internet master plan, the department shall solicit public input on the updated plan, including through outreach to labor organizations, and a social media campaign, a website announcement, an online platform for submitting comments, or a public hearing. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235158" number="55071" version="2261">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>None of the plans posted pursuant to subdivisions b, e, or g, shall consider, facilitate, or otherwise promote the use of broadband internet connections for any secondary purpose, by any agency that is not connected to the provision of such internet service to homes. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235156" number="55072" version="2261">
+											<PARA>(L.L. 2025/153, 11/8/2025, eff. 11/8/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

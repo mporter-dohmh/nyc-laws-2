@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-217410" number="35313" version="1611">
+			<HEADING>Chapter 6: Drug Testing of School System Conveyance Drivers</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7005" name="T17C006"/>Chapter 6: Drug Testing of School System Conveyance Drivers</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-29056" number="35314" version="1694">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221007" number="35315" version="1694">
+										<HEADING>§ 17-601 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7007" name="17-601"/>§ 17-601 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29057" number="35316" version="3">
+											<PARA>As used in this chapter, the following terms shall be defined as follows: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29058" number="35317" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;Driver&quot; or &quot;Bus driver&quot; shall mean every person employed by a motor carrier who drives and operates a bus or other motor vehicle to transport school children and every person employed by a motor carrier who drives and operates a mobile instructional unit pursuant to a contract between the motor carrier and the board of education.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29059" number="35318" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;Motor carrier&quot; shall mean any person, corporation, or entity who operates or employs others to operate buses or other motor vehicles to transport school children and any person, corporation, or entity who operates or employs others to operate mobile instructional units pursuant to a contract with the board of education.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29060" number="35319" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;The department&quot; shall mean the New York city department of health and mental hygiene.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29061" number="35320" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;Board&quot; or &quot;Board of education&quot; shall mean the New York city board of education.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29062" number="35321" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;Illegal drug&quot; shall mean marijuana or concentrated cannabis, cocaine and its derivatives, opiates, amphetamines, phencyclidine and any other drug the board of education shall designate by rule pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-609" destination-id="0-0-0-7009">17-609</LINK> of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29063" number="35322" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;Drug test&quot; shall mean a scientific procedure employing an initial screening test and, where required by this chapter, a subsequent confirmatory test on urine to detect the presence of illegal drugs.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29064" number="35323" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>&quot;Sample&quot; shall mean a portion of a urine specimen used for testing.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29065" number="35324" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>&quot;Screening test&quot; shall mean an immunoassay screen using a test at least as reliable as the enzyme multiplied immunoassay test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29066" number="35325" version="3">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>&quot;Confirmatory test&quot; shall mean a second analytical procedure performed on a different sample of the same specimen that has tested positive on the screening test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29067" number="35326" version="3">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>&quot;Pre-employment test&quot; shall mean a drug test given to an applicant for the position of driver.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29068" number="35327" version="3">
+											<PARA>
+												<TAB tab-count="1"/>k.<TAB tab-count="1"/>&quot;Random test&quot; shall mean a drug test given annually to a predetermined percentage of drivers who are selected on a scientifically defensible random and unannounced basis.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29069" number="35328" version="3">
+											<PARA>
+												<TAB tab-count="1"/>l.<TAB tab-count="1"/>&quot;Post-accident test&quot; shall mean a drug test administered to a driver after a serious accident or series of accidents, as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-607" destination-id="0-0-0-7011">17-607</LINK>, has occurred during his or her operation of a bus or other motor vehicle in the course of his or her employment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29070" number="35329" version="3">
+											<PARA>
+												<TAB tab-count="1"/>m.<TAB tab-count="1"/>&quot;Return to duty test&quot; shall mean a drug test given to a driver who previously tested positive to a drug test and is returning to active duty, and any additional, unannounced drug test administered for a period of up to sixty months after a positive test result.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29071" number="35330" version="3">
+											<PARA>
+												<TAB tab-count="1"/>n.<TAB tab-count="1"/>&quot;Serious accident&quot; shall mean an accident associated with the operation of a bus or other motor vehicle used to transport school children in which an individual dies or must be taken to a medical treatment facility, or in which property damage is estimated to be more than two thousand five hundred dollars.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29072" number="35331" version="3">
+											<PARA>
+												<TAB tab-count="1"/>o.<TAB tab-count="1"/>&quot;Chain of custody procedures&quot; shall mean procedures to account for the integrity of each urine specimen by tracking its handling and storage from point of specimen collection to final disposition of the specimen.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29073" number="35332" version="3">
+											<PARA>
+												<TAB tab-count="1"/>p.<TAB tab-count="1"/>&quot;Medical review officer&quot; shall mean a licensed physician responsible for receiving and interpreting laboratory results generated by a drug testing program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29074" number="35333" version="3">
+											<PARA>
+												<TAB tab-count="1"/>q.<TAB tab-count="1"/>&quot;Positive test result&quot; shall mean that the drug test result shows positive evidence that an illegal drug is present in a driver&apos;s system in a level established by the board of education pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-609" destination-id="0-0-0-7009">17-609</LINK>.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29075" number="35334" version="3">
+											<PARA>
+												<TAB tab-count="1"/>r.<TAB tab-count="1"/>&quot;Pass a drug test&quot; shall mean that a medical review officer has determined, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-609" destination-id="0-0-0-7009">17-609</LINK> herein, that the results of a drug test administered under this chapter: (1) showed no evidence or insufficient evidence of an illegal drug; (2) showed evidence of an illegal drug but there was a legitimate medical explanation for the result; (3) were scientifically insufficient to warrant further action; or (4) were suspect because of irregularities in the administration of the test or observation of chain of custody procedures.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29076" number="35335" version="3">
+											<PARA>
+												<TAB tab-count="1"/>s.<TAB tab-count="1"/>&quot;Active duty&quot; shall mean the operation of a bus or other motor vehicle used for the transportation of school children.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29077" number="35336" version="3">
+											<PARA>
+												<TAB tab-count="1"/>t.<TAB tab-count="1"/>&quot;School year&quot; shall mean the period of time commencing September first and ending on August thirty-first.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29078" number="35337" version="3">
+											<PARA>
+												<TAB tab-count="1"/>u.<TAB tab-count="1"/>&quot;Mobile instructional unit&quot; shall mean a vehicle in which federally mandated educational services are provided to eligible non-public school children pursuant to title I of the Elementary and Secondary Education Act of 1965, as amended.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29079" number="35338" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221008" number="35339" version="1694">
+										<HEADING>§ 17-602 Drug testing of school system drivers.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7013" name="17-602"/>§ 17-602 Drug testing of school system drivers.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29080" number="35340" version="3">
+											<PARA>Every motor carrier shall certify to the board of education that it requires all drivers employed by such motor carrier to submit to pre-employment drug testing, random drug testing, reasonable suspicion drug testing, post-accident drug testing and return to duty drug testing, in accordance with the requirements of this chapter and any rules promulgated pursuant hereto.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29081" number="35341" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221009" number="35342" version="1694">
+										<HEADING>§ 17-603 Prior notice of testing policy.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7015" name="17-603"/>§ 17-603 Prior notice of testing policy.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29082" number="35343" version="3">
+											<PARA>At the beginning of each school year, every motor carrier shall give written notice of its drug testing policy, as provided by the board of education pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-609" destination-id="0-0-0-7009">17-609</LINK>(d)(2) of this chapter, to all drivers employed by it. The written notice shall contain the following information: the need for drug testing; the procedure for confirming an initial positive drug test result; the right to obtain an additional drug test on the same specimen at the driver&apos;s own expense; the consequences pursuant to this chapter of not passing a drug test or refusing to take a drug test; and the right to explain a positive test result.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29083" number="35344" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221010" number="35345" version="1694">
+										<HEADING>§ 17-604 Pre-employment testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7017" name="17-604"/>§ 17-604 Pre-employment testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29084" number="35346" version="3">
+											<PARA>For the purposes of this chapter, a motor carrier shall not hire or assign an individual as a driver unless he or she passes a drug test in accordance with the provisions of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29085" number="35347" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221011" number="35348" version="1694">
+										<HEADING>§ 17-605 Random testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7019" name="17-605"/>§ 17-605 Random testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29086" number="35349" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>All drivers employed by a motor carrier subject to this chapter shall be subject to drug testing on an unannounced and random basis.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29087" number="35350" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>During the school year commencing September 1, 1990 and ending August 31, 1991, every motor carrier shall administer a number of random drug tests equal to twenty-five percent of all drivers employed during that year. For each subsequent school year, every motor carrier shall administer a number of random drug tests equal to fifty percent of all drivers employed by such motor carrier during that year.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29088" number="35351" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Each driver shall be in a pool from which random selection is made. Each driver in the pool shall have an equal chance of selection and shall remain in the pool after he or she has been tested.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29089" number="35352" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A driver shall be selected for drug testing on a random basis by using a scientifically valid random number generation method.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29090" number="35353" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Testing shall be spread through the twelve-month period of the school year.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29091" number="35354" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The board of education shall select the dates and times that random drug tests shall be administered and shall be responsible for the driver selection process required by subdivision d of this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29092" number="35355" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221012" number="35356" version="1694">
+										<HEADING>§ 17-606 Reasonable suspicion testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7021" name="17-606"/>§ 17-606 Reasonable suspicion testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29093" number="35357" version="3">
+											<PARA>Nothing in this chapter shall preclude a motor carrier from administering a drug test when the motor carrier has a reasonable suspicion that a driver is using an illegal drug or when the chancellor of the board of education, or his or her designee, has a reasonable suspicion that a driver is using an illegal drug and requests that a driver take a drug test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29094" number="35358" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221013" number="35359" version="1694">
+										<HEADING>§ 17-607 Post-accident testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7011" name="17-607"/>§ 17-607 Post-accident testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29095" number="35360" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A drug test must be administered to any bus driver who, during the course of his or her employment, (i) is involved in a serious accident while operating a bus or other motor vehicle; or (ii) during any twelve month period, is involved in three or more accidents while operating a bus or other motor vehicle, regardless of the amount of property damage caused or injuries sustained.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29096" number="35361" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The specimen for a post-accident drug test required by this section shall be collected as soon after the accident as is practicable, but not later than thirty-two hours after the accident. In those cases involving testing under paragraph (ii) of subdivision a of this section, the specimen shall be collected in accordance with the requirements of this subdivision after the third accident.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29097" number="35362" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221014" number="35363" version="1694">
+										<HEADING>§ 17-608 Return to active duty testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7023" name="17-608"/>§ 17-608 Return to active duty testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29098" number="35364" version="3">
+											<PARA>A driver who has been removed from active duty pursuant to this chapter may not resume active duty until he or she passes a drug test and the medical review officer has determined the driver is fit to return to active duty. A driver who is tested under this section may be administered one or more unannounced drug tests for up to sixty months after returning to active duty.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29099" number="35365" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221015" number="35366" version="1694">
+										<HEADING>§ 17-609 Drug testing procedures.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7009" name="17-609"/>§ 17-609 Drug testing procedures.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29100" number="35367" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>All drug tests administered pursuant to this chapter shall utilize those reliable screening and confirmatory procedures set forth in rules promulgated by the board of education which are at least as reliable as the enzyme multiplied immunoassay screening test and the gas chromatography/mass spectrometry confirmatory test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29101" number="35368" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>If a sample yields a positive test result, another sample from the same specimen shall be re-tested using a test at least as reliable as the gas chromatography/mass spectrometry test. Such a confirmatory test shall use a portion of the same test specimen collected from the employee for use in the first test. If such confirmatory test yields a positive test result the driver may, at his or her option and expense, have an additional test conducted on a sample from the same specimen by any laboratory eligible to conduct drug testing under this chapter within thirty days of the administration of the original test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29102" number="35369" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>All test results shall be interpreted and verified by a medical review officer employed by the motor carrier. The medical review officer shall be a licensed physician with knowledge of substance abuse disorders and appropriate medical training to interpret and evaluate an individual&apos;s test result together with his or her individual medical history and any other relevant biomedical information.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29103" number="35370" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The medical review officer shall (i) receive the results of all drug tests from the laboratory; (ii) verify that the laboratory report and assessment of all drug test results are reliable and treat the results as confidential until such verification is made; (iii) determine whether an individual passes a drug test; (iv) promptly report all test results to the driver in writing; (v) report each test that does not pass to the individual whom the motor carrier has designated to receive the results and the chancellor of the board of education or his or her designee; (vi) recommend to the motor carrier whether a driver who refused to take or did not pass a drug test administered under this chapter and who passes a subsequent return to active duty test may return to active duty; and (vii) maintain records of all recommendations to the motor carrier concerning removal from or return to active duty and in cases where rehabilitation is not recommended after a confirmed positive test result, the reasons for such recommendation shall be submitted to the chancellor of the board of education or his or her designee.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29104" number="35371" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>When reviewing positive results of a confirmatory test under this section, the medical review officer may consider the individual&apos;s medical history, including any medical records and biomedical information provided, in determining whether there is a legitimate medical explanation for the result, including the use of a legally prescribed medication.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29105" number="35372" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A driver may submit a list of any legally prescribed medication he or she is using to the medical review officer prior to the administration of a drug test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29106" number="35373" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The board of education, in consultation with the department of health and mental hygiene, shall promulgate rules, which to the extent practicable are consistent with the procedures established by the United States department of transportation, to implement this chapter. Such rules shall include initial cutoff levels to be used when screening urine specimens to determine whether they test positive for illegal drugs, chain of custody procedures to account for the integrity of each urine specimen by tracking its handling and storage from point of specimen collection to final disposition, specimen collection procedures, quality assurance and quality control programs, procedures governing the reporting and review of test results and procedures to safeguard the confidentiality of drivers.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29107" number="35374" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The board of education shall provide motor carriers with written guidelines and procedures for the implementation of the drug testing program pursuant to this chapter no later than the effective date of this local law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29108" number="35375" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Motor carriers subject to this chapter shall use only those laboratories certified under the United States department of health and human services mandatory guidelines for federal workplace drug testing programs or approved by the New York state department of health, to execute the drug testing program required by this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29109" number="35376" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Laboratories employed by motor carriers to execute the drug testing program pursuant to this chapter shall report drug test results to the medical review officer in writing within five days after a drug test has been administered. All drug test specimens shall be retained by such laboratories for at least six months.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29110" number="35377" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>Two or more motor carriers may join together for the purpose of employing a medical review officer and/or a laboratory to comply with the requirements of this chapter. Notwithstanding the foregoing, each motor carrier shall be individually responsible for complying with the provisions of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29111" number="35378" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221016" number="35379" version="1694">
+										<HEADING>§ 17-610 Consequences of failure to pass a drug test; refusal to take a drug test.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7025" name="17-610"/>§ 17-610 Consequences of failure to pass a drug test; refusal to take a drug test.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29112" number="35380" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any driver who does not pass a drug test administered pursuant to this chapter shall immediately be removed from active duty. The medical review officer may, where appropriate, recommend rehabilitation or other treatment programs. No driver shall return to active duty unless he or she submits proof of successful completion of a rehabilitation program or other recommended treatment and passes a return to active duty drug test as required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-608" destination-id="0-0-0-7023">17-608</LINK>.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29113" number="35381" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any driver who does not pass a drug test shall receive within ten days of the confirmatory test, together with written notification of his or her test result, written notice of the right to undergo an additional drug test performed on a sample of the same specimen, at his or her option and expense, within thirty days after the administration of the original drug test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29114" number="35382" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any driver who refuses to take a drug test shall immediately be removed from active duty for a period of at least one year and shall not return to active duty until passing a return to active duty drug test as required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-608" destination-id="0-0-0-7023">17-608</LINK>.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29115" number="35383" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221017" number="35384" version="1694">
+										<HEADING>§ 17-611 Recordkeeping and reporting.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7027" name="17-611"/>§ 17-611 Recordkeeping and reporting.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29116" number="35385" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Motor carriers shall designate an individual or individuals to serve as drug testing program designees to ensure compliance with this chapter. The designees shall be responsible for the implementation of the drug testing program and maintaining all records related to the administration of drug tests. Motor carriers shall retain records related to the collection process and reports of individuals who have not passed a drug test for at least five years and records of individuals who have passed a drug test for at least one year.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29117" number="35386" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The medical review officer shall maintain records of individuals who have not passed a drug test for at least five years and the records of individuals who have passed a drug test for at least one year.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29118" number="35387" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A motor carrier shall permit the chancellor of the board of education or his or her designee to examine all records relating to the administration and results of the drug testing program established by such motor carrier pursuant to this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29119" number="35388" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A motor carrier shall promptly give written notice to the chancellor of the board of education or his or her designee whenever a driver is removed from active duty or returned to active duty pursuant to this chapter. Such written notice shall include the driver&apos;s name and the date of removal from or return to active duty.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29120" number="35389" version="1779">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>A motor carrier shall submit semi-annual reports to the board of education on April first and October first of each year summarizing the following information for the periods from September first through March first and March second through August thirty-first, respectively:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29121" number="35390" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The total number of drug tests administered;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29122" number="35391" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The number of drug tests administered and the dates of administration in each testing category (i.e., pre-employment, post-accident, reasonable suspicion, random, and return to duty);</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29123" number="35392" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The number of post-accident drug tests administered and the dates of administration in each accident category (i.e., fatal, personal injury, property damage or three accidents);</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29124" number="35393" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>For post-accident tests, the number of hours between the accident and the collection of a urine specimen;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29125" number="35394" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The total number of individuals who did not pass a drug test; (6) The number of individuals who did not pass a drug test by testing category;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29126" number="35395" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The number of individuals who did not pass a post-accident drug test by accident category;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29127" number="35396" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The action taken by the motor carrier with respect to each individual who did not pass a drug test;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29128" number="35397" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the immunoassay screening test in a sufficient quantity to warrant a confirmatory test;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29129" number="35398" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(10)<TAB tab-count="1"/>The total number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the confirmatory test in a sufficient quantity to be reported as positive to the medical review officer;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29130" number="35399" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(11)<TAB tab-count="1"/>The number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the confirmatory test in a sufficient quantity to be reported as positive by the medical review officer;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29131" number="35400" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(12)<TAB tab-count="1"/>Such other relevant information as the board of education shall require.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29132" number="35401" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The first semi-annual report required by this section shall be due on April 1, 1991.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29133" number="35402" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221018" number="35403" version="1694">
+										<HEADING>§ 17-612 Certification of compliance.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7029" name="17-612"/>§ 17-612 Certification of compliance.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29134" number="35404" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A motor carrier shall certify to the board that it has established a drug testing program as required by the provisions of this chapter. Such certification shall be submitted to the board of education no later than one month after the effective date of this chapter, and annually thereafter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29135" number="35405" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The text of the certification required by this section shall be as follows: I, [name], [title], certify that [name of motor carrier] has established and implemented a drug-testing program in accordance with the terms of chapter 6 of Title 17 of the administrative code of the city of New York. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29136" number="35406" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221019" number="35407" version="1694">
+										<HEADING>§ 17-613 Termination of contracts.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7031" name="17-613"/>§ 17-613 Termination of contracts.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29137" number="35408" version="3">
+											<PARA>The board of education may terminate the contract of any motor carrier that does not comply with the provisions of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29138" number="35409" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221020" number="35410" version="1694">
+										<HEADING>§ 17-614 No abrogation of rights.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7033" name="17-614"/>§ 17-614 No abrogation of rights.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29139" number="35411" version="3">
+											<PARA>Nothing contained in this chapter shall limit any right of a motor carrier to terminate or otherwise discipline any of its drivers who fail to pass a drug test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29140" number="35412" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-221021" number="35413" version="1694">
+										<HEADING>§ 17-615 Costs.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7035" name="17-615"/>§ 17-615 Costs.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29141" number="35414" version="3">
+											<PARA>The costs associated with drug testing shall be borne by the motor carriers.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29142" number="35415" version="1694">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1989/104" destination-id="0-0-0-26904">L.L. 1989/104</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-141755" number="16383" version="2590">
+			<HEADING>Chapter 64: Pyrophoric Materials</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-18158" name="T03C064"/>Chapter 64: Pyrophoric Materials</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-140049" number="16384" version="2576">
+				<PARA>
+					<PARAFORMAT justify="center">(Added City Record 9/20/2023, eff. 10/20/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140066" number="16385" version="2590">
+								<HEADING>§ 6401 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18804" name="T03C064_6401"/>§ 6401 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-141756" number="16386" version="2590">
+								<HEADING>§ 6402 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18806" name="T03C064_6402"/>§ 6402 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-141757" number="16387" version="2590">
+								<HEADING>§ 6403 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18808" name="T03C064_6403"/>§ 6403 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-141758" number="16388" version="2590">
+								<HEADING>§ 6404 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18810" name="T03C064_6404"/>§ 6404 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-141759" number="16389" version="2590">
+								<HEADING>§ 6405 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18812" name="T03C064_6405"/>§ 6405 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-141760" number="16390" version="2590">
+								<HEADING>§ 6406 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18814" name="T03C064_6406"/>§ 6406 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

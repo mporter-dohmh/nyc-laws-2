@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-4186" number="5432" version="3">
+			<HEADING>Chapter 4: Jurors</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1843" name="T07C004"/>Chapter 4: Jurors</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4187" number="5433" version="3">
+										<HEADING>§ 7-401 Jurors fees. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1845" name="7-401"/>§ 7-401 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Jurors fees. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4188" number="5434" version="3">
+											<PARA>In pursuance of section five hundred twenty-one of the judiciary law, it is hereby directed that the sum of twelve dollars be allowed to each grand juror and each trial juror for each day&apos;s necessary attendance as such a juror at a term of any court of record of civil or criminal jurisdiction held within the city of New York; provided, however, that no such juror shall be so paid for attendance on any day on which the juror shall be excused from service at his or her own request.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4189" number="5435" version="3">
+										<HEADING>§ 7-402 Fees to grand jurors. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1847" name="7-402"/>§ 7-402 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fees to grand jurors. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4190" number="5436" version="3">
+											<PARA>Pursuant to section five hundred twenty-one of the judiciary law, where the term of a grand jury is extended by an order of the court, the sum of twelve dollars shall be allowed to each grand juror for each day&apos;s necessary attendance by such grand juror during such extended term.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-4191" number="5437" version="3">
+										<HEADING>§ 7-403 Fees to grand jurors of extraordinary terms. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1849" name="7-403"/>§ 7-403 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fees to grand jurors of extraordinary terms. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-4192" number="5438" version="3">
+											<PARA>Pursuant to section five hundred twenty-one of the judiciary law, where a grand jury has been, or will hereafter be, empaneled to serve at an extraordinary and trial term of the supreme court of this state in any county within the city of New York, and where the term of such a grand jury continues for a period longer than thirty days from the date when such grand jury was empaneled and sworn, the sum of twelve dollars shall be allowed to each member of such grand jury for each day&apos;s necessary attendance as a grand juror from and after the expiration of such thirty-day period and until such grand jury shall have been discharged by the court.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,1291 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-136068" number="96968" version="2357">
+			<HEADING>Chapter 21: Required Registration of Short-Term Rentals</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-17780" name="T43C021"/>Chapter 21: Required Registration of Short-Term Rentals</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136070" number="96969" version="2357">
+								<HEADING>§ 21-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17784" name="T43C021_21-01"/>§ 21-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136071" number="96970" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administering agency.</CHARFORMAT> The term &quot;administering agency&quot; means the Office of Special Enforcement, as established under executive order number 96 for the year 2006, or such other agency as subsequently designated by mayoral executive order.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136072" number="96971" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Booking Service.</CHARFORMAT> The term &quot;booking service&quot; has the meaning ascribed to such term by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-2101" destination-id="0-0-0-0">26-2101</LINK> of the NYC Administrative Code, as added by local law number 146 for the year 2018.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136073" number="96972" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building.</CHARFORMAT> The term &quot;building&quot; means a building as defined in the New York city construction codes that is located in the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136074" number="96973" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Class A multiple dwelling.</CHARFORMAT> The term &quot;class A multiple dwelling&quot; shall have the meaning ascribed to such term in the housing maintenance code, except that for the purposes of these rules the term class A multiple dwelling shall also be deemed to include &quot;interim multiple dwelling&quot; as defined in section 281 of the multiple dwelling law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136075" number="96974" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Class B multiple dwelling.</CHARFORMAT> The term &quot;class B multiple dwelling&quot; has the meaning ascribed to such term by subchapter 1 of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136076" number="96975" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dwelling unit.</CHARFORMAT> The term &quot;dwelling unit&quot; has the meaning ascribed to such term by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2004" destination-id="0-0-0-0">27-2004</LINK> of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136077" number="96976" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Listing.</CHARFORMAT> The term &quot;listing&quot; means an advertisement on a booking service that offers a short-term rental.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136078" number="96977" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Listing identifier.</CHARFORMAT> The term &quot;listing identifier&quot; means a unique identification number assigned by the booking service to each listing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136079" number="96978" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Material fact.</CHARFORMAT> A &quot;material fact&quot; is a fact stated or omitted in connection with the filing of an application for, or renewal of, a short-term rental registration made pursuant to these rules and NYC Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3102" destination-id="0-0-0-0">26-3102</LINK>, and that has a natural tendency to influence, or was capable of influencing, the administering agency&apos;s decisions relating to such application or renewal. For the purposes of this chapter an assertion of understanding a provision of law or a statement of intent to comply with a provision of law or this chapter shall not be considered to be a material fact.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136080" number="96979" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Material false statement.</CHARFORMAT> A &quot;material false statement&quot; is any false or misleading representation of material fact, or the failure to state a material fact, if such use of, or failure to state, has a natural tendency to influence, or was capable of influencing, the administering agency&apos;s decisions relating to an application for, amendment of, or renewal of, a short-term rental registration made pursuant to these rules and NYC Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3102" destination-id="0-0-0-0">26-3102</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136081" number="96980" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Owner.</CHARFORMAT> The term &quot;owner&quot; has the meaning ascribed to such term by the housing maintenance code, except that for the purposes of this chapter shall not be construed to include a tenant in legal possession of a dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136082" number="96981" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permanent Occupant.</CHARFORMAT> The term &quot;permanent occupant&quot; shall mean a natural person or a family occupying a dwelling unit for 30 consecutive days or more, except that a boarder, roomer, or lodger shall not be considered a permanent occupant for the purposes of this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136083" number="96982" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Private dwelling.</CHARFORMAT> The term &quot;private dwelling&quot; shall have the meaning ascribed to such term by subchapter 1 of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136084" number="96983" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registered host or host.</CHARFORMAT> The term &quot;registered host&quot; or &quot;host&quot; means a natural person who is a permanent occupant of a dwelling unit registered in accordance with these rules and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the NYC Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136085" number="96984" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rentee.</CHARFORMAT> The term &quot;rentee&quot; means a boarder, roomer, or lodger, as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 202" destination-id="0-0-0-0">BC 202</LINK> of the New York city building code, involved in a short-term rental.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136086" number="96985" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rooming unit.</CHARFORMAT> The term &quot;rooming unit&quot; shall have the meaning ascribed to such term by subchapter 1 of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136087" number="96986" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short-term rental.</CHARFORMAT> The term &quot;short-term rental&quot; means a rental for fewer than 30 consecutive days of a dwelling unit within a private dwelling or class A multiple dwelling, or in the case of a mixed-use building, a rental of a class A dwelling unit therein for fewer than 30 consecutive days.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136088" number="96987" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short-term rental registration number.</CHARFORMAT> The term &quot;short-term rental registration number&quot; means a registration number issued by the administering agency in accordance with the registration of a dwelling unit pursuant to these rules and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the NYC Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136089" number="96988" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136423" number="96989" version="2357">
+								<HEADING>§ 21-02 Short-term rental registration required.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17786" name="T43C021_21-02"/>§ 21-02 Short-term rental registration required.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136090" number="96990" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>A person who owns, manages, occupies, or otherwise controls a dwelling unit shall not offer, manage, or administer short-term rentals of such dwelling unit or portion thereof unless such dwelling unit is registered with the administering agency, such dwelling unit has been issued a unique short-term rental registration number, and such registration is currently valid.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136091" number="96991" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>A person who owns, manages, occupies, or otherwise controls a dwelling unit shall not falsely represent or falsely advertise that a dwelling unit is registered for short-term rental when such a dwelling unit is not registered for short-term rental.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136092" number="96992" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>The requirements of this chapter do not apply to the short-term rental of class B multiple dwellings or class B dwelling units within mixed use buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136093" number="96993" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136422" number="96994" version="2357">
+								<HEADING>§ 21-03 Short-term rental registration application and approval procedures.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17788" name="T43C021_21-03"/>§ 21-03 Short-term rental registration application and approval procedures.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136094" number="96995" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>To register a dwelling unit for short-term rentals, an applicant shall file a completed short-term rental application in accordance with the requirements of this section and meet all other requirements herein. An applicant must be a permanent occupant of the dwelling unit. An applicant may not apply for more than one short-term rental registration number. An applicant may not host short-term rentals in more than one dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136095" number="96996" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Applications may be completed using an online registration portal accessible from the administering agency&apos;s website.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136096" number="96997" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>An applicant must provide the following information as part of their application for short-term rental registration:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136097" number="96998" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Full legal name;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136098" number="96999" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>A current phone number;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136099" number="97000" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>Full physical address where short-term rental will take place, including street number, street name, zip code, borough, and unit number where there is more than one dwelling unit in the building;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136100" number="97001" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>An email address that will be used to receive communication from the administering agency, or other alternate means of communication acceptable to the administering agency;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136101" number="97002" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>Type of dwelling unit, where known to the applicant (e.g., single family building, apartment in a two family building, apartment in a building with 3+ units, condominium, apartment in a co-op building);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136102" number="97003" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>f.<TAB tab-count="1"/>The number of individuals not related by blood, adoption, legal guardianship, marriage or domestic partnership that reside with the registrant in the unit.;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136103" number="97004" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>g.<TAB tab-count="1"/>The uniform resource locator or listing identifier and the associated booking service name for all existing listings of the dwelling unit; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136104" number="97005" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>h.<TAB tab-count="1"/>Whether the applicant is a tenant or owner of the dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136105" number="97006" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>An applicant may provide a chosen name or preferred name other than their legal name for use by the administering agency in communicating with the applicant, and may indicate if the chosen or preferred name is the name on file with booking services used by the applicant. Where the chosen or preferred name is indicated as such, the administering agency shall allow for the use of such name in conducting verifications by booking services pursuant to NYC Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3202" destination-id="0-0-0-0">26-3202</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136109" number="97007" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>Applicants that are tenants shall also provide the portion of their lease that describes the period of tenancy, the address of the unit of housing, and the names and signatures of the parties to the lease. If the applicant does not have a lease, the administering agency may accept other documentation that establishes the period for which the applicant is legally entitled to occupancy. The agency may, at its sole discretion, accept a written statement that provides the information and explains why documentation is not available.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136110" number="97008" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>As part of the application process, an applicant shall be required to prove their identity by providing to the administering agency a copy of one of the following unexpired documents:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136111" number="97009" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Driver&apos;s license or State-issued ID;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136112" number="97010" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>U.S. Passport or U.S. Passport card;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136113" number="97011" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>U.S. Military ID;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136114" number="97012" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>Permanent Resident Card or Employment Authorization card issued by the United States Government;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136115" number="97013" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>A foreign passport or driver&apos;s license;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136116" number="97014" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>f.<TAB tab-count="1"/>IDNYC card; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136117" number="97015" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>g.<TAB tab-count="1"/>Other forms of proof that the administering agency determines are acceptable and indicates as such by including such information on the agency&apos;s website.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136118" number="97016" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>The administering agency may, at its sole discretion, accept such other proof not listed above where an applicant does not have any of the listed identity documents.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136119" number="97017" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>As part of the application process, an applicant shall be required to prove their permanent occupancy by providing to the administering agency a copy of a document from at least two of the following categories showing the applicant&apos;s name and the address the applicant is seeking to register:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136120" number="97018" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Utility bill, dated within the last 60 days (e.g., telephone, gas, electric, cable, or water);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136121" number="97019" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Correspondence from any government agency that shows home address;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136122" number="97020" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>A voter registration card;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136123" number="97021" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>A social security statement;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136124" number="97022" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>A bank statement dated within the last 60 days;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136125" number="97023" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>f.<TAB tab-count="1"/>An automobile registration documentation;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136126" number="97024" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>g.<TAB tab-count="1"/>Income tax form for the last calendar year;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136127" number="97025" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>h.<TAB tab-count="1"/>Insurance documentation or insurance bill that shows home address;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136128" number="97026" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>i.<TAB tab-count="1"/>Current (active) license or permit or certificate issued by a City/State/Federal government agency that shows home address;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136129" number="97027" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>j.<TAB tab-count="1"/>College or school correspondence that shows home address;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136130" number="97028" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>k.<TAB tab-count="1"/>A w-2 from the most recent tax filing period;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136131" number="97029" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>l.<TAB tab-count="1"/>Official payroll documentation that includes home address issued by an employer within the past 60 days, such as a paystub with home address, a form submitted for tax withholding purposes, or payroll receipt; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136132" number="97030" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>m.<TAB tab-count="1"/>other forms of proof that the administering agency determines are acceptable and indicates as such by including such information on the agency&apos;s website.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136133" number="97031" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>Any document listed in this paragraph that contains financial information or personal identifying information about an individual that is not the applicant may be redacted by the applicant such that the financial information or personal information of a non-applicant is not visible, and the administering agency shall accept the documents unless the redaction interferes with its ability to confirm the authenticity of the documentation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136134" number="97032" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>8.<TAB tab-count="1"/>As part of the application process, an applicant shall be required to certify that they understand and agree to comply with applicable provisions of the zoning resolution, multiple dwelling law, housing maintenance code, New York city construction codes and other laws and rules relating to the short-term rental of dwelling units in private dwellings and class A multiple dwellings, or in class A dwelling units within mixed use buildings including but not limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136135" number="97033" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>New York City Administrative Code, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-118" destination-id="0-0-0-0">Title 28, Articles 118</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-210" destination-id="0-0-0-0">210</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-301" destination-id="0-0-0-0">301</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-701" destination-id="0-0-0-0">701</LINK> (section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 310" destination-id="0-0-0-0">BC 310</LINK>);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136136" number="97034" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>New York City Administrative Code, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="t27c001" destination-id="0-0-0-0">Title 27, Chapter 1</LINK>, Subchapter 3, Article 18;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136137" number="97035" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>New York City Building Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 310" destination-id="0-0-0-0">310</LINK>;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136138" number="97036" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>New York City Housing Maintenance Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2004" destination-id="0-0-0-0">27-2004</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2057" destination-id="0-0-0-0">27-2057</LINK> - <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2088" destination-id="0-0-0-0">27-2088</LINK>; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136139" number="97037" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>Multiple Dwelling Law §§ 4(8), 121, 248.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136140" number="97038" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>9.<TAB tab-count="1"/>As part of the application process, an applicant shall be required to certify that they understand and agree to comply with the section of this chapter entitled &quot;Registered host requirements&quot;.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136141" number="97039" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>10.<TAB tab-count="1"/>The applicant shall be required to certify and agree that any listing of a dwelling unit with a booking service shall be reported to the administering agency prior to such listing being used to make an agreement for short-term rental.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136142" number="97040" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>11.<TAB tab-count="1"/>An applicant who is a tenant of the dwelling unit that is the subject of the short-term rental application shall be required to certify that they are not prohibited by the terms of a lease or other agreement from applying for a short-term rental registration for the dwelling unit and from subsequently acting as host for short-term rentals within such dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136143" number="97041" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>12.<TAB tab-count="1"/>An applicant who is a tenant of the dwelling unit that is the subject of the short-term rental application shall be required to acknowledge that they understand that the owner of record of the dwelling unit and of the building will be notified that an application for a short-term rental registration has been received.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136144" number="97042" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>13.<TAB tab-count="1"/>The application fee for registration shall be $145. Payments shall be required at the time the application is submitted. The applicant will be required to acknowledge that the application fee is non-refundable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136145" number="97043" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>14.<TAB tab-count="1"/>Prior to requiring payment, the applicant shall indicate their understanding that the administering agency is required by NYC Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3105" destination-id="0-0-0-0">26-3105</LINK> to publish on the city open data portal, for all registrations: the registration number; the uniform resource locators associated with such registration; the address and unit number of the dwelling unit, including latitude and longitude; the status of the registration, including active or revoked; and the expiration date of the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136146" number="97044" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>15.<TAB tab-count="1"/>When an application for short-term rental is complete and submitted, the applicant will receive an email confirmation to the email address provided in the application, notifying the applicant that the application is under review.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136147" number="97045" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>16.<TAB tab-count="1"/>Upon receipt of a complete application, the administering agency shall notify the owner of record of the dwelling unit and of the building, that an application for a short-term rental registration has been received. The notification shall include information about applying for inclusion on the prohibited buildings list. The notification shall not include any additional personal identifying information about the applicant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136148" number="97046" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>17.<TAB tab-count="1"/>If any information submitted in an application changes while the administering agency is reviewing such application, the applicant must notify the administering agency and provide updated information.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136149" number="97047" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>18.<TAB tab-count="1"/>Upon approving an application, the administering agency shall provide a short-term rental registration certificate that will include the full address associated with the registration, a unique short-term rental registration number, an expiration date, and a phone number to call in the event of an emergency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136150" number="97048" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>19.<TAB tab-count="1"/>Issuance of a registration for a dwelling unit pursuant to this chapter shall not be construed as permission for or approval of the use of such dwelling unit for any occupancy that would be in violation of a lease, cooperative bylaws, condominium association rules and regulations, the multiple dwelling law, the zoning resolution, the New York city construction codes, the housing maintenance code or any other applicable rules, regulations, or laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136151" number="97049" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>20.<TAB tab-count="1"/>Issuance of a registration does not alter and may not be deemed to alter the legal occupancy or zoning use group of a building or portion thereof as described in the certificate of occupancy or as otherwise determined by the department of buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136152" number="97050" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136421" number="97051" version="2357">
+								<HEADING>§ 21-04 Incomplete applications.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17790" name="T43C021_21-04"/>§ 21-04 Incomplete applications.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136153" number="97052" version="2357">
+									<PARA>Where the administering agency determines that a submitted application is not sufficient to be approved, it shall notify the applicant of the necessary documents or information needed to complete the review of the application. If additional information for registration is required, the administering agency will request such information at the email address provided as part of the application, or by alternate method where approved by the administering agency. If the information needed to evaluate the application is not received within 30 days, the application will be rejected. Upon application the administering agency may grant an extension for good cause.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136154" number="97053" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136420" number="97054" version="2357">
+								<HEADING>§ 21-05 Term of registration; expiration of registration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17792" name="T43C021_21-05"/>§ 21-05 Term of registration; expiration of registration.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136155" number="97055" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>a.<TAB tab-count="1"/>The term of the registration shall be four years, except as provided in subdivision b.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136159" number="97056" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>In a case where the applicant&apos;s right to occupy the dwelling unit will terminate in less than four years, the administering agency shall set a registration expiration date that is the end date of the period that the applicant has demonstrated they have a right of occupancy.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136160" number="97057" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Where the registration expiration date is shorter than four years based on the demonstrated date of a right to occupy the dwelling unit, the registered host may at any time during the registration term provide the administering agency proof that their right of occupancy period has been extended. There shall be no additional fee for requesting such an extension. If the administering agency finds such proof acceptable, the administering agency shall provide a new expiration date that shall be the shorter of either:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136161" number="97058" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Four years from the original issuance date; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136162" number="97059" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>the end date of the period that the applicant has demonstrated they have a right of occupancy.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136163" number="97060" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>Immediately upon expiration of a short-term rental registration number or if the host is no longer the permanent occupant of the registered dwelling unit, the host must cease booking the rental unit on all applicable booking services platforms and must cancel all pending reservations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136164" number="97061" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136419" number="97062" version="2357">
+								<HEADING>§ 21-06 Amendment of a short-term rental registration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17794" name="T43C021_21-06"/>§ 21-06 Amendment of a short-term rental registration.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136165" number="97063" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>If any information, other than the phone number or email address, required by 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021_21-03" destination-id="0-0-0-17788">21-03</LINK> that was provided by a registered host in connection with an application for a short-term rental registration changes before the expiration of such registration, such registered host must submit a request to the administering agency to amend the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136166" number="97064" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such request must be submitted, in the same manner as the application was made, to the administering agency within 15 business days of the change absent extenuating circumstance, along with any applicable supporting documentation of the change or circumstance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136167" number="97065" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>Prior to using any listing not disclosed to the administering agency prior to receiving a registration, the registered host shall provide the uniform resource locator or listing identifier of any listing and the associated booking service name for the listing and request that the administering agency amend the registration to include such listing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136168" number="97066" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>The administering agency shall review each request for amendment to ensure that the amendment would not violate the provisions of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the Administrative Code or these rules, or otherwise result in unlawful activity under the registration. The administering agency may request additional information from the registered host as necessary to make a determination.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136169" number="97067" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>The administering agency shall issue a final agency determination regarding such request for amendment within a reasonable timeframe.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136170" number="97068" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>Where the information provided in the request for amendment would support revocation of the registration or would form the basis of a violation of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the Administrative Code or these rules, the administering agency shall offer an opportunity to terminate the registration voluntarily within 10 days before issuing violations or taking enforcement action based on the requested amendment. Where the requested amendment is solely the addition of a listing that the administering agency determines to offer illegal occupancy, the administering agency may also offer the opportunity to amend or withdraw that listing in lieu of voluntary termination of the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136171" number="97069" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136418" number="97070" version="2357">
+								<HEADING>§ 21-07 Renewal of a short-term rental registration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17796" name="T43C021_21-07"/>§ 21-07 Renewal of a short-term rental registration.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136172" number="97071" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>A short-term rental registration may be renewed by filing an application for renewal using the online registration portal accessible through the administering agency&apos;s website. Renewals will be accepted beginning 180 days before the expiration of a host&apos;s current registration. A renewal that is approved before the expiration of the registration period will be effective on the date of the expiration of the original registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136173" number="97072" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>As part of the application for renewal, the registered host must:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136174" number="97073" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Affirm that all information previously provided in an application for registration or renewal, or previously provided as a required update, remains true and accurate or update such information in accordance with paragraph (b) of this subdivision;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136175" number="97074" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Provide adequate documentation to satisfy the application requirements where a document previously provided has either expired or is no longer recent enough to satisfy the requirements; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136176" number="97075" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>Certify that they have maintained a record of each short-term rental transaction in accordance with subdivision 5 of 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021_21-10" destination-id="0-0-0-17802">21-10</LINK> below.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136177" number="97076" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>The renewal fee will be the same as the application fee. Payments shall be required at the time the application for renewal is submitted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136178" number="97077" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>If the information provided by an applicant in connection with a renewal changes before the renewal application is granted or denied, the applicant must immediately notify the administering agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136179" number="97078" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>Renewal of a registration for a dwelling unit pursuant to this chapter shall not be construed as permission for or approval of the use of such dwelling unit for any occupancy that would be in violation of a lease, cooperative bylaws, condominium association rules and regulations, the multiple dwelling law, the zoning resolution, the New York city codes, the housing maintenance code or any other applicable rules, regulations, or laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136180" number="97079" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>Renewal of a registration does not alter and may not be deemed to alter the legal occupancy or zoning use group of a building or portion thereof as described in the certificate of occupancy or as otherwise determined by the department of buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136181" number="97080" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136417" number="97081" version="2357">
+								<HEADING>§ 21-08 Denial of a short-term rental registration or renewal.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17798" name="T43C021_21-08"/>§ 21-08 Denial of a short-term rental registration or renewal.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136182" number="97082" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>No short-term rental registration shall be issued or renewed for a dwelling unit where the administering agency has determined that, in accordance with the records of the department of buildings, the department of housing preservation and development and the fire department, there are uncorrected violations of the New York city construction codes, the housing maintenance code, or the fire code that would endanger occupants of such dwelling unit, including but not limited to where:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136183" number="97083" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>There is an uncorrected violation that is based on the condition of the dwelling unit sought to be registered, and such violation is a Class 1 violation of the New York city construction codes, or a Class C violation of the housing maintenance code;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136184" number="97084" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>There is an uncorrected violation of the fire code;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136185" number="97085" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>There is an uncorrected violation for Work without a Permit pursuant to the New York city construction codes that is based on the condition of the dwelling unit sought to be registered;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136186" number="97086" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>The dwelling unit is subject to a vacate order by any city agency, or to a stop work order issued by the department of buildings; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136187" number="97087" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>There is an uncorrected violation for Failure to File a Required Tenant Protection Plan pursuant to the New York city construction codes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136188" number="97088" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>The administering agency&apos;s determination of which violations would endanger occupants of a dwelling unit are made exclusively for the purposes of determining whether to grant a registration or renewal and shall not be binding on or attributed to any other agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136189" number="97089" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>No short-term rental registration or renewal shall be issued unless the administering agency has verified that the occupancy classification of the dwelling unit allows residential occupancy.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136190" number="97090" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>No short-term rental registration or renewal shall be issued for a dwelling unit in a New York city housing authority development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136191" number="97091" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>No short-term rental registration shall be issued or renewed for a rooming unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136192" number="97092" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>No short-term registration shall be issued or renewed for the short-term rental of a dwelling unit the rent of which is regulated in accordance with the emergency tenant protection act of 1974, the rent stabilization law of 1969, the local emergency housing rent control act of 1962, sections four hundred and twenty-one-a or four hundred eighty-nine of the real property tax law, in a housing development organized pursuant to article two of the private housing finance law and supervised by the department of housing preservation and development, or any other law or rule or an agreement with a governmental entity.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136193" number="97093" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>No short-term rental registration shall be issued or renewed for a dwelling unit in a building included on the prohibited buildings list.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136194" number="97094" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>No short-term rental registration shall be renewed while a revocation proceeding has been initiated by the administering agency and remains pending.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136195" number="97095" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>8.<TAB tab-count="1"/>The administering agency shall not approve a registration or renewal application that includes any listing or listing identifier that advertises illegal occupancy, including listings that offer or appear to offer the unhosted rental of an entire unit or that offers or appears to offer occupancy to more than the lawful number of roomers, boarders, or lodgers permitted by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2004" destination-id="0-0-0-0">27-2004</LINK> of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136198" number="97096" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>9.<TAB tab-count="1"/>The administering agency may refuse to approve a registration or renewal application where such applicant was previously issued a registration pursuant to this chapter and such registration was revoked pursuant to 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021_21-13" destination-id="0-0-0-17808">21-13</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136199" number="97097" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>10.<TAB tab-count="1"/>The administering agency may refuse to approve a registration or renewal application where such applicant has been determined to have committed any of the acts which would be a basis for the revocation of a registration pursuant to 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021_21-13" destination-id="0-0-0-17808">21-13</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136200" number="97098" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>11.<TAB tab-count="1"/>No short-term registration shall be renewed until all fines imposed pursuant to these rules or N.Y.C. Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3104" destination-id="0-0-0-0">26-3104</LINK> have been paid.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136201" number="97099" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>12.<TAB tab-count="1"/>Prior to denying an application, the administering agency shall review the reasons for potential denial in accordance with the grounds for denial set forth in this section. Where all such reasons are for criteria that can be resolved through correction by the applicant, the agency shall not deny the application outright, but shall notify the applicant of the basis for denial and provide the applicant 90 days to resolve the conditions that would otherwise warrant rejection. After the expiration of the 90-day period, the application shall be denied unless all identified bases for denial are resolved to the satisfaction of the administering agency. During the 90-day period, upon notice from the applicant that the basis for potential denial has been resolved, the administering agency shall resume its review of the application. If the conditions continue to warrant denial, the applicant shall be notified and have the remainder of the 90 days to resolve the conditions. Upon application the administering agency may provide an extension of the 90 days for good cause.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136202" number="97100" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>13.<TAB tab-count="1"/>If an application is denied, the administering agency will notify the applicant and include all reasons for rejecting the application in accordance with the grounds for denial. This rejection shall constitute a final agency action.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136203" number="97101" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136416" number="97102" version="2357">
+								<HEADING>§ 21-09 Prohibited buildings list.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17800" name="T43C021_21-09"/>§ 21-09 Prohibited buildings list.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136204" number="97103" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>The administering agency shall create and maintain a prohibited buildings list, which shall contain the address of each building whose owner, including any applicable board of a cooperative or condominium corporation, has notified the agency that no short-term rental of any dwelling unit within the building is permitted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136205" number="97104" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>To be added to such prohibited buildings list, a building owner, including any applicable board of a cooperative or condominium corporation, or the manager or agent of such building or board, must submit an online application to the administering agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136206" number="97105" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>When submitting an application pursuant to subdivision (2) of this section, the applicant shall be required to provide:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136207" number="97106" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The name of a natural person making the application;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136208" number="97107" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>A working phone number for the applicant;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136209" number="97108" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>An email address for the applicant;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136210" number="97109" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>The address of the building the applicant seeks to add to the list;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136211" number="97110" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>An explanation of the relationship between the owner and the applicant; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136212" number="97111" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>f.<TAB tab-count="1"/>Any proof or documentation requested by the administering agency to substantiate the request where the administering agency has cause to require further verification.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136213" number="97112" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>The applicant must certify that leases and other occupancy agreements for dwelling units within the building prohibit short-term rentals.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136214" number="97113" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>The administering agency shall send a letter to the owner of record whenever it receives an application for inclusion on the prohibited buildings list.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136215" number="97114" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>Inclusion or lack of inclusion on such list does not alter and may not be deemed to alter the legal occupancy or zoning use group of a building or portion thereof as described in the certificate of occupancy or as otherwise determined by the department of buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136216" number="97115" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>The administering agency will publish the list of prohibited buildings on the city&apos;s open data website. The list shall be updated in as close to real time as practicable and published in the same location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136217" number="97116" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>8.<TAB tab-count="1"/>Application to remove a building from the prohibited buildings list shall be made by using an online application accessible from the administering agency&apos;s website. A building owner, including any applicable board of a cooperative or condominium corporation, or the manager or agent of such building or board, shall be required to provide:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136218" number="97117" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>the name of a natural person making the application;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136219" number="97118" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>A working phone number for that applicant;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136220" number="97119" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>An email address for the applicant;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136221" number="97120" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>The address of the building the applicant seeks to remove from the list;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136222" number="97121" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>An explanation of the relationship between the owner and the applicant; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136223" number="97122" version="2358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>f.<TAB tab-count="1"/>A statement describing the basis for removal from the list.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136224" number="97123" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>9.<TAB tab-count="1"/>The administering agency shall add to the prohibited buildings list all buildings the administering agency is aware of that are precluded from registration based on subdivisions 3, 4, and 5 of 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021_21-08" destination-id="0-0-0-17798">21-08</LINK>, and indicate the basis for inclusion. The administering agency shall deny all applications to remove such building from such list unless it discovers that the basis for inclusion has changed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136225" number="97124" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136415" number="97125" version="2357">
+								<HEADING>§ 21-10 Registered host requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17802" name="T43C021_21-10"/>§ 21-10 Registered host requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136226" number="97126" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>No person shall operate a short-term rental in violation of provisions of the zoning resolution, multiple dwelling law, housing maintenance code, and New York city construction codes relating to the short-term rental of dwelling units in private dwellings and class A multiple dwellings, or in class A dwelling units within mixed use buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136227" number="97127" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>During each short-term rental, a registered host must conspicuously post and maintain within the dwelling unit a diagram indicating all exit routes from the unit. Where the building contains more than one unit, such diagram must also indicate all exit routes from the building.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136228" number="97128" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>During each short-term rental, a registered host must conspicuously post and maintain, within the dwelling unit, a copy of the short-term rental registration certificate provided by the administering agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136229" number="97129" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>A registered host must provide the short-term rental registration number in all advertisements or offers for short-term rental. The information in each listing must match the information provided to the administering agency in the application associated with such registration number.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136230" number="97130" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>A registered host shall retain a record of each short-term rental for at least seven years. Each record shall include the following information:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136231" number="97131" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The uniform resource locator or listing identifier used to create the rental;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136232" number="97132" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>The booking start date;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136233" number="97133" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>The total number of nights that the dwelling unit or housing accommodation was rented as a short-term rental;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136234" number="97134" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>The number of persons accommodated by the short-term rental; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136235" number="97135" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>The total amount of rent received by the host.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136236" number="97136" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>If a booking service can provide a report to a registered host that meets the criteria of this subsection, the registered host does not need to maintain the records separately. If the booking service does not provide reports that meet the criteria above, the host must maintain the required record in a digital spreadsheet that allows conversion of data to a &quot;.csv&quot; format. The administering agency shall provide a model template on its website.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136237" number="97137" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>In accordance with applicable law, upon request by the administering agency to provide the transaction reports in this section, registered hosts shall have 15 business days to provide the requested records via a secure portal accessible from the administering agency&apos;s website.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136238" number="97138" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>If a registered host&apos;s submission in response to a request for transaction reports is missing, incomplete, or inaccurate, the administering agency will provide the host with a written notice of the deficiencies in compliance. The notice shall include specific information regarding deficiencies in need of correction. The host shall have 15 business days from the date such notice is provided to either correct the deficiency or provide a written statement explaining why the required information is unavailable or how it is complete or accurate. The host shall submit the corrections or explanation in a manner directed in the notice of deficiency. Upon the conclusion of the 15 business-day period in which the host may cure deficiencies, the administering agency may seek civil penalties for any continuing deficiency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136241" number="97139" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>8.<TAB tab-count="1"/>The registered host shall be responsible for ensuring that the information the host has on file with booking services matches the registered name, address, and registration number from the certificate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136242" number="97140" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>9.<TAB tab-count="1"/>A short-term rental registration may not be transferred or assigned to another host or to another dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136243" number="97141" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>10.<TAB tab-count="1"/>If a registered host no longer resides as a permanent occupant in the dwelling unit used for short-term rentals, the host must immediately contact the administering agency to terminate the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136244" number="97142" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>11.<TAB tab-count="1"/>A registered host shall not accommodate more rentees in a registered dwelling unit at the same time than they are allowed to have pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2004" destination-id="0-0-0-0">27-2004</LINK> of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136245" number="97143" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>12.<TAB tab-count="1"/>A registered host must maintain a common household with a rentee. Pursuant to Housing Maintenance Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2004" destination-id="0-0-0-0">27-2004</LINK>, a common household is deemed to exist if every member of the household including the rentee has access to all parts of the dwelling unit, and lack of access to all parts of the dwelling unit establishes a rebuttable presumption that no common household exists.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136246" number="97144" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>13.<TAB tab-count="1"/>A registered host shall not offer, arrange for, or allow the short-term rental of an entire registered dwelling unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136247" number="97145" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136414" number="97146" version="2357">
+								<HEADING>§ 21-11 Privacy and security of information.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17804" name="T43C021_21-11"/>§ 21-11 Privacy and security of information.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136248" number="97147" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>Unless otherwise required by federal, state, or local law, information provided pursuant to this chapter will be kept confidential by the administering agency, and shall be used or disclosed by the administering agency and the personnel of agencies assigned to such administering agency solely for purposes related to the enforcement of laws relating to short-term rentals. Nothing in this section shall prohibit the administering agency from describing the information in aggregated or deanonymized form.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136249" number="97148" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Identifying information, as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="23-1201" destination-id="0-0-0-0">23-1201</LINK> of the Administrative Code, will be collected, retained, and disclosed by the administering agency in compliance with this chapter and with the requirements and approvals by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T23C012" destination-id="0-0-0-0">Chapter 12 of Title 23</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136250" number="97149" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>The administering agency will protect the privacy and security of identifying information by implementing appropriate physical, technical and administrative safeguards, in accordance with the city&apos;s information technology security standards and requirements relating to the use, transfer and storage of confidential data.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136251" number="97150" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136413" number="97151" version="2357">
+								<HEADING>§ 21-12 Retention and disposal of information.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17806" name="T43C021_21-12"/>§ 21-12 Retention and disposal of information.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136252" number="97152" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>The administering agency will retain records provided by registered hosts pursuant to this chapter:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136253" number="97153" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>As long as a registration remains active, and for a period of three years after the revocation or lapse of such registration unless retention is required;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136254" number="97154" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>As long as an investigation or enforcement action involving the records remains open; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136255" number="97155" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>For a period of three years after all investigations and enforcement actions are closed, except that records involved in civil court litigation will be kept for a period of 10 years after the close of the case.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136256" number="97156" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>The administering agency will retain records provided by building owners relating to the prohibited buildings list for as long as the building remains on the prohibited buildings list, plus three years.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136257" number="97157" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136412" number="97158" version="2357">
+								<HEADING>§ 21-13 Penalties.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17808" name="T43C021_21-13"/>§ 21-13 Penalties.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136258" number="97159" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>No penalties will be imposed for violations of these rules or of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the Administrative Code of the City of New York Chapter until May 9, 2023, nor shall any such violation be based on conduct that occurred prior to May 9, 2023, unless such conduct is continued past such date.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136259" number="97160" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Civil penalties established by this section may be imposed and recovered in a proceeding before the office of administrative trials and hearings or a court of competent jurisdiction. Notices of violation, administrative summonses, and appearance tickets for violations may be issued by officers and employees of the administering agency or other city agencies designated by such administering agency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136260" number="97161" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>Any person who violates subdivision a of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3102" destination-id="0-0-0-0">26-3102</LINK> of the Administrative Code shall be liable for a civil penalty of not more than the lesser of $5,000 or three times the revenue generated by the short-term rental for each such violation. Any person who violates any other provision of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">chapter 31 of title 26</LINK> of the Administrative Code or any provision of these rules shall be liable for a civil penalty of the applicable amount contained in the following penalty table.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136261" number="97162" version="2359">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="9" horizontal-gap="29" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="72" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">Citation</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">Violation Description</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELLFORMAT alignment="bottom">Cure</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">First Violation</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">First<LINEBRK/>Default</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">Second Violation</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">Second Default</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">Third and Subsequent Violation</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">Third and Subsequent Default</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code<LINEBRK/>§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3102" destination-id="0-0-0-0">26-3102</LINK>(j)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failing to timely notify administering agency of changes to information provided by the applicant in connection with a short-term rental application</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Yes</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$100</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$2,500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code<LINEBRK/>§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3103" destination-id="0-0-0-0">26-3103</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failing to conspicuously post and maintain, within a dwelling unit, a diagram indicating normal and emergency egress routes for such unit and building containing such unit</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Yes</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$100</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$2,500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code<LINEBRK/>§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3103" destination-id="0-0-0-0">26-3103</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failing to conspicuously post and maintain, within a dwelling unit, a copy of the short-term rental registration certificate for such unit</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Yes</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$100</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$2,500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code<LINEBRK/>§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3103" destination-id="0-0-0-0">26-3103</LINK>(b)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failing to include a short-term rental registration number in an advertisement or other offer for short-term rental of a dwelling unit</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Yes</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$100</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$2,500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code<LINEBRK/>§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3103" destination-id="0-0-0-0">26-3103</LINK>(c)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failing to maintain a record of each short-term rental, for at least seven years after such short-term rental occurred</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">No</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$2,500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code<LINEBRK/>§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3104" destination-id="0-0-0-0">26-3104</LINK>(c)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Making a material false statement or concealing a material fact in connection with filing or renewing an application for short-term rental</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">No</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Admin. Code <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Title 26, Chapter 31</LINK>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">All other violations of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the New York City Administrative Code and these rules</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">No</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$100</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$2,500</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$1,000</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">$5,000</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136335" number="97163" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>All citations are to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the Administrative Code or to 43 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021" destination-id="0-0-0-17780">Chapter 21</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136336" number="97164" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>Unless otherwise specified, a second or third or subsequent violation means a violation by the same respondent, within 3 years of the prior violation(s). When a prior violation was dismissed, the penalty shall be reduced as if the violation was charged without consideration of the dismissed violation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136337" number="97165" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>Where indicated as eligible for cure in the table of penalties, the fine for a first violation of each section will be zero if the respondent proves by a preponderance of the evidence that the basis for the violation has been corrected. Subsequent violations of that type will not be eligible for cure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136338" number="97166" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136411" number="97167" version="2357">
+								<HEADING>§ 21-14 Revocation.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17810" name="T43C021_21-14"/>§ 21-14 Revocation.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136339" number="97168" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>A short-term rental registration shall be revoked, after the registered host is given notice and an opportunity to be heard, in any of the following circumstances:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136340" number="97169" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The dwelling unit has been used in violation of restrictions in the zoning resolution, multiple dwelling law, housing maintenance code and New York city construction codes relating to the short-term rental of dwelling units in private dwellings and class A multiple dwellings, or in class A dwelling units within mixed use buildings;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136341" number="97170" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>The applicant made a materially false statement or concealed a material fact in connection with the filing of a short-term rental application or renewal pursuant to these rules;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136342" number="97171" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>The registered host has committed three or more violations of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C031" destination-id="0-0-0-0">Chapter 31 of Title 26</LINK> of the Administrative Code or these rules within a period of 24 months;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136343" number="97172" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>The dwelling unit that is the subject of the short-term rental application was added to the prohibited buildings list after the registration had been approved; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136344" number="97173" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>The administering agency, after issuing the registration, discovers information that would have precluded the administering agency from granting the registration had the information been known at the time.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136345" number="97174" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>A Notice of Intent to Revoke a short-term rental registration shall be sent from the administering agency to the registered host that provides the following information:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136346" number="97175" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>All reasons that the administering agency will allege as a basis for revocation;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136347" number="97176" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>When applicable, the violation numbers of any violations previously issued that constitute a basis for revocation; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136348" number="97177" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>Information on the registered host&apos;s right to a hearing in accordance with subdivision d of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3104" destination-id="0-0-0-0">26-3104</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136349" number="97178" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>A registered host may consent to revocation without a hearing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136350" number="97179" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>The administering agency shall, as soon as practicable, notify each booking service disclosed by the registrant as having a listing for the registered dwelling unit of any revocation of a short-term rental registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136352" number="97180" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

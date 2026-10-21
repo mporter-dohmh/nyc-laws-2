@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-24494" number="28787" version="3">
+			<HEADING>Chapter 4: Certification of Gasoline Dispensing Sites and Transport Vehicles</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-3341" name="T15C004"/>Chapter 4: Certification of Gasoline Dispensing Sites and Transport Vehicles</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24495" number="28788" version="3">
+								<HEADING>§ 4-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3343" name="T15C004_4-01"/>§ 4-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24496" number="28789" version="748">
+									<PARA>For the purpose of this chapter, the following definitions apply: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24497" number="28790" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Annual throughput.</CHARFORMAT> &quot;Annual throughput&quot; shall mean the amount of petroleum liquid transferred into or dispensed from a defined source or facility during twelve consecutive months. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24498" number="28791" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commissioner.</CHARFORMAT> &quot;Commissioner&quot; shall mean the Commissioner of the New York City Department of Environmental Protection. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24499" number="28792" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Equivalent control.</CHARFORMAT> &quot;Equivalent control&quot; shall mean the use of alternate operational and/or equipment controls for the reduction of gasoline vapor emissions, that have been approved by the Commissioner, such that the aggregate emissions of gasoline vapor from the facility do not exceed those from the application of defined reasonably available control technology. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24500" number="28793" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Gasoline</CHARFORMAT>. &quot;Gasoline&quot; means any petroleum distillate having a Reid Vapor Pressure of 4 pounds per square inch (28 kilopascals) or more used as a motor fuel. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24501" number="28794" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Gasoline dispensing site.</CHARFORMAT> &quot;Gasoline dispensing site&quot; shall mean any site where gasoline is dispensed into vehicle fuel tanks or into portable containers used to fuel any motor from any stationary storage container(s) larger than 250 gallons. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24502" number="28795" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Gasoline transport vehicle</CHARFORMAT>. &quot;Gasoline transport vehicle&quot; shall mean any tank truck, trailer, or railroad tank car, with a capacity of 300 gallons or more, used for the transportation of gasoline. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24503" number="28796" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>NYSDEC.</CHARFORMAT> &quot;NYSDEC&quot; shall mean New York State Department of Environmental Conservation. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24504" number="28797" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Stage 1 vapor collection system.</CHARFORMAT> &quot;Stage 1 vapor collection system&quot; shall mean a system where gasoline vapors are forced from a tank into a vapor-tight holding system or vapor control system through direct displacement by the gasoline being loaded. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24505" number="28798" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Submerged filling.</CHARFORMAT> &quot;Submerged filling&quot; shall mean the use of a fill pipe or drop tube whose discharge opening is entirely submerged when the liquid is six inches above the bottom of the container. For containers loaded from the side, submerged filling is defined as the use of a fill pipe whose discharge is entirely submerged when the liquid level is 18 inches, or twice the diameter of the fill pipe, whichever is greater, above the bottom of the container. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24506" number="28799" version="1062">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Vapor control system.</CHARFORMAT> &quot;Vapor control system&quot; shall mean a system that prevents emissions to the outdoor atmosphere from exceeding 4.7 grains per gallon (80 grams per 1,000 liters) of gasoline loaded.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24507" number="28800" version="3">
+								<HEADING>§ 4-02 Applicability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3345" name="T15C004_4-02"/>§ 4-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicability.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24508" number="28801" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>This chapter applies to the transfer of gasoline into underground storage tanks located at gasoline dispensing sites.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24509" number="28802" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>This chapter also applies to owners and operators of all gasoline transport vehicles within the City of New York which:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24510" number="28803" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Deliver gasoline to any gasoline dispensing site required to be equipped with a stage 1 vapor collection system or equivalent (including such gasoline dispensing sites located in other counties or in states adjacent to New York State); or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24511" number="28804" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Convey gasoline either to or from any gasoline loading terminal or gasoline bulk plant.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24512" number="28805" version="3">
+								<HEADING>§ 4-03 Gasoline Dispensing Sites.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3347" name="T15C004_4-03"/>§ 4-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Gasoline Dispensing Sites.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24513" number="28806" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Prohibitions and requirements. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24514" number="28807" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>No person shall transfer or allow the transfer of gasoline into storage tanks at gasoline dispensing sites located in New York City whose annual throughput exceeds 120,000 gallons, unless the storage tank is equipped with:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24515" number="28808" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A stage 1 vapor collection system consisting of a vapor-tight return line from the storage tank, or its vent, to the gasoline transport vehicle and a system that will ensure that the vapor line is connected before gasoline can be transferred into the tank; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24516" number="28809" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>A properly installed on-site vapor control system connected to a vapor collection system; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24517" number="28810" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>An equivalent control system approved by the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24518" number="28811" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Owners and/or operators of gasoline storage tanks subject to stage 1 vapor collection or vapor control system requirements shall:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24519" number="28812" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Install all required stage 1 vapor collection and control systems, and make any modifications necessary to comply with the requirements;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24520" number="28813" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Provide adequate training and written instructions to the operator(s) of the affected gasoline dispensing site;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24521" number="28814" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Replace, repair, or modify any worn or ineffective component or design element to ensure the vapor-tight integrity and efficiency of the stage 1 vapor collection and vapor control systems; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24522" number="28815" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Connect and properly operate the stage 1 vapor collection and control systems whenever gasoline is being loaded or unloaded.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24523" number="28816" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Each stationary storage tank with a capacity of at least 250 gallons installed or modified after January 1, 1979 at any gasoline dispensing site in New York City area shall have a stage 1 vapor collection or vapor control system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24524" number="28817" version="2297">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>No person shall install, alter, test or repair underground equipment for storage, underground storage systems, underground tanks and underground piping and valves for gasoline except by or under direct supervision of a person who has first secured from the Commissioner of the Fire Department of the City of New York a Certificate of License to make such installation, alteration, test or repair. A written application for alteration to any part of existing underground equipment and/or underground storage systems shall be made to the Fire Department according to the requirements of § 27-4062(d) of the Administrative Code of the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24525" number="28818" version="1811">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of Registration.</CHARFORMAT> Owners and/or operators of gasoline dispensing sites who are required to comply under 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C004_4-03" destination-id="0-0-0-3347">4-03</LINK>(a) shall apply for a Certificate of Registration and pay a fee for each registration or renewal thereof according to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-140" destination-id="0-0-0-0">24-140</LINK>(c) of the New York City Administrative Code within 10 days of the effective date of this regulation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24526" number="28819" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Exemptions. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24527" number="28820" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A stage 1 vapor collection system and submerged filling are not required for any storage tanks with a capacity less than 2,000 gallons which were installed prior to January 1, 1970, at any gasoline dispensing sites, even if the annual gasoline throughput exceeds 120,000 gallons for the dispensing sites.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24528" number="28821" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Stage 1 vapor collection systems are not required for gasoline dispensing sites used exclusively for:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24529" number="28822" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>farm-type tractors used only for agricultural purposes or snow plowing (other than for hire),</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24530" number="28823" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>farm equipment including self propelled machines used in growing, harvesting or handling farm produce, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24531" number="28824" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>self propelled caterpillar or crawler-type equipment being operated on a contract site, but must be equipped for submerged filling.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24532" number="28825" version="3">
+								<HEADING>§ 4-04 Gasoline Transport Vehicles.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3349" name="T15C004_4-04"/>§ 4-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Gasoline Transport Vehicles.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24533" number="28826" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>No person shall allow a gasoline transport vehicle subject to this chapter to be filled or emptied unless the gasoline transport vehicle:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24534" number="28827" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Sustains a pressure change of not more than 3 inches of water (6 millimeters of mercury) in five minutes when pressurized to a gauge pressure of 18 inches of water (34 millimeters of mercury) and evacuated to a gauge pressure of 6 inches of water (11 millimeters of mercury);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24535" number="28828" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Is repaired by the owner or operator within 15 days after failing to meet the pressure change standard required by this section; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24536" number="28829" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Displays a marking near the U.S. Department of Transportation certificate plate, in letters and numerals at least 2 inches high, which reads: NYSDEC and the date on which the gasoline transport vehicle was last tested for any other equivalent display approved by NYSDEC.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24537" number="28830" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No person shall allow a gasoline transport vehicle subject to this chapter to be loaded under a pressure exceeding 18 inches of water (34 millimeters of mercury) gauge, or to be unloaded under a vacuum exceeding 6 inches of water (11 millimeters of mercury) gauge.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24538" number="28831" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Dome covers on gasoline transport vehicles subject to this chapter shall be closed while the transport vehicle is being loaded, unloaded, or in motion except when gasoline transport vehicles are hatch loaded in conformance with paragraph 229.6(c)(2) or 229.7(a)(2) of Title 6 of the New York State Code of Rules and Regulations (6 NYCRR).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24539" number="28832" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Owners and/or operators of gasoline transport vehicles subject to stage 1 vapor collection or vapor control system requirements shall:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24540" number="28833" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Install all required stage 1 vapor collection and control systems, and make any modifications necessary to comply with the requirements;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24541" number="28834" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Provide adequate training and written instructions to the operator(s) of the affected gasoline transport vehicle;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24542" number="28835" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Replace, repair, or modify any worn or ineffective component or design element to ensure the vapor-tight integrity and efficiency of the stage 1 vapor collection and vapor control systems; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24543" number="28836" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Connect and properly operate the stage 1 vapor collection and control systems whenever gasoline is being loaded or unloaded.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24544" number="28837" version="3">
+								<HEADING>§ 4-05 Leakage.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3351" name="T15C004_4-05"/>§ 4-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Leakage.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24545" number="28838" version="1062">
+									<PARA>During the loading or unloading of a gasoline transport vehicle subject to this chapter, leakage from any component of the gasoline transport vehicle or the vapor collection or control systems shall not equal or exceed 20 percent of the lower explosive limit (LEL measured as propane) when measured at a distance of one inch with a combustible gas detector. There shall be no avoidable visible liquid leak from such components. Components of the transport vehicle or vapor collection or control systems include all piping, seals, hoses, connections, pressure-vacuum seals, and other possible leak sources. The combustible gas detector used for determining compliance with this standard shall have a minimum range of 0 - 100 percent of the LEL as propane, a probe with an internal diameter of 1/4 inch (0.625 cm), and a response time less than 8 seconds with sampling line and probe attached. The combustible gas detector must be properly calibrated prior to testing.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24546" number="28839" version="3">
+								<HEADING>§ 4-06 Testing.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3353" name="T15C004_4-06"/>§ 4-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Testing.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24547" number="28840" version="1175">
+									<PARA>Vehicles subject to this chapter shall undergo a pressure vacuum test within one year after the effective date of this chapter, and annually thereafter. These tests shall be performed by the owner or his agent using test methods acceptable to the Commissioner of NYSDEC. [Test method 27 described in appendix A of Part 60 of Title 40 of the Code of Federal Regulations (40 C.F.R. Part 60) is considered to be acceptable]. If the results of the pressure vacuum test do not show compliance with the pressure change standard, the gasoline transport vehicle shall be repaired to make the tank vapor-tight and retested within 15 days.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24548" number="28841" version="3">
+								<HEADING>§ 4-07 Record Keeping.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3355" name="T15C004_4-07"/>§ 4-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Record Keeping.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24549" number="28842" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The owner of any gasoline transport vehicle subject to this chapter shall maintain written records of pressure-vacuum testing and repairs. The records include the vehicle identification number of the gasoline transport vehicle, the date of tests, the results of the testing, the nature of necessary repairs and the date of retests.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24550" number="28843" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A copy of the most recent pressure-vacuum test results, in a form acceptable to the Commissioner, shall be kept with the gasoline transport vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24551" number="28844" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Written records required by this section shall be maintained by owner and/or operator and shall be retained for two years after the testing occurred. The record must be made available to the Commissioner or his representative upon request at any reasonable time.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24552" number="28845" version="3">
+								<HEADING>§ 4-08 Reciprocity.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3357" name="T15C004_4-08"/>§ 4-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reciprocity.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24553" number="28846" version="3">
+									<PARA>Consistent with the decision of NYSDEC the requirements for testing and marking gasoline transport vehicles subject to this chapter may be satisfied if the vehicle undergoes equivalent certification in another state.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24554" number="28847" version="3">
+								<HEADING>§ 4-09 Compliance Schedules for Gasoline Dispensing Sites.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3359" name="T15C004_4-09"/>§ 4-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Compliance Schedules for Gasoline Dispensing Sites.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24555" number="28848" version="3">
+									<PARA>Any owner or operator of a gasoline dispensing site subject to the requirements of this chapter shall submit a proposed schedule to the Commissioner which includes specific steps and dates necessary to comply with the provisions of this part within 10 days of the effective date of this chapter. Owners of gasoline dispensing sites subject to this chapter shall be in compliance with all requirements within 10 days of the effective date of this chapter or shall have submitted an approved compliance schedule.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24556" number="28849" version="3">
+								<HEADING>§ 4-10 Fire Department Regulations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3361" name="T15C004_4-10"/>§ 4-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fire Department Regulations.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24557" number="28850" version="3">
+									<PARA>Nothing in this chapter shall effect or substitute for New York City Fire Department or other regulations of the New York City Administrative Code.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24558" number="28851" version="3">
+								<HEADING>§ 4-11 Variances.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3363" name="T15C004_4-11"/>§ 4-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Variances.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24559" number="28852" version="1811">
+									<PARA>The Commissioner may grant variances from the requirements of this chapter to gasoline dispensing sites or gasoline transport vehicles in accordance with the procedures, standards and time limits provided in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-110" destination-id="0-0-0-0">24-110</LINK> of the Administrative Code of the City of New York.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24560" number="28853" version="3">
+								<HEADING>§ 4-12 Penalties and Sanctions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3365" name="T15C004_4-12"/>§ 4-12 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Penalties and Sanctions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24561" number="28854" version="1811">
+									<PARA>Any person who is in violation of, or fails to comply with any provision of any section of these regulations or any determination issued pursuant to these regulations shall be subject to issuance of a notice of violation answerable to the Environmental Control Board as provided in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-178" destination-id="0-0-0-0">24-178</LINK> of the Administrative Code of the City of New York.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

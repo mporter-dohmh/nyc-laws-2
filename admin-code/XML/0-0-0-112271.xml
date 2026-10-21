@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-112271" number="58342" version="91">
+			<HEADING>Chapter 6: Hazardous Substance Emergencies</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10897" name="T24C006"/>Chapter 6: Hazardous Substance Emergencies</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-45322" number="58343" version="1724">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+						<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-222465" number="58344" version="1724">
+				<HEADING>Subchapter 1: Short Title, Policy and Definitions</HEADING>
+				<PARA>Subchapter 1: Short Title, Policy and Definitions</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-45323" number="58345" version="1724">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222466" number="58346" version="1724">
+										<HEADING>§ 24-601 Short title. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10899" name="24-601"/>§ 24-601 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short title. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45324" number="58347" version="3">
+											<PARA>This chapter shall be known and may be cited as the &quot;New York city hazardous substances emergency response law&quot;.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45325" number="58348" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222467" number="58349" version="1724">
+										<HEADING>§ 24-602 Declaration of policy. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10901" name="24-602"/>§ 24-602 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Declaration of policy. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45326" number="58350" version="3">
+											<PARA>It is hereby declared to be the public policy of the city to respond to emergencies caused by releases or threatened releases of hazardous substances into the environment so as to preserve, protect and improve the public health, safety and welfare, and to prevent injury to human, plant and animal life and property. It is the policy of the city that every person is entitled to an environment free of hazardous substances that are detrimental to life, health, and enjoyment of property. It is hereby declared that the release or threat of release of hazardous substances into the environment is a menace to the health, safety and welfare of the people of the city and may cause extensive damage to the environment and to property. This chapter shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the powers of the board of health or the department of health and mental hygiene to engage in any of their authorized activities.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45327" number="58351" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222468" number="58352" version="1724">
+										<HEADING>§ 24-603 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10903" name="24-603"/>§ 24-603 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45328" number="58353" version="3">
+											<PARA>When used in this chapter: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45329" number="58354" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;disposal&quot; means the placing of any hazardous substance into or on any land or water so that such hazardous substance or any constituent thereof may be released into the environment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45330" number="58355" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;hazardous substance&quot; means each listed hazardous substance or any other chemical substance which when released into the environment may present a substantial danger to the public health or welfare or the environment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45331" number="58356" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;listed hazardous substance&quot; means any substance listed in accordance with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-609" destination-id="0-0-0-10905">24-609</LINK>.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45332" number="58357" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;person&quot; means any individual, trust, firm, corporation, joint stock company, association, partnership, consortium, joint venture, commercial entity or governmental entity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45333" number="58358" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;release&quot; means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping or disposing into the environment, or the abandonment of a container or containers containing hazardous substance or substances.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45334" number="58359" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;response measures&quot; include actions taken by a city agency or ordered to be taken by a city agency: (1) to prevent, minimize or mitigate the release of hazardous substances so that they do not migrate to, or in any other manner, cause or threaten to cause substantial danger to the public health or welfare or the environment, (2) to clean up or remove released hazardous substances from the environment, and (3) which are necessary and appropriate to protect the public health or welfare or the environment from an immediate and substantial danger caused by a release or a substantial threat of a release of a hazardous substance into the environment, including but not limited to security measures to protect the public.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45335" number="58360" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>&quot;responsible person&quot; means</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45336" number="58361" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>any owner, operator, lessee, occupant or tenant, other than a residential lessee, occupant or tenant, of property at the time there is a release, or a substantial threat of a release, of a hazardous substance from such property into the environment or at the time of any response measures implemented in connection with any emergency involving such release or threat of release, provided that if such property is comprised of an owner-occupied residential building consisting of six or fewer dwelling units used exclusively for residential purposes, an owner of such property shall be deemed to be a &quot;responsible person&quot; for purposes of this paragraph, only if the willful, knowing, reckless or negligent acts or omissions of such owner caused or substantially contributed to such release or threat of release, and further provided that a federal or state chartered and regulated financial institution which has received title to the property through abandonment, foreclosure, a deed in lieu of foreclosure, or through a judicial or bankruptcy order shall not be deemed to be a &quot;responsible person&quot; for purposes of this paragraph, unless (i) willful, knowing, reckless or negligent acts or omissions of such person caused or substantially contributed to such release or threat of release, or (ii) the title was received in order to secure the underlying credit extension which had been entered into for the purpose of assisting the responsible person in avoidance of the provisions of this chapter, or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45337" number="58362" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any person whose acts or omissions caused or substantially contributed to a release, or a substantial threat of a release, of a hazardous substance into the environment, provided that where there is a release, or a substantial threat of a release, of a hazardous substance into the environment from property used for residential purposes, a person using such property as a residence and any invitee or licensee of such person who enters such property, other than an invitee or licensee engaged in a business involving the use or transport of any hazardous substance, shall be deemed to be a &quot;responsible person&quot; for purposes of this paragraph, only if the willful, knowing, reckless or negligent acts or omissions of such person or invitee caused or substantially contributed to such release or threat of release, or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45338" number="58363" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>any owner, operator, lessee, occupant or tenant of the property at the time of disposal of any hazardous substance thereon, who had caused, authorized or permitted such hazardous substance to be so disposed, where there is a release, or a substantial threat of a release, of such hazardous substance into the environment, or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45339" number="58364" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>any person who, pursuant to contractual arrangement, accepts or has accepted any hazardous substance for transport, transports such hazardous substance and there is a release, or a substantial threat of a release, of such hazardous substance into the environment, or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45340" number="58365" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>any person who by contract, agreement, or otherwise arranged for disposal or treatment or arranged with a transporter for transport for disposal or treatment of a hazardous substance owned or possessed by such person, and there is a release, or a substantial threat of a release, of such hazardous substance into the environment; provided, however, that no person, who is an entity independent from an otherwise responsible person, authorized by the commissioner of environmental protection to implement response measures at the site of a release, or a threat of a release, of a hazardous substance into the environment, shall be deemed to be a &quot;responsible person&quot; solely on the basis of any authorized response measures attempted or implemented by such person at such site, unless such person&apos;s willful, knowing, reckless or negligent acts or omissions caused or substantially contributed to a release, or a substantial threat of a release, of a hazardous substance into the environment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45341" number="58366" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>&quot;treatment&quot; means any method, technique, or process, including neutralization, designed to change the physical, chemical, or biological character or composition of any hazardous substance so as to neutralize such substance or so as to render such substance nonhazardous, safer for transport, amenable for recovery, amenable for storage, or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of a hazardous substance so as to render it non-hazardous.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45342" number="58367" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-222469" number="58368" version="1724">
+				<HEADING>Subchapter 2: Cost Recovery</HEADING>
+				<PARA>Subchapter 2: Cost Recovery</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-45343" number="58369" version="1724">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222470" number="58370" version="1724">
+										<HEADING>§ 24-604 Recovery of emergency response costs. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10907" name="24-604"/>§ 24-604 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Recovery of emergency response costs. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45344" number="58371" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Each responsible person shall be jointly and severally liable without regard to fault, except as otherwise provided in this chapter, for the total cost incurred by the city for response measures implemented in connection with any emergency involving a release or substantial threat of a release of a hazardous substance into the environment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45345" number="58372" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>In any action brought by the city to recover its cost for response measures implemented in connection with any emergency involving a release or substantial threat of a release of a hazardous substance into the environment, it shall be an affirmative defense that the release or threat of release of a hazardous substance into the environment was caused solely by,</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45346" number="58373" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>an act of God;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45347" number="58374" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>an act of war;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45348" number="58375" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>an act or omission of a third party, other than an employee or agent of the defendant or a party whose act or omission occurs in connection with a direct or indirect contractual relationship with the defendant, if the defendant establishes by a preponderance of the evidence that (A) he exercised due care with respect to the hazardous substance concerned, taking into consideration the characteristics of such hazardous substance, in light of all relevant facts and circumstances, and (B) he took precautions against foreseeable acts or omissions of any such third party and the consequences that could foreseeably result from such acts or omissions; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45349" number="58376" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>any combination of paragraphs one, two or three.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45350" number="58377" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Nothing in this chapter shall be construed to impair any remedy that a responsible person, or a guarantor of a responsible person, has or would have, by reason of indemnification, contribution, subrogation or any other lawful basis against any person, including any action to recover costs incurred for response measures.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45351" number="58378" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Recovery by the city for response measures resulting from a release expressly authorized or permitted by applicable federal, state or local law shall be pursuant to existing law in lieu of this section. Nothing in this subdivision shall be construed to affect or modify in any way the obligations or liability of any person under any other applicable federal, state or local law, including common law, for damages, injury, or loss resulting from, or for response measures implemented in connection with, any emergency involving a release or a substantial threat of a release of a hazardous substance into the environment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45352" number="58379" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222471" number="58380" version="1724">
+										<HEADING>§ 24-605 Lien for emergency response costs. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2737" name="24-605"/>§ 24-605 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lien for emergency response costs. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45353" number="58381" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>All costs incurred by the city, including but not limited to the costs of the departments of environmental protection, health and sanitation, and the police and fire departments, for response measures implemented pursuant to this chapter or any other applicable provision of law shall be a debt recoverable from each responsible person and a lien upon the real property of or at which an owner, operator, lessee, occupant or tenant is a responsible person and at which such response measures were implemented.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45354" number="58382" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The mayor shall designate the agency or agencies which shall receive for filing the certificate of expenses prepared in accordance with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-606" destination-id="0-0-0-10909">24-606</LINK> and shall keep a record of all such costs incurred. Such records shall be accessible to the public during business hours. Within thirty days after the issuance of a purchase or work order for any response measure such order shall be entered on the records of the designated agency or agencies. All such records shall constitute notice to all parties.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45355" number="58383" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any lien imposed by this section shall arise at the later of the following:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45356" number="58384" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the time that the amount of any costs incurred by the city for response measures shall have been definitely computed as a statement of account and an agency designated pursuant to subdivision b of this section has caused to be filed in the office of the city collector: (i) an entry of the account stated in the book in which such charges against the property are to be entered, and (ii) copies of any notices of potential liability for such costs and statements reciting the dates such notices were mailed, received pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-606" destination-id="0-0-0-10909">24-606</LINK>; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45357" number="58385" version="1787">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the third day after a responsible person, who is an owner of real property at which the response measures were implemented and whose liability for any costs incurred by the city for such response measures authorizes the imposition of a lien in accordance with subdivision a of this section, is sent by both certified or registered mail and first class mail notice of such person&apos;s potential liability for such costs. Such notice may be provided prior to the mailing of the notice pursuant to subdivision d of this section, but any notice provided pursuant to subparagraph (ii) of paragraph two of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-610" destination-id="0-0-0-10911">24-610</LINK> shall not be deemed to be notice of such person&apos;s potential liability, unless such person&apos;s potential liability is specifically referred to in such notice.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45358" number="58386" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A notice stating the amount due and the nature of the costs shall be sent by both certified or registered mail and first class mail by the city collector within five days after such entry pursuant to paragraph one of subdivision c of this section to the last known address of the person whose name appears on the records in the office of the city collector as being the owner or agent or as the person designated by the owner to receive tax bills or, where no name appears, to the property, addressed to either the owner or the agent. Such notice shall have stamped or printed thereon a reference to this section. Such notice shall constitute notice of the potential liability of such owner for such costs for purposes of paragraph two of subdivision c of this section, where no prior notice of potential liability for such costs has been sent.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45359" number="58387" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The city collector shall maintain copies of any notices of potential liability for the costs of response measures, together with statements indicating the dates such notices were mailed, filed by any agency designated pursuant to subdivision b of this section, and copies of any notices sent pursuant to subdivision d of this section, together with statements reciting the dates such notices were mailed.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45360" number="58388" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>If such costs are not paid within thirty days from the date that notice is sent pursuant to subdivision d of this section, it shall be the duty of the city collector to receive interest thereon at the rate of interest applicable to such property for a delinquent tax on real property to be calculated to the date of payment from the date of entry.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45361" number="58389" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>Such costs and the interest thereon shall continue to be, until paid, a lien on the property. Such lien may be satisfied in accordance with the provisions of section thirteen hundred fifty-four of the real property actions and proceedings law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45362" number="58390" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>Any lien imposed by this section shall be subject to the rights of any mortgagee or lienor whose interest is perfected before notice of the lien has been filed in the office of the city collector, as provided in subdivision c of this section. Any such mortgagee or lienor shall be afforded the same protections against such lien as afforded under law against a judgment lien which arises out of an unsecured obligation and which arises as of the time of the filing of the notice of the lien imposed by this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45363" number="58391" version="3">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>In any proceedings to enforce or discharge the lien, the validity of the lien shall not be subject to challenge based on (i) the lawfulness of the response measure implemented; or (ii) the propriety and accuracy of the items of expenses for which a lien is claimed, except as provided in this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45364" number="58392" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>No such challenge may be made except by the owner of the property.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45365" number="58393" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>An issue specified in paragraph one which was decided or could have been contested in a prior court proceeding or action shall not be open to re-examination.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45366" number="58394" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>With respect to any issue specified in paragraph one of this subdivision the certificate filed pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-606" destination-id="0-0-0-10909">24-606</LINK> shall be presumptive evidence of the facts stated therein.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45367" number="58395" version="3">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>In addition to establishing a lien, the city may recover such costs and interest thereon by bringing an action against the responsible person. The institution of such action shall not suspend or bar the right to pursue any other lawful remedy for the recovery of such costs.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45368" number="58396" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222472" number="58397" version="1724">
+										<HEADING>§ 24-606 Certificate of expenses. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10909" name="24-606"/>§ 24-606 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certificate of expenses. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45369" number="58398" version="3">
+											<PARA>Upon the completion of any response measure giving rise to a lien, the city agency implementing such response measure shall file with the agency or agencies designated by the mayor pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-605" destination-id="0-0-0-2737">24-605</LINK> a certificate setting forth the work done and the expenses incurred and certifying that such expenses were necessary and proper in the exercise of its lawful powers and, where applicable, apportioning such expenses among lots or buildings belonging to different persons. The city agency implementing such response measure shall also file a copy of any notices of potential liability for such expenses it has mailed for purposes of paragraph two of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-605" destination-id="0-0-0-2737">24-605</LINK> and a statement reciting the date of any such mailing.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45370" number="58399" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-222473" number="58400" version="1724">
+				<HEADING>Subchapter 3: Hazardous Substance Release; Emergency Response</HEADING>
+				<PARA>Subchapter 3: Hazardous Substance Release; Emergency Response</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-45371" number="58401" version="1724">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222474" number="58402" version="1724">
+										<HEADING>§ 24-607 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10913" name="24-607"/>§ 24-607 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45372" number="58403" version="3">
+											<PARA>When used in this subchapter: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45373" number="58404" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;commissioner&quot; means the commissioner of environmental protection.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45374" number="58405" version="1787">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;department&quot; means the department of environmental protection.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45375" number="58406" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222475" number="58407" version="1724">
+										<HEADING>§ 24-608 Emergency response. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10915" name="24-608"/>§ 24-608 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Emergency response. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45376" number="58408" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>When the commissioner has reason to believe that there has been a release or there exists a substantial threat of a release into the environment of a hazardous substance which may present an immediate and substantial danger to the public health or welfare or the environment, the commissioner may, in his or her discretion, order any or all responsible persons to implement any response measures, or to cooperate with and assist the commissioner in implementing any response measures, deemed by the commissioner to be necessary to protect the public health or welfare or the environment, or, if the commissioner, in the exercise of his or her discretion, concludes that seeking the implementation of any such response measures by a responsible person may be detrimental to public health or welfare or the environment due to the likelihood of delay or the ineffectiveness of such response measures, or for any other appropriate reason, the commissioner may implement such response measures. The commissioner shall, where appropriate, consult with the commissioner of health, the police commissioner and the fire commissioner concerning the need for and implementation of such response measures and orders. The commissioner may also order the production of documents relevant for determining the nature and extent of the release or threat of release.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45377" number="58409" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Nothing in this subchapter shall be construed to preclude the implementation of response measures by any other city agency, either prior or subsequent to any response measure implemented pursuant to subdivision a of this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45378" number="58410" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222476" number="58411" version="1724">
+										<HEADING>§ 24-609 Hazardous substances list; release notification and response regulations. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10905" name="24-609"/>§ 24-609 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Hazardous substances list; release notification and response regulations. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45379" number="58412" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall by regulation establish within one year from enactment of this section, a list of hazardous substances. The commissioner shall consider whether any of the following substances shall be included on such list: (1) the extremely hazardous substances set forth in a list published pursuant to the emergency planning and community right-to-know act of 1986, (2) the hazardous wastes identified under or listed pursuant to the resource conservation and recovery act of 1976, as amended, (3) the hazardous substances referred to in or designated pursuant to the comprehensive environmental response, compensation, and liability act of 1980, as amended, (4) the elements, compounds and mixtures determined to be hazardous chemicals in accordance with standards for toxic and hazardous substances promulgated pursuant to the occupational safety and health act of 1970, as amended, and (5) the hazardous materials designated pursuant to the hazardous materials transportation act, as amended.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45380" number="58413" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner may promulgate regulations requiring any responsible person who knows or has reason to know of any release of a listed hazardous substance to immediately notify the commissioner. Such regulations shall establish the minimum quantity of any listed hazardous substance the release of which shall be reported to the commissioner and shall set forth the form and manner of any notification required. A knowing failure to comply with such notification requirement shall be punishable by a fine of not more than twenty-five thousand dollars, to be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45381" number="58414" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222477" number="58415" version="1724">
+										<HEADING>§ 24-610 Orders to responsible persons; civil and criminal penalties and imprisonment. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10911" name="24-610"/>§ 24-610 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Orders to responsible persons; civil and criminal penalties and imprisonment. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45382" number="58416" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An order of the commissioner issued pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-608" destination-id="0-0-0-10915">24-608</LINK> shall specify the work to be performed and shall fix a reasonable time for compliance from the date of service of such order. Such order shall contain a statement that upon failure of the responsible person to comply with the commissioner&apos;s order within the stated time, the department may perform the work specified in the order or apply for a court order directing the responsible person to comply with the commissioner&apos;s order. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45383" number="58417" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Service of such order shall be made upon the responsible person personally or by certified or registered mail addressed to the last known address of such person or in any manner provided for service of process by article three of the civil practice law and rules.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45384" number="58418" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>In instances where the commissioner knows that the responsible person served pursuant to subparagraph (i) of this paragraph is not the owner of the property at which the response measures ordered are to be implemented, notice that such order has been served, and a copy of such order, shall be sent by both certified or registered mail and first class mail to the last known address of the person whose name appears on the records in the office of the city collector as being the owner or agent or as the person designated by the owner to receive tax bills or, where no name appears, to such property, addressed to either the owner or the agent. Such notice shall have stamped or printed thereon a reference to this section. Any failure to provide written notice as prescribed by this subparagraph shall not in any way affect the liability of any person for the cost incurred by the city for any response measures implemented in accordance with this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45385" number="58419" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A copy of such order shall be filed with the office of the register in the county in which is situated the property with respect to which such order was issued.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45386" number="58420" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>After service of such order upon a responsible person, such person may request a hearing, except in circumstances of imminent peril in which the commissioner has determined that response measures are to be implemented without any delay. The commissioner shall promulgate rules and regulations setting forth the times within which and the procedures by which requests for hearings shall be made and hearings shall be held. At such hearing the responsible persons, shall be entitled to be represented by counsel and to present evidence. The commissioner may affirm, modify or revoke the order.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45387" number="58421" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>In addition to any response measures implemented by the commissioner pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-608" destination-id="0-0-0-10915">24-608</LINK>, if the responsible person fails to comply with the commissioner&apos;s order within the time fixed for compliance pursuant to subdivision a of this section, the department may perform the work specified in the order, or may apply to any court of competent jurisdiction, upon such notice and in such manner as the court shall direct, for an order directing the responsible person to comply with the commissioner&apos;s order.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45388" number="58422" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any responsible person who without sufficient cause, willfully violates, or fails or refuses to comply with, any order of the commissioner issued pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-608" destination-id="0-0-0-10915">24-608</LINK> may be liable: (1) for a civil penalty of not more than ten thousand dollars for each day in which such violation occurs or such failure or refusal to comply continues; and (2) for an additional civil penalty in an amount at least equal to, and not more than three times, the amount of any costs incurred by the city as a result of such person&apos;s willful violation, or failure or refusal to comply. Such penalties may be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45389" number="58423" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>In addition to the penalties set forth in subdivision c of this section and subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-609" destination-id="0-0-0-10905">24-609</LINK>, any person who knowingly violates or fails to comply with any order, rule or regulation issued by the commissioner pursuant to this chapter shall be guilty of a misdemeanor and, upon conviction thereof, shall be punishable by a fine of not less than twenty-five thousand dollars, or by imprisonment not to exceed one year, or both, for each violation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45390" number="58424" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222478" number="58425" version="1724">
+										<HEADING>§ 24-611 Regulations. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10917" name="24-611"/>§ 24-611 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Regulations. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45391" number="58426" version="3">
+											<PARA>The commissioner shall have the power to promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45392" number="58427" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222479" number="58428" version="1724">
+										<HEADING>§ 24-612 Nonexclusivity of remedies. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10919" name="24-612"/>§ 24-612 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Nonexclusivity of remedies. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-45393" number="58429" version="3">
+											<PARA>Nothing in this chapter shall be construed to impair or diminish the power of the commissioner or any other agency to remove, repair, reconstruct, alter or abate a nuisance or to order any of the foregoing actions or to impose penalties on persons responsible for such nuisance or its removal, repair, reconstruction, alteration or abatement.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-45394" number="58430" version="1724">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+													<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1987/042" destination-id="0-0-0-27148">L.L. 1987/042</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

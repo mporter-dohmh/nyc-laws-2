@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-6104" number="8143" version="2326">
+			<HEADING>Chapter 6000: Fuel Gas Code</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1102" name="T01C6000"/>Chapter 6000: Fuel Gas Code</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-6106" number="8144" version="2660">
+								<HEADING>§ 6008-01 American Society of Mechanical Engineers (&quot;ASME&quot;), Boiler &amp; Pressure Vessel Code Edition Amendment. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1104" name="T01C6000_6008-01"/>§ 6008-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">American Society of Mechanical Engineers (&quot;ASME&quot;), Boiler &amp; Pressure Vessel Code Edition Amendment. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-6107" number="8145" version="140">
+									<PARA>(Repealed City Record 7/13/2016, eff. 8/12/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-004]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-144668" number="8146" version="2641">
+								<HEADING>§ 6008-02 Referenced Standards.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19036" name="T01C6000_6008-02"/>§ 6008-02 Referenced Standards.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-144672" number="8147" version="2644">
+									<PARA>Pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-103.19" destination-id="0-0-0-0">28-103.19</LINK> of the New York City Administrative Code, delete and replace the following reference standards as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144673" number="8148" version="2641">
+									<PARA>Reference standards ANSI Z21.5.1/CSA 7.1, ANSI Z21.5.2/CSA 7.2, ANSI Z21.10.1/CSA 4.1, ANSI Z21. 13/CSA 4.9, ANSI Z21.18/CSA 6.3, ANSI Z21.40.1/CGA 2.9, ANSI Z21.40.2/CGA 2.92, ANSI Z21.42, ANSI Z21.54, ANSI Z21.58/CSA 1.6, and ANSI Z83.11/CSA 1.8 as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FGC 802" destination-id="0-0-0-0">FGC 802</LINK> of the New York City Fuel Gas Code are hereby deleted and new ANSI Z21.5.1/CSA 7.1, ANSI Z21.5.2/CSA 7.2, ANSI Z21.10.1/CSA 4.1, ANSI Z21. 13/CSA 4.9, ANSI Z21.18/CSA 6.3, ANSI Z21.40.1/CGA 2.9, ANSI Z21.40.2/CGA 2.92, ANSI Z21.42, ANSI Z21.54, ANSI Z21.58/CSA 1.6, and ANSI Z83.11/CSA 1.8 are added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144671" number="8149" version="3056">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ANSI</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">American National Standards Institute<LINEBRK/>25 West 43rd Street, Fourth Floor<LINEBRK/>New York, NY 10036</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.5.1/CSA 7.1 -2017</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas Clothes Dryers, Volume I, Type 1 Clothes Dryers</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">613.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.5.2/CSA 7.2 -2016</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas Clothes Dryers, Volume II, Type 2 Clothes Dryers</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">613.1, 614.3</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.10.1/CSA 4.1 -2013</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas Water Heaters - Volume I, Storage Water Heaters with Input Ratings Of 75,000 Btu Per Hour Or Less</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">624.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21. 13/CSA 4.9 -2014</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas-Fired Low Pressure Steam And Hot Water Boilers</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">631.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.18/CSA 6.3 -2007 (R2016)</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas Appliance Pressure Regulators</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">410.3</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.40.1/CGA 2.9 -96 (R2017)</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas-Fired, Heat Activated Air Conditioning and Heat Pump Appliances</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">627.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.40.2/CGA 2.92 -96 (R2017)</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas-Fired, Work Activated Air-Conditioning and Heat Pump Appliances (Internal Combustion)</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">627.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.42 -2013 (R2018)</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas-Fired Illuminating Appliances</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">628.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.54 -2002 (R2007) &amp; Addenda 2009</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas Hose Connectors For Portable Outdoor Gas-Fired Appliances</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">411.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z21.58/CSA 1.6 -2015</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Outdoor Cooking Gas Appliances</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">623.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Z83.11/CSA 1.8 -2016</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Gas Food Service Equipment</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">623.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144670" number="8150" version="2641">
+									<PARA>(Added City Record 11/15/2023, eff. 12/15/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

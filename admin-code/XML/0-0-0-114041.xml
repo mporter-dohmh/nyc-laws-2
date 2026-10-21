@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-114041" number="61800" version="234">
+			<HEADING>Chapter 26: Affordable Housing Placements</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19411" name="T26C026"/>Chapter 26: Affordable Housing Placements</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-114042" number="61801" version="234">
+										<HEADING>§ 26-2601 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19413" name="26-2601"/>§ 26-2601 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114069" number="61802" version="234">
+											<PARA>For the purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114068" number="61803" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable housing unit.</CHARFORMAT> The term &quot;affordable housing unit&quot; means &quot;affordable housing unit&quot; as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-2201" destination-id="0-0-0-11773">26-2201</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114067" number="61804" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Area median income.</CHARFORMAT> The term &quot;area median income&quot; means the income limits as defined annually by the United States department of housing and urban development (HUD) for the New York, NY HUD Metro FMR Area (HMFA), as established in section 3 of the housing act of 1937, as amended. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114066" number="61805" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of housing preservation and development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114065" number="61806" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Extremely low income household.</CHARFORMAT> The term &quot;extremely low income household&quot; means a household that has an income of no more than 30 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114064" number="61807" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Low income household.</CHARFORMAT> The term &quot;low income household&quot; means a household that has an income of more than 50 percent of the area median income but no more than 80 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114063" number="61808" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Middle income household.</CHARFORMAT> The term &quot;middle income household&quot; means a household that has an income of more than 120 percent of the area median income but no more than 165 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114062" number="61809" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Moderate income household.</CHARFORMAT> The term &quot;moderate income household&quot; means a household that has an income of more than 80 percent of the area median income but no more than 120 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114061" number="61810" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Very low income household.</CHARFORMAT> The term &quot;very low income household&quot; means a household that has an income of more than 30 percent of the area median income but no more than 50 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114060" number="61811" version="713">
+											<PARA>(L.L. 2019/217, 12/15/2019, eff. 12/15/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-114070" number="61812" version="234">
+										<HEADING>§ 26-2602 Report.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19415" name="26-2602"/>§ 26-2602 Report.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114059" number="61813" version="234">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than September 1, 2021 and on September 1 of each third year thereafter, the department shall submit to the mayor and the council, and publicly post on its website, a report on each lottery for affordable housing units that was administered by or on behalf of the department during the prior three fiscal years, provided that each affordable housing unit available through each such lottery was leased or purchased. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114058" number="61814" version="1331">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The data in such report shall be presented at the citywide, borough and community district levels, with aggregated totals for each of the paragraphs in subdivision d, except that the data responsive to the inquiry specified in paragraph 4 of subdivision d shall be aggregated only at the borough level, and the data responsive to the inquiry specified in subdivision d-1 shall be presented as otherwise provided in subdivision d-1. For each required geographic level, data responsive to the inquiries specified in subdivision d shall be disaggregated by the following items: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114057" number="61815" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Applicant household size; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114056" number="61816" version="241">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Applicant household income, broken down into bands of extremely low income households, very low income households, low income households, moderate income households and middle income households. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114055" number="61817" version="234">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Data responsive to the inquiries specified in subdivision d shall be disaggregated at the citywide and borough levels by each of the following items, except that data responsive to the inquiry specified in paragraph 4 of subdivision d shall be disaggregated only at the borough level: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114054" number="61818" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Race or ethnicity of applicants, to the extent such information is reported to the department; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114053" number="61819" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Applicant preference category, such as veteran&apos;s preference, if any (listing &quot;none&quot; otherwise). <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114052" number="61820" version="234">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>As described in subdivisions b and c, data for applicants who had applied through the housing lottery system for affordable housing units shall be provided for each of the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114051" number="61821" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of applications received for affordable housing units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114050" number="61822" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The number of applicants invited to confirm their eligibility for affordable housing units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114049" number="61823" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The number of applicants selected for affordable housing units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114048" number="61824" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The number of applicants who signed leases for affordable housing units; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114047" number="61825" version="234">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The number of applicants who were selected for, but declined to sign a lease for, affordable housing units. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114046" number="61826" version="1331">
+											<PARA>
+												<TAB tab-count="1"/>d-1.<TAB tab-count="1"/>In addition to the data provided pursuant to subdivisions b, c and d, the report required by this section shall also include the following data for applicants with a mobility, or vision or hearing, disability who applied through the housing lottery system for affordable housing: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203083" number="61827" version="1331">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Data responsive to the inquiry specified in paragraph 1 of subdivision d, disaggregated at the citywide and borough levels by disability status; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203082" number="61828" version="1331">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The number of applicants with a mobility, or vision or hearing, disability who signed a lease for an affordable housing unit that is designated as accessible for a person with such disability, disaggregated only at the borough level. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203081" number="61829" version="1331">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The initial report submitted on September 1, 2021 shall include the information required by subdivisions b and c for all of the inquiries specified in subdivision d for the period from July 1, 2020 until June 30, 2021, where available, and shall also include the information required by subdivisions b and c for the inquiries specified in paragraphs 1 and 4 of subdivision d for the period from January 1, 2014 until June 30, 2020. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114045" number="61830" version="1331">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>If a category disaggregated in subdivisions b, c, d, or d-1 contains between 0 and 9 applicants, or allows another category to be narrowed to between 0 and 9 applicants, the number shall be replaced with a symbol. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114043" number="61831" version="1330">
+											<PARA>(L.L. 2019/217, 12/15/2019, eff. 12/15/2019; Am. L.L. 2023/025, 2/21/2023, eff. 2/21/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-55540" number="63932" version="3">
+			<HEADING>Chapter 8: Tax Lien Sales and In Rem Foreclosure Affecting Distressed Properties and Certain Other Properties</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7523" name="T28C008"/>Chapter 8: Tax Lien Sales and In Rem Foreclosure Affecting Distressed Properties and Certain Other Properties</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55541" number="63933" version="3">
+								<HEADING>§ 8-01 Scope; Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7525" name="T28C008_8-01"/>§ 8-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Scope; Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55542" number="63934" version="1862">
+									<PARA>Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-301" destination-id="0-0-0-0">11-301</LINK> et seq. and Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-401" destination-id="0-0-0-0">11-401</LINK> et seq. establish a procedure for sale of tax liens and a procedure for the Commissioner of Finance to deliver a deed conveying a tax delinquent property to a qualified Third Party after final judgment is rendered in an in rem foreclosure action. These rules clarify the circumstances under which certain property may be removed from tax lien sales and how Third Parties may be qualified and selected to acquire property from the Commissioner of Finance pursuant to a judgment rendered in an in rem foreclosure action.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55543" number="63935" version="1745">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affiliate.</CHARFORMAT> &quot;Affiliate&quot; shall mean (a) any Person that has, directly or indirectly, a five percent (5%) or greater ownership interest in a Third Party, or any Person in which a Third Party, any partner or shareholder of a Third Party, or any partner or shareholder of any Person that is a partner or shareholder of a Third Party, has a five percent (5%) or greater ownership interest, and (b) any individual who is a member of the immediate family (whether by birth or marriage) of an individual who is an Affiliate, which includes for purposes of this definition a spouse, a domestic partner as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1150" destination-id="0-0-0-0">1150</LINK>(13) of the Charter, a brother or sister of the whole or half blood (including an individual related by or through legal adoption) of such individual or his/her spouse or domestic partner, a lineal descendant or ancestor (including an individual related by or through legal adoption) of any of the foregoing, or a trust for the benefit of any of the foregoing. Ownership of or by a Third Party referred to in this definition includes beneficial ownership effected by ownership of intermediate entities.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55544" number="63936" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Distressed Property.</CHARFORMAT> &quot;Distressed Property&quot; shall mean any parcel of class one or class two real property that is subject to a tax lien or liens with a lien or liens to value ratio, as determined by the Commissioner of Finance, equal to or greater than fifteen percent and that meets one of the following two criteria:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55545" number="63937" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>such parcel has an average of five or more hazardous or immediately hazardous violations of record of the Housing Maintenance Code per dwelling unit; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55546" number="63938" version="1862">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>such parcel is subject to a lien or liens for any expenses incurred by HPD for the repair or the elimination of any dangerous or unlawful conditions therein, pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2144" destination-id="0-0-0-0">27-2144</LINK>, in an amount equal to or greater than one thousand dollars.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55547" number="63939" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HPD.</CHARFORMAT> &quot;HPD&quot; shall mean the Department of Housing Preservation and Development.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55548" number="63940" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Neighborhood Preservation Consultant.</CHARFORMAT> &quot;Neighborhood Preservation Consultant&quot; shall mean an organization under contract with HPD to undertake activities in connection with the Third Party Transfer Process within a particular area.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55549" number="63941" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person.</CHARFORMAT> &quot;Person&quot; shall mean any natural person, business entity, trust or estate, or any federal, state, county or municipal government or any bureau, department or agency thereof; and any fiduciary acting in such capacity on behalf of any of the foregoing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55550" number="63942" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Regulatory Agreement.</CHARFORMAT> &quot;Regulatory Agreement&quot; shall mean an agreement between HPD and a Third Party selected for conveyance of property pursuant to the Third Party Transfer Process that restricts or conditions the use of such property.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55551" number="63943" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rules.</CHARFORMAT> &quot;Rules&quot; shall mean these Rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55552" number="63944" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Tenants.</CHARFORMAT> &quot;Tenants&quot; shall mean legal residential Tenants of a property that is subject to the Third Party Transfer Process. Squatters and other unlawful occupants are not Tenants.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55553" number="63945" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third Party.</CHARFORMAT> &quot;Third Party&quot; shall mean an entity or individual that may be deemed qualified and selected by the Commissioner of HPD as eligible to acquire a property pursuant to the Third Party Transfer Process.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55554" number="63946" version="1862">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third Party Transfer Process.</CHARFORMAT> &quot;Third Party Transfer Process&quot; shall mean the process under which certain properties are transferred to Third Parties pursuant to Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-401" destination-id="0-0-0-0">11-401</LINK> et seq. and these Rules.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55555" number="63947" version="3">
+								<HEADING>§ 8-02 Procedures for Distressed Property.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7527" name="T28C008_8-02"/>§ 8-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Procedures for Distressed Property.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55556" number="63948" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Commissioner of Finance shall, not less than sixty days preceding the date of the sale of a tax lien or tax liens, submit to the Commissioner of HPD a description by block and lot, or by such other identification as the Commissioner of Finance may deem appropriate, of any parcel of class one or class two real property on which there is a tax lien that may be sold by the City. The Commissioner of HPD shall determine, and advise the Commissioner of Finance, not less than ten days preceding the date of the sale of a tax lien or tax liens, whether any such parcel is a Distressed Property as defined in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-01" destination-id="0-0-0-7525">8-01</LINK>. Any tax lien on a parcel so determined to be a Distressed Property shall not be included in such sale. In connection with a subsequent sale of a tax lien or tax liens, the Commissioner of Finance may, not less than sixty days preceding the date of the sale, resubmit to the Commissioner of HPD a description by block and lot, or by such other identification as the Commissioner of Finance may deem appropriate, of any parcel of class one or class two real property that was previously determined to be a Distressed Property pursuant to these Rules and on which there is a tax lien that may be included in such sale. The Commissioner of HPD shall determine, and advise the Commissioner of Finance, not less than ten days preceding the date of the sale, whether such parcel remains a Distressed Property. If the Commissioner of HPD determines that the parcel is not a Distressed Property, then the tax lien on the parcel may be included in such sale.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55557" number="63949" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Commissioner of HPD may periodically review whether a parcel of class one or class two real property remains a Distressed Property. If the Commissioner determines that the parcel is not a Distressed Property as defined in these Rules, then the tax lien on the parcel may be included in a tax lien sale.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55558" number="63950" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Commissioner of HPD may recommend to the Commissioner of Finance that a tax lien on a parcel of property other than a Distressed Property should not be included in a tax lien sale. The Commissioner of Finance, may, in his or her sole discretion, exclude such tax lien on such parcel from a tax lien sale, in accordance with the recommendation of the Commissioner of HPD.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55559" number="63951" version="3">
+								<HEADING>§ 8-03 Qualification and Selection of a Third Party.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7529" name="T28C008_8-03"/>§ 8-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualification and Selection of a Third Party.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55560" number="63952" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In an in rem foreclosure action, the court shall make a final judgment authorizing the award of possession of any parcel of class one or class two real property described in the list of delinquent taxes not redeemed or withdrawn from the in rem foreclosure action as provided in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C004" destination-id="0-0-0-0">Chapter 4 of Title 11</LINK> of the Administrative Code and as to which no answer is interposed as provided in such chapter, and authorizing the Commissioner of Finance to prepare, execute and cause to be recorded a deed conveying full and complete title to such property either to the City or to a Third Party deemed qualified and selected by the Commissioner of HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55561" number="63953" version="1745">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Such Third Party shall be deemed qualified and shall be selected pursuant to such criteria as are established in these Rules. The Commissioner of HPD shall not deem qualified any Third Party who has been finally adjudicated by a court of competent jurisdiction, within seven years of the date on which such Third Party would otherwise be deemed qualified, to have violated any section of articles one hundred fifty (relating to arson), one hundred seventy-five (relating to offenses involving false written statements), one hundred seventy-six (relating to insurance fraud), one hundred eighty (relating to bribery not involving public servants, and related offenses), one hundred eighty-five (relating to fraud on creditors) or two hundred (relating to bribery involving public servants and related offenses) of the Penal Law or any similar laws of another jurisdiction, or who has been suspended or debarred from contracting with the City or any agency of the City pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="335" destination-id="0-0-0-0">335</LINK> of the Charter, during the period of such suspension or debarment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55562" number="63954" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Other bases for disqualification of a Third Party may include, but shall not be limited to, any of the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55563" number="63955" version="1745">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Record of Housing Maintenance Code violations, including, but not limited to class B and class C violations, legal proceedings to enforce the Housing Maintenance Code including, but not limited to, litigation by HPD&apos;s Housing Litigation Bureau, or Emergency Repair Program charges with respect to any real property owned or managed by a Third Party or such Third Party&apos;s spouse or domestic partner, as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1150" destination-id="0-0-0-0">1150</LINK>(13) of the Charter, or by any Affiliate of such Third Party or of such Third Party&apos;s spouse or domestic partner;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55564" number="63956" version="1745">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Arrears on taxes, water and sewer charges, or other governmental charges or tax, mortgage, or lien foreclosure or enforcement proceedings with respect to any real property owned by a Third Party or such Third Party&apos;s spouse or domestic partner, as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1150" destination-id="0-0-0-0">1150</LINK>(13) of the Charter, or by any Affiliate of such Third Party or of such Third Party&apos;s spouse or domestic partner;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55565" number="63957" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Arrears or defaults on other governmental obligations;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55566" number="63958" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Default or poor performance on a government contract;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55567" number="63959" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Re-designation or termination of negotiations after selection for a government project or contract;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55568" number="63960" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Non-responsibility determination by a government agency;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55569" number="63961" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Conviction or pending charges of fraud, bribery, grand larceny, any other felony, arson, or tenant harassment;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55570" number="63962" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Any other similar facts which demonstrate to HPD that a Third Party is not qualified for selection.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55571" number="63963" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>HPD may select a Third Party for conveyance of a property pursuant to the Third Party Transfer Process by any method which it determines will best meet the purposes of such process, including, without limitation, selection:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55572" number="63964" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>by a request for qualifications process;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55573" number="63965" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>by a request for proposals process;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55574" number="63966" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>from a pre-qualified list;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55575" number="63967" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>by a request for offer process; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55576" number="63968" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>by a direct selection of an entity judged by HPD to be qualified.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55577" number="63969" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>In selecting a Third Party, HPD shall consider:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55578" number="63970" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>residential management experience;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55579" number="63971" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>financial capacity;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55580" number="63972" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>rehabilitation experience;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55581" number="63973" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>ability to work with government and community organizations;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55582" number="63974" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>neighborhood ties;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55583" number="63975" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>ability to finance or obtain financing for the required rehabilitation;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55584" number="63976" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>whether the Third party is a not for profit organization or neighborhood-based-for-profit individual or organization;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55585" number="63977" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>intent and ability to improve, manage and maintain the property to be transferred; (9) whether an application has been submitted under sponsorship of a Third Party on behalf of the Tenants for eventual ownership by the Tenants of a property that is subject to an in rem judgment of foreclosure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55586" number="63978" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Such an application must be submitted to HPD in such form as HPD shall approve, on or before the date that is specified by HPD in the written notice to Tenants made pursuant to subdivision (c) of 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-04" destination-id="0-0-0-7531">8-04</LINK>;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55587" number="63979" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Such application must be sponsored by a Third Party and accompanied by a letter from such Third Party indicating that the Third Party is applying for transfer of the foreclosed property, is prepared to acquire, manage and rehabilitate the foreclosed property, and is sponsoring the Tenants in their effort to eventually own such property; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55588" number="63980" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Such application shall only be considered where: (A) the foreclosed property contains at least 10 residential units, (B) such property is at least 50 percent occupied; (C) the application is signed by 80% of the Tenant households of such property; and (D) such property was not owned by a cooperative corporation formed by a Housing Development Fund Corporation when the foreclosure proceeding commenced;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55589" number="63981" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>any other factors that HPD deems relevant to such selection.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55590" number="63982" version="3">
+								<HEADING>§ 8-04 Third Party Transfer Process.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7531" name="T28C008_8-04"/>§ 8-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Third Party Transfer Process.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55591" number="63983" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>After the four-month period following the entry of a final in rem judgment with respect to a parcel of real property, but prior to expiration of the time set forth in Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-401" destination-id="0-0-0-0">11-401</LINK> et seq. for the conveyance of title to such real property to a Third Party following such judgment, HPD may:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55592" number="63984" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>request the Commissioner of Finance to execute a deed to a Third Party selected by HPD; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55593" number="63985" version="1862">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>take such other action as may be permitted by Administrative Code §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-401" destination-id="0-0-0-0">11-401</LINK> et seq. as HPD deems appropriate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55594" number="63986" version="1862">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If HPD selects a Third Party to acquire a property, HPD may arrange a closing date and may deliver the deed to the Third Party provided that the proposed conveyance has not been disapproved pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-412.2" destination-id="0-0-0-0">11-412.2</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55595" number="63987" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HPD will provide a written notice to Tenants of properties that are the subject of an in rem judgment of foreclosure and eligible for the Third Party Transfer Program. Such notice will advise tenants of the foreclosure action, briefly describe the Third Party Transfer Program, and advise Tenants of an opportunity to apply for eventual ownership of such property under the sponsorship of a Third Party. Such notice shall be provided prior to entry of such judgment for such property and will be posted in a common area of the property, provided, however, that in the case of a property that is subject to a supplemental judgment of foreclosure due to a default in an installment agreement or a property that is subject to a summary judgment of foreclosure due to dismissal of an owner answer, such notice shall be provided prior to entry of such judgment or as soon as practicable thereafter. In addition, HPD will make an effort to place such notice beneath the doors of individual units in such properties.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55596" number="63988" version="3">
+								<HEADING>§ 8-05 Operation After Third Party Transfer Process.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7533" name="T28C008_8-05"/>§ 8-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Operation After Third Party Transfer Process.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55597" number="63989" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Regulatory Agreement.</CHARFORMAT> HPD may require that the Third Party selected for conveyance of property pursuant to the Third Party Transfer Process execute a Regulatory Agreement with HPD as a condition for such conveyance which shall be recorded and shall run with the land for the period set forth therein.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55598" number="63990" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Use Restrictions.</CHARFORMAT> Any conveyance of a property to a Third Party shall be for an existing use. HPD may impose additional restrictions upon the use of such property and may require a Third Party to agree to comply with such restrictions. Such use restrictions may be enforced by any means that HPD determines to be necessary or appropriate, including, but not limited to, provisions in any deed, land development agreement, regulatory agreement, note, mortgage, enforcement note, enforcement mortgage, security agreement, lien, restrictive declaration, or other legal document. HPD may require a Third Party to provide security for its compliance with use restrictions in such types and amounts as are determined by HPD to be necessary or desirable.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55599" number="63991" version="3">
+								<HEADING>§ 8-06 Interim Evaluation Period.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7535" name="T28C008_8-06"/>§ 8-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interim Evaluation Period.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55600" number="63992" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A property that has been transferred to a Third Party for which a Third Party has sponsored a Tenant application pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-03" destination-id="0-0-0-7529">8-03</LINK>(e)(9) shall be subject to an interim evaluation period during which progress toward eventual ownership by Tenants will be monitored by HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55601" number="63993" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No later than ninety days after transfer to a Third Party of a property for which a Third Party has sponsored a Tenant application pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-03" destination-id="0-0-0-7529">8-03</LINK>(e)(9), such Third Party, or his or her designee, shall inform the Tenants that the property has entered into an interim evaluation period, and shall provide information to the Tenants about the process toward eventual ownership by the Tenants. Such Third Party shall make training available to such Tenants after such transfer. The training may include courses in building management, maintenance, and managing building finances. HPD may also provide notice to the Tenants regarding commencement of the interim evaluation period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55602" number="63994" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The interim evaluation period shall include certain milestones for achievement which shall form the basis for HPD to either permit the property to move forward toward eventual ownership by Tenants, or to remove the property from the process toward such ownership. HPD shall evaluate progress toward eventual ownership by Tenants using the following milestones:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55603" number="63995" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>whether Tenants have cooperated with the Third Party in renewing leases or establishing new leases where none exists;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55604" number="63996" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>whether at least 80% of the Tenants are actively paying rent;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55605" number="63997" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>whether Tenants have cooperated with relocation plans, where applicable;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55606" number="63998" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>whether Tenants have attended training programs offered by the Third Party; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55607" number="63999" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>any additional factors that HPD considers appropriate in evaluating the Tenants&apos; progress toward ownership, provided that HPD notifies the Tenants of any such additional factors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55608" number="64000" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Such interim evaluation period shall commence upon transfer of the property to the Third Party and shall continue upon the transfer of the property to any subsequent Third Party. Such interim evaluation period shall end when any required rehabilitation of the property has been completed and permanent loan conversion has taken place, or at the conclusion of such shorter period as HPD shall determine with notice to the Tenants.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55609" number="64001" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>HPD shall evaluate compliance with the milestones listed in subdivision (c) of this section at regular intervals, and shall inform Tenants and the Third Party of its findings. HPD may at any time remove a property from the process toward eventual ownership by Tenants based upon its evaluation. If HPD has not removed the property from such process, at the completion of the interim evaluation period it shall make a determination for such property pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-07" destination-id="0-0-0-7537">8-07</LINK>.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55610" number="64002" version="3">
+								<HEADING>§ 8-07 Transfer from Third Party to Tenant Ownership.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7537" name="T28C008_8-07"/>§ 8-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transfer from Third Party to Tenant Ownership.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55611" number="64003" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Unless a determination has otherwise already been made, HPD shall make a determination whether or not to approve the transfer from a Third Party to Tenant ownership upon completion of the interim evaluation period. HPD will consider the following criteria when making such determination:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55612" number="64004" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>That an application was submitted to HPD pursuant to and in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-03" destination-id="0-0-0-7529">8-03</LINK>(e)(9);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55613" number="64005" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The time period that has elapsed since transfer of the property to the Third Party;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55614" number="64006" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Whether the property has been rehabilitated and permanent loan conversion has taken place;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55615" number="64007" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The number of Tenants who have signed a petition affirming that there is a functioning Tenant organization, that they wish to own the property, and that they understand the extent of the responsibilities of ownership of the property;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55616" number="64008" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The amount of time that a Tenant organization has been in existence at the property;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55617" number="64009" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The number of members of the Tenant organization who have participated in any training offered by HPD, including, but not limited to, courses in building management, maintenance, and managing building finances;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55618" number="64010" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The number of Tenants who have attended a presentation by HPD regarding ownership of the property;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55619" number="64011" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The level of Tenant interest in ownership as indicated through subscriptions to buy units;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55620" number="64012" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The record of payment of all existing loans, status of rent payments, and adequacy of management of the property;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55621" number="64013" version="1162">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>HPD&apos;s evaluation of the progress made toward Tenant ownership during the interim evaluation period as set forth in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C008_8-06" destination-id="0-0-0-7535">8-06</LINK>; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55622" number="64014" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>Any other criteria that HPD deems relevant to the request, including, but not limited to, any information provided to it by the Third Party.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-55623" number="64015" version="3">
+								<HEADING>§ 8-08 Miscellaneous Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-7539" name="T28C008_8-08"/>§ 8-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Miscellaneous Provisions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-55624" number="64016" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">HPD Discretion.</CHARFORMAT> All determinations to be made by HPD in accordance with these Rules shall be in the sole discretion of HPD.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55625" number="64017" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Statutory Authority Not Limited.</CHARFORMAT> Nothing in these Rules shall be deemed to limit HPD&apos;s authority pursuant to applicable laws.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-55626" number="64018" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Technical Violations.</CHARFORMAT> Provided that there has been a reasonable good faith effort to comply with these Rules, technical violations of these Rules shall not invalidate any action taken pursuant to these Rules, nor shall such technical violation give rise to any rights, claims, or causes of action.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

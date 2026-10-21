@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-32787" number="39230" version="3">
+			<HEADING>Chapter 17: Recovery of Refrigerants</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-4379" name="T16C017"/>Chapter 17: Recovery of Refrigerants</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32788" number="39231" version="3">
+								<HEADING>§ 17-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4381" name="T16C017_17-01"/>§ 17-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32789" number="39232" version="748">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&#160;</CHARFORMAT>When used in this chapter: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32790" number="39233" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Appliance&quot;</CHARFORMAT> means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, portable air conditioners, dehumidifiers, refrigerators, refrigerator-freezers, water coolers, or freezers. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32791" number="39234" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Appliance type&quot;</CHARFORMAT> means any of the following categories of appliances: air conditioners, dehumidifiers, refrigerators, water coolers, or freezers. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32792" number="39235" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Brand owner&quot;</CHARFORMAT> means a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32793" number="39236" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Manufacturer&quot;</CHARFORMAT> means a person or entity who manufactures or has manufactured an appliance sold, offered for sale or distributed in the city. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32794" number="39237" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Orphaned product&quot;</CHARFORMAT> means an appliance for which no brand owner or manufacturer exists. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32795" number="39238" version="2298">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Recover&quot; or &quot;recovery&quot;</CHARFORMAT> means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of part 82 of title 40 of the Code of Federal Regulations. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32796" number="39239" version="1175">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Refrigerants&quot;</CHARFORMAT> means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A &quot;substitute substance&quot; shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use. Refrigerants shall not include (1) any substance that the administrator for the United States environmental protection agency has determined can be safely vented, released or disposed of pursuant to 42 U.S.C. § 7671g(c)(2) or (2) one or more of the following substances used alone or in combination with other compounds: CFC-11, CFC-12, CFC-113, CFC-114 or CFC-115. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32797" number="39240" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Residential generator&quot;</CHARFORMAT> means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32798" number="39241" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Responsible party&quot;</CHARFORMAT> means (1) a brand owner or (2) a manufacturer. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32799" number="39242" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Room air conditioner&quot;</CHARFORMAT> means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32800" number="39243" version="1085">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;Serviced by the department&quot;</CHARFORMAT> means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York and in compliance with applicable federal, state and local regulations.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32801" number="39244" version="3">
+								<HEADING>§ 17-02 Responsibility for Recovery.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4383" name="T16C017_17-02"/>§ 17-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Responsibility for Recovery.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32802" number="39245" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On or after July first, two thousand fourteen, responsible parties shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32803" number="39246" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A responsible party may elect to (i) establish its own refrigerant recovery program, (ii) participate with other responsible parties in a refrigerant recovery program or (iii) have its appliances serviced by the department under the department&apos;s refrigerant recovery program. No program established pursuant to paragraph (i) or (ii) of this subdivision may include curbside collection of appliances. All such programs must comply with applicable federal, state and local regulations regarding the lawful recovery of refrigerants.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32804" number="39247" version="3">
+								<HEADING>§ 17-03 Registration Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4385" name="T16C017_17-03"/>§ 17-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registration Requirements.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32805" number="39248" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>By July first, two thousand fourteen, responsible parties must register with the department on a form provided by the department. Such form may be obtained from the department&apos;s website or by written request to: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32806" number="39249" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>Bureau of Recycling and Sustainability <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>ATTN: Refrigerant Recovery Program <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York City Department of Sanitation<LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>44 Beaver Street, 6th Floor <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York, NY 10004 </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32807" number="39250" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Such registration shall include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32808" number="39251" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the name and billing address of the responsible party;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32809" number="39252" version="2298">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a statement indicating whether the responsible party has elected to (i) establish its own refrigerant recovery program, (ii) participate with other responsible parties in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to subdivision a of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-482" destination-id="0-0-0-0">16-482</LINK> of the Administrative Code of the City of New York;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32810" number="39253" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>a list of all brand names currently owned by and/or licensed to the responsible party. If a manufacturer licenses the right to market and sell all models of an appliance type from the brand owner, it shall list all such appliance type(s) by brand;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32811" number="39254" version="2298">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>If a responsible party has elected to establish or participate in a refrigerant recovery program pursuant to paragraph one or two of subdivision b of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-481" destination-id="0-0-0-0">16-481</LINK> of the Administrative Code of the City of New York, the registration shall also include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32812" number="39255" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the name, title and contact information of the person designated by the responsible party as the liaison for its refrigerant recovery program;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32813" number="39256" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a toll-free telephone number and/or the address of a website where residential generators may obtain information regarding the responsible party&apos;s refrigerant recovery program; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32814" number="39257" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a brief description of the responsible party&apos;s refrigerant recovery program.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32815" number="39258" version="3">
+								<HEADING>§ 17-04 Departmental Refrigerant Recovery Program.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4387" name="T16C017_17-04"/>§ 17-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Departmental Refrigerant Recovery Program.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32816" number="39259" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The department shall provide a refrigerant recovery program for appliances set out for department collection by residential generators. The department shall charge the responsible party a fee of fifteen dollars for each of their appliances serviced by the department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32817" number="39260" version="1085">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The department shall bill responsible parties biannually for their appliances that are serviced by the department. The department shall provide a responsible party with a statement indicating how many of its appliances were serviced by the department. The department shall also provide the responsible party with information indicating the number of the responsible party&apos;s appliances the department serviced by type, the district where the appliances were serviced, the date on which the appliances were serviced, and the serial or model numbers of the appliances serviced by the department. Payment of any fees not challenged in good faith pursuant to paragraph (1) of subdivision (c) of this section shall be due no later than sixty days, plus an additional five days for bills that are mailed for delivery by the United State Postal Service, after the date the department issued the bill. Such date will be included in the bill. The department shall first seek to bill the brand owner and then the manufacturer. However, if a manufacturer that licenses the right to market and sell all models of an appliance type from a brand owner (1) registers with the department as a responsible party, (2) lists any such appliance type on its registration form pursuant to paragraph (3) of subdivision (b) of 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C017_17-03" destination-id="0-0-0-4385">17-03</LINK> and (3) provides the department a billing address within the United States, the department shall first seek to bill the manufacturer/licensee. If the manufacturer/licensee fails to timely pay a bill pursuant to this paragraph, the department may bill the brand owner. If the department determines that an appliance is an orphaned product or the department does not record a serial or model number for the appliance serviced, then no responsible party shall be billed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32818" number="39261" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>No later than sixty days, plus an additional five days for bills that are mailed for delivery by the United States Postal Service, after a biannual bill is issued by the department, a responsible party may submit a challenge in good faith to fees contained in a biannual bill by sending a letter setting forth the specific reasons why the responsible party believes the fees are inaccurate or without legal basis and any necessary documentation or evidence to substantiate the challenge to: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32819" number="39262" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>Deputy Commissioner for Legal Affairs <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York City Department of Sanitation <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>125 Worth Street, Room 710 <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York, NY 10013 </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32820" number="39263" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The department shall issue an initial response to any timely challenge submitted by a responsible party within sixty days of receipt. Such initial written response may be, but need not be, the Deputy Commissioner for Legal Affairs&apos; final determination. If the department does not respond within sixty days, then the responsible party shall not be obligated to pay the disputed fees. The department shall issue a final determination when, in its discretion, it has determined the merit of the challenge. The department shall notify the responsible party of such final determination and shall make any necessary adjustments or corrections to the bill. Any remaining payments shall be due within thirty days after the date of issuance of such final determination.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32821" number="39264" version="1085">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The department shall provide a list on its website of all responsible parties that elect to (i) establish refrigerant recovery programs, or (ii) participate with other responsible parties in refrigerant recovery programs. Such list shall include a toll-free telephone number and/or a link to the address of a website where residential generators may obtain information regarding the responsible parties&apos; refrigerant recovery program, if such telephone number or website address has been provided to the department as required by 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C017_17-03" destination-id="0-0-0-4385">17-03</LINK>. If the department is aware of any appliance take-back program serving city residents that is sponsored by a utility company, it shall provide on such list a link to the address of the website for such utility-sponsored program.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32822" number="39265" version="3">
+								<HEADING>§ 17-05 Annual Reporting.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4389" name="T16C017_17-05"/>§ 17-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual Reporting.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32823" number="39266" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>By July first, two thousand fifteen and annually thereafter, a responsible party who elects to (i) establish its own refrigerant recovery program or (ii) participate with other responsible parties in a refrigerant recovery program shall submit to the department an annual report on a form provided by the department. Such form may be obtained from the department&apos;s website or by written request to: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32824" number="39267" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>Bureau of Recycling and Sustainability <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>ATTN: Refrigerant Recovery Program <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York City Department of Sanitation <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>44 Beaver Street, 6th Floor <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York, NY 10004 </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32825" number="39268" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A responsible party&apos;s annual report shall include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32826" number="39269" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>a brief description of the responsible party&apos;s refrigerant recovery program and any changes thereto;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32827" number="39270" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a listing of the responsible party&apos;s current brand names;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32828" number="39271" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the number of appliances by appliance type and the total tonnage of appliances by appliance type serviced under the responsible party&apos;s refrigerant recovery program; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32829" number="39272" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the volume of refrigerants by refrigerant type recovered under the responsible party&apos;s refrigerant recovery program.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32830" number="39273" version="3">
+								<HEADING>§ 17-06 Enforcement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4391" name="T16C017_17-06"/>§ 17-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Enforcement.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32831" number="39274" version="1085">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>It shall be a violation of this section for a responsible party to fail to submit a registration or annual report required by this chapter. Any such violation shall be punishable by a fine of two hundred fifty dollars per violation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32832" number="39275" version="2298">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>It shall be a violation of this section for a responsible party or its agent to remove refrigerants from appliances that are serviced pursuant to a responsible party&apos;s refrigerant recovery program in a manner that does not comply with subpart F of part 82 of title 40 of the Code of Federal Regulations. Any such violation shall be punishable by a fine of five hundred dollars per violation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32833" number="39276" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>It shall be a violation for any responsible party or its agent to dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants. Any such violation shall be punishable by a fine of five hundred dollars per violation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32834" number="39277" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The civil penalties prescribed in this subdivision shall be recoverable in a civil action brought in the name of the Commissioner or in a proceeding returnable before the Environmental Control Board.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,1937 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-12213" number="14428" version="3">
+			<HEADING>Chapter 9: Fire Protection Systems</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1543" name="T03C009"/>Chapter 9: Fire Protection Systems</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12214" number="14429" version="3">
+								<HEADING>§ 901-01 Central Station Monitoring of Fire Alarm Systems.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1545" name="T03C009_901-01"/>§ 901-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Central Station Monitoring of Fire Alarm Systems.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12215" number="14430" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth standards, requirements and procedures for:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12216" number="14431" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the monitoring and related maintenance of all fire alarm systems that are installed in premises located in New York City and that transmit an alarm signal to a central station that monitors such systems for the purpose of re-transmitting or otherwise reporting fire alarms to the Department; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12217" number="14432" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the operation of the central stations that monitor and maintain fire alarm systems.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12218" number="14433" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> The following terms shall, for purposes of this section and used elsewhere in the rules, have the meanings shown herein:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12219" number="14434" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Alarm service.</CHARFORMAT> The service provided by a central station company commencing upon the transmission from the protected premises of an alarm signal, a supervisory signal, or a trouble signal.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12220" number="14435" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Approved central station company.</CHARFORMAT> A central station company that has been issued a valid certificate of operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12221" number="14436" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Central station company.</CHARFORMAT> A person or entity engaged in the operation of a central station.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12222" number="14437" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Central station signaling system.</CHARFORMAT> A system comprised of the protective signaling system at the protected premises, the central station physical plant, the exterior communications channels, and satellite stations, if any.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12223" number="14438" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Designated representative.</CHARFORMAT> A person or entity designated by the subscriber who shall be responsible for receiving notifications from the central station company concerning the status of the protective signaling system at the protected premises and who is authorized to take action with respect to such system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12224" number="14439" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Mandatory system.</CHARFORMAT> A protective signaling system whose installation at a protected premises is required by law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12225" number="14440" version="2612">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Proprietary central station.</CHARFORMAT> A central station operated by or on behalf of the owner of the protected premises monitored by the central station, that monitors protected premises other than the premises in which the central station is located. For purposes of this section and 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C081_8104-01" destination-id="0-0-0-18870">8104-01</LINK>, unless otherwise specifically provided, reference to &quot;central station company&quot; shall be deemed to include proprietary central stations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12226" number="14441" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Protective signaling system.</CHARFORMAT> A system or device installed at a protected premises and designed to transmit an alarm signal, a supervisory signal or a trouble signal.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12227" number="14442" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Runner service.</CHARFORMAT> The dispatching to the protected premises of individuals designated by a central station company, other than the required number of operators on duty to monitor signals, to silence, reset and otherwise restore the protected signaling system to normal service. Such runners may be employees of the central station company, another approved central station company, or a service retained by the central station company, provided that the individuals are trained in and knowledgeable of the protective signaling systems for which they are providing runner service.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12228" number="14443" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Subscriber.</CHARFORMAT> An owner of a protected premises, or an owner of a fire alarm system installed on such a premises, who has arranged for a central station company to monitor the fire alarm system on the protected premises for the purpose of reporting fire alarms to the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12229" number="14444" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Terminal.</CHARFORMAT> A number assigned by the Department which indicates a specific location and/or type of alarm signal at a protected premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12230" number="14445" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Transmitter.</CHARFORMAT> A component of a protective signaling system that provides the link between a fire alarm system and the transmission channels.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12231" number="14446" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Voluntary system.</CHARFORMAT> A protective signaling system whose installation at a protected premises is not required by law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12232" number="14447" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Prohibited Fire Alarm System Monitoring.</CHARFORMAT> It shall be unlawful for:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12233" number="14448" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any person or entity, pursuant to FC 901.6.3.5, to operate a central station company or central station that monitors fire alarm systems in protected premises without having first obtained a certificate of operation pursuant to 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C001_115-01" destination-id="0-0-0-1475">115-01</LINK>. A central station company shall obtain a certificate of operation prior to operating any central station or transmitting any alarms to the Department received from a protected premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12234" number="14449" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Any owner of a protected premises, or other person or entity to contract for, arrange, or otherwise cause or allow, a central station company to receive or retransmit alarm signals from a protected premises, unless such central station company possesses a valid certificate of operation. This provision shall apply whether the protective signaling system installed at a protected premises is a mandatory or voluntary system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12235" number="14450" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12236" number="14451" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Applicable provisions of law.</CHARFORMAT> All central stations and proprietary central stations shall be designed, installed, operated and maintained in compliance with the requirements of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC Chapter 9" destination-id="0-0-0-0">FC Chapter 9</LINK>, this section and NFPA 72. The relationship between the provisions of the Fire Code, this section and such referenced standard shall be as set forth in FC 102.6.2.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12237" number="14452" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance with Building Code and Electrical Code.</CHARFORMAT> All central stations and proprietary central stations shall be designed, installed, operated and maintained in compliance with the requirements of the Building Code and the Electrical Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12238" number="14453" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Central Stations.</CHARFORMAT> Central stations shall comply with the following design and installation requirements.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12239" number="14454" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Security.</CHARFORMAT> The central station operating room shall be locked at all times and access restricted to authorized persons only.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12240" number="14455" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emergency power.</CHARFORMAT> Emergency power shall be provided for the exclusive use of the operating room and other areas vital to the continuous operation of the central station and its provision of fire alarm monitoring services. The emergency power supply shall function automatically upon failure of the normal power supply system. Emergency power systems shall be maintained in accordance with <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 604" destination-id="0-0-0-0">FC 604</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12241" number="14456" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Listed equipment.</CHARFORMAT> The central station shall be equipped with devices, equipment and systems capable of automatically receiving and recording signals, as required by NFPA 72. Such devices, equipment and systems shall be listed by Factory Mutual, Underwriters Laboratories or other approved nationally recognized testing laboratory.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12242" number="14457" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Circuit adjusting equipment.</CHARFORMAT> Circuit adjusting instruments or equipment for emergency operations may be automatically initiated or manually operated upon receipt of a trouble signal.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12243" number="14458" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Retransmission of alarm signals.</CHARFORMAT> The retransmission of an alarm signal received at the Department shall be effected as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12244" number="14459" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>by the use of two (2) telephone lines provided with suitable voice transmitting, receiving and automatic recording equipment, provided that these lines shall not be used for any purpose except communication between the Department and the central station and shall have terminal equipment located at the central station and the Department and shall be provided with twenty-four hour standby power; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12245" number="14460" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>any other means of retransmission deemed by the Commissioner to effect a retransmission at a level of reliability that equals or exceeds that under 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_901-01" destination-id="0-0-0-1545">901-01</LINK>(e)(5)(A).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12246" number="14461" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Alternative voice communication capabilities.</CHARFORMAT> The company shall maintain at each central station at least one cellular telephone available for communication with the Department and the protected premises in the event that telephone circuitry is inoperable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12247" number="14462" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The central station company shall bear all costs associated with the retransmission of fire alarm signals to the Department, including any costs incurred by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12248" number="14463" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Central Station Operations.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12249" number="14464" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General responsibilities.</CHARFORMAT> A central station company shall be accountable to its subscriber to provide all of the requirements of this section, and shall set forth such obligation in its contract with the subscriber. In all cases where an approved central station company has subcontracted with another entity to provide services, the central station company shall be responsible for ensuring that the services provided by the subcontractor comply with this section and with all other applicable laws, rules, regulations and reference standards. A central station company may not subcontract signal monitoring or retransmission services or maintenance to a separate entity unless said separate entity is itself an approved central station company.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12250" number="14465" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Maintenance of central stations and transmitters.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12251" number="14466" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>A central station company shall be responsible for the maintenance of its central stations and the transmitters at protected premises within New York City monitored by such central stations. A central station company shall have available at all times designated individuals trained and knowledgeable in the maintenance and repair of central station devices, equipment and systems, including transmitters, so as to prevent or minimize any disruptions in fire alarm system monitoring. Such individuals shall be employees of the central station company (other than the required number of operators on duty to monitor signals); another approved central station company; or of the holder of a fire alarm installer license issued by the New York Secretary of State pursuant to Article 6-D of the New York State General Business Law or a master electrician licensed by the Department of Buildings and registered with the New York Secretary of State in accordance with such Article 6-D, who has been retained to provide such service. In the event of a malfunction, repairs shall be immediately undertaken so as to restore proper operation and system monitoring as soon as possible.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12252" number="14467" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>A central station company shall ensure that a complete and satisfactory test of all transmitters is conducted at each protected premises in compliance with the requirements of NFPA 72.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12253" number="14468" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>A central station company shall test all paths of communication for the central station signaling system that are not supervised at least once every twelve hours. A record of such tests shall be maintained in the central station log.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12254" number="14469" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Monitoring of fire alarm systems.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12255" number="14470" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>A central station company shall have sufficient personnel on duty at all times to ensure immediate attention to all signals received. This shall include a minimum of two (2) operators at each central station, each of whom shall possess a certificate of fitness to operate central station equipment. A trainee functioning as an operator must work under the direct supervision and in the presence of an operator holding a certificate of fitness and may not be counted as one of the two (2) operators holding certificates of fitness as required by this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12256" number="14471" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Central station operators shall monitor and process all fire alarm signals before any other signals, regardless of the order in which they are received.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12257" number="14472" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Alarm signals shall be re-transmitted to the Department immediately upon receipt of the full signal at the central station. A full signal is deemed to be received at the time it is capable of being decoded.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12258" number="14473" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>Alarm signals transmitted to the Department shall indicate the type of alarm received (e.g., automatic, valve or manual).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12259" number="14474" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Recordkeeping.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12260" number="14475" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>All records required to be maintained under this section shall be entered in a central station log which shall be maintained at each central station. The central station log shall be available at all times to the Department for inspection and copies shall be provided upon the Department&apos;s request. The central station log shall be kept on a yearly basis and be maintained for six (6) years following the period of use.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12261" number="14476" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The format of the central station log shall be either:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12262" number="14477" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>a bound (not spiral bound) logbook for each calendar year, with consecutively numbered lined pages with entries made in ink;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12263" number="14478" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>a computer database with a legend or key to all symbols and abbreviations; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12264" number="14479" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>any other format approved by the Commissioner. Where a computer format is used, the data may be stored on tape, disk or hard copy, provided that hard copies are maintained for 18 months following the period of use, in addition to the storage of the tape or disk for six (6) years following the period of use.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12265" number="14480" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>A central station signaling system shall receive and retransmit all signals and information which the subscriber is required by law to transmit, such as the location of the alarm source (building, floor, section, zone, or subdivision) and/or the type of alarm signal (e.g., automatic, valve or manual). Central stations presently unable to determine the type of alarm signal received due to the lack of sufficient transmitters at the protected premises shall be granted a period of time, as the Department deems reasonable, to make the conversions necessary to comply with this requirement.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12266" number="14481" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>Subsequent alarm and supervisory signals received from the same building shall be retransmitted to the Department upon receipt.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12267" number="14482" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>A combination alarm signal that by its nature is indicative of waterflow in a sprinkler system at the protected premises shall be retransmitted in the same manner as a fire alarm signal. In addition, the designated representative for the protected premises shall be notified as soon as possible.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12268" number="14483" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>The dates and times of the receipt and retransmission of all signals shall be recorded in the central station log.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12269" number="14484" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Runner service.</CHARFORMAT> A central station company shall ensure that a fire alarm system requiring manual silencing or resetting is restored to normal service no later than 90 minutes from receipt of an alarm signal. The central station company shall dispatch a runner to the protected premises for such purpose and shall immediately notify the Department once the system has been restored. A runner need not be dispatched and may be recalled if the central station confirms that the fire alarm system has already been restored, in which case the central station company shall immediately notify the Department of such fact.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12270" number="14485" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notification of service disruptions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12271" number="14486" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>It is imperative that disruptions in central station service be detected as soon as possible and that service be restored immediately. The Department shall be notified of any disruption of fire alarm monitoring services regardless whether the disruption is due to failure of a fire alarm system, a fire suppression system, a protective signaling system, or central station equipment. The central station company shall make the following notifications:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12272" number="14487" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>The central station company shall notify the Department whenever a fire alarm system or fire protection system is expected to be out of service for eight (8) hours or longer at a protected premises, where such information is available. This provision shall apply only to the installation of mandatory systems.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12273" number="14488" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>The central station company must notify the Department and the designated representative for the protected premises forthwith in the event that a central station is either unable to receive alarm signals from a protected premises or to retransmit signals to the Department due to inoperative central station equipment or telephone circuitry. In making the above-described notifications, the central station company shall identify to the Department the terminal assignment number(s) for the affected premises, where such information is available.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12274" number="14489" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>A central station company shall record in the central station log the following information relating to disruptions in service:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12275" number="14490" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>All instances in which a fire alarm system or fire protection system is out of service for eight (8) hours or more at a protected premises, where such information is ascertainable. This record shall identify the terminal assignment number for the protected premises, as well as the date, time and duration of the disruption of service.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12276" number="14491" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>All instances in which a protective signaling system at a protected premises is out of service for two (2) hours or more. This record shall identify the terminal assignment number for the protected premises, as well as the date, time and duration of the disruption in service.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12277" number="14492" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Posting of certificate.</CHARFORMAT> A copy of the certificate of operation shall be posted at each central station operated by the central station company.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12278" number="14493" version="2612">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compensation.</CHARFORMAT> Every central station company shall pay compensation to the Department in accordance with the provisions of 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C081_8104-01" destination-id="0-0-0-18870">8104-01</LINK>. Failure to timely remit such compensation shall be grounds for non-renewal, suspension or revocation of a certificate of operation, or denial of a new certificate of operation, in addition to any and all other remedies provided by law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12279" number="14494" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Registration of Central Station-Monitored Fire Alarm Systems.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12280" number="14495" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Central station companies shall register each fire alarm system on each protected premises that it is monitoring by submitting to the Bureau of Fire Prevention, on the application form prescribed by the Department, the following information and such other information and documentation as the Department may require:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12281" number="14496" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The address of the protected premises in which the fire alarm system(s) are installed;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12282" number="14497" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The number and type of fire alarm systems monitored at the premises, regardless of the number of terminals associated with each such system;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12283" number="14498" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The floors, or portions thereof, monitored by each fire alarm system;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12284" number="14499" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The name, address and telephone number of the owner or operator of each fire alarm system; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12285" number="14500" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>The type and location of each terminal, including manual fire alarm boxes, sprinkler and standpipe system flow alarms and tamper switches, and heat, smoke and carbon monoxide detectors, associated with each fire alarm system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12286" number="14501" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A central station company shall register with the Department each fire alarm system it proposes to monitor prior to the commencement of the receipt or retransmission of alarm signals from the fire alarm system, including resumption of previously discontinued or suspended monitoring service.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12287" number="14502" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The Department may deny a registration application upon a determination that the fire alarm system has not been installed and/or is not being operating in accordance with all applicable laws, rules and regulations, or other good cause. The Department may conduct an inspection of the protected premises to verify the proper installation and operation of the fire alarm system. A central station company shall not monitor any fire alarm system as to which the Department has denied registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12288" number="14503" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A central station company shall give prior written notice to the Department, on a form prescribed by the Department, of the discontinuance or temporary suspension of its monitoring of a fire alarm system, at least ten (10) days prior to such discontinuance or suspension. Five (5) additional days notice shall be provided if notice is given by mail.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12289" number="14504" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>A central station company shall give written notice to the Department within seven (7) days of any change in any of the information set forth on its fire alarm system application form.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12290" number="14505" version="2612">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">(A</CHARFORMAT>mended City Record 9/20/2023, eff. 10/20/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-144115" number="14506" version="2612">
+								<HEADING>§ 901-02 Maintenance of Sprinkler System Pressure Tanks.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1547" name="T03C009_901-02"/>§ 901-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maintenance of Sprinkler System Pressure Tanks.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12291" number="14507" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth requirements for the periodic maintenance of pressure tanks that supply water to sprinkler systems.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12292" number="14508" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT> Water tanks that supply water to sprinkler systems shall be maintained in compliance with the requirements of FC 901.6, NFPA 25, and this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12293" number="14509" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Periodic Maintenance Requirements.</CHARFORMAT> Sprinkler system pressure tanks shall be inspected and tested at least monthly by a certificate of fitness holder and if necessary, corrective action taken, in accordance with the following procedure:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12294" number="14510" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Close both the top and bottom valves on the sight glass level gauge.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12295" number="14511" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Open the petcock at the bottom of the gauge glass and drain the water out of the glass by cracking the top valve to clear the glass. Close the petcock. Open the top valve and allow air to enter the glass.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12296" number="14512" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Open the bottom valve to allow water to enter the gauge glass. Open the top valve.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12297" number="14513" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>When the air and water levels stabilize, the level should be at the 2/3 level or the level required for the design of the system. Immediate corrective action shall be taken in the event the water level is below the design level.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12298" number="14514" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>If the water level is too high, drain water using the emergency valve on the tank. After draining to the design level, introduce compressed air into the tank until the design air pressure is obtained.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12299" number="14515" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notification of Central Station.</CHARFORMAT> If the sprinkler system pressure tank is monitored by a central station, the central station company shall be notified before any testing is conducted.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12300" number="14516" version="3">
+								<HEADING>§ 901-03 Portable Fire Extinguisher Sales. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1549" name="T03C009_901-03"/>§ 901-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Portable Fire Extinguisher Sales. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12301" number="14517" version="3">
+								<HEADING>§ 901-04 Buildings Temporarily Occupied as Emergency Shelters.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1551" name="T03C009_901-04"/>§ 901-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Buildings Temporarily Occupied as Emergency Shelters.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12302" number="14518" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth standards, requirements and procedures for the design, installation, operation and maintenance of premises or parts thereof that are operated and/or occupied, on a temporary basis, to provide emergency shelter for more than 15 persons.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12303" number="14519" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12304" number="14520" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary use and occupancy of premises as emergency shelter.</CHARFORMAT> The provisions of this section shall apply to premises, or parts thereof, including but not limited to armories, auditoriums, community centers, gymnasiums, houses of worship and schools, that are not designed to be occupied as emergency shelter, but that are operated and/or occupied for such purposes for more than 15 persons more than 30 days in any year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12305" number="14521" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notification.</CHARFORMAT> Notification shall be made to the Department of Buildings and the Public Buildings Unit of the Bureau of Fire Prevention of the intent to operate and/or occupy any premises or part thereof as an emergency shelter for more than 15 persons, prior to commencing such use or occupancy.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12306" number="14522" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance with the Building Code.</CHARFORMAT> Nothing contained in this section shall be deemed to excuse compliance with the Building Code. The Department and the Department of Buildings will resolve any issues arising from the application of the section to a particular premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12307" number="14523" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Design and Installation Requirements.</CHARFORMAT> Premises, or parts thereof, operated and/or occupied as an emergency shelter shall comply with the following design and installation requirements:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12308" number="14524" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sprinkler system.</CHARFORMAT> The premises, or parts thereof, shall be protected throughout by a sprinkler system designed and installed in accordance with the Building Code. Activation of the sprinkler system shall cause an alarm to be transmitted to an approved central station and sound an alarm throughout the premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12309" number="14525" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire alarm system.</CHARFORMAT> The premises shall be equipped with a fire alarm system designed and installed in accordance with the Building Code and provided with:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12310" number="14526" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>an approved fire command center at an approved location;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12311" number="14527" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>an approved system of smoke detectors that, upon activation, will cause an alarm to be transmitted to an approved central station and sound an alarm throughout the premises; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12312" number="14528" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>an approved one-way voice communication system capable of making announcements from the fire command center to all parts of the premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12313" number="14529" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emergency lighting.</CHARFORMAT> The premises, or part thereof, shall be equipped with emergency lighting in accordance with the Building Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12314" number="14530" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Means of egress.</CHARFORMAT> The premises, or part thereof, shall be operated and/or occupied so as not to be overcrowded and to ensure adequate means of egress, including:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12315" number="14531" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The emergency shelter shall provide a livable area of not less than 80 square feet per shelter occupant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12316" number="14532" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Adequate aisle space shall be maintained throughout the emergency shelter. Aisles shall not be less than 36 inches in width, except that cross aisles shall not be less than 48 inches in width.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12317" number="14533" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Means of egress shall be provided that are:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12318" number="14534" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>sufficient in number.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12319" number="14535" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>remote from one another.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12320" number="14536" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>arranged to open in the direction of exit travel.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12321" number="14537" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										</CHARFORMAT>equipped with panic hardware.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12322" number="14538" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										</CHARFORMAT>equipped with doors that are self-closing device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12323" number="14539" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										</CHARFORMAT>maintained unobstructed and unimpeded, and unlocked in the direction of egress at all times.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12324" number="14540" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional areas protected.</CHARFORMAT> The Department may require that the fire protection and life safety systems specified in this section be extended to other parts of the premises if the use and occupancy of the premises as an emergency shelter presents an increased fire safety risk to other parts of the premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12325" number="14541" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Operational and Maintenance Requirements.</CHARFORMAT> Premises operated and/or occupied as an emergency shelter shall comply with the following design and installation requirements:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12326" number="14542" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Smoking prohibited.</CHARFORMAT> It shall be unlawful to smoke in any premises, or part thereof, being operated and/or occupied as an emergency shelter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12327" number="14543" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Storage and removal of combustible waste.</CHARFORMAT> The emergency shelter shall be provided with noncombustible combustible waste containers with tight fitting lids. At least one (1) container shall be provided for each 50 persons in each occupied area of the emergency shelter, but not less than two (2) containers shall be provided in each sleeping area, dining area and other gathering place. Combustible waste containers shall be regularly emptied and shall not be allowed to overflow. Combustible waste awaiting collection shall be stored outdoors in accordance with FC 304.4, or indoors in a separate locked room protected by a sprinkler system located on the ground floor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12328" number="14544" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire safety and evacuation plan.</CHARFORMAT> Pursuant to FC 404.2.1 and 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C004_404-01" destination-id="0-0-0-1509">404-01</LINK>, a fire safety and evacuation plan shall be prepared and submitted to the Department for approval.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12329" number="14545" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire drills.</CHARFORMAT> Pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 405" destination-id="0-0-0-0">FC 405</LINK>, fire drills shall be conducted at least monthly on each shift, and FSP staff training at least one (1) hour quarterly on each shift.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12330" number="14546" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Staff identification.</CHARFORMAT> Emergency shelter staff shall be readily identifiable at all times while on duty by means of an approved identification (such as a uniform, cap, nameplate, or armband).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12331" number="14547" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire watch.</CHARFORMAT> Pursuant to FC 401.6.8.3, all parts of premises operated and/or occupied as an emergency shelter, including sleeping areas, shall be continuously patrolled by a person holding a certificate of fitness. An approved method of supervising the conduct of the fire watch, such as a watchman&apos;s clock and key stations, shall be provided.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12332" number="14548" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Below grade areas.</CHARFORMAT> Below grade areas shall not be used for sleeping purposes. Below grade areas that are not protected throughout by a sprinkler system shall not be used for lounges, recreation rooms, or other gathering places.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12333" number="14549" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Decorations.</CHARFORMAT> Decorations shall comply with the requirements of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 805" destination-id="0-0-0-0">FC 805</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12334" number="14550" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Portable fire extinguishers shall be provided in accordance with <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 906" destination-id="0-0-0-0">FC 906</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12335" number="14551" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Signage.</CHARFORMAT> Durable, legible signs shall be securely and conspicuously posted as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12336" number="14552" version="2613">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Exit signs.</CHARFORMAT> Exit signs in accordance with the Building Code, including <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 1013" destination-id="0-0-0-0">BC 1013</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12337" number="14553" version="2613">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stairwell identification signs.</CHARFORMAT> Stairwell floor number and stairwell identification signs in accordance with the Building Code, including BC 1023.9. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12338" number="14554" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Elevator identification and emergency signs.</CHARFORMAT> Elevator identification and emergency signs in accordance with the Building Code, including BC 3002.3.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12339" number="14555" version="2613">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sleeping room signs.</CHARFORMAT> Signs in sleeping rooms in accordance with the Building Code, including BC 1031.10. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12340" number="14556" version="2613">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire emergency reporting.</CHARFORMAT> Signage shall be provided in compliance with the requirements of FC 401.2. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12341" number="14557" version="2613">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Other signage.</CHARFORMAT> Such other signage that may be required by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 1031" destination-id="0-0-0-0">BC 1031</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12342" number="14558" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Recordkeeping.</CHARFORMAT> A record shall be maintained at the fire command center or other approved location, and made available for inspection by any representative of the Department, of all fire safety-related activities, including but not limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12343" number="14559" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Fire watch patrols;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12344" number="14560" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Cleaning of commercial cooking filters and ducts;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12345" number="14561" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Standpipe/sprinkler system inspection, testing and servicing;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12346" number="14562" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>Fire alarm system inspection, testing and servicing;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12347" number="14563" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>Fire department connection testing;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12348" number="14564" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(G)<TAB tab-count="1"/>Smoke detector inspection, testing and servicing;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12349" number="14565" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(H)<TAB tab-count="1"/>Portable fire extinguisher inspection, testing and servicing;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12350" number="14566" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(I)<TAB tab-count="1"/>Emergency lighting testing and servicing;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12351" number="14567" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(J)<TAB tab-count="1"/>Conduct of fire drills and FSP staff training; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12352" number="14568" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(K)<TAB tab-count="1"/>Proof of flame-resistant decorations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12353" number="14569" version="2613">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">(A</CHARFORMAT>mended City Record 9/20/2023, eff. 10/20/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-144116" number="14570" version="2613">
+								<HEADING>§ 902 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18296" name="T03C009_902"/>§ 902 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140299" number="14571" version="2581">
+								<HEADING>§ 903-01 Flow Testing of Residential Sprinkler Systems.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1553" name="T03C009_903-01"/>§ 903-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Flow Testing of Residential Sprinkler Systems.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12354" number="14572" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth standards, requirements and procedures for flow testing of sprinkler systems in buildings, or parts thereof, classified as Occupancy Group R-2 and certain other residential occupancies. This section applies to all such sprinkler systems, including sprinkler systems that only protect a part of the building or space, such as compactor sprinkler systems.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12355" number="14573" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definition.</CHARFORMAT> The following term shall, for purposes of this section and used elsewhere in the rules, have the meanings shown herein:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12356" number="14574" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Inspector&apos;s Test Connection.</CHARFORMAT> A pipe with a diameter of not less than one (1) inch, that is connected to the sprinkler system on the uppermost story of the building, at the end of the most remote branch line, to which is attached a valve that discharges the flow of water equivalent to one (1) sprinkler head of a type having the smallest orifice installed in the system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12357" number="14575" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12358" number="14576" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flow testing of sprinkler systems.</CHARFORMAT> Sprinkler systems in buildings or parts thereof, classified as Occupancy Group R-2 (including sprinkler systems in apartment houses, apartment hotels and other residential buildings with three (3) or more dwelling units that are primarily occupied for the shelter and sleeping accommodation of individuals on a month-to-month or longer-term basis), and in every converted dwelling, or every tenement used, in whole or in part, for single room occupancy, regardless of occupancy classification, in which a sprinkler system has been installed pursuant to the requirements of the New York State Multiple Dwelling Law, shall be flow tested in compliance with the requirements of FC 903.5.1 and 903.5.2 and this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12359" number="14577" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scheduling.</CHARFORMAT> Flow tests shall be scheduled on behalf of the owner by the plumber or master fire suppression contractor who is to conduct the test.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12360" number="14578" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Other flow testing.</CHARFORMAT> The procedure and standard set forth in this section for required sprinkler system flow tests shall not be construed to prohibit an owner of a sprinkler system from conducting any other lawful flow test of such a system. The provisions of this section shall not be applicable to any such other flow test, except for the provisions governing the reporting and correction of sprinkler systems that fail flow tests.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12361" number="14579" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Frequency.</CHARFORMAT> Sprinkler systems shall be flow tested annually, except that in buildings other than converted dwelling, or tenements used in whole or in part for single room occupancy, such system may be flow tested once every 30 months, provided that the pressure gauge located at or near the inspector&apos;s test connection is checked during the required monthly inspection to make certain that the system design pressure is being maintained.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12362" number="14580" version="2613">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Witnessing.</CHARFORMAT> A flow test of a sprinkler system shall be witnessed by a representative of the Department at least once every five (5) years. Fees for such witnessed test shall be as set forth in FC A03.1(29). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12363" number="14581" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting of required flow tests.</CHARFORMAT> The initial flow test result reported to the Department shall include a copy of the installation contractor&apos;s Department of Buildings B Form FP85.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12364" number="14582" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting of other flow tests.</CHARFORMAT> The result of a flow test not required by this section shall be reported to the Department in accordance with 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_903-01" destination-id="0-0-0-1553">903-01</LINK>(e) to the extent required by such section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12365" number="14583" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flow Test Procedure and Standard.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12366" number="14584" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The flow test required by this section is intended to ascertain whether there is sufficient pressure in the sprinkler system to ensure the flow of water in the event the system is activated. The flow test shall be conducted in the following manner:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12367" number="14585" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>All control valves on the system, including the main supply control valves, shall be inspected and determined to be sealed in the &quot;open&quot; position either by an approved wire and seal or a lock and chain.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12368" number="14586" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The flow test shall be conducted using an inspector&apos;s test connection. Such inspector&apos;s test connection shall be installed in accordance with the Building Code. If a sprinkler system is not provided with an inspector&apos;s test connection, such test connection shall be installed in accordance with the Building Code prior to conducting any required flow test.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12369" number="14587" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The contractor&apos;s testing apparatus shall be attached liquid tight to the sprinkler system inspector&apos;s test connection. The contractor&apos;s testing apparatus shall consist of:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12370" number="14588" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>an adapter that connects to the inspector&apos;s test connection valve;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12371" number="14589" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>a calibrated pressure gauge with at least a two (2) inch diameter dial graduated in psi to at least twice the static pressure of the sprinkler system; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12372" number="14590" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>a valve and a length of hose suitable to drain the discharged water to a safe location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12373" number="14591" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The inspector&apos;s test connection valve shall be opened, the contractor&apos;s testing apparatus valve shall be closed and the static pressure indicated on the inspector&apos;s test connection pressure gauge, if provided, and the contractor&apos;s testing apparatus pressure gauge recorded.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12374" number="14592" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>The contractor&apos;s testing apparatus valve shall be fully opened allowing water to discharge from the system until the water runs clear, but in no event shall less than ten (10) gallons be discharged.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12375" number="14593" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>The contractor&apos;s testing apparatus valve shall be closed and the static pressure indicated on the inspector&apos;s test connection pressure gauge, if provided, and the contractor&apos;s testing apparatus pressure gauge recorded.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12376" number="14594" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A sprinkler system shall be determined to have passed the flow test if:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12377" number="14595" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the static pressure indicated on the contractor&apos;s testing apparatus pressure gauge before and after draining the water is unchanged when all control valves are sealed in the open position;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12378" number="14596" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>the contractor&apos;s testing apparatus pressure gauge indicates a pressure of at least 15 psig or the pressure required by hydraulic calculations, whichever is greater;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12379" number="14597" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>the inspector&apos;s test connection pressure gauge, if provided, and the contractor&apos;s testing apparatus pressure gauge readings recorded, as required in 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_903-01" destination-id="0-0-0-1553">903-01</LINK>(d)(1)(D) and (d)(1)(F), are similar.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12380" number="14598" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>there is no other indication that the sprinkler system is not in perfect working order.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12381" number="14599" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flow Testing Reporting Requirements.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12382" number="14600" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting of successful flow tests.</CHARFORMAT> When a sprinkler system passes a flow test required by this section, the plumber or master fire suppression contractor conducting such flow test shall certify that all control valves associated with the sprinkler systems covered by the report have been identified, inspected and observed to be sealed in the open position by either an approved wire seal or chain and lock; that they conducted a flow test of such sprinkler systems in accordance with the procedures and standards specified in 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_903-01" destination-id="0-0-0-1553">903-01</LINK>(d); that the sprinkler systems passed the flow test in accordance with the criteria specified in 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_903-01" destination-id="0-0-0-1553">903-01</LINK>(d); and that there is no other indication that the system is not in perfect working order. Such results shall be certified by completing a Residential Sprinkler System Flow Test Report in a form prescribed by the Department Such report shall be submitted to the Department and maintained for examination as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12383" number="14601" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Residential Sprinkler System Flow Test Reports for flow tests that are not required to be witnessed by a Department representative shall be completed and mailed to the Department within five (5) business days after the completion of such test. Such mailings shall be addressed to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12384" number="14602" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>New York City Fire Department Bureau of Fire Prevention 9 MetroTech Center, 3rd Floor Brooklyn, NY 11201-3857 Attn: Fire Suppression Unit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12385" number="14603" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Residential Sprinkler System Flow Test Reports for flow tests witnessed by a Department representative shall be certified immediately upon completion of the flow test.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12386" number="14604" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The owner or managing agent of the building or space shall maintain a copy of each Residential Sprinkler System Flow Test Report for a period of not less than five (5) years from the test date. Such reports shall be maintained on the premises and made available for examination by any Department representative. Such reports shall be made available for examination by the occupants of the building or space during regular business hours.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12387" number="14605" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting of unsuccessful flow tests.</CHARFORMAT> Any sprinkler system that fails a flow test, whether or not such test is required by this section, is in violation of the requirement of FC 901.6 that such system be maintained in good working order at all times. The owner of such sprinkler system shall take immediate corrective action and shall continue such corrective action until such time as the sprinkler system passes a flow test conducted in accordance with the procedure and standard required by this section. If such corrective action cannot be completed and a successful flow test result obtained by the close of business of the same day, the plumber or master fire suppression contractor conducting such flow test shall notify the Department by telephoning the Department communications office (dispatcher) for the borough in which the premises is located. Nothing contained herein shall preclude the Department from taking enforcement action with respect to any sprinkler system that is not in good working order.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12388" number="14606" version="2613">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">(A</CHARFORMAT>mended City Record 9/20/2023, eff. 10/20/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-144117" number="14607" version="2613">
+								<HEADING>§ 904-01 Clean Agent Fire Extinguishing Systems Acceptance Testing.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1555" name="T03C009_904-01"/>§ 904-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Clean Agent Fire Extinguishing Systems Acceptance Testing.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12389" number="14608" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth standards, requirements and procedures for acceptance testing of clean agent fire extinguishing systems.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12390" number="14609" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT> Pursuant to FC 901.5 and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 904" destination-id="0-0-0-0">904</LINK>, clean agent fire extinguishing systems shall be inspected and tested before a representative of the Department prior to placing the system in operation, to ensure that such system is in good working order and operates as designed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12391" number="14610" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Installation Acceptance Testing.</CHARFORMAT> Inspection and acceptance testing of clean agent fire extinguishing systems shall be conducted to determine whether the system functions in compliance with the requirements of FC 904.10, NFPA 2001, and the following standards and requirements:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12392" number="14611" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>All detection, discharge, alarms and other system components are in good working order.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12393" number="14612" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>All piping is clear and unobstructed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12394" number="14613" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Except as otherwise provided in Section 4-7.2.2.12 of NFPA 2001 (where the total piping contains no more than one change in direction fitting between the storage container and the discharge nozzle, and where all piping is physically checked for tightness), the piping shall be tested to confirm that it is capable to maintain the following pressures:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12395" number="14614" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the maximum anticipated pressure at discharge for a period of ten (10) minutes with a pressure loss not exceeding 15 percent of the test pressure; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12396" number="14615" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>the maximum anticipated pressure at discharge for a period of two (2) minutes with a pressure loss not exceeding three (3) percent of the test pressure; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12397" number="14616" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>40 psig for a period of ten (10) minutes with a pressure loss not exceeding eight (8) PSI, after which the system shall be subjected to a discharge test.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12398" number="14617" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The enclosure protected by the clean agent fire extinguishing system shall be capable of maintaining the design clean agent concentration level for the required holding period. An integrity test in accordance with Appendix B of NFPA 2001 or a discharge test shall be conducted of such enclosure.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12399" number="14618" version="3">
+								<HEADING>§ 905-01 Standpipe System Pressure Reducing Devices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1557" name="T03C009_905-01"/>§ 905-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Standpipe System Pressure Reducing Devices.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12400" number="14619" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth requirements for standpipe system pressure reducing devices.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12401" number="14620" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> The following terms shall, for purposes of this section and used elsewhere in the rules, have the meanings shown herein:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12402" number="14621" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Pressure reducing devices.</CHARFORMAT> Devices, including valves, installed in standpipe systems at or near hose outlet connections that act to limit both the static and dynamic water pressures downstream of the standpipe outlet valve.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12403" number="14622" version="961">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Pressure restrictors.</CHARFORMAT> Removable fittings or &quot;SECO Type&quot; valves that restrict flowing water pressures by reducing the available cross-sectional area of flow.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12404" number="14623" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12405" number="14624" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of approval.</CHARFORMAT> Pressure reducing devices installed in a standpipe system shall be of an approved type and for which a certificate of approval has been issued.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12406" number="14625" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Pressure Reducing Device Requirements.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12407" number="14626" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Location and pressure markings.</CHARFORMAT> Each pressure reducing device shall be permanently marked with the address of the premises in which it is installed, its floor location, and its designated pressure setting.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12408" number="14627" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adjustments and reporting.</CHARFORMAT> Upon initial installation of a pressure reducing device, and at least once every three (3) years thereafter, a master fire suppression contractor shall file an affidavit with the Department on behalf of the building owner attesting to the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12409" number="14628" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The building address and owner&apos;s name.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12410" number="14629" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The floor location of all standpipe system pressure reducing devices and the inlet pressure (static and operating) of each device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12411" number="14630" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The setting of each device and the corresponding discharge flow rate (gpm), discharge pressure (psig), and the maximum outlet static pressure (psig).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12412" number="14631" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The name, address, and master fire suppression contractor license number of the person submitting the affidavit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12413" number="14632" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flow testing.</CHARFORMAT> Upon order of the Commissioner, but at least once every three (3) years, standpipe systems with pressure reducing devices installed shall be flow tested with a minimum actual flowing discharge of 250 gpm. These tests shall be conducted by a master fire suppression contractor who shall provide the Department five (5) business days notice of the date and time of the test. The Department may witness these tests at its discretion.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12414" number="14633" version="2581">
+								<HEADING>§ 906 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18298" name="T03C009_906"/>§ 906 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12416" number="14634" version="2581">
+								<HEADING>§ 907-01 Fire Alarm Recordkeeping, Smoke Detector Maintenance, Testing and Recordkeeping, and the Prevention of Unnecessary and Unwarranted Fire Alarms.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1563" name="T03C009_907-01"/>§ 907-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fire Alarm Recordkeeping, Smoke Detector Maintenance, Testing and Recordkeeping, and the Prevention of Unnecessary and Unwarranted Fire Alarms.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12417" number="14635" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth standards, requirements and procedures for the operation and maintenance of fire alarm systems relating to fire alarm recordkeeping, smoke detector maintenance, testing and recordkeeping, and the prevention of unnecessary and unwarranted alarms.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12418" number="14636" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12419" number="14637" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Purpose.</CHARFORMAT> Pursuant to FC 901.6, all fire alarm systems shall be maintained in good working order at all times. This section sets forth operating and maintenance requirements intended to minimize the number of unwarranted and unnecessary alarms transmitted by such systems that automatically transmit signals to the Department or a central station, including minimum smoke detector maintenance and testing requirements, the type and format of alarm and maintenance records to be kept and used in identifying defective smoke detectors and patterns of unnecessary or unwarranted alarm transmissions. Such alarms, which trigger an emergency response, are costly and endanger the public safety. This section sets forth the standard to which the owners (including lessees) of premises having such systems shall be held in regard to the transmission of such alarms.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12420" number="14638" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>All owners shall comply with the requirements of this section and prevent unnecessary and unwarranted alarms.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12421" number="14639" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Prevention of Unnecessary and Unwarranted Alarms.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12422" number="14640" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>In any premises having a fire alarm system or a smoke detector that automatically transmits signals to the Department or a central station, the owner (including any lessee) of the premises shall be responsible for preventing the transmission of unnecessary or unwarranted alarms, and shall be liable for any violation of this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12423" number="14641" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>It shall be unlawful to transmit two (2) or more unnecessary or unwarranted alarms in any three-month period, and it shall be unlawful to transmit any additional unnecessary or unwarranted alarms as set forth in 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_907-01" destination-id="0-0-0-1563">907-01</LINK>(c)(4).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12424" number="14642" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The owner of any premises from which a second unnecessary or unwarranted alarm is transmitted in any three-month period will be subject to issuance of a notice of violation. Such notice of violation will afford the owner the opportunity to address the cause of the unnecessary or unwarranted alarm and to certify correction of the violation in accordance with 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C001_109-01" destination-id="0-0-0-1443">109-01</LINK>(c), without having to appear for an ECB hearing and without imposition of a penalty.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12425" number="14643" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>An owner issued a notice of violation pursuant to 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_907-01" destination-id="0-0-0-1563">907-01</LINK>(c)(3) shall be liable for a violation of this section for any subsequent unnecessary or unwarranted alarm within six (6) months of the date of issuance of the notice of violation. Each such subsequent notice of violation shall constitute a repeat offense pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="15-229" destination-id="0-0-0-0">15-229</LINK>(a) and shall not be eligible for certification of correction without a hearing and penalty pursuant to 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C001_109-01" destination-id="0-0-0-1443">109-01</LINK>(c). Each such subsequent notice of violation shall extend for an additional six (6) months the time the owner is liable for unnecessary or unwarranted alarms pursuant to this provision.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12426" number="14644" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>An owner issued one (1) or more notices of violation pursuant to 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_907-01" destination-id="0-0-0-1563">907-01</LINK>(c)(3) or (4) who does not transmit any unnecessary or unwarranted alarm within six (6) months of the date of issuance of the last-issued notice of violation shall be restored to compliant status and shall thereafter be subject to issuance of a notice of violation only for two (2) unnecessary or unwarranted alarms within a three-month period, as set forth in 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C001_109-01" destination-id="0-0-0-1443">109-01</LINK>(c)(2).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12427" number="14645" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Nothing contained herein shall be deemed to preclude the Department from utilizing other means of enforcement with respect to unnecessary or unwarranted alarms that meet or exceed the number set forth in 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_907-01" destination-id="0-0-0-1563">907-01</LINK>(c)(2).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12428" number="14646" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>For purposes of this section, the malicious transmission of a false alarm by activation of a manual fire alarm box shall not be construed as an unnecessary alarm.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12429" number="14647" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Alarm Log Book.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12430" number="14648" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The provisions of this section shall apply to any premises having a defined fire alarm system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12431" number="14649" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The fire safety director, or in buildings not requiring a fire safety director, a person designated by the owner, shall be responsible to make all log book entries required by this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12432" number="14650" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>An alarm log book shall be maintained on the premises, at the building&apos;s main fire alarm control panel. In the absence of a secure location at the main fire alarm control panel, the alarm log book may be secured during non-business hours in another area provided it is made available for inspection by any Department representatives responding to an alarm on the premises. Alarm log book entries shall be made in chronological order, recording the location and causes of all alarm signals transmitted by such fire alarm system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12433" number="14651" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The alarm log book shall be a bound book (other than spiral bound) with consecutively numbered and lined pages. The cover of the log book shall bear the inscription, &quot;ALARM LOG BOOK&quot;, together with the name and address of the building. All entries shall be made in ink and dated. A separate log book shall be kept for each calendar year. Log books shall be retained for a period of three (3) years from the date of the last entry.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12434" number="14652" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The alarm log book shall be divided into three (3) separate sections as set forth below. Each section shall have a sufficient number of pages to allow for entries for at least one (1) year. The following log book entries are required and shall be made in each instance:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12435" number="14653" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Daily entries.</CHARFORMAT> The name of the person who made the entry, the certificate of fitness number of the fire safety director on duty, if applicable, and the time each tour of duty began and ended, shall be entered in the alarm log book on a daily basis. These entries shall be set forth in columns in the log book as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12436" number="14654" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>name</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12437" number="14655" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>certificate of fitness number</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12438" number="14656" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>time started</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12439" number="14657" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										</CHARFORMAT>time relieved</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12440" number="14658" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">System off-line entries.</CHARFORMAT> The date and time the alarm system was taken off-line, the reason for such action, the name and certificate of fitness number of the person notified at the central station (or other evidence of notification satisfactory to the Department), and the date and time the system was restored to service, shall be entered in the alarm log book in each such circumstance. These entries shall be set forth in columns in the log book as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12441" number="14659" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>time off line</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12442" number="14660" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>reason off line</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12443" number="14661" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>central station name and telephone number</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12444" number="14662" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										</CHARFORMAT>time restored</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12445" number="14663" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Activated alarm entries.</CHARFORMAT> The date and time the alarm activated, the type and location of the device (e.g., smoke detector, 27th floor, elevator lobby), the probable cause of the alarm, and the Department unit and officer responding shall be entered in the alarm log book in each such circumstance. These entries shall be set forth in columns in the log book as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12446" number="14664" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>date and time activated</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12447" number="14665" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>location and detector type</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12448" number="14666" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>probable cause</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12449" number="14667" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										</CHARFORMAT>Department unit and officer</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12450" number="14668" version="2602">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notification entries.</CHARFORMAT> The date and time of any notification to the occupants of the premises pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC Chapter 9" destination-id="0-0-0-0">FC Chapter 9</LINK> and 3 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T03C009_907-01" destination-id="0-0-0-1563">907-01</LINK>(d), regarding a non-functioning or improperly functioning alarm system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12451" number="14669" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Smoke Detector Maintenance and Recordkeeping.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12452" number="14670" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Owner responsibility. The owner (including any lessee) of any premises monitored by a defined fire alarm system shall be responsible for the detector maintenance required by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC Chapter 9" destination-id="0-0-0-0">FC Chapter 9</LINK> and the smoke detector cleaning and testing required by this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12453" number="14671" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of fitness.</CHARFORMAT> The smoke detector cleaning and testing required by this section shall be performed by a person holding a certificate of fitness for smoke detector maintenance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12454" number="14672" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Smoke detector maintenance company certificate.</CHARFORMAT> Such work shall be performed under the supervision of a company holding a smoke detector maintenance company certificate. All other smoke detector maintenance and testing shall be performed by a person possessing the requisite qualifications and experience, and any applicable license or certificate. Notwithstanding the foregoing, the smoke detector cleaning and testing required by this section may be performed by an owner of the premises, or an employee thereof, who possesses a certificate of fitness for smoke detector maintenance and the tools, instruments or other equipment necessary to perform smoke detector cleaning and testing required by this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12455" number="14673" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Smoke detector cleaning and testing.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12456" number="14674" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>All smoke detectors connected to a defined fire alarm system shall be cleaned and tested in compliance with the procedures set forth in the manufacturer&apos;s specifications and in NFPA 72, except that where such procedures are inconsistent with the provisions of this section, the provisions of this section shall apply.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12457" number="14675" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>All smoke detectors connected to a defined fire alarm system shall be:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12458" number="14676" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>cleaned not less than once every six (6) months, except for analog (intelligent) smoke detectors, which shall be cleaned no later than one (1) week from receipt of an indication of the need for cleaning.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12459" number="14677" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>tested for smoke entry not less than once a year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12460" number="14678" version="961">
+									<PARA>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										</CHARFORMAT>tested for sensitivity not less than once a year, except for analog (intelligent) smoke detectors, which shall be tested for sensitivity no later than one (1) week from receipt of an indication of the need for such testing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12461" number="14679" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Any smoke detector not performing in conformance with the manufacturer&apos;s specifications or the standards set forth in NFPA 72 shall be re-calibrated, repaired or replaced, as required, in accordance with the manufacturer&apos;s recommendations and the requirements of said standard.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12462" number="14680" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Smoke detector maintenance recordkeeping.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12463" number="14681" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The provisions of this section shall apply to any premises having a defined fire alarm system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12464" number="14682" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>A smoke detector maintenance log book shall be maintained on the premises in the office of the fire safety director, or, in buildings not requiring a fire safety director, in the building superintendent&apos;s office. Such log book shall state the total number of smoke detectors on the premises and list each smoke detector by location. Entries shall be made in such log book, in chronological order, regarding the installation, repair, maintenance and testing of the smoke detectors, and any signals transmitted by such detectors. Such entries shall include the date and nature of any inspection, cleaning, testing or calibration, and the name of the person and company performing such work, and any signal transmitted by analog (intelligent) smoke detectors communicating a need for cleaning and/or adjustment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12465" number="14683" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The fire safety director, or in buildings not requiring a fire safety director, a person designated by the owner, shall be responsible to make all smoke detector maintenance log book entries required by this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12466" number="14684" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The smoke detector maintenance log book shall be a bound book (other than spiral bound) with consecutively numbered and lined pages. The cover of the log book shall bear the inscription, &quot;SMOKE DETECTOR MAINTENANCE LOG BOOK,&quot; together with the name and address of the building or occupancy. All entries shall be made in ink and dated. A separate log book shall be kept for each calendar year. Log books shall be retained for a period of three (3) years from the date of the last entry. A computer record that is designed to prevent or detect alteration of information and that is otherwise maintained in a manner acceptable to the Department, may be maintained in lieu of a bound log book provided that such computerized record is available on the premises for inspection by any Department representative during business hours.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12467" number="14685" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>A copy of the smoke detector manufacturer&apos;s recommended maintenance procedures shall be kept with the smoke detector maintenance log book.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12468" number="14686" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance with Other Laws, Rules and Regulations.</CHARFORMAT> Nothing contained in this section shall be construed to authorize any installation, alteration or repair of electrical wiring or other component of a fire alarm system that any other law or rule, including the Electrical Code or the Building Code, requires to be performed by a licensed electrician.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-12469" number="14687" version="2581">
+								<HEADING>§ 908 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18300" name="T03C009_908"/>§ 908 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140301" number="14688" version="2581">
+								<HEADING>§ 909 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18302" name="T03C009_909"/>§ 909 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140302" number="14689" version="2581">
+								<HEADING>§ 910 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18304" name="T03C009_910"/>§ 910 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140303" number="14690" version="2581">
+								<HEADING>§ 911 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18306" name="T03C009_911"/>§ 911 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140304" number="14691" version="2581">
+								<HEADING>§ 912-01 Periodic Testing of Standpipe and Sprinkler Systems With Fire Department Connections.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1565" name="T03C009_912-01"/>§ 912-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Periodic Testing of Standpipe and Sprinkler Systems With Fire Department Connections.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-12470" number="14692" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> This section sets forth standards, requirements and procedures for testing standpipe systems and sprinkler systems that have fire department connections.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12471" number="14693" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Provisions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12472" number="14694" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Periodic testing.</CHARFORMAT> Upon order of the Commissioner, but at least once every five (5) years, the following tests shall be conducted, at the owner&apos;s risk, by his or her representative before a representative of the Department:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12473" number="14695" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The entire standpipe system shall be subjected to a hydrostatic pressure test and a flow test to demonstrate its suitability for Fire Department use.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12474" number="14696" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Standpipe system and sprinkler system fire department connections shall be subjected to a hydrostatic pressure test to demonstrate their suitability for Fire Department use.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12475" number="14697" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The contractor shall have the system ready for test at the time of the appointment and shall have sufficient personnel present to conduct the test in a proper manner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12476" number="14698" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>All defects noted during the test must be corrected before the test can be approved.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12477" number="14699" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Standpipe Pressure and Flow Tests.</CHARFORMAT> Standpipe systems shall be tested in accordance with the following procedures:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12478" number="14700" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hydrostatic test.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12479" number="14701" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>A pressure of 50 psi in excess of static pressure shall be applied to the entire system before replacing clappers in fire department connection check valves. Where intermediate tanks are provided, static pressure must be calculated from the roof tank.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12480" number="14702" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The test connection shall be made at the fire department connection.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12481" number="14703" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Standpipe systems shall not be tested using air or other pneumatic methods.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12482" number="14704" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flow test.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12483" number="14705" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>No flow test shall be conducted when the outdoor ambient temperature is below 32°F.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12484" number="14706" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Shut off supply to system (gravity tank or street supply).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12485" number="14707" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Drain system at lowest outlet available.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12486" number="14708" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>Remove all lower check valve clappers and then replace the bonnet.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12487" number="14709" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>Connect a control valve to each fire department connection. The contractor shall provide a hose or make other provisions for draining of the water, so arranged as to hold the fire department connection clapper in an open position.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12488" number="14710" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>Open the tank control valve or the street control valve and fill the entire system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12489" number="14711" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(G)<TAB tab-count="1"/>Stretch the hose to curb or to a drain, and flush each fire department connection until water runs clear. Shut the water off as soon as it runs clear.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12490" number="14712" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">System restoration.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12491" number="14713" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Restore the system by replacing clappers in check valve, opening all control valves and filling the system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12492" number="14714" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Properly vent all dead ends.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12493" number="14715" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Inspect drips after protection is restored, to check if the lower check valves are leaking.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12494" number="14716" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The contractor shall endeavor to ensure that the standpipe system is not out of service overnight. If it is impracticable to restore the system for Fire Department use, the certificate of fitness holder shall notify the owner or building manager and the Department, by telephoning the Department communications office (dispatcher) for the borough in which the premises is located. If the certificate of fitness holder is not present, the contractor shall make such notifications.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12495" number="14717" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sprinkler System Pressure Test.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12496" number="14718" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The fire department connections for a sprinkler system shall be hydrostatically pressure tested by applying a hydrostatic pressure of 100 psig directly to each fire department connection and satisfactorily maintaining such pressure for not less than 20 minutes. Fire department connections may be isolated from the sprinkler system in accordance with the following procedures:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12497" number="14719" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>If the fire department connection check valve is of the flange type, a blind gasket or blank disc shall be installed between the flanges at the inlet (dry side) of check valve.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12498" number="14720" version="2309">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>If the fire department connection check valve is the screw type valve without flanges, the line at the dry side of check valve shall be cut and the end capped.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12499" number="14721" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>When the test is completed, the blind gasket or blank disc shall be removed and flange gasket replaced. If the pipe was cut to conduct the test, it shall be provided with flanges after the test so that it can be used when future tests are conducted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12500" number="14722" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>After blind gaskets or blank disc are removed and piping is properly reconnected, a final test equal to city main pressure shall be applied to the fire department connection header to check that the flange connection is water tight.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12501" number="14723" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>When the test is completed, the fire department connection header shall be drained and the drip valve left in good working order.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12502" number="14724" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>When the fire department connections for perforated pipe systems are tested, the perforated branch lines shall be backed out and openings plugged.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12503" number="14725" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Pneumatic testing.</CHARFORMAT> Sprinkler system fire department connections shall not be tested using air or other pneumatic methods.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12504" number="14726" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">System restoration.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12505" number="14727" version="961">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>If the fire department connection is isolated during the hydrostatic testing, the system shall be restored by removing plugs and reconnecting branch lines.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-12506" number="14728" version="2581">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The contractor shall endeavor to ensure that the sprinkler system is not out of service overnight. If it is impracticable to restore the system for Fire Department use, the certificate of fitness holder and/or impairment coordinator supervising such testing shall comply with the out-of-service fire protection system requirements of FC 901.7, including notification to the Department by telephoning the Department communications office (dispatcher) for the borough in which the premises is located. If the certificate of fitness holder or impairment coordinator is not present, the contractor shall notify the owner or building manager and the Department.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140305" number="14729" version="2581">
+								<HEADING>§ 913 Reserved</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18308" name="T03C009_913"/>§ 913 Reserved</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140306" number="14730" version="2581">
+								<HEADING>§ 914 Reserved</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18310" name="T03C009_914"/>§ 914 Reserved</PARA>
+							</RECORD>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

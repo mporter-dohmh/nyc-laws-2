@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-29900" number="36435" version="1009">
+			<HEADING>Chapter 20: Primary Care Services and Patient Navigation Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-21278" name="T17C020"/>Chapter 20: Primary Care Services and Patient Navigation Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-134734" number="36436" version="1009">
+										<HEADING>§ 17-2001 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21282" name="17-2001"/>§ 17-2001 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134751" number="36437" version="1009">
+											<PARA>For purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134750" number="36438" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of health and mental hygiene or such other agency or entity as the mayor may designate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134749" number="36439" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Epic care link.</CHARFORMAT> The term &quot;epic care link&quot; means a web based application that connects organizations to their community affiliates and allows for referrals into the city&apos;s public health care system. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134748" number="36440" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Patient navigator program.</CHARFORMAT> The term &quot;patient navigator program&quot; means a program which assists patients in accessing primary care and specialty services and in coordinating such care. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217856" number="36441" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Portable monitoring device.</CHARFORMAT> The term &quot;portable monitoring device&quot; means a portable electronic device that measures patient vital signs, including, but not limited to, a blood pressure monitor or glucometer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217855" number="36442" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Primary care services.</CHARFORMAT> The term &quot;primary care services&quot; means medical services for which participants shall have a primary care physician or primary care practitioner, as such terms are defined in section 901 of the public health law, to help develop, direct and coordinate their plan and course of care and health management, including referrals for testing and specialty services and management of chronic conditions and diseases. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217854" number="36443" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Telehealth device.</CHARFORMAT> The term &quot;telehealth device&quot; means a portable electronic device, capable of audio and visual telecommunication between a patient and a health care professional, including, but not limited to, a tablet device, laptop, or similar wireless or cellular communication device. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217858" number="36444" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Telemedicine service.</CHARFORMAT> The term &quot;telemedicine service&quot; means a system that allows health care professionals to evaluate, diagnose and treat patients using telecommunications technology. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217859" number="36445" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Telepatient population.</CHARFORMAT> The term &quot;telepatient population&quot; means persons who may benefit from telemedicine services, or for whom regular in-person access to healthcare professionals is not reasonably feasible, including, but not limited to, elderly persons, persons with disabilities, and incarcerated persons. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134745" number="36446" version="1623">
+											<PARA>(L.L. 2021/107, 10/10/2021, eff. 10/10/2022; Am. L.L. 2023/059, 5/12/2023, eff. 5/12/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-134752" number="36447" version="1009">
+										<HEADING>§ 17-2002 Primary care services and patient navigation program.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-21280" name="17-2002"/>§ 17-2002 Primary care services and patient navigation program.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-134744" number="36448" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall, consistent with any applicable federal, state or local laws, develop and manage a primary care services and patient navigation program (PCSPNP). No individual shall be excluded from PCSPNP due to their immigration status, employment status or a preexisting medical condition. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134743" number="36449" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>PCSPNP shall offer individuals primary care services and applicable patient navigator services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134742" number="36450" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Primary care services shall be offered by medical service providers, which shall include facilities operated by the New York city health and hospitals corporation and federally qualified health centers, as such term is defined in section 1395x(aa) of title 42 of the United States code, and may include other not-for-profit and private medical service providers. The department shall ensure that providers offer culturally responsive care that meets the primary language and cultural needs of those they serve. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134741" number="36451" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department shall ensure that primary care services are provided in each community district and that at least one participating acute care hospital providing specialty services is provided in each borough. In the event that the department, after making significant efforts, is unable to ensure primary care services in each district, the department shall issue a report to the speaker of the city council and post such report on the department&apos;s website listing any community districts in which the department failed to ensure primary care services as well as any borough in which the department failed to ensure an acute care hospital and the reasons for such failure. Such report shall be issued within one year of the effective date of the local law that added this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134740" number="36452" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The department shall ensure that any provider that opts in to participate in PCSPNP will have access to EPIC care link and training on its use. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134739" number="36453" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall offer a telemedicine service providing access for patients 24 hours per day, seven days per week. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134738" number="36454" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>PCSPNP participating providers shall be offered the ability to connect to a regional health information organization for the electronic exchange of clinical information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134737" number="36455" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>PCSPNP may impose a sliding scale fee schedule based on an individual&apos;s ability to pay for medical services provided but may not charge a participation fee. Such sliding scale fee schedule may correspond with the schedule set by federally qualified health centers, as such term is defined in section 1395x(aa) of title 42 of the United States code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134736" number="36456" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The department shall maintain a website accessible to the public with information about how providers and patients can opt in to PCSPNP. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134735" number="36457" version="1009">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including administering PCSPNP and managing communication with participants. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134733" number="36458" version="1009">
+											<PARA>(L.L. 2021/107, 10/10/2021, eff. 10/10/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-066]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-134732" number="36459" version="1623">
+										<HEADING>§ 17-2003 Telemedicine accessibility plan.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-26350" name="17-2003"/>§ 17-2003 Telemedicine accessibility plan.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-217869" number="36460" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall develop a telemedicine accessibility plan to improve the availability and accessibility of telemedicine services for the telepatient population. Such plan shall include, but need not be limited to, the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217868" number="36461" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Procedures for providing or making available portable monitoring devices to telepatient populations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217867" number="36462" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Procedures for providing or making available telehealth devices to telepatient populations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217866" number="36463" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Outreach to telepatient populations to provide information on telemedicine services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217865" number="36464" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Outreach to health care professionals to improve the availability and accessibility of telemedicine services and implement best practices for providing such services; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217864" number="36465" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The provision of language translation and interpretation services for telepatient populations that require such services to safely and properly use portable monitoring devices and telehealth devices. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217863" number="36466" version="1623">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than 1 year after the effective date of the local law that added this section, and annually thereafter, the department shall submit to the mayor and the speaker of the council a report on the telemedicine plan required by this section, including the number and type of portable monitoring devices and telehealth devices it has provided or made available, and the locations where such devices were provided or made available. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217861" number="36467" version="1623">
+											<PARA>(L.L. 2023/059, 5/12/2023, eff. 5/12/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

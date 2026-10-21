@@ -1,0 +1,893 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-682" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-111264" number="143934" version="3">
+			<HEADING>Title 30: Emergency Management</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-18873" name="T30"/>Title 30: Emergency Management</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-111265" number="143935" version="804">
+				<HEADING>Chapter 1: Office of Emergency Management</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-18875" name="T30C001"/>Chapter 1: Office of Emergency Management</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+								<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111266" number="143936" version="3">
+											<HEADING>§ 30-101 Definitions. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18877" name="30-101"/>§ 30-101 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111267" number="143937" version="3">
+												<PARA>As used in this title: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111268" number="143938" version="683">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;Office&quot; shall mean the New York city office of emergency management and shall have the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="495" destination-id="0-0-0-0">four hundred ninety-five</LINK> of the New York city charter.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111269" number="143939" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;Commissioner&quot; shall mean the commissioner of the New York city office of emergency management.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111270" number="143940" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;Emergency support functions&quot; shall mean a functional area of response activity established to facilitate coordinated delivery of assistance required to save lives, protect property and health, maintain public safety, and otherwise respond to emergency conditions.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111271" number="143941" version="3">
+											<HEADING>§ 30-102 Protocols regarding weather emergencies. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18879" name="30-102"/>§ 30-102 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Protocols regarding weather emergencies. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111272" number="143942" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall develop protocols that shall include, but need not be limited to, the following: (1) what specific actions the office may take when the national weather service forecasts the occurrence of certain specified severe weather conditions, as determined by the office, including identifying what other agencies or offices of city, state or federal government shall be contacted or consulted; (2) based on the national weather service consultation and inter-agency communications, whether and at what level to activate emergency support functions; and (3) the circumstances under which the office would call upon the state emergency management office or other jurisdictions for assistance, or request mutual aid assistance from the state or other jurisdictions pursuant to article two-B of the executive law.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111273" number="143943" version="1812">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>On or before November fifteenth, 2011 and every November fifteenth thereafter, the commissioner shall issue a report to the council setting forth the actions taken by the office pursuant to the protocols issued in accordance with subdivision a of this section. </PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111274" number="143944" version="3">
+											<HEADING>§ 30-103 Annual snow preparedness and response report. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18881" name="30-103"/>§ 30-103 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual snow preparedness and response report. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111275" number="143945" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>For purposes of this subdivision, the term &quot;snow event&quot; shall mean any snowfall equal to or in excess of six inches within a period of twenty-four hours in any of the five boroughs based on the department of sanitation&apos;s measurements.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111276" number="143946" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than November fifteenth, two thousand eleven, and on or before every November fifteenth thereafter, the commissioner shall submit to the council and make available to the public on the city&apos;s website a report describing the city&apos;s preparation for and response to all snow events during the preceding twelve-month period. Such report shall include but not be limited to the following:</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111277" number="143947" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(1)<TAB tab-count="1"/>a list of all snow events during the reporting period;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111278" number="143948" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a list of all city and state agencies or offices and private entities that acted on behalf of the city that were involved in snow event preparation and response, including a description of the responsibilities of each such agency, office or entity. Such agencies or offices, if involved in such preparation or response, shall include, but need not be limited to, the department of education, office of emergency management, department of environmental protection, fire department, office of the chief medical examiner, department of parks and recreation, police department, department of sanitation, department of transportation and to the extent information is available, the state office of emergency management, New York city housing authority, metropolitan transportation authority and port authority of New York and New Jersey;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111279" number="143949" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(3)<TAB tab-count="1"/>an assessment of the performance of each such agency or office for each snow event during the reporting period, including an assessment of interagency coordination;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111280" number="143950" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(4)<TAB tab-count="1"/>a list of any snow-related emergency warnings or declarations issued by the city or state during the reporting period and actions taken pursuant to each such warning or declaration; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111281" number="143951" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(5)<TAB tab-count="1"/>recommendations for improving city snow event preparation and response including, but not limited to, revisions to snow management plans and other relevant protocols of any city agency or office.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111282" number="143952" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>No later than November fifteenth, two thousand twelve, and every November fifteenth thereafter, the report required pursuant to subdivision b of this section shall include:</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111283" number="143953" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(1)<TAB tab-count="1"/>an inventory of all city-owned snow management equipment and resources that were used during any snow event;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111284" number="143954" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>an inventory of privately-owned snow management equipment and resources used by the city during any snow event, an assessment of how such equipment and resources were deployed and overseen by city agencies or offices and strategies, contracts or agreements used to ensure that such snow management equipment and resources were available to the city; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111285" number="143955" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the number of individuals who registered with the city to work during any snow event, and assessment on how such individuals were deployed and overseen by city agencies or offices and strategies, contracts or agreements used to ensure that such individuals were available to the city.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111286" number="143956" version="3">
+											<HEADING>§ 30-104 Food and water access plan. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18883" name="30-104"/>§ 30-104 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Food and water access plan. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111287" number="143957" version="3">
+												<PARA>In consultation with appropriate federal, state, and city government agencies, the commissioner shall develop or update, no later than December first, two thousand thirteen, a food and water access plan to be utilized after coastal storms and other severe weather and natural disaster events where such events may disrupt access to food and water or may impact the ability to purchase, prepare or consume food or water. Such plan shall include, but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111288" number="143958" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>a description of how the city will provide access to food and water, including but not limited to how and to what extent the city will disseminate information to the public about the availability of food and water services; manage requests for support from emergency, not-for-profit entities that provide food and water; arrange for or coordinate disaster feeding; coordinate the efforts of food benefits programs, food donations, food business and emergency food providers; and work to restore the public, private and non-profit sectors&apos; ability to provide access to food and water;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111289" number="143959" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>a mechanism to assess the city&apos;s food and water needs prior to and after such conditions and incidents arise;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111290" number="143960" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>a description of how the city personnel responsible for implementing such plan will be identified, including how a clear hierarchy and points of contact of such personnel will be established;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111291" number="143961" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>criteria for how food and water distribution points are identified and how such distribution points will be publicized to ensure that the public is aware of the locations of such distribution points;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111292" number="143962" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>a mechanism to provide that recipients of food benefits have continued access to such benefits during and immediately after such events and that affected communities experiencing transportation disruptions can access emergency food benefits locally;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111293" number="143963" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>identification of contracts, if any, that can be activated during and immediately after such events for vendors that can provide and distribute food and water, including but not limited to, hot food providers, trucks and drivers;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111294" number="143964" version="3">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>criteria for assessing transportation routes that allow for the distribution of food and water that accounts for emergency road and bridge closures;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111295" number="143965" version="3">
+												<PARA>
+													<TAB tab-count="1"/>h.<TAB tab-count="1"/>a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111296" number="143966" version="3">
+												<PARA>
+													<TAB tab-count="1"/>i.<TAB tab-count="1"/>a mechanism to consult community based organizations and service providers with relevant expertise in regard to the development of such plan.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111297" number="143967" version="3">
+											<HEADING>§ 30-105 Sheltering plan. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18885" name="30-105"/>§ 30-105 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sheltering plan. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111298" number="143968" version="3">
+												<PARA>The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update a sheltering plan no later than December first, two thousand thirteen, that anticipates the operation of shelters for short, medium or long-term periods of time as a result of coastal storms and other severe weather and natural disaster events. Such plan shall include, but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111299" number="143969" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>a description of the types of evacuation centers and shelters, number and location of evacuation centers, how persons are transferred from an evacuation center to a shelter, and a mechanism to identify locations to be used as shelters, including shelters that are adequate for habitability for long-term stays;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111300" number="143970" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>a description of shelter staffing and management, including but not limited to an explanation of how key shelter staff positions such as shelter managers and clinical staff will be determined and how shelters will be adequately staffed with trained medical personnel to the extent necessary for each such shelter&apos;s needs;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111301" number="143971" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>a mechanism for clearly identifying to residents, volunteers and other staff at each shelter the individuals filling key staff positions at such shelter;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111302" number="143972" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>a mechanism to provide that to the extent practicable any shelter manager coordinates with a shelter manager on the immediately following shift at such shelter regarding requests for supplies, shelter conditions and other significant issues at such shelter;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111303" number="143973" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>a mechanism to provide that there is adequate food and water at every shelter and that food options other than shelf stable items and meals ready to eat are available at any such shelter that is to be used for long term stays;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111304" number="143974" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>a reassessment of the emergency shelter supply stockpile at least annually, as well as immediately before and after such plan is activated, to determine whether appropriate supplies are available and adequate;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111305" number="143975" version="3">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>to the extent practicable, a plan for shower and laundry facilities for persons who remain in shelters after three days;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111306" number="143976" version="3">
+												<PARA>
+													<TAB tab-count="1"/>h.<TAB tab-count="1"/>a mechanism for tracking the daily census at each shelter, including the number of persons with special medical needs, the number of persons who enter and exit each day, and to the extent practicable, a general description of the locations to which such persons exited;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111307" number="143977" version="3">
+												<PARA>
+													<TAB tab-count="1"/>i.<TAB tab-count="1"/>a mechanism to track the medical needs of persons at shelters who request assistance in meeting such needs, including but not limited to needed medications and placement in the proper type of shelter;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111308" number="143978" version="3">
+												<PARA>
+													<TAB tab-count="1"/>j.<TAB tab-count="1"/>a mechanism to advise persons who receive federal, state or city public assistance benefits of how to avoid disruption of such benefits due to an inability to meet program requirements as a result of their stay in such shelter;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111309" number="143979" version="3">
+												<PARA>
+													<TAB tab-count="1"/>k.<TAB tab-count="1"/>a mechanism to provide that all shelters are made usable to persons with disabilities to the extent practicable and to identify facilities in the shelter system that are accessible to persons with disabilities;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111310" number="143980" version="3">
+												<PARA>
+													<TAB tab-count="1"/>l.<TAB tab-count="1"/>a description of how persons, including those with disabilities, are assigned to shelter facilities; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111311" number="143981" version="3">
+												<PARA>
+													<TAB tab-count="1"/>m.<TAB tab-count="1"/>a mechanism to consult community based organizations and service providers with relevant expertise in regard to the development of such plan.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111312" number="143982" version="3">
+											<HEADING>§ 30-106 Community recovery plan. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18887" name="30-106"/>§ 30-106 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Community recovery plan. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111313" number="143983" version="3">
+												<PARA>The commissioner shall develop or update, no later than December first, two thousand thirteen, a community recovery plan to be utilized before, during and after coastal storms and other severe weather and natural disaster events. Such plan shall specify steps that the office, along with relevant agencies and other partners, shall take in preparation for, during and immediately after such events. Such plan shall include, but not be limited to, the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency event: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111314" number="143984" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>the establishment of community recovery directors and deputy recovery directors or other such similar positions for each of the five boroughs, where appropriate for the geographic impact of the emergency event, including:</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111315" number="143985" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the criteria for how such directors, deputies or other such similar positions are chosen; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111316" number="143986" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a description of the basic duties and responsibilities of such directors, deputies or other such similar positions including, but not limited to: the timing of deployment in the field following such events; how such director and deputies or other such similar positions will be responsible to act as the main points of contact for providing general services and fulfilling the most critical needs of individuals in impacted areas; how such director, deputies or other such similar positions will work with federal and state representatives to assist impacted individuals with access to emergency disaster benefits; and how such director, deputies or other such similar positions will work with community based organizations, service providers and volunteers in recovery assistance operations;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111317" number="143987" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>a description of ways to leverage the participation of community based organizations, service providers, and volunteers with the goal of commencing a unified recovery assistance operation as rapidly as possible;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111318" number="143988" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>a description of ways to leverage federal and state resources in an expedited manner to provide that resources from all levels of government become available as soon as practicable after such events take place;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111319" number="143989" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>the creation of a uniform information sharing and distribution plan to be used by each community recovery director to properly inform residents, elected officials and the press about the services available through the community recovery director and his or her team on the ground, and ways to contact community recovery personnel;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111320" number="143990" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>the establishment of field recovery offices in or near affected communities as soon as practicable after such events take place;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111321" number="143991" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>a description of how the administrative and functional items necessary for immediate and successful operation of field recovery offices will be established; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111322" number="143992" version="3">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>an information dissemination strategy that identifies and utilizes major hubs and distribution centers, including partnering with non-city distribution sites, to share information about services available to clients, elected officials, and press, and that requires that to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111323" number="143993" version="3">
+											<HEADING>§ 30-107 Small business and non-profit organization recovery plan. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18889" name="30-107"/>§ 30-107 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Small business and non-profit organization recovery plan. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111324" number="143994" version="1812">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The commissioner, in consultation with the commissioner of small business services and other government or private organizations having expertise in non-profit organization and insurance matters, shall develop or update no later than December first, two thousand thirteen, a small business and non-profit organization recovery plan to be utilized after coastal storms and other severe weather and natural disaster events.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111325" number="143995" version="1812">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>In developing such plan, the department of small business services shall, in consultation with other city agencies, chambers of commerce, or other private organizations having expertise in such matters, work with small business owners and non-profit organizations throughout New York city to identify critical resources necessary for the continued functioning of such small businesses and non-profit organizations during and after such events.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111326" number="143996" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The plan developed or updated in accordance with this section shall include but need not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: (i) an evaluation of the potential impact of disruptions on small businesses and non-profit organizations as a result of such events, including a mechanism to conduct an impact analysis for major categories of small businesses and non-profit organizations, as determined by the commissioner of small business services, in order to identify disruptions unique to each such category, and the implementation of measures to prevent or mitigate such disruptions and to support recovery of the small business and non-profit sectors; (ii) the establishment of a voluntary database of small businesses and non-profit organizations, including but not limited to utilizing any existing database of small businesses and non-profit organizations maintained by the department of small business services, to provide that such businesses and organizations receive alerts regarding such events, recovery assistance, and other relevant information and to conduct outreach with such small businesses and non-profit organizations to encourage their registration in such database; (iii) conducting a survey of small business owners and non-profit organizations after such events to identify resources necessary for recovery, which shall include but not be limited to an assessment of small businesses such as whether a business is open, closed or partially in operation, damage to business facilities, lost revenues, the number of employees affected and whether there is a plan for employees to return to such business if such employees are unable to work, whether additional workers are needed or hired to assist with recovery efforts, a description of the type of assistance necessary for recovery, the type and amount of insurance that such business has, and whether such business has filed insurance claims and the status of such claims; (iv) strategies to inform such small businesses and non-profit organizations about how to obtain such resources before, during and after such events; and (v) coordination with non-profit organizations that are capable of assisting small business owners with loan and grant applications, and business counseling services to facilitate and expedite recovery.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111327" number="143997" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>To the extent practicable, all public communications, written or otherwise, with small businesses and non-profit organizations as set forth in this section, shall be available in the most commonly spoken languages of affected communities.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111328" number="143998" version="3">
+											<HEADING>§ 30-108 Traffic management plan. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18891" name="30-108"/>§ 30-108 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Traffic management plan. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111329" number="143999" version="3">
+												<PARA>The commissioner shall develop or update, no later than December first, two thousand thirteen, a traffic management plan in consultation with other city agencies and relevant governmental entities, to be utilized during and after coastal storms and other severe weather and natural disaster events where such events severely impact automotive, subway, and/or commuter train transportation in the city of New York. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111330" number="144000" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>the installation of back-up power capability, including but not limited to the consideration of the effectiveness of installing solar power and other alternative energy sources with respect to street lights and traffic control signals to keep the roadway network functioning to the maximum possible extent during power outages;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111331" number="144001" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>alternative transportation options provided by governmental and/or private entities to be used in the event of subway service and/or major roadway shutdowns, including but not limited to expanded bus and ferry service;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111332" number="144002" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>alternative bus routing, including but not limited to criteria for the closing of streets to all traffic except buses;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111333" number="144003" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>the expanded use of vehicles licensed by the taxi and limousine commission;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111334" number="144004" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>some accessible transportation options for persons with special needs;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111335" number="144005" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>closing or partially closing certain streets or designating that one or more lanes of traffic on such streets are closed to traffic except for emergency vehicles and/or vehicles driven by certain individuals involved in rescue, recovery and clean-up operations;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111336" number="144006" version="3">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>where appropriate, recommending to the appropriate state transportation authorities the elimination or reduction of fares on buses, subways and ferries; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111337" number="144007" version="3">
+												<PARA>
+													<TAB tab-count="1"/>h.<TAB tab-count="1"/>a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111338" number="144008" version="3">
+											<HEADING>§ 30-109 Fuel management plan. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18893" name="30-109"/>§ 30-109 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fuel management plan. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111339" number="144009" version="3">
+												<PARA>The commissioner shall develop or update, no later than December first, two thousand thirteen, a fuel management plan in consultation with other city agencies and other relevant governmental entities, to be utilized during and after coastal storms and other severe weather and natural disaster events where such events may disrupt or have disrupted the fuel supply in the city of New York. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111340" number="144010" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>the procedures and criteria for determining when a fuel shortage exists and for rationing of fuel in the event of a fuel shortage in the city of New York;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111341" number="144011" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>the criteria for determining the amount of fuel reserves in the city of New York that should be maintained and for what priority purposes;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111342" number="144012" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>the establishment and maintenance of lines of communication between the city and the industries that provide fuel to the city of New York;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111343" number="144013" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>the prioritization of fuel access for persons involved in rescue, recovery and clean-up operations, including but not limited to emergency services and critical health, public safety and sanitation personnel;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111344" number="144014" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>a process for assessing transportation routes to maximize the delivery of fuel within the city of New York; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111345" number="144015" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111346" number="144016" version="3">
+											<HEADING>§ 30-110 Special medical needs shelters. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18895" name="30-110"/>§ 30-110 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Special medical needs shelters. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111347" number="144017" version="3">
+												<PARA>The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update a plan no later than December first, two thousand thirteen for the tracking of persons in special medical needs shelters established as a result of coastal storms and other severe weather and natural disaster events. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111348" number="144018" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>a mechanism to adequately track persons who enter or exit a special medical needs shelter;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111349" number="144019" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>a mechanism for the dissemination of bracelets or other wearable identification devices to be used on a voluntary basis by any person entering a special medical needs shelter if such device has not been provided by the state, which shall include to the extent permitted by state and federal law such person&apos;s name, address, emergency contact information, and information provided regarding the medical needs of such person, or an identification number or other identifier that will enable the shelter operator to locate such information;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111350" number="144020" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>a mechanism to track the medical needs of any person using a special medical needs shelter if such mechanism has not been provided by the state and to the extent information regarding such medical needs is available, including but not limited to needed medications;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111351" number="144021" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>a mechanism for enabling persons who use special medical needs shelters and who do not object to disclosure of their location to be contacted by their family members and guardians, including the establishment of a designated point of contact for such information and a description of how such mechanism will be publicized; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111352" number="144022" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>a mechanism for consulting community based organizations and service providers with relevant expertise, including but not limited to those representing the interests of individuals with special medical needs, in regard to the development of such plan.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111353" number="144023" version="3">
+											<HEADING>§ 30-111 Plan for outreach and recovery to vulnerable and homebound individuals. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18897" name="30-111"/>§ 30-111 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Plan for outreach and recovery to vulnerable and homebound individuals. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111354" number="144024" version="3">
+												<PARA>The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update, no later than December first, two thousand thirteen, an outreach and recovery plan to assist vulnerable and homebound individuals before, during and after coastal storms and other severe weather and natural disaster events. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111355" number="144025" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>a description of how the office will identify, conduct outreach to, communicate with, and otherwise assist vulnerable and homebound individuals before, during and after the impact of such events;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111356" number="144026" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>the development of a mechanism for utilizing lists of homebound and vulnerable individuals, to the extent consistent with applicable confidentiality requirements, which shall include: (1) the use of existing lists of such individuals maintained by community based organizations, service providers and relevant agencies, including but not limited to the department for the aging, the department of health and mental hygiene, the department of social services/human resources administration, and the New York city housing authority; (2) the office&apos;s Advance Warning System or successor system; and (3) a process whereby vulnerable and homebound individuals receive information about how to request that they be included in such existing lists or system;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111357" number="144027" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>a description of how the office will coordinate with relevant agencies, community based organizations and service providers to assist such individuals before, during and after the impact of such events;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111358" number="144028" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>the creation of a Door-to-Door Task Force that will be responsible for developing and implementing a strategy to locate and assist vulnerable and homebound individuals, provide such individuals with information, and assist with any recovery efforts that take place after such events, including the delivery of necessary supplies and services;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111359" number="144029" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>a description of how information, supplies, services, and transportation will be made available to such individuals to facilitate the relocation of such individuals if necessary;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111360" number="144030" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities; and</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111361" number="144031" version="3">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>a mechanism for consulting community based organizations and service providers with relevant expertise, including but not limited to those representing the interests of homebound and vulnerable individuals, in regard to the development of such plan.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111362" number="144032" version="3">
+											<HEADING>§ 30-112 Emergency management plan reporting and review. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18899" name="30-112"/>§ 30-112 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Emergency management plan reporting and review. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111363" number="144033" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall provide to the city council a copy of any plan prepared by the New York city office of emergency management for the purpose of responding to coastal storms and other severe weather and natural disaster events, including but not limited to any plans created or updated in accordance with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="30-104" destination-id="0-0-0-18883">30-104</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="30-111" destination-id="0-0-0-18897">30-111</LINK> of this chapter. The commissioner shall also provide the city council with updated versions of such plans within sixty days of plan revisions.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111364" number="144034" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner shall assess any plan referenced in subdivision a of this section whenever such plan is activated. Such assessment shall consider the reports and recommendations issued by any task force or commission following such activation. The commissioner shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council, no later than sixty days after such assessment is completed. The commissioner shall also assess any such plan at least once every two years, whether or not such plan has been activated, and shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council no later than sixty days after such assessment is completed.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111365" number="144035" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>Notwithstanding the provisions of this section, the commissioner shall not be required to disclose to the council portions of plans or to report changes made to plans where disclosure of such information could compromise the safety of the public.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111366" number="144036" version="3">
+											<HEADING>§ 30-113 Weather emergencies and prolonged utility outage preparedness recommendations for residential and commercial buildings.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18901" name="30-113"/>§ 30-113 Weather emergencies and prolonged utility outage preparedness recommendations for residential and commercial buildings.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111367" number="144037" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Coordinating with relevant agencies including the department of buildings, the department of housing preservation and development, and the fire department, the commissioner shall compile recommendations for how residential and commercial property owners may prepare for and communicate certain information to the tenants of such buildings in the event of a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours. Such recommendations shall include, but not be limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111368" number="144038" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>Information on determining the property&apos;s flood zone and evacuation zone; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111369" number="144039" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>The protective measures the building owner may provide or install to protect against flooding or other damage; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111370" number="144040" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>General advice on securing items appended to the building, such as window air conditioning units, patio furniture flower boxes, windows, doors and other loose items, during a weather emergency or natural disaster event; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111371" number="144041" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>General advice for buildings in flood zones on the use of electrical and mechanical equipment when there is a flood risk; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111372" number="144042" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>The types of options available to the property owner to rent equipment after a weather emergency, a natural disaster event or pending the restoration of utility services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111373" number="144043" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>The methods that the property owner may use to communicate with tenants during and after a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours and suggestions for communicating to tenants relevant building contacts for emergencies; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111374" number="144044" version="3">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>The contact information for relevant city agencies to determine evacuation guidelines or learn other suggestions on how to protect persons and property during a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111375" number="144045" version="3">
+											<HEADING>§ 30-114 Localized emergency preparedness materials.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18903" name="30-114"/>§ 30-114 Localized emergency preparedness materials.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111376" number="144046" version="3">
+												<PARA>The commissioner shall develop and disseminate localized emergency preparedness materials for communities in which there is a risk of evacuation due to coastal storms or hurricanes to increase public awareness as to the appropriate responses by members of the public to such risk and of the resources available during such coastal storm or hurricane within and near such communities. Such materials shall: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111377" number="144047" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>be limited to information relevant to that community, as identified by zip code or contiguous zip codes in a geographic area; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111378" number="144048" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>identify any local evacuation zones, evacuation centers or other such geographic information relevant to an evacuation; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111379" number="144049" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>identify and provide contact information for any local patrol precinct or firehouse; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111380" number="144050" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>at the discretion of the commissioner, identify and provide contact information for any charitable organization or not-for-profit organization that the commissioner identifies as having the potential to provide services or materials that may be beneficial to such community after a coastal storm or hurricane;</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111381" number="144051" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>provide any other information deemed relevant by the commissioner; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111382" number="144052" version="3">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>be distributed within communities at risk of evacuation due to coastal storms or hurricanes in the top ten most commonly spoken languages within each such community as determined by the commissioner in consultation with the department of city planning, and be made available online. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111383" number="144053" version="624">
+												<PARA>(L.L. 2015/017, 3/3/2015, eff. 6/1/2015)</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-130197" number="144054" version="624">
+											<HEADING>§ 30-115 Emergency notifications.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-18905" name="30-115"/>§ 30-115 Emergency notifications.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-111384" number="144055" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any emergency alert originated by a city office or city agency that is issued through a commercial mobile service alert system established pursuant to 47 U.S.C. § 1201 shall, to the extent practicable and to the extent permissible under regulations enacted pursuant to such section, be issued in no fewer than the two most commonly spoken languages within the area covered by the emergency alert as determined by the commissioner in consultation with the department of city planning, provided that this subdivision does not require the issuance of an emergency alert in a language if exigent circumstances prohibit the issuance of an alert in such language. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111385" number="144056" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any emergency notification system operated and controlled by the office of emergency management for the purposes of aggregating information obtained from other offices or agencies to inform the public about emergencies or disruptive events through e-mail, text, phone, social media platform, or internet-based feed shall offer each notification in no fewer than the seven most commonly spoken languages within the city as determined by the commissioner in consultation with the department of city planning, provided that this requirement shall not delay or prohibit the immediate issuance of notifications in any individual language. Notifications shall be separated into distinct messages in separate feeds for each language. A general version of each notification may be used when a real-time translation is unavailable, provided that priority shall be placed upon making notifications available with the greatest specificity possible. Any dissemination limitation applicable to an English language notification may be applied to its equivalent notification in another language. If no potential recipient is registered for a specific language, then a notification need not be disseminated in that language. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-111386" number="144057" version="3">
+												<PARA>(L.L. 2017/031, 3/18/2017, eff. 3/18/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-111387" number="144058" version="2263">
+											<HEADING>§ 30-116 Cooling center program.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-20075" name="30-116"/>§ 30-116 Cooling center program.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-124429" number="144059" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+													<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235303" number="144060" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cooling center.</CHARFORMAT> The term “cooling center” means a building that is air-conditioned where members of the public may seek relief from heat during a heat-related emergency, provided the owner or operator of such building has provided consent. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235302" number="144061" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heat index.</CHARFORMAT> The term “heat index” means a measurement of the combined air temperature and relative humidity that estimates the human-perceived equivalent temperature. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235301" number="144062" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heat vulnerability index.</CHARFORMAT> The term “heat vulnerability index” means a tool used by the department of health and mental hygiene to identify neighborhoods where residents have an increased risk of negative impacts from heat-related emergencies or other extreme heat events, considering environmental and social factors such as surface temperatures, access to green spaces, and air-conditioned buildings. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235300" number="144063" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heat-related emergency.</CHARFORMAT> The term “heat-related emergency” means an occurrence of high temperatures or other circumstances during which the national weather service issues a warning or alert relating to extreme heat, or during which the commissioner of health and mental hygiene determines that the level of the heat index is unsafe or unhealthy for vulnerable populations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235299" number="144064" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Urban heat island effect.</CHARFORMAT> The term “urban heat island effect” means the increase in urban air temperature as compared to surrounding suburban and rural temperature. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235298" number="144065" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Vulnerable population.</CHARFORMAT> The term “vulnerable population” means any group of persons at a greater risk of harm from a heat-related emergency than a person in the general population, as determined by the commissioner of health and mental hygiene in consideration of factors including, but not limited to, the heat vulnerability index. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235297" number="144066" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner, in consultation with the commissioner of health and mental hygiene, shall designate cooling centers when there is a heat-related emergency in the city. A cooling center designated pursuant to this section shall contain seating, provide access to restrooms and drinking water at no cost to the public, and shall be staffed by no less than 1 natural person during hours such cooling center is open to the public. In determining the locations of such centers, the commissioner shall consider factors including, but not limited to, areas in which vulnerable populations reside and the heat vulnerability index. Where practicable, the commissioner, in consultation with the commissioner of health and mental hygiene, shall designate no less than 7 cooling centers per 100,000 residents. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235296" number="144067" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner shall post on the website of the office any health alerts issued by the office or the department of health and mental hygiene during a heat-related emergency, and the location and hours of operation of any cooling center open during such heat-related emergency. The commissioner shall post such information on or before May 1 of each year, and make such information available in the designated citywide languages, as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235295" number="144068" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+													<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Comprehensive cooling and communication plan.</CHARFORMAT> On or before May 15, 2026, the commissioner, in consultation with the commissioner of health and mental hygiene, the director of long-term planning and sustainability, and any other office or agency the commissioner deems relevant, shall submit to the speaker of the council and make available to the public on the city’s website a plan describing how the city will provide individuals with information on the dangers of heat exposure, access to cooling, including cooling centers designated pursuant to this section, and how vulnerable populations can stay cool during heat-related emergencies. The commissioner shall update such plan by no later than May 15 of each year. Such plan shall include, but not be limited to, the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235294" number="144069" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>a mechanism to assess the city’s cooling needs generally and the cooling needs of vulnerable populations during heat-related emergencies; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235293" number="144070" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>a description of how the commissioner and the commissioner of health and mental hygiene will communicate to residents the dangers of heat exposure, including information about the urban heat island effect, the heat index, heat-related emergencies and other relevant information pursuant to this section; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235292" number="144071" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>a description of the temperature, heat index and other conditions under which the city will make cooling centers and other heat relief mechanisms available to the public; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235291" number="144072" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>information regarding access to cooling centers designated pursuant to this section and other heat relief mechanisms including: (a) whether such cooling centers can be safely opened; (b) the feasibility of infection and disease control in such centers, including a description of any necessary procedures to promote infection and disease control and any appropriate cleaning, if applicable; (c) a list of potential locations of cooling centers by street address, cross streets, and ZIP code; (d) the potential hours of operations, maximum capacity, and accessibility for individuals with disabilities for each such center; (e) the link to the cooling center finder which also includes notation of which cooling centers are accessible; and (f) other citywide operational strategies for cooling such as spray caps and homeless outreach; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235290" number="144073" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>a description of the public education campaign required by subdivision e of this section; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235289" number="144074" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>if cooling centers are not expected to be open or if they will be insufficient to serve the needs of vulnerable populations, a description of how the city will provide such vulnerable populations with cooling during a heat-related emergency, including but not limited to the direct provision of, and support for, residential cooling mechanisms, and a description of how the commissioner will communicate this information to vulnerable populations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235288" number="144075" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>a description of how the commissioner and the commissioner of health and mental hygiene, or any other office or agency, will provide public communications, written or otherwise, in the designated citywide languages, as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>, and whether communications in any additional languages are needed based on the demographics of current or anticipated vulnerable populations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235287" number="144076" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>8.<TAB tab-count="1"/>an evaluation of the measures taken to reduce the impact of heat-related emergencies and the number of heat-related deaths during the previous summer seasons and a description of the measures the commissioner and the commissioner of health and mental hygiene will take to further reduce the impact of heat-related emergencies and the number of heat-related deaths in the upcoming summer season; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235286" number="144077" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>9.<TAB tab-count="1"/>a plan for office buildings to set thermostats at or above a specific temperature to reduce stress on the electric grid, including a description of the heat conditions during which such a plan would be recommended, a recommendation on the temperature or temperatures to which such thermostats should be set, and a description of how to promote compliance with such plan when recommended. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235285" number="144078" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+													<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Public education and outreach campaign.</CHARFORMAT> The office, in consultation with the department of health and mental hygiene, shall conduct a public education and outreach campaign on heat-related emergencies and strategies for preventing health risks associated with heat-related emergencies. Such public education and outreach campaign shall include, but need not be limited to, encouraging vulnerable populations to limit exposure to heat and to remain inside a building that is air-conditioned during heat-related emergencies, and conducting outreach in neighborhoods or areas of the city where vulnerable populations reside. Such public education and outreach campaign shall provide information about how to submit feedback about a cooling center, including any obstacles to accessing such cooling center. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235284" number="144079" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>The office shall provide an owner or operator of a building designated as a cooling center with a flyer or other written notice stating that such building is a cooling center and direct or request the owner or operator to post such flyer or notice near an entrance to such cooling center during a heat-related emergency. Such flyer or other written notice shall be provided in the designated citywide languages, as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>, and shall include information about how to submit feedback about a cooling center, including any obstacles to accessing such cooling center. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235283" number="144080" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>On or before December 31, 2026, and on or before December 31 of each year thereafter, the department shall submit a report to the speaker of the council and the mayor about the efforts of the office to inform the public about the availability of and benefits provided by cooling centers during the prior year. Such report shall include, but need not be limited to, the following information: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235282" number="144081" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>The median number of cooling centers made available during any heat-related emergency that occurred during the prior year; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235281" number="144082" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>A discussion of any outreach to the public by the office or the department of health and mental hygiene regarding health hazards posed by heat-related emergencies and the need to limit exposure to heat; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235280" number="144083" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>A description of any initiatives of the office or the department of health and mental hygiene to inform the public about the availability of cooling centers or other options for avoiding heat; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235279" number="144084" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>A discussion of public awareness of the availability of cooling centers, and any recommendations for new programs or strategies to improve public outreach and the utilization of cooling centers; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235278" number="144085" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>Recommendations for increasing hours of operation of cooling centers during the evening and on weekends; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-235277" number="144086" version="2263">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>An esimate of any additional resources needed to implement any such recommendations, and a description of any obstacles to implementing such recommendations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-124427" number="144087" version="2263">
+												<PARA>(L.L. 2020/085, 8/28/2020, eff. 8/28/2020; Am. L.L. 2025/128, 9/13/2025, eff. 11/12/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-115]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-124426" number="144088" version="2182">
+											<HEADING>§ 30-117 Flash flood preparedness outreach and evacuation guidance.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-28154" name="30-117"/>§ 30-117 Flash flood preparedness outreach and evacuation guidance.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-231704" number="144089" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+													<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For the purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231703" number="144090" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Basement.</CHARFORMAT> The term “basement” means a story partly below the grade plane and having less than one-half its clear height (measured from finished floor to finished ceiling) below the grade plane. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231702" number="144091" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cellar.</CHARFORMAT> The term “cellar” means a portion of a building that is partly or wholly underground, and having one-half or more of its clear height (measured from finished floor to finished ceiling) below the grade plane. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231701" number="144092" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cellar or basement dwelling.</CHARFORMAT> The term “cellar or basement dwelling” means a room or space used for sleeping that is located at the basement or cellar level of a residential building. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231700" number="144093" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Flash flood.</CHARFORMAT> The term “flash flood” means flooding that begins within 6 hours, and often within 3 hours, of heavy rainfall. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231699" number="144094" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The office shall develop guidance for facilitating safe evacuation before flash flood emergencies. Such guidance shall include but need not be limited to: (i) information on how residents may avoid the dangers of flash flooding events; (ii) guidance on how and when to safely evacuate a location prone to flash flooding prior to a flash flood event, and (iii) existing public or private facilities suitable for individuals seeking refuge in anticipation of a flash flood event. Such guidance shall be included in the office’s annual report within one year of the enactment of the local law that added this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231698" number="144095" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner shall establish an outreach program to increase registration for Notify NYC alerts and to coordinate efforts across agencies to increase public awareness regarding the appropriate responses by members of the public to flash flood risks, including evacuation planning established pursuant to subdivision b of this section. Such program shall include the distribution of emergency preparedness materials and information in-person, and distribution through mass mail, guidance for building and property owners, and any other means the commissioner deems appropriate for locations prone to flash floods. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231697" number="144096" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The program established by subdivision c of this section shall target locations based on but not limited to the following factors: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231696" number="144097" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>A history of flash flood events; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231695" number="144098" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>The prevalence of basement or cellar dwellings, to the extent such information is available. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231694" number="144099" version="2182">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>Within 1 year of the enactment of the local law that added this section, and annually thereafter, the office shall include in their annual report the details of the outreach program established by subdivision c, including the locations selected for outreach. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-231692" number="144100" version="2182">
+												<PARA>(L.L. 2025/060, 5/10/2025, eff. 9/7/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-109]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

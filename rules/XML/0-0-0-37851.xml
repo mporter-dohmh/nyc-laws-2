@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-37851" number="45199" version="1960">
+			<HEADING>Chapter 15: Treatment of an International Banking Facility for Purposes of the Financial Corporation Tax</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-5189" name="T19C015"/>Chapter 15: Treatment of an International Banking Facility for Purposes of the Financial Corporation Tax</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37852" number="45200" version="3">
+								<HEADING>§ 15-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5191" name="T19C015_15-01"/>§ 15-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37853" number="45201" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-109568" number="45202" version="1105">
+									<PARA>As used herein, the following terms have these meanings: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37854" number="45203" version="1834">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Bank.</CHARFORMAT> The term &quot;bank&quot; means any banking corporation doing a banking business as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-640" destination-id="0-0-0-0">11-640</LINK> of the Administrative Code or any similar banking corporation not subject to tax pursuant to Part 4 of Subchapter 3 of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C006" destination-id="0-0-0-0">Chapter 6 of Title 11</LINK> of the Administrative Code that is doing a banking business as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-640" destination-id="0-0-0-0">11-640</LINK> of the Administrative Code. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37855" number="45204" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Corporation. </CHARFORMAT>The term &quot;corporation&quot; includes an association and a joint stock association. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37856" number="45205" version="1175">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Deposit.</CHARFORMAT> The term &quot;deposit&quot; means an IBF time deposit as defined in 12 C.F.R. § 204.8(a)(2). </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37857" number="45206" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Domestic.</CHARFORMAT> The term &quot;domestic&quot; when applied to a corporation or partnership means a corporation or partnership created or organized in the United States or under the Laws of the United States or of any state. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37858" number="45207" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Domestic branch.</CHARFORMAT> The term &quot;domestic branch&quot; means any branch located in the United States. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37859" number="45208" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Foreign.</CHARFORMAT> The term &quot;foreign&quot; when applied to a corporation or partnership means a corporation or partnership which is not domestic. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37860" number="45209" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Foreign branch.</CHARFORMAT> The term &quot;foreign branch&quot; means any branch located outside the United States. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37861" number="45210" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Foreign person.</CHARFORMAT> The term &quot;foreign person&quot; means:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37862" number="45211" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>a nonresident individual;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37863" number="45212" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a foreign corporation, a foreign partnership or a foreign trust, other than a domestic branch thereof;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37864" number="45213" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>a foreign branch of a domestic corporation;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37865" number="45214" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>a foreign branch of the taxpayer;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37866" number="45215" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>a foreign government or an international organization or an agency of either; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37867" number="45216" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>an international banking facility. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37868" number="45217" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Foreign trust.</CHARFORMAT> The term &quot;foreign trust&quot; means a trust, the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income for Federal income tax purposes. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37869" number="45218" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Ineligible gross income.</CHARFORMAT> The term &quot;ineligible gross income&quot; means gross income (including gross income from interoffice transactions) of the IBF that is other than eligible gross income. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37870" number="45219" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>International organization.</CHARFORMAT> The term &quot;international organization&quot; means an organization as defined in section 7701(a)(18) of the Internal Revenue Code, an organization as described in section 204.125 of the Federal Reserve Board regulations, and the World Bank. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37871" number="45220" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Loan. </CHARFORMAT>The term &quot;loan&quot; means any loan, whether the transaction is represented by a promissory note, security, acknowledgement of advance, due bill, repurchase agreement, or any other form of credit transaction, if the related asset is recorded in the financial accounts of the IBF. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37872" number="45221" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Nonresident individual.</CHARFORMAT> The term &quot;nonresident individual&quot; means an individual who resides principally outside the United States at the time of the transaction. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37873" number="45222" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Place of business.</CHARFORMAT> The term &quot;place of business&quot; means a branch or agency at which the taxpayer is carrying on its business in a regular and systematic manner and which is continuously maintained, occupied, and used by the taxpayer. For a taxpayer to be carrying on its business in a regular and systematic manner, its business must be conducted through its own employees who are regularly in attendance at such place of business during normal business hours. The occasional consummation of an isolated transaction does not constitute the carrying on of a business in a regular and systematic manner. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37874" number="45223" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Resident individual.</CHARFORMAT> The term &quot;resident individual&quot; means an individual who resides principally within the Unites States at the time of the transaction. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37875" number="45224" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Subsidiary.</CHARFORMAT> The term &quot;subsidiary&quot; means a corporation which is more than 50 percent owned or controlled, either directly or indirectly by another corporation. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37876" number="45225" version="1105">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>United States.</CHARFORMAT> The term &quot;United States&quot; means the 50 states and the District of Columbia.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37877" number="45226" version="3">
+								<HEADING>§ 15-02 General.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5193" name="T19C015_15-02"/>§ 15-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37878" number="45227" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37879" number="45228" version="1834">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A taxpayer doing a banking business, as defined in Subchapter 3 of Part 4 of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C006" destination-id="0-0-0-0">Chapter 6 of Title 11</LINK> of the Administrative Code, which establishes an international banking facility within New York City may take as a deduction in computing its entire net income the adjusted eligible net income, as determined hereunder, of such international banking facility. However, in the event the adjusted eligible net income of the international banking facility is a loss, the amount of such loss must be added to Federal taxable income in computing the taxpayer&apos;s entire net income. An international banking facility (hereinafter called &quot;IBF&quot;) shall have the same meaning as set forth in the New York State Banking Law or regulations promulgated thereunder or as set forth in the Laws of the United States or regulations of the Board of Governors of the Federal Reserve System.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37880" number="45229" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The adjusted eligible net income of an IBF is computed by subtracting from eligible gross income the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37881" number="45230" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>expenses or other deductions directly or indirectly attributable to eligible gross income,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37882" number="45231" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the ineligible funding amount, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37883" number="45232" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the floor amount.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37884" number="45233" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>An IBF established within New York City is required to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37885" number="45234" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Be located within New York City.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37886" number="45235" version="1105">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Make loans to and receive deposits from foreign persons as defined in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-01" destination-id="0-0-0-5191">15-01</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra.</CHARFORMAT> (3) Maintain books and records that accurately reflect gross income, gains, losses, deductions, assets, liabilities, and other activities of the IBF for the taxable year and make available to the Department of Finance upon its request any information necessary to substantiate the deduction determined hereunder. Such information may include, but shall not be limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37887" number="45236" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a list of all loans made, arranged for, placed, or serviced during the taxable year indicating the borrower, loan number, date proceeds dispersed, maturity date, amount borrowed, and terms;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37888" number="45237" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a list of all deposits made or placed during the taxable year indicating where such deposits were made or placed, date of deposit, amount, and terms; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37889" number="45238" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a list of all depositors for the taxable year.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37890" number="45239" version="3">
+								<HEADING>§ 15-03 Adjusted Eligible Net Income.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5195" name="T19C015_15-03"/>§ 15-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Adjusted Eligible Net Income.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37891" number="45240" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f) and (k), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37892" number="45241" version="1105">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The adjusted eligible net income of the IBF is allowed as a deduction in computing the taxpayer&apos;s entire net income, to the extent not deductible in determining Federal taxable income. This deduction is taken before the taxpayer allocates its entire net income within and without New York City. The adjusted eligible net income of the IBF is determined by subtracting from the eligible net income of the IBF the ineligible funding amount (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-10" destination-id="0-0-0-5209">15-10</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra</CHARFORMAT> – Ineligible Funding Amount) and the floor amount (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-11" destination-id="0-0-0-5211">15-11</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra – </CHARFORMAT>Floor Amount). The eligible net income of the IBF is the amount remaining after subtracting from the eligible gross income of the IBF (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-04" destination-id="0-0-0-5197">15-04</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra – </CHARFORMAT>Eligible gross income) the expenses applicable to such gross income (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-05" destination-id="0-0-0-5199">15-05</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra – </CHARFORMAT>Direct expenses of the IBF, 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra – </CHARFORMAT>Interest Expense of the IBF, 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-07" destination-id="0-0-0-5203">15-07</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra – </CHARFORMAT>Bad Debt Deduction of the IBF, and 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-08" destination-id="0-0-0-5205">15-08</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra – </CHARFORMAT>Indirect Expenses of the IBF, including Head Office Expenses). When the IBF has eligible gross income and ineligible gross income for the taxable year, eligible net income of the IBF is computed by reducing eligible gross income by those expenses which are apportioned to eligible gross income pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-09" destination-id="0-0-0-5207">15-09</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37893" number="45242" version="1105">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The eligible gross income of the IBF is the amount of gross income (including gross income from interoffice transactions) derived from the activities described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-04" destination-id="0-0-0-5197">15-04</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra, </CHARFORMAT>that would be includible in the computation of the IBF&apos;s entire net income for the taxable year, as if the IBF were a separate corporation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37894" number="45243" version="1105">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Expenses applicable to the eligible gross income of the IBF are those expenses or other deductions (including expenses or other deductions from interoffice transactions) described in 19 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-05" destination-id="0-0-0-5199">15-05</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-07" destination-id="0-0-0-5203">15-07</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-08" destination-id="0-0-0-5205">15-08</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra, </CHARFORMAT>that are directly or indirectly attributable to the eligible gross income of the IBF.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37895" number="45244" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The Commissioner of Finance may, whenever necessary in order to properly reflect the adjusted eligible net income or the entire net income of the taxpayer, determine the taxable year in which any item of income or deduction shall be included without regard to the method of accounting used by the taxpayer.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37896" number="45245" version="3">
+								<HEADING>§ 15-04 Eligible Gross Income.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5197" name="T19C015_15-04"/>§ 15-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible Gross Income.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37897" number="45246" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(2), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37898" number="45247" version="2471">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Eligible gross income includes gross income derived from making, arranging for, placing, or servicing loans to foreign persons, except that such gross income derived from those foreign persons described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-04" destination-id="0-0-0-5197">15-04</LINK>(b) is eligible gross income only when substantially all the proceeds of the loan are for use outside the United States. Eligible gross income includes fees, such as arrangement, commitment, and letter of credit fees received from foreign persons regardless of when or whether the loans are made, and management fees from servicing loans to foreign persons. Eligible gross income includes interest income received from a loan made to or a deposit placed with a foreign person which was purchased without recourse as against any prior owner and meets the restrictions set forth in 12 C.F.R. § 204.122. Eligible gross income does not include income received from the purchasing or selling of assets from or to third parties, such as loans (including loan participations), securities, certificates of deposits, and bankers&apos; acceptances.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37899" number="45248" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Gross income derived from making, arranging for, placing, or servicing a loan to a foreign person which is:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37900" number="45249" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>a nonresident individual;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37901" number="45250" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a foreign branch of a domestic corporation (other than a foreign branch of a domestic bank);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37902" number="45251" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>a foreign corporation which is 80 percent or more owned or controlled, either directly or indirectly, by one or more domestic corporations (except corporations which are banks), domestic partnerships, or resident individuals; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37903" number="45252" version="2309">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>a foreign partnership which is 80 percent or more owned or controlled, either directly or indirectly, by one or more domestic corporations (except corporations which are banks), domestic partnerships, or resident individuals; is eligible gross income only when substantially all the proceeds of the loan re for use outside the United States. For purposes of this subdivision, &quot;substantially all the proceeds of the loan are for use outside of the United States&quot; means that at least 95 percent of the proceeds of the loan must be used outside the United States to finance the operations of the borrower or its affiliates located outside the United States. An affiliate is a corporation or partnership which is 80 percent or more owned or controlled, either directly or indirectly, by the borrower. The use of proceeds requirement for New York City tax purposes is deemed to be satisfied based on the stated purpose of the loan and a written statement of the foreign person to whom a loan is made stating that such foreign person, or another foreign person that is affiliated with such foreign person, will use the proceeds of the loan outside the United States. The written statement may be in the form of a representation or covenant in any agreement relating to the loan or a separate certificate or other written statement of the foreign person, such as the model statement set forth by the Federal Reserve Board. If the taxpayer is unable to obtain such a written statement, the Commissioner of Finance will consider other evidence that the proceeds of the loan are for use outside the United States. For purposes of this subdivision, the term &quot;owned or controlled, either directly or indirectly&quot; means, in the case of a corporation, the power to direct or cause the direction of the management and policies of [a corporation, whether through the ownership of at least 80 percent of the voting stock of such corporation or through the ownership of at least 80 percent of the voting stock of any other corporation which possesses such power, or, in the case of a partnership, the power to direct or cause the direction of the management and policies of] the partnership, or ownership of at least 80 percent of the profits interest or at least 80 percent of capital interest of such partnership.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37904" number="45253" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Eligible gross income includes gross income derived from making or placing deposits, if the related asset is recorded in the financial accounts of the IBF, with foreign persons which are:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37905" number="45254" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>banks;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37906" number="45255" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>foreign branches of a bank, including foreign branches of the taxpayer;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37907" number="45256" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>foreign banks which are subsidiaries of a bank, including foreign banks which are subsidiaries of the taxpayer; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37908" number="45257" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>other IBFs. The term &quot;deposit&quot; as used in this subdivision means the amount of money received or held by such foreign person for which it has given or is obligated to give credit, either conditionally or unconditionally, to a deposit liability account, including interest credited to such account, or which is evidenced by such foreign person&apos;s certificate of deposit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37909" number="45258" version="1105">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Eligible gross income includes gross income derived from foreign exchange trading or hedging transactions that are solely entered into for or directly traceable to any of the transactions described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-04" destination-id="0-0-0-5197">15-04</LINK>(a), (b) and (c). Gross income from foreign exchange trading or hedging transactions related to a deposit (as defined in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-01" destination-id="0-0-0-5191">15-01</LINK>, &quot;deposit&quot; <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>from a foreign person, is eligible gross income when such deposit can be traced directly to a transaction described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-04" destination-id="0-0-0-5197">15-04</LINK>(a), (b) and (c). A foreign exchange trading or hedging transaction is not solely entered into for or directly traceable to any of the transactions described in 19 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-04" destination-id="0-0-0-5197">15-04</LINK>(a), (b) and (c) unless the foreign exchange trading or hedging transaction is recorded in the financial accounts of the IBF. The term &quot;foreign exchange trading or hedging transaction&quot; as used in this subdivision means:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37910" number="45259" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the purchase, sale, or exchange of foreign currency; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37911" number="45260" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the acquisition, disposition, or performance of any contract to purchase, sell, or exchange foreign currency at a future date under terms fixed in the contract if the contract hedges a foreign currency denominated loan or deposit. A forward contract hedges such foreign currency denominated loan or deposit if the effect of a change in the value of the foreign currency on the United States dollar value of the forward contract, either alone or in combination with other such contracts, offsets the effect of the change on the United States dollar value of such foreign currency denominated loan or deposit. A hedging relationship may be established by reference to particular facts and circumstances (for example, the amount of the forward contract, particular currency, initial date, and maturity) indicating a hedging purpose, or by designating a contract as being intended for the purpose of hedging a loan or deposit.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37912" number="45261" version="3">
+								<HEADING>§ 15-05 Direct Expenses of the IBF.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5199" name="T19C015_15-05"/>§ 15-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Direct Expenses of the IBF.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37913" number="45262" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(3), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37914" number="45263" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Expenses or other deductions which can be specifically identified with the gross income, gains, losses, deductions, assets, liabilities, or other activities of the IBF are direct expenses, regardless of where such expenses or other deductions are recorded. Direct expenses may include such items as interest, bad debts, rents, depreciation, taxes, insurance, supplies, compensation of officers, salaries, wages, travel expenses, pension plans, charitable contributions, training, servicing, etc.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37915" number="45264" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Employee expenses incurred at places other than the IBF are allocated to the IBF when the employee is regularly connected with or working out of the IBF regardless of where the services of such employee were actually performed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37916" number="45265" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The IBF may incur certain expenses as a result of performing a service for one or more places of business of the taxpayer. These expenses must be directly allocated to the place or places of business of the taxpayer which received the benefit for which the service was performed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37917" number="45266" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Head office expenses that can be specifically identified with the gross income, gains, losses, deductions, assets, liabilities, or other activities of the IBF are directly allocated to the IBF.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37918" number="45267" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If a portion of an expense can be specifically identified with the IBF, that portion of the expense must be directly allocated to the IBF. The portion of such expense that cannot be directly allocated to one or more places of business of the taxpayer must be indirectly allocated to the IBF pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-08" destination-id="0-0-0-5205">15-08</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">infra.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37919" number="45268" version="3">
+								<HEADING>§ 15-06 Interest Expense of the IBF.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5201" name="T19C015_15-06"/>§ 15-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interest Expense of the IBF.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37920" number="45269" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(3), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37921" number="45270" version="1175">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Interest expense of the IBF includes interest paid or accrued on funds borrowed by the IBF and/or interest paid or accrued on deposits recorded on the books as IBF liabilities. A taxpayer that determines its interest expense deduction for Federal income tax purposes pursuant to Section 1.882-5 of the Federal income tax regulations (26 C.F.R. § 1.882-5) must compute the interest expense of the IBF for New York City tax purposes as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK>(c). Every other taxpayer must compute the interest expense of the IBF for New York City tax purposes as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK>(b).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37922" number="45271" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The interest expense of the IBF is the sum of the amount of interest expense determined in paragraph (1) of this subdivision and the total deemed interest expense determined in paragraph (2) of this subdivision.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37923" number="45272" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Interest expense on borrowings and deposits from other than a branch, agency, or other office of the bank which established the IBF is the interest expense deduction on such borrowings and deposits for Federal income tax purposes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37924" number="45273" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Each deposit with the IBF by a branch, agency, or other office of the bank which established the IBF (for purposes of this paragraph called the &quot;lending office&quot;) and each borrowing from such lending office shall be deemed to bear interest computed by using one of the following applicable rates:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37925" number="45274" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a rate of interest representing the interest cost of the lending office on borrowings made to obtain funds from arm&apos;s length transactions which were loaned to, deposited in, or placed with the IBF; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37926" number="45275" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the average rate of interest incurred by the lending office, which is equal to the ratio of the total amount of interest expense from arm&apos;s length transactions recorded in the financial accounts of the lending office for the taxable year, to the average amount of liabilities from borrowings and deposits owed from such arm&apos;s length transactions recorded in the financial accounts of the lending office for the taxable year averaged on a quarterly or more frequent basis; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37927" number="45276" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>any other rate which the taxpayer establishes to the Commissioner of Finance as a more appropriate rate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37928" number="45277" version="1175">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A taxpayer that determines its interest expense deduction for Federal income tax purposes pursuant to Section 1.882-5 of the Federal income tax regulations (26 C.F.R. § 1.882-5) must compute its interest expense of the IBF for New York City tax purposes in the same manner, using the same liabilities-to-assets ratio, the same method (branch book/dollar pool or separate currency pools), the same interest rate or rates, and the same method of valuation it actually used in the computation of its Federal interest expense deduction for the taxable year. In determining the IBF&apos;s interest expense for New York City tax purposes, the three-step process described in Section 1.882-5 of the Federal income tax regulations (26 C.F.R. § 1.882-5) is applied using the rules set forth in this subdivision.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37929" number="45278" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The term &quot;inter office&quot; means the activities between the IBF and the separate branches, agencies, or offices of the taxpayer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37930" number="45279" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The classification of items as assets or liabilities must be on a consistent basis from year to year and determined according to U.S. tax principles.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37931" number="45280" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The average total value of IBF assets must be stated in U.S. dollars and valued by the same method (book or fair market) used for Federal income tax purposes. The actual value used in the Federal computation must be used in the asset determination for New York City tax purposes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37932" number="45281" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>The average total value of assets and the average total amount of liabilities is determined by using the same interval (daily, weekly, etc.) actually used for Federal income tax purposes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37933" number="45282" version="1175">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>A particular asset value or liability amount that is denominated in one currency is translated into U.S. dollars at the exchange rate for the date the value or amount is determined for purposes of this subdivision. An interest expense amount shown on the books is translated at the exchange rate from a qualified source for the date the amount is paid or accrued. Qualified sources of exchange rates must be determined under the rules of Section 1.964-1(d)(5) of the Federal income tax regulations (26 C.F.R. § 1.964-1(d)(5)).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37934" number="45283" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The asset determination in Step 1 of the Federal three-step process is the average total value of all of the IBF assets (including interoffice) shown on the books that generate, have generated, or could reasonably have been or be expected to generate income, gain, or loss for the taxable year, or portion thereof.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37935" number="45284" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The liability determination in Step 2 of the Federal three-step process is the amount of IBF-connected liabilities for the taxable year, or portion thereof, determined by multiplying the average total value of assets determined in paragraph (2) of this subdivision by the same percentage actually used for Federal income tax purposes for the taxable year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37936" number="45285" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>If the taxpayer used, for Federal income tax purposes, the separate currency pools method in Step 3 of the Federal three-step process, the IBF interest expense for New York City tax purposes is the sum of the separate interest expenses for each currency in which the IBF has borrowed. If the IBF borrowed in a currency for which it did not compute an interest expense for Federal income tax purposes, it must compute its IBF interest expense for that currency as if it actually had an interest expense for such currency for Federal income tax purposes. The interest expense for each currency is determined as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37937" number="45286" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the amount of IBF-connected liabilities determined in paragraph (3) of this subdivision multiplied by</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37938" number="45287" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the ratio, stated in the same currency used for Federal income tax purposes, of</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37939" number="45288" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the average total amount of IBF liabilities denominated in the particular currency shown on the books (including interoffice) for the taxable year, or portion thereof, to</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37940" number="45289" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>the average total amount of all IBF liabilities shown on the books (including interoffice) for the taxable year, or portion thereof, multiplied by</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37941" number="45290" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the average worldwide interest rate actually used for Federal income tax purposes in computing that particular currency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37942" number="45291" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>If the taxpayer used, for Federal income tax purposes, the branch book/dollar pool method in Step 3 of the Federal three-step process and Section 1.882-5(b)(3)(i)(A) of the Federal income tax regulations applied, the IBF interest expense for New York City tax purposes is determined by multiplying the IBF-connected liabilities, determined in paragraph (3) of this subdivision by the same average U.S.-connected interest rate actually used for Federal income tax purposes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37943" number="45292" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>If the taxpayer used, for Federal income tax purposes, the branch book/dollar pool method in Step 3 of the Federal three-step process and Section 1.882-5(b)(3)(i)(B) of the Federal income tax regulations applied and the IBF-connected liabilities exceed the average total amount of IBF liabilities shown on the books (excluding interoffice), the IBF interest expense for New York City tax purposes is determined by adding</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37944" number="45293" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the amount of IBF interest expense (stated in U.S. dollars) shown on the books (excluding interoffice) for the taxable year, or portion thereof, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37945" number="45294" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the amount determined by multiplying the excess of IBF-connected liabilities, determined in paragraph (3) of this subdivision, over the average total amount of IBF liabilities (stated in U.S. dollars) shown on the books (excluding interoffice) for the taxable year, or portion thereof, by the average interest rate on U.S. dollar liabilities actually used for Federal income tax purposes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37946" number="45295" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>If the taxpayer used, for Federal income tax purposes, the branch book/dollar pool method in Step 3 of the Federal three-step process and Section 1.882-5(b)(3)(i)(B) of the Federal income tax regulations applied and the IBF-connected liabilities do not exceed the average total amount of IBF liabilities shown on the books (excluding interoffice), the IBF interest expense for New York City tax purposes is determined by subtracting</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37947" number="45296" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the amount determined by multiplying the difference between the average total amount of IBF liabilities (stated in U.S. dollars) shown on the books (excluding interoffice) for the taxable year, or portion thereof, and the IBF-connected liabilities, determined in paragraph (3) of this subdivision, by the average interest rate on U.S. dollar liabilities actually used for Federal income tax purposes, from</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37948" number="45297" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the amount of IBF interest expense (stated in U.S. dollars) shown on the books (including interoffice) for the taxable year, or portion thereof. If the amount determined in this paragraph results in a negative amount, the taxpayer must determine the interest expense of the IBF for New York City tax purposes by multiplying the IBF-connected liabilities, determined in paragraph (3) of this subdivision, by the average IBF-connected interest rate. The average IBF-connected interest rate is the ratio, stated in U.S. dollars, of the total amount of IBF interest expense shown on the books (excluding interoffice) for the taxable year, or portion thereof, to the average total amount of IBF liabilities shown on the books (excluding interoffice) for the taxable year, or portion thereof.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37949" number="45298" version="3">
+								<HEADING>§ 15-07 Bad Debt Deduction of the IBF.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5203" name="T19C015_15-07"/>§ 15-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Bad Debt Deduction of the IBF.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37950" number="45299" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(3), Administrative Code) </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37951" number="45300" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In computing direct expenses pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-05" destination-id="0-0-0-5199">15-05</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra, </CHARFORMAT>the IBF of a taxpayer must compute its bad debt deduction by using the same method the taxpayer used for Federal income tax purposes. A taxpayer which uses the direct charge-off method to compute its bad debt deduction for Federal income tax purposes, in accordance with subsection (a) of Section 166 of the Internal Revenue Code, will have as its IBF bad debt deduction the aggregate of those specific bad debts of the IBF from loans which produce eligible gross income (hereinafter &quot;IBF loans&quot;) which were included in the bad debt deduction for Federal income tax purposes. A bank which maintains a reserve for losses on loans for Federal income tax purposes, in accordance with Section 585 of the Internal Revenue Code, must compute its IBF bad debt deduction and its maximum addition to the reserve balance for losses on loans for purposes of this section by using the same reserve method it used for Federal income tax purposes, that is, either the experience method or the percentage method. When computing the maximum addition to the reserve balance for losses on loans, only the amount of IBF loans that were included in the computation for Federal income tax purposes may be used in the computation for purposes of this section. If the actual bad debt deduction taken for Federal income tax purposes is less than the allowable maximum addition for Federal income tax purposes, the bad debt deduction for purposes of this section is limited to the IBF maximum addition to the reserve balance multiplied by a fraction, the numerator of which is the actual bad debt deduction taken for Federal income tax purposes and the denominator of which is the Federal maximum addition to the reserve balance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37952" number="45301" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>When loans are transferred to the IBF, the taxpayer should transfer to the IBF the portion of the reserve for bad debts maintained by the taxpayer in accordance with the Internal Revenue Code with respect to such loans transferred to the IBF. The portion is transferred as of the date such loans are transferred.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37953" number="45302" version="3">
+								<HEADING>§ 15-08 Indirect Expenses of the IBF, Including Head Office Expenses.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5205" name="T19C015_15-08"/>§ 15-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Indirect Expenses of the IBF, Including Head Office Expenses.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37954" number="45303" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(3), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37955" number="45304" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Expenses of the taxpayer, including head office expenses, which cannot be specifically identified with the gross income, gains, losses, deductions, assets, liabilities, or other activities of the IBF or a place of business of the taxpayer, are indirect expenses and must be allocated on an indirect basis. Indirect expenses, including head office expenses, may include such items as compensation of officers, salaries, wages, travel expenses, pension plans, rents, taxes, depreciation, insurance, advertising, accounting, legal, charitable contributions, financing, operation supervision, technical, research, training, physical facilities, servicing, etc.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37956" number="45305" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Expenses that cannot be specifically identified with the IBF or any particular place of business of the taxpayer but are indirectly related to the gross income, gains, losses, deductions, assets, liabilities, or other activities of the IBF, must be allocated by the method that properly reflects the allocation of such expenses to the IBF. Generally, the amount of indirect expenses allocable to the IBF is determined by multiplying such expenses by a fraction computed by either the gross asset method as described in paragraph (1) of this subdivision, or the gross income method as described in paragraph (2) of this subdivision.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37957" number="45306" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Gross asset method. </CHARFORMAT>In the gross asset method the numerator of the fraction is the average of all gross assets, except interoffice gross assets and goodwill, of the IBF of the taxpayer, and the denominator is the average of all gross assets, except interoffice gross assets and goodwill, of the taxpayer. Where the numerator determined in the preceding sentence is zero, the numerator and denominator must be computed by including gross assets from interoffice transactions. In the case of a taxpayer which is a foreign corporation, &quot;all gross assets&quot; means such taxpayer&apos;s assets located in the United States and its other assets used in connection with its trade or business in the United States. The average of all gross assets must be computed on a quarterly basis or, at the option of the taxpayer, on a more frequent basis such as monthly, weekly, or daily. Loans and deposits are to be included on an average daily balance basis. When the taxpayer&apos;s usual accounting practice does not permit a quarterly or more frequent computation of the average of all gross assets, a semi-annual or annual computation will be allowed when it appears to the Commissioner of Finance that no distortion of the average of all gross assets will result. Different periods of averaging may be used for different classes of assets. If, because of variations in the amount or value of any class of assets, it appears to the Commissioner of Finance that averaging on an annual, semi-annual, or quarterly basis does not properly reflect the average of all gross assets, the Commissioner of Finance may require averaging on a more frequent basis. The method used to determine the average of all gross assets must be consistent and may not be changed on any subsequent return without the written consent of the Commissioner of Finance. Gross assets are valued at original cost. The term &quot;original cost&quot; means, if:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37958" number="45307" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the property was obtained for cash, the amount paid for the property in cash;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37959" number="45308" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the property was obtained for cash plus property, the amount paid in cash plus the fair market value at the time of the exchange of the property exchanged;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37960" number="45309" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the property was obtained in exchange for other property without any cash consideration, the fair market value at the time of the exchange of the property exchanged; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37961" number="45310" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>none of the consideration for the property is cash or other property, the fair market value of the property acquired by the taxpayer as of the date of the acquisition by the taxpayer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37962" number="45311" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Gross income method. </CHARFORMAT>In the gross income method the numerator of the fraction is the gross income (excluding gross income from interoffice transactions) of the IBF of the taxpayer includible in the computation of entire net income for the taxable year, and the denominator is the gross income (excluding gross income from interoffice transactions) of the taxpayer includible in the computation of entire net income for the taxable year. Where the numerator determined in the preceding sentence is zero, the numerator and denominator must be computed by including gross income from interoffice trans- actions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37963" number="45312" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Other method. </CHARFORMAT>Any other method that the taxpayer establishes to the Commissioner of Finance as a more appropriate method.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37964" number="45313" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Expenses that can be identified with the IBF and one or more places of business of the taxpayer, but not all places of business of the taxpayer, must be allocated by the method that properly reflects the allocation of such expenses to the IBF. The amount of such expenses allocable to the IBF is determined by multiplying such expenses by a fraction computed as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-08" destination-id="0-0-0-5205">15-08</LINK>(b). However, in computing such fraction, the denominator is limited to the IBF and those places of business identified with such expenses.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37965" number="45314" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A taxpayer must use the same method in allocating all indirect expenses. The method a taxpayer uses in computing the allocation of indirect expenses as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-08" destination-id="0-0-0-5205">15-08</LINK>(b) may not be changed in subsequent years without the written consent of the Commissioner of Finance. If the Commissioner of Finance determines that the method used in allocating expenses, including head office expenses, does not properly reflect the expenses of the IBF, the Commissioner of Finance may require the taxpayer to allocate expenses by a different method.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37966" number="45315" version="3">
+								<HEADING>§ 15-09 Apportionment of Expenses of the IBF.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5207" name="T19C015_15-09"/>§ 15-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Apportionment of Expenses of the IBF.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37967" number="45316" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f), Administrative Code) </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37968" number="45317" version="3">
+									<PARA>When the IBF has eligible gross income and ineligible gross income, the expenses that are applicable to eligible gross income shall be the sum of the following amounts:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37969" number="45318" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the amount of direct expenses of the IBF (as determined in 19 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-05" destination-id="0-0-0-5199">15-05</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK>(b)(1) and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-07" destination-id="0-0-0-5203">15-07</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>for the taxable year that are specifically identified with eligible gross income, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37970" number="45319" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>an amount computed by multiplying the sum of direct expenses of the IBF (as determined in 19 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-05" destination-id="0-0-0-5199">15-05</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK>(b)(1), <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>for the taxable year that are not specifically identified with either the eligible gross income or the ineligible gross income of the IBF and all indirect expenses of the IBF (as determined in 19 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-06" destination-id="0-0-0-5201">15-06</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-08" destination-id="0-0-0-5205">15-08</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>for the taxable year by a fraction, the numerator of which is the eligible gross income of the IBF for the taxable year and the denominator of which is the gross income of the IBF for the taxable year.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37971" number="45320" version="3">
+								<HEADING>§ 15-10 Ineligible Funding Amount.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5209" name="T19C015_15-10"/>§ 15-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Ineligible Funding Amount.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37972" number="45321" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(5), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37973" number="45322" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The ineligible funding amount of the IBF is determined by multiplying eligible net income (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-03" destination-id="0-0-0-5195">15-03</LINK>(a), <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>by the following fraction:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37974" number="45323" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The numerator of the fraction is the average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year which were not owed to or received from foreign persons (the term &quot;foreign person&quot; is defined in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-01" destination-id="0-0-0-5191">15-01</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra).</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37975" number="45324" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The denominator of the fraction is the average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37976" number="45325" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;All liabilities and other sources of funds of the IBF&quot; includes deposits, advances from the head office or other places of business of the taxpayer, accounts payable, notes and bonds payable, accrued expenses, deferred income, contingent liabilities, taxes payable, appropriated retained earnings (such as reserve for deferred taxes, dividends payable, etc.), unappropriated retained earnings, etc. Certain liabilities that are determined not to be sources of funds may be excluded with the permission of the Commissioner of Finance. The average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year must be computed on a quarterly basis or, at the option of the taxpayer, on a more frequent basis such as monthly, weekly, or daily. When the taxpayer&apos;s usual accounting practice does not permit a quarterly or more frequent computation of the average aggregate amount of all liabilities and other sources of funds, a semi-annual or annual computation may be allowed when it appears that no distortion of the average aggregate amount of all liabilities and other sources of funds will result. Different periods of averaging may be used for different classes of liabilities. If, because of variations in the amount or value of any class of liabilities or other sources of funds, it appears to the Commissioner of Finance that averaging on an annual, semi-annual, or quarterly basis does not properly reflect the average aggregate amount of all liabilities and other sources of funds, the Commissioner of Finance may require averaging on a more frequent basis. The method of determining the average aggregate amount of all liabilities and other sources of funds must be consistent and may not be changed on any subsequent return without the written consent of the Commissioner of Finance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37977" number="45326" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The principles of separate accounting must be applied in determining the amount of liabilities and other sources of funds, including retained earnings, which were not owed to or received from foreign persons. Unless the taxpayer can substantiate that liabilities and other sources of funds, including retained earnings, were owed to or received from foreign persons, they are deemed to be owed to or received from other than foreign persons and included in the numerator described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-10" destination-id="0-0-0-5209">15-10</LINK>(a)(1).</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37978" number="45327" version="3">
+								<HEADING>§ 15-11 Floor Amount.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5211" name="T19C015_15-11"/>§ 15-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Floor Amount.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-37979" number="45328" version="1834">
+									<PARA>(§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-641" destination-id="0-0-0-0">11-641</LINK>(f)(6), Administrative Code)</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37980" number="45329" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The floor amount is computed by multiplying the amount remaining, after reducing eligible net income (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-03" destination-id="0-0-0-5195">15-03</LINK>(a), <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>by the ineligible funding amount (See: 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-10" destination-id="0-0-0-5209">15-10</LINK>(a), <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra) </CHARFORMAT>by a fraction not greater than one. The fraction is determined as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37981" number="45330" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The numerator is the amount determined in subparagraph (i) of this paragraph multiplied by the applicable percentage stated in subparagraph (ii) of this paragraph minus the amount determined in subparagraph (iii) of this paragraph.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37982" number="45331" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Determine the average aggregate amount of loans and deposits as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-11" destination-id="0-0-0-5211">15-11</LINK>(b) which were properly recorded in the financial accounts of the taxpayer&apos;s branches, agencies, and offices within New York State for taxable years beginning in 1975, 1976, and 1977. Loans and deposits related to net income reassigned to New York State by the New York State Tax Commission are not includible for purposes of this subparagraph. The average aggregate amount of such loans and deposits may be determined by reference to the monthly or quarterly reports of the taxpayer to the Federal Reserve Bank of New York, as appropriately modified.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37983" number="45332" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The average aggregate amount determined in subparagraph (i) of this paragraph is multiplied by the following percentages:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37984" number="45333" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>100 percent for the first taxable year the taxpayer established the IBF and for the next succeeding four taxable years,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37985" number="45334" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>80 percent for the sixth taxable year,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37986" number="45335" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>60 percent for the seventh taxable year,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37987" number="45336" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>40 percent for the eighth taxable year,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37988" number="45337" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>20 percent for the ninth taxable year, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37989" number="45338" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>zero percent for the tenth taxable year and thereafter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37990" number="45339" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The product obtained in subparagraph (ii) of this paragraph is reduced by the average aggregate amount of loans and deposits as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-11" destination-id="0-0-0-5211">15-11</LINK>(b) which were properly recorded in the financial accounts of the taxpayer&apos;s branches, agencies, and offices within New York State (other than the IBF) for the current taxable year. If the amount determined in this subparagraph is greater than the amount determined in subparagraph (ii) of this paragraph, the numerator is zero.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37991" number="45340" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The denominator is the average aggregate amount of loans and deposits as described in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-11" destination-id="0-0-0-5211">15-11</LINK>(b) which were properly recorded in the financial accounts of the IBF for the taxable year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37992" number="45341" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For purposes of this section, the average aggregate amount of the loans described in paragraph (1) of this subdivision and the average aggregate amount of deposits described in paragraph (2) of this subdivision must be computed on a quarterly basis, or at the option of the taxpayer, on a more frequent basis such as monthly, weekly, or daily. When the taxpayer&apos;s usual accounting practice does not permit a quarterly or more frequent computation of the average aggregate of such loans and such deposits, a semi-annual or annual computation may be allowed when it appears that no distortion of the average aggregate of such loans and such deposits will result. If, because of variations in the amount or value of such loans and such deposits, it appears to the Commissioner of Finance that averaging on an annual, semi-annual, or quarterly basis does not properly reflect the average aggregate of such loans and such deposits, the Commissioner of Finance may require averaging on a more frequent basis. Any method of determining the average aggregate of such loans and such deposits may not be changed on any subsequent return without the written consent of the Commissioner of Finance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37993" number="45342" version="1106">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Loans means loans to foreign persons. The term &quot;foreign person&quot; is defined in 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C015_15-01" destination-id="0-0-0-5191">15-01</LINK>, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">supra.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37994" number="45343" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Deposits mean deposits with foreign persons which are:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37995" number="45344" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>banks;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37996" number="45345" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>foreign branches of a bank, including foreign branches of the taxpayer; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37997" number="45346" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>foreign banks which are subsidiaries of a bank, including foreign banks which are subsidiaries of the taxpayer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-37998" number="45347" version="1834">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>For purposes of this section, loans and deposits that were recorded in the financial accounts for a taxable year includes those loans which were issued during such taxable year and those deposits which were made or placed during such taxable year and any other loan or deposit in the financial accounts for such taxable year. If the IBF purchases or acquires loans or deposits that were recorded in the financial accounts within New York State of a related corporation for taxable years 1975, 1976, and 1977, such loans and deposits are deemed to be recorded in the financial accounts of the taxpayer&apos;s branches, agencies, and offices within New York State for taxable years beginning in 1975, 1976, and 1977 and must be included in the numerator when computing the floor amount. A corporation is related to another corporation when such corporation owns or controls, either directly or indirectly, more than 50 percent of the capital stock of the other corporation, or more than 50 percent of the capital stock of such corporation is owned or controlled, either directly or indirectly, by the other corporation, or more than 50 percent of the capital stock of both corporations is owned or controlled, either directly or indirectly, by the same interests. A taxpayer, which, pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-646" destination-id="0-0-0-0">11-646</LINK> of the Administrative Code, made a consolidated return with corporations affiliated with it for any of the taxable years 1975, 1976 and 1977, or makes a consolidated return for the taxable year, shall compute the floor amount as if it had filed separate returns for the taxable years 1975, 1976 and 1977 and as if it were filing a separate return for the taxable year.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-37999" number="45348" version="3">
+								<HEADING>§ 15-12 Effective Date.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5213" name="T19C015_15-12"/>§ 15-12 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effective Date.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-38000" number="45349" version="3">
+									<PARA>This regulation shall take effect immediately, and shall apply to all taxable years which end on or after March 25, 1982; provided, however, that where a taxable year begins prior to March 25, 1982 and ends on or after that date, this regulation shall only apply to the portion of the taxable year beginning on March 25, 1982.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

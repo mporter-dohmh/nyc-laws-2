@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-148122" number="68935" version="2802">
+			<HEADING>Chapter 64: Affordable Housing from Commercial Conversions Tax Incentives Benefits Program Pursuant to Section 467-m of the Real Property Tax Law</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19358" name="T28C064"/>Chapter 64: Affordable Housing from Commercial Conversions Tax Incentives Benefits Program Pursuant to Section 467-m of the Real Property Tax Law</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148022" number="68936" version="2802">
+								<HEADING>§ 64-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19360" name="T28C064_64-01"/>§ 64-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148033" number="68937" version="2802">
+									<PARA>As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148121" number="68938" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Act.</CHARFORMAT> “Act” means section four hundred sixty-seven m of the real property tax law, as amended. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148120" number="68939" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Actual Rents.</CHARFORMAT> “Actual Rents” means the proposed initial monthly actual rents listed in the Workbook for the Affordable Housing Units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148119" number="68940" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Aggregate Floor Area of Eligible Multiple Dwelling.</CHARFORMAT> “Aggregate Floor Area of Eligible Multiple Dwelling” means the sum of the Floor Area in the Eligible Multiple Dwelling. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148118" number="68941" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Aggregate Floor Area of Ineligible Space in Eligible Multiple Dwelling.</CHARFORMAT> “Aggregate Floor Area of Ineligible Space in Eligible Multiple Dwelling” means the sum of the Floor Area of Ineligible Space in the Eligible Multiple Dwelling. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148117" number="68942" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Area Median Income.</CHARFORMAT> “Area Median Income” means the area median income for the primary metropolitan statistical area as determined by the United States Department of Housing and Urban Development or its successors from time to time for a family of four, as adjusted for family size. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148116" number="68943" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building.</CHARFORMAT> “Building” shall have the meaning set forth in § 12-10 of the Zoning Resolution. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148115" number="68944" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building Segment.</CHARFORMAT> “Building Segment” shall have the meaning set forth in § 12-10 of the Zoning Resolution. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148114" number="68945" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial Space.</CHARFORMAT> “Commercial Space” means any space within an Eligible Multiple Dwelling that is devoted to commercial, community facility, or other non-residential use. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148113" number="68946" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Common Area.</CHARFORMAT> “Common Area” means any space within an Eligible Multiple Dwelling to which the residents of two or more rental dwelling units have access without paying a usage fee and that is not located in a rental dwelling unit, in a Commercial Space or in a Service Area. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148112" number="68947" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dwelling Unit.</CHARFORMAT> “Dwelling Unit” means one or more living rooms, arranged to be occupied as a unit separate from all other rooms within a dwelling, with lawful sanitary facilities and a lawful kitchen or kitchenette for the exclusive use of the family residing in such unit, except that for the purposes of this chapter, such term shall include units in all facilities that are licensed by the New York State Department of Health as an Adult Care Facility and Assisted Living Residence and operated as an Enriched Housing Program, including any units within the Adult Care Facility that are also certified as Special Needs Assisted Living Residence (SNALR) units and/or Enhanced Assisted Living Residence (EALR) units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148111" number="68948" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Gross Cubic Content.</CHARFORMAT> “Gross Cubic Content” means the volume within the exterior faces of the perimeter walls (or center line of party walls), above legal grade, and below the roof level, plus any legal residential space below grade level. Roof bulkheads or roof penthouses used exclusively for machinery or equipment shall not be included. New exterior stair towers or elevator shafts shall not be included, unless they substitute for existing stair or elevator space which is converted to residential space. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148110" number="68949" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Hotel.</CHARFORMAT> “Hotel” means (i) any Class B multiple dwelling, as such term is defined in the Multiple Dwelling Law; (ii) any structure or part thereof containing living or sleeping accommodations which is used or intended to be used for transient occupancy; (iii) any apartment hotel or transient hotel as defined in the Zoning Resolution; or (iv) any structure or part thereof which is used to provide short term rentals or owned or leased by an entity engaged in the business of providing short term rentals. For purposes of this definition, a lease, sublease, license or any other form of rental agreement for a period of less than one year shall be deemed to be a short term rental. Notwithstanding the foregoing, Market Units owned or leased by a not-for-profit corporation for the purpose of providing governmentally funded emergency housing shall not be considered a hotel for purposes of this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148109" number="68950" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Housing Connect.</CHARFORMAT> “Housing Connect” means the New York City Housing Connect lottery system or any successor program administered by the Agency to market vacant Affordable Housing Units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148108" number="68951" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Housing Maintenance Code.</CHARFORMAT> “Housing Maintenance Code” means the Housing Maintenance Code of the City of New York, constituting §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2001" destination-id="0-0-0-0">27-2001</LINK> et seq. of the Administrative Code of the City of New York, as amended. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148107" number="68952" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Increase in Gross Cubic Content.</CHARFORMAT> “Increase in Gross Cubic Content” means any portion of an Eligible Multiple Dwelling that results from new construction as distinguished from construction within the Gross Cubic Content in existence in a Non-Residential Building as of the Commencement Date. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148106" number="68953" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Ineligible Space.</CHARFORMAT> “Ineligible Space” means commercial, community facility, and accessory use space, other than parking which is located not more than twenty-three feet above the curb level. For the purposes of this chapter, Dwelling Units in a facility that is licensed by the New York State Department of Health as an Adult Care Facility and Assisted Living Residence and operated as an Enriched Housing Program, including any units within the Adult Care Facility that are also certified as Special Needs Assisted Living Residence (SNALR) units and/or Enhanced Assisted Living Residence (EALR) units, shall not be considered Ineligible Space. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148105" number="68954" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Legal Rent.</CHARFORMAT> “Legal Rent” means the maximum rent permitted under Rent Stabilization; provided, however, that (a) no exemption or exclusion from any requirement of Rent Stabilization shall be applied to any Affordable Housing Unit during the Restriction Period, including, but not limited to, any exemption or exclusion from the rent limits, renewal lease requirements, registration requirements, or other provisions of Rent Stabilization due to the vacancy of an Affordable Housing Unit where the rent exceeds a prescribed maximum amount, the fact that tenant income and/or unit rent exceed prescribed maximum amounts, the nature of the tenant, or any other factor; and (b) the initial rent charged and paid for an Affordable Housing Unit shall be the initial Legal Rent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148104" number="68955" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Marketing Monitor.</CHARFORMAT> “Marketing Monitor” means an organization approved by the Agency in compliance with the Agency’s marketing guidelines and retained by the applicant for AHCC Program Benefits to monitor compliance with the requirements, established by the Act and this chapter, relating to the leasing, subleasing, and occupancy of Affordable Housing Units, including, but not limited to, ensuring that each Affordable Housing Unit is leased at a rent not exceeding the Permitted Rent and is occupied by a household approved by the Agency whose income at the time of initial occupancy of such Affordable Housing Unit is not more than the maximum percentage of the Area Median Income specified for such Affordable Housing Unit pursuant to the Act. Such Marketing Monitor may be an in-house department of the applicant, a subsidiary or affiliate of the applicant, or a third-party marketing, leasing, managing, or monitoring administering agent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148103" number="68956" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Monitoring Contract.</CHARFORMAT> “Monitoring Contract” means a contract between the applicant and the Marketing Monitor that is approved in form and substance by the Agency and that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148102" number="68957" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>requires the fee owner to provide monthly rent rolls for all Affordable Housing Units to the Marketing Monitor and to notify the Marketing Monitor no more than seven business days after an Affordable Housing Unit becomes vacant; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148101" number="68958" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>requires the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Restriction Period (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs; (b) is promptly marketed pursuant to such requirements as are established by the Agency; (c) is rented to a household that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease; (d) is not offered to or rented by a corporation, partnership or other entity; and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148100" number="68959" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>requires the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Eligible Multiple Dwelling to the Agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148099" number="68960" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Multiple Dwelling Law.</CHARFORMAT> “Multiple Dwelling Law” means the Multiple Dwelling Law of the State of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148098" number="68961" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of Intent.</CHARFORMAT> “Notice of Intent” means a notice of intent to begin marketing the Affordable Housing Units through Housing Connect. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148097" number="68962" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permanent Conversion.</CHARFORMAT> “Permanent Conversion” has the same meaning as set forth in an Eligible Multiple Dwelling’s regulatory agreement with the tax credit monitoring agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148096" number="68963" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permitted Rent.</CHARFORMAT> “Permitted Rent” means a rent for any lease or lease renewal at any time during the Restriction Period that does not exceed the lesser of: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148095" number="68964" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the Legal Rent; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148094" number="68965" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the rent for any Market Unit of comparable bedroom size in the same Eligible Multiple Dwelling; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148093" number="68966" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>for Affordable Housing Units in an Eligible Multiple Dwelling, thirty percent of the applicable percentage of Area Median Income, minus the amount of any applicable Utility Allowance, provided, however, that no deduction of the Utility Allowance from the Permitted Rent shall be authorized for any Affordable Housing Unit in an Eligible Multiple Dwelling unless the Utility Allowance shall be deducted from all of the Affordable Housing Units in such Eligible Multiple Dwelling, and provided further that solely for purposes of establishing the initial rent for each Affordable Housing Unit, if there is a regulatory agreement between the fee owner and a federal, state or local agency or instrumentality governing such Affordable Housing Unit that was executed prior to the date of filing of the Workbook, the Area Median Income in the rent schedule to such regulatory agreement and the Utility Allowance in effect on such regulatory agreement execution date shall be utilized. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148092" number="68967" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Service Area.</CHARFORMAT> “Service Area” means any space within an Eligible Multiple Dwelling that is utilized by the owner or manager of such Eligible Multiple Dwelling and their respective employees for purposes of building administration and to which residential tenants do not normally have access. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148091" number="68968" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Story.</CHARFORMAT> “Story” has the meaning set forth in § 12-10 of the Zoning Resolution. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148090" number="68969" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Utility Allowance.</CHARFORMAT> “Utility Allowance” means an allowance established by the Agency for the payment of utilities where the tenant of an Affordable Housing Unit is required to pay all or a portion of the utility costs with respect to such unit in addition to any payments of rent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148089" number="68970" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Workbook.</CHARFORMAT> “Workbook” means the AHCC Program Benefits Workbook available on the Agency’s website that is submitted by the applicant to the Agency and which must provide the requested information about all of the Affordable Housing Units and the Market Units, including, but not limited to, (i) the unit mix proposed to satisfy paragraph (b) of subdivision six of the Act or, in accordance with such paragraph, the claimed exemption from such unit mix requirements, and (ii) the unit distribution proposed to satisfy paragraph (a) of subdivision six of the Act and 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C064_64-04" destination-id="0-0-0-19366">64-04</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148088" number="68971" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Zoning Resolution.</CHARFORMAT> “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148087" number="68972" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148032" number="68973" version="2802">
+								<HEADING>§ 64-02 Application Procedure and Documentation.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19362" name="T28C064_64-02"/>§ 64-02 Application Procedure and Documentation.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148034" number="68974" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The Agency may authorize changes to any information provided in the Workbook: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148086" number="68975" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>after the Agency has provided an initial approval thereof until the Notice of Intent has been accepted by the Agency; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148085" number="68976" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>after the Notice of Intent has been accepted by the Agency only if such information conflicts with the requirements of a regulatory agreement with a federal, state or local governmental agency or instrumentality, provided, however, that with respect to both subparagraphs (i) and (ii) of this paragraph, the Agency shall not authorize any changes to the Utility Allowance and the Multifamily Tax Subsidy Project Income Limits for the New York, New York HUD FMR Area after the first Workbook is submitted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148084" number="68977" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Notwithstanding paragraph (1) of this subdivision and the definition of “Permitted Rent” in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C064_64-01" destination-id="0-0-0-19360">64-01</LINK>, where an Eligible Multiple Dwelling is receiving tax exempt bond proceeds or tax credits, the Agency may authorize the following changes to the information in the Workbook concerning the Affordable Housing Units in such Eligible Multiple Dwelling after the Agency has provided an initial approval thereof: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148083" number="68978" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>with respect to the Actual Rents listed in such Workbook, the Agency may authorize changes to the Utility Allowance and Multifamily Tax Subsidy Project Income Limits for the New York, New York HUD FMR Area until the marketing advertisement for such Affordable Housing Units has been published through Housing Connect, provided that the tax credit monitoring agency for such Eligible Multiple Dwelling has approved such changes; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148082" number="68979" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>with respect to the Legal Rents listed in such Workbook, the Agency may authorize changes to the Utility Allowance and Multifamily Tax Subsidy Project Income Limits for the New York, New York HUD FMR Area until Permanent Conversion, provided that such changes do not alter the Actual Rents for such Affordable Housing Units published in the marketing advertisement through Housing Connect. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148081" number="68980" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Application must be submitted with the non-refundable filing fee established by the Act, provided that twenty-five percent of such filing fee shall be submitted with the initial Workbook submission, and provided further, however, that the Agency may waive such filing fee for any Application for an Eligible Conversion in which all of the Dwelling Units are Affordable Housing Units constructed with the substantial assistance of grants, loans or subsidies provided by a federal, state or local agency or instrumentality pursuant to a program for the development of affordable housing. Any superintendent unit required by the Housing Maintenance Code or Multiple Dwelling Law to be in the Eligible Multiple Dwelling containing such Affordable Housing Units shall not disqualify such Eligible Conversion from the filing fee waiver the Agency may provide pursuant to this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148080" number="68981" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Each Application shall include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148079" number="68982" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Evidence satisfactory to the Agency that a restrictive declaration in a form satisfactory to the Agency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148078" number="68983" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>has been executed by the fee owner and any ground lessee of the Eligible Multiple Dwelling; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148077" number="68984" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>has been recorded against the real property containing the Eligible Multiple Dwelling; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148076" number="68985" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>identifies each Affordable Housing Unit in the Eligible Multiple Dwelling, the number of bedrooms in such Affordable Housing Unit, the applicable prescribed percentage of Area Median Income for such Affordable Housing Unit, and provides that the rents to be charged to the tenants of each such Affordable Housing Unit shall be established pursuant to this chapter, and provides that the Affordable Housing Units in such Eligible Multiple Dwelling shall during the Restriction Period be rented to eligible tenants at or below the Permitted Rent and be subject to Rent Stabilization; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148075" number="68986" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>provides that such Eligible Multiple Dwelling must comply with all of the requirements for AHCC Program Benefits during the Restriction Period. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148074" number="68987" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Evidence satisfactory to the Agency that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148073" number="68988" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the Workbook was filed no earlier than twelve months before the Completion Date and no later than the later of two months after (A) the Completion Date; or (B) the effective date of this rule; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148072" number="68989" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the Notice of Intent to begin marketing the Affordable Housing Units was filed with the Agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148071" number="68990" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Proof that the Agency determined that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148070" number="68991" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>an Eligible Multiple Dwelling will meet the unit mix requirements for Affordable Housing Units established pursuant to paragraph (b) of subdivision six of the Act, or, in accordance with such paragraph, is exempt from such unit mix requirements; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148069" number="68992" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>an Eligible Multiple Dwelling will meet the distribution requirements for rental Dwelling Units established pursuant to of paragraph (a) of subdivision six of the Act and 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C064_64-04" destination-id="0-0-0-19366">64-04</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148068" number="68993" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>An executed Monitoring Contract. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148067" number="68994" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>An affidavit from a registered architect or professional engineer licensed to practice and in good standing with the New York State Department of Education that, among other things, calculates the Aggregate Floor Area of the Eligible Multiple Dwelling and the Aggregate Floor Area of Ineligible Space in the Eligible Multiple Dwelling. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148066" number="68995" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>All Applications must be submitted on forms approved by HPD. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148065" number="68996" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148030" number="68997" version="2802">
+								<HEADING>§ 64-03 Legal Instrument.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19364" name="T28C064_64-03"/>§ 64-03 Legal Instrument.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148031" number="68998" version="2802">
+									<PARA>The restrictive declaration required pursuant to paragraph one of subdivision c of 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C064_64-02" destination-id="0-0-0-19362">64-02</LINK> shall constitute the legal instrument, in accordance with subparagraph (v) of paragraph (j) of subdivision six of the Act, by which the requirements associated with AHCC Program Benefits will be recorded and enforced. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148064" number="68999" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148029" number="69000" version="2802">
+								<HEADING>§ 64-04 Commencement Date.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19366" name="T28C064_64-04"/>§ 64-04 Commencement Date.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148035" number="69001" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Commencement Date for an Eligible Conversion shall be the date of the initial issuance by the Department of Buildings to a Non-Residential Building of one of the following types of permits: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148063" number="69002" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Job Type: “ALT-CO - New Building with Existing Elements to Remain”; Work Type: “General Construction”; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148062" number="69003" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Job Type: “Alteration CO”; Work Type: “General Construction”; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148061" number="69004" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Job Type: ”Alteration Type 1”; Work Type: ”OT – General Construction”. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148060" number="69005" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The permit that establishes the Commencement Date pursuant to subdivision (a) of this section may only establish such Commencement Date for one Eligible Conversion. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148059" number="69006" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148028" number="69007" version="2802">
+								<HEADING>§ 64-05 New Construction Eligibility.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19368" name="T28C064_64-05"/>§ 64-05 New Construction Eligibility.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148027" number="69008" version="2802">
+									<PARA>AHCC Program Benefits are available for a portion of an Eligible Multiple Dwelling which represents an Increase in Gross Cubic Content of such Eligible Multiple Dwelling, provided that at least fifty percent of the floor area of the completed Eligible Multiple Dwelling consists of the pre-existing Non-Residential Building that was converted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148058" number="69009" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148026" number="69010" version="2802">
+								<HEADING>§ 64-06 Distribution Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19370" name="T28C064_64-06"/>§ 64-06 Distribution Requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148036" number="69011" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If a Story in an Eligible Multiple Dwelling contains one or more Affordable Housing Units, not less than thirty percent of the Dwelling Units on such Story shall be Market Units, provided, however, that the Agency may waive such requirement where either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148057" number="69012" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the Affordable Housing Units comprise more than fifty percent of the units in such Eligible Multiple Dwelling; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148056" number="69013" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>there is only one Dwelling Unit on such Story. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148055" number="69014" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Each Building Segment in an Eligible Multiple Dwelling must contain one or more Affordable Housing Units and have the same or similar proportion of Affordable Housing Units to Market Units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148054" number="69015" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>All Common Areas in an Eligible Multiple Dwelling shall be open and accessible to the residents of all of the rental Dwelling Units in such Eligible Multiple Dwelling, including the residents of any Affordable Housing Units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148053" number="69016" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The Agency may disapprove any Building configuration that would frustrate the intent and purpose of paragraph (a) of subdivision six of the Act and subdivisions (a) through (c) of this section by segregating Affordable Housing Units or limiting the ability of residents of Affordable Housing Units to access an Eligible Multiple Dwelling’s Common Areas. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148052" number="69017" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148025" number="69018" version="2802">
+								<HEADING>§ 64-07 Rent and Income During the Restriction Period.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19372" name="T28C064_64-07"/>§ 64-07 Rent and Income During the Restriction Period.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148037" number="69019" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The rent for an Affordable Housing Unit shall not exceed the Permitted Rent; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148051" number="69020" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Pursuant to paragraph (j) of subdivision 6 of the Act, the Marketing Band for the initial rents of Affordable Housing Units shall be established by deducting three percentage points from the applicable Area Median Income, adjusted by unit size and the applicable Utility Allowance; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148050" number="69021" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Each Affordable Housing Unit shall be occupied by a household whose income at the time that such household initially occupies such Affordable Housing Unit is not more than the maximum percentage of the Area Median Income specified for such Affordable Housing Unit pursuant to the Act; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148049" number="69022" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>An Affordable Housing Unit shall be leased, both upon initial rent-up and upon any subsequent vacancy, pursuant to such marketing guidelines as may be published by the Agency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148048" number="69023" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>No Affordable Housing Unit shall be held off the market for a period that is longer than is reasonably necessary; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148047" number="69024" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>No Affordable Housing Unit shall be offered to a corporation, partnership or other entity; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148046" number="69025" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>No lease for an Affordable Housing Unit can be executed until the Agency verifies the eligibility of the proposed tenants; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148045" number="69026" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Each tenant of an Affordable Housing Unit shall be offered a rent stabilized lease for a term of either one or two years, at such tenant’s option. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148044" number="69027" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148024" number="69028" version="2802">
+								<HEADING>§ 64-08 Hotels.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19374" name="T28C064_64-08"/>§ 64-08 Hotels.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148038" number="69029" version="2802">
+									<PARA>No Eligible Multiple Dwelling that is operated as a Hotel shall be eligible for AHCC Program Benefits. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148043" number="69030" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-148023" number="69031" version="2802">
+								<HEADING>§ 64-09 Penalties for violations of affordability requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19376" name="T28C064_64-09"/>§ 64-09 Penalties for violations of affordability requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-148039" number="69032" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On or after the expiration date of the AHCC Program Benefits provided pursuant to the Act, the Agency may impose, after notice and an opportunity to be heard in accordance with the procedures established pursuant to 28 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C039" destination-id="0-0-0-7997">Chapter 39</LINK>, a penalty for any violation by an Eligible Multiple Dwelling of the affordability requirements of subdivision six of the Act. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148042" number="69033" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Agency shall compute the penalties under this section as a percentage of the capitalized value of all AHCC Program Benefits on the Eligible Multiple Dwelling, calculated as of the first year that benefits were granted, not to exceed one thousand percent. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148041" number="69034" version="2802">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Agency shall establish a schedule of penalties imposed in connection with violations of the affordability requirements of subdivision six of the Act, in accordance with the methodology provided for in subdivision b above. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148021" number="69035" version="2820">
+									<PARA>(Added City Record 12/16/2024, eff. 1/15/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

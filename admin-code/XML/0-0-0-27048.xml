@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-27048" number="32163" version="3">
+			<HEADING>Chapter 4-E: Recovery for Refrigerants</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-6409" name="T16C004-E"/>Chapter 4-E: Recovery for Refrigerants</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27049" number="32164" version="3">
+										<HEADING>§ 16-480 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6411" name="16-480"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">§ 16-480 Definitions.</CHARFORMAT>&#160;</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27050" number="32165" version="3">
+											<PARA>As used in this chapter: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27051" number="32166" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Appliance&quot; means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27052" number="32167" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Original equipment manufacturer&quot; means (1) a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city or (2) a person or entity who manufacturers or has manufactured an appliance sold, offered for sale or distributed in the city. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27053" number="32168" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Recover&quot; or &quot;recovery&quot; means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of 40 CFR part 82. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27054" number="32169" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Refrigerants&quot; means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A &quot;substitute substance&quot; shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27055" number="32170" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Residential generator&quot; means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27056" number="32171" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Room air conditioner&quot; means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27057" number="32172" version="3">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Serviced by the department&quot; means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27058" number="32173" version="3">
+										<HEADING>§ 16-481 Original equipment manufacturer responsibility for recovery. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6413" name="16-481"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">§ 16-481 Original equipment manufacturer responsibility for recovery.</CHARFORMAT>&#160;</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27059" number="32174" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27060" number="32175" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-482" destination-id="0-0-0-6415">16-482</LINK> of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27061" number="32176" version="3">
+										<HEADING>§ 16-482 Department refrigerant recovery program. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6415" name="16-482"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">§ 16-482 Department refrigerant recovery program.</CHARFORMAT>&#160;</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27062" number="32177" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27063" number="32178" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27064" number="32179" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>An original equipment manufacturer whose appliance is serviced by the department shall be billed by the department and shall be responsible for the payment of the fee established by the department for the recovery of refrigerants. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27065" number="32180" version="3">
+										<HEADING>§ 16-483 Improper disposal of appliances.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6417" name="16-483"/>§ 16-483 Improper disposal of appliances.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27066" number="32181" version="3">
+											<PARA>
+												<TAB tab-count="1"/>No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27067" number="32182" version="3">
+										<HEADING>§ 16-484 Enforcement.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6419" name="16-484"/>§ 16-484 Enforcement.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27068" number="32183" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall have the authority to enforce the provisions of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-27069" number="32184" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27070" number="32185" version="3">
+										<HEADING>§ 16-485 Rulemaking authority.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6421" name="16-485"/>§ 16-485 Rulemaking authority.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27071" number="32186" version="3">
+											<PARA>
+												<TAB tab-count="1"/>The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers&apos; refrigerant recovery programs, if any, and establishing penalties for violations of such rules. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-27072" number="32187" version="3">
+										<HEADING>§ 16-486 Severability.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6423" name="16-486"/>§ 16-486 Severability.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-27073" number="32188" version="3">
+											<PARA>
+												<TAB tab-count="1"/>If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-004]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

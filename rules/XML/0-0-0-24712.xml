@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-24712" number="29005" version="3">
+			<HEADING>Chapter 7: Tunneling</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-3377" name="T15C007"/>Chapter 7: Tunneling</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24713" number="29006" version="3">
+								<HEADING>§ 7-01 Tunneling Permits.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3379" name="T15C007_7-01"/>§ 7-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Tunneling Permits.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24714" number="29007" version="748">
+									<PARA>Tunneling permits shall not be required for activities carried out solely between the hours of 7 a.m. to 6 p.m. during weekdays. &quot;Tunneling&quot; shall be defined as any activity to construct a tunnel carried out by tunneling methods, i.e., mining, boring, jacking, lining, shielding, and where the above methods are not practical, cut and cover shall also be considered a tunneling method. Tunneling does not include cut and cover operations for the installation of minor utility lines by cut and cover methods. In order to obtain a permit for shaft and tunnel construction the applicant shall submit an application to the Division of Noise Abatement for use in determining after completion the conditions necessary to conform to the New York City Noise Control Code. The tunnel permit shall be issued for each shaft site to cover the operation and hours of use of all equipment. The applicant will be required to submit an application completed in full. It is intended that the permit will be applicable for the site and equipment therein designated. Should there by any change of conditions, location or equipment substitution, the Division of Noise Abatement must be notified and the appropriate specifications of the permit modified.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

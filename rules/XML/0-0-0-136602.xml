@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-136602" number="50351" version="2527">
+			<HEADING>Chapter 60: Childcare Center Tax Abatement</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-17852" name="T19C060"/>Chapter 60: Childcare Center Tax Abatement</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136604" number="50352" version="2369">
+								<HEADING>§ 60-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17856" name="T19C060_60-01"/>§ 60-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136650" number="50353" version="2369">
+									<PARA>When used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136649" number="50354" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Abatement period.</CHARFORMAT> &quot;Abatement period&quot; means the tax year or tax years in which the abatement is applied by the department to the real property tax liability of an eligible building, provided that such abatement may not be applied to the real property tax liability of such building during more than five tax years. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136648" number="50355" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicant.</CHARFORMAT> &quot;Applicant&quot; means an owner who files an application for tax abatement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136647" number="50356" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Childcare center.</CHARFORMAT> &quot;Childcare center&quot; means a childcare program for which a permit to operate such program has been issued by the Department of Health and Mental Hygiene pursuant to the NYC Health Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136646" number="50357" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Childcare desert.</CHARFORMAT> &quot;Childcare desert&quot; means a census tract in New York City where, at the time of an application for tax abatement, there are three or more children under five years of age for each available childcare slot, or where there are no available childcare slots, as of the most recently published determinations by the NYS Office of Children and Family Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136645" number="50358" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Childcare center tax abatement.</CHARFORMAT> &quot;Childcare center tax abatement&quot; means a tax abatement granted pursuant to sections 499-aaaaa through 499-fffff of title 6 of article 4 of the RPTL and this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136644" number="50359" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City.</CHARFORMAT> &quot;City&quot; means the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136643" number="50360" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> &quot;Department&quot; means the New York City Department of Finance. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136642" number="50361" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department of Health and Mental Hygiene</CHARFORMAT> or <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DOHMH</CHARFORMAT>. &quot;Department of Health and Mental Hygiene&quot; or &quot;DOHMH&quot; means the New York City Department of Health and Mental Hygiene. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136641" number="50362" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible building.</CHARFORMAT> &quot;Eligible building&quot; means a class one, class two or class four property, as such classes of property are defined in section 1802 of the RPTL, provided that, for any such property held in the condominium form of ownership, &quot;eligible building&quot; shall mean a tax lot in such property. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136640" number="50363" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Enhanced childcare center tax abatement.</CHARFORMAT> &quot;Enhanced childcare center tax abatement&quot; means a childcare center tax abatement provided to an owner of an eligible building that is located in a childcare desert pursuant to sections 499-aaaaa through 499-fffff of title 6 of article 4 of the RPTL and this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136639" number="50364" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Owner.</CHARFORMAT> &quot;Owner&quot; means the owner of an eligible building, or with respect to an eligible building held in the cooperative form of ownership, the board of directors of a cooperative apartment corporation, or, with respect to an eligible building held in the condominium form of ownership, an owner of a tax lot in such building or the board of managers of such building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136638" number="50365" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Premises.</CHARFORMAT> &quot;Premises&quot; means the location of a childcare center as specified on the permit for the operation of such center issued by the Department of Health and Mental Hygiene pursuant to the NYC Health Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136637" number="50366" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">RPTL.</CHARFORMAT> &quot;RPTL&quot; means the New York State Real Property Tax Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136636" number="50367" version="2369">
+									<PARA>(Added City Record 2/24/2023, eff. 2/24/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136655" number="50368" version="2369">
+								<HEADING>§ 60-02 Eligibility for Childcare Center Tax Abatement or Enhanced Childcare Center Tax Abatement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17858" name="T19C060_60-02"/>§ 60-02 Eligibility for Childcare Center Tax Abatement or Enhanced Childcare Center Tax Abatement.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136635" number="50369" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>An owner of an eligible building shall receive a childcare center tax abatement, or an owner of an eligible building that is located in a childcare desert shall receive an enhanced childcare center tax abatement, as provided in title 6 of chapter 4 of the RPTL and this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136634" number="50370" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>In accordance with title 6 of chapter 4 of the RPTL, the Department shall provide: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136633" number="50371" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>A childcare center tax abatement to an owner of an eligible building for construction, conversion, alteration or improvement work that is completed on or after April 1, 2022 and that results in: (i) the creation of a premises of a childcare center; or (ii) an increase in the maximum number of children allowed on the premises of an existing childcare center when such center is in operation, as such number is specified in the permit issued by the Department of Health and Mental Hygiene to operate such center; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136632" number="50372" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>An enhanced childcare center tax abatement to an owner of an eligible building located within a childcare desert for construction, conversion, alteration or improvement work that is completed on or after April 1, 2022 and that results in: (i) the creation of a premises of a childcare center; or (ii) an increase in the maximum number of children allowed on the premises of an existing childcare center when such center is in operation, as such number is specified in the permit issued by the Department of Health and Mental Hygiene to operate such center. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136631" number="50373" version="3031">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>No childcare center tax abatement or enhanced childcare center tax abatement shall be provided for any tax year commencing on or after July 1, 2032. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136630" number="50374" version="3031">
+									<PARA>(Added City Record 2/24/2023, eff. 2/24/2023; amended City Record 3/12/2026, eff. 4/11/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136654" number="50375" version="2369">
+								<HEADING>§ 60-03 Application.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17860" name="T19C060_60-03"/>§ 60-03 Application.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136626" number="50376" version="3031">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submission of application.</CHARFORMAT> To obtain a childcare center tax abatement or an enhanced childcare center tax abatement, an applicant must submit a completed application to the Department on a form prescribed by the Commissioner. Such application must be submitted no later than the March 15 immediately preceding July 1 of the tax year for which the abatement is sought. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136625" number="50377" version="3031">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>In no event may an application be submitted later than March 15, 2027. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136624" number="50378" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>The application will be available on the website of the Department, and must be submitted electronically to the Department by the applicant or the applicant&apos;s designated representative. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136623" number="50379" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Content of application.</CHARFORMAT> In addition to any other information or supporting documentation that the Department may require, an application for a childcare center tax abatement or an enhanced childcare center tax abatement must: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136622" number="50380" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>Include all information required by subdivision 2 of section 499-ccccc of the RPTL; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136621" number="50381" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Indicate whether the eligible building is located within a childcare desert according to the most recently published determinations by the NYS Office of Children and Family Services; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136620" number="50382" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>Include both (i) proof that the applicant has entered into a lease or other agreement with a person to operate a childcare center in the eligible building, and (ii) a copy of the new or amended permit issued to the childcare center by the Department of Health and Mental Hygiene for such operation, except that where the applicant is also the operator of the childcare center as indicated on such new or amended permit, the applicant is only required to submit a copy of such new or amended permit and is not required to submit proof that such applicant has entered into a lease or other agreement with a person to operate a childcare center in the eligible building; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136619" number="50383" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>Where an application is submitted for an abatement for construction or other work that has resulted in an increase in the maximum number of children allowed on the premises of an existing childcare center when such center is in operation, such application must include: (i) a copy of the permit for the childcare center that indicates the maximum number of children that were allowed on the premises of such childcare center prior to completion of such construction or other work; and (ii) a copy of the new or amended permit for the childcare center demonstrating that the maximum number of children allowed on the premises of the childcare center has increased following completion of such construction or other work. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136618" number="50384" version="3031">
+									<PARA>(Added City Record 2/24/2023, eff. 2/24/2023; amended City Record 3/12/2026, eff. 4/11/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-120]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136653" number="50385" version="2369">
+								<HEADING>§ 60-04 Approval of Application for Childcare Center Tax Abatement or Enhanced Childcare Center Tax Abatement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17862" name="T19C060_60-04"/>§ 60-04 Approval of Application for Childcare Center Tax Abatement or Enhanced Childcare Center Tax Abatement.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136617" number="50386" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Pursuant to subdivision 4 of section 499-ccccc of the RPTL, upon a determination by the Department that an applicant has submitted proof acceptable to the Department that the requirements for obtaining a childcare center tax abatement or an enhanced childcare center tax abatement have been satisfied, the application of such applicant shall be approved. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136616" number="50387" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Upon approval of an application for a childcare center tax abatement or enhanced childcare center tax abatement, such abatement shall be applied to the real property tax liability of the eligible building for the tax year for which the abatement was sought, provided that there are no outstanding real property taxes, water and sewer charges, payments in lieu of taxes or other municipal charges with respect to such eligible building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136614" number="50388" version="2369">
+									<PARA>(Added City Record 2/24/2023, eff. 2/24/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136652" number="50389" version="2369">
+								<HEADING>§ 60-05 Amount of the Tax Abatement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17864" name="T19C060_60-05"/>§ 60-05 Amount of the Tax Abatement.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136613" number="50390" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Abatement amount.</CHARFORMAT> The Department shall provide the childcare center tax abatement or the enhanced childcare center tax abatement to an eligible building in the amount and manner, and subject to the applicable limitations, as provided in title 6 of article 4 of the RPTL and this section, including the limitation on the aggregate amount of all childcare center tax abatements and all enhanced childcare center tax abatements in any tax year set forth in paragraph (c) of subdivision 2 of section 499-bbbbb of the RPTL. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136612" number="50391" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>In accordance with section 499-bbbbb of the RPTL, if the amount of the childcare center tax abatement or enhanced childcare center tax abatement exceeds the real property tax liability of the eligible building for any tax year during the abatement period, any amount of the abatement remaining may be applied to the real property tax liability for the eligible building for a succeeding tax year, provided the abatement must be applied in one or more of the four such succeeding tax years. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136611" number="50392" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any abatement that requires adjustment as a result of an allocation required by paragraph (b) of subdivision 2 of section 499-bbbbb of the RPTL shall be final and shall be reflected in the amended real property tax bill, statement of account or other similar bill or statement that is prepared. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136610" number="50393" version="2369">
+									<PARA>(Added City Record 2/24/2023, eff. 2/24/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136651" number="50394" version="2369">
+								<HEADING>§ 60-06 Revocation.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17866" name="T19C060_60-06"/>§ 60-06 Revocation.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136609" number="50395" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>A childcare center tax abatement or enhanced childcare center tax abatement provided pursuant to this chapter may be revoked in accordance with title 6 of article 4 of the RPTL or this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136608" number="50396" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Revocation for ceased operations.</CHARFORMAT> In accordance with paragraph (a) of subdivision 1 of section 499-eeeee of the RPTL, the Department shall revoke, in whole or in part, a childcare center tax abatement or enhanced childcare center tax abatement whenever the Department receives notice from DOHMH that the childcare center in the eligible building for which such abatement was approved has ceased operation as a childcare center for a period exceeding one hundred eighty (180) days during the abatement period. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136607" number="50397" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Revocation for false or misleading statement.</CHARFORMAT> In accordance with paragraph (b) of subdivision 1 and subdivision 4 of section 499-eeeee of the RPTL, a childcare center tax abatement or enhanced childcare center tax abatement shall be revoked, in whole or in part, whenever the Department determines that an application, certification, report or any other document submitted to the Department by the owner contains a false or misleading statement as to a material fact or omits to state any material fact necessary in order to make the statement therein not false or misleading. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136606" number="50398" version="2369">
+									<PARA>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice of revocation.</CHARFORMAT> Where an abatement is revoked pursuant to title 6 of article 4 of the RPTL or this section, the Department shall provide written notice of the revocation of the abatement to the owner of the eligible building. The written notification described in this subdivision may be in a form and manner as determined by the Commissioner, including in an electronic form. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136603" number="50399" version="2369">
+									<PARA>(Added City Record 2/24/2023, eff. 2/24/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

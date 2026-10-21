@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-216807" number="55130" version="1600">
+			<HEADING>Chapter 5: Accessibility To Public Data Sets</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10147" name="T23C005"/>Chapter 5: Accessibility To Public Data Sets</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-42710" number="55131" version="1368">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204576" number="55132" version="1368">
+										<HEADING>§ 23-501 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10227" name="23-501"/>§ 23-501 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42711" number="55133" version="3">
+											<PARA>As used in this chapter: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42712" number="55134" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;Agency&quot; means an office, administration, department, division, bureau, board, commission, advisory committee or other governmental entity performing a governmental function of the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42713" number="55135" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;Data&quot; means final versions of statistical or factual information (1) in alphanumeric form reflected in a list, table, graph, chart or other non-narrative form, that can be digitally transmitted or processed; and (2) regularly created or maintained by or on behalf of and owned by an agency that records a measurement, transaction, or determination related to the mission of an agency. Such term shall not include information provided to an agency by other governmental entities, nor shall it include image files, such as designs, drawings, maps, photos, or scanned copies of original documents, provided that it shall include statistical or factual information about such image files and shall include geographic information system data. Nothing in this chapter shall be deemed to prohibit an agency from voluntarily disclosing information not otherwise defined as &quot;data&quot; in this subdivision, nor shall it be deemed to prohibit an agency from making such voluntarily disclosed information accessible through the single web portal established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-502" destination-id="0-0-0-6699">23-502</LINK>.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42714" number="55136" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;Department&quot; means the department of information technology and telecommunications or any successor agency.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42715" number="55137" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;Determination&quot; means any final decision made by an agency with respect to a person, including, but not limited to: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42716" number="55138" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>eligibility for services or benefits; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42717" number="55139" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>issuing a permit; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42718" number="55140" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>registration, certification and licensing; and </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42719" number="55141" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>liability for civil and criminal penalties.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42720" number="55142" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;Measurement&quot; means to quantify by means of comparison to a reference standard any characteristic of an observable event, occurrence or object.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42721" number="55143" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;Open standard&quot; means a technical standard developed and maintained by a voluntary consensus standards body that is available to the public without royalty or fee.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42722" number="55144" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>&quot;Public data set&quot; means a comprehensive collection of interrelated data that is available for inspection by the public in accordance with any provision of law and is maintained on a computer system by, or on behalf of, an agency. Such term shall not include: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42723" number="55145" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>any portion of such data set to which an agency may deny access pursuant to the public officers law or any other provision of a federal or state law, rule or regulation or local law;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42724" number="55146" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any data set that contains a significant amount of data to which an agency may deny access pursuant to the public officers law or any other provision of a federal or state law, rule or regulation or local law and where removing such data would impose undue financial or administrative burden;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42725" number="55147" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>data that reflects the internal deliberative process of an agency or agencies, including but not limited to negotiating positions, future procurements, or pending or reasonably anticipated legal or administrative proceedings;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42726" number="55148" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>data stored on an agency-owned personal computing device, or data stored on a portion of a network that has been exclusively assigned to a single agency employee or a single agency owned or controlled computing device;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42727" number="55149" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>materials subject to copyright, patent, trademark, confidentiality agreements or trade secret protection;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42728" number="55150" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>proprietary applications, computer code, software, operating systems or similar materials; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42729" number="55151" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>employment records, internal employee-related directories or lists, and facilities data, information technology, internal service-desk and other data related to internal agency administration.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42730" number="55152" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>&quot;Technical standard&quot; means (1) the common and repeated use of rules, conditions, guidelines or characteristics for products or related processes and production methods, and related management systems practices; and (2) (i) the definition of terms; (ii) classification of components; (iii) delineation of procedures; (iv) specifications of dimensions, materials, performance, designs or operations; (v) measurement of quality and quantity in describing materials, processes, products, systems, services or practices; (vi) test methods and sampling procedures; or (vii) descriptions of fit and measurements of size or strength.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42731" number="55153" version="3">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>&quot;Transaction&quot; means any interaction between an agency and any person related to the mission of an agency.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42732" number="55154" version="3">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>&quot;Voluntary consensus standards body&quot; means a domestic or international organization that develops and maintains a technical standard that utilizes a transparent deliberative process, permits the participation of any party, and achieves general consensus, although not necessarily unanimity, of the participating parties, including a process for attempting to resolve any differences in viewpoint. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42733" number="55155" version="1368">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204577" number="55156" version="1368">
+										<HEADING>§ 23-502 Public data set availability.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6699" name="23-502"/>§ 23-502 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public data set availability.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42734" number="55157" version="1785">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Within one year of the effective date of this chapter and thereafter, the public data sets that agencies make available on the Internet shall be accessible through a single web portal that is linked to <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://www.nyc.gov/">nyc.gov</LINK> or any successor website maintained by, or on behalf of, the city of New York. If an agency cannot make all such public data sets available on the single web portal pursuant to this subdivision, the agency shall report to the department and to the council which public data set or sets that it is unable to make available, the reasons why it cannot do so and the date by which the agency expects that such public data set or sets will be available on the single web portal.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42735" number="55158" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such public data sets shall be made available in accordance with technical standards published by the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-505" destination-id="0-0-0-10229">23-505</LINK> of this chapter and shall be in a format that permits automated processing and shall make use of appropriate technology to notify the public of all updates.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42736" number="55159" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Such public data sets shall be updated as often as is necessary to preserve the integrity and usefulness of the data sets to the extent that the agency regularly maintains or updates the public data set. The department shall preserve row data that is subject to permanent removal or replacement and shall create and preserve archival copies, or an archival compilation data set with data indexed to its time of preservation, of public data sets in accordance with the technical standards manual published by the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-505" destination-id="0-0-0-10229">23-505</LINK>. If any public data set is available on the single web portal and another website maintained by or on behalf of the city or a city agency, when such public data set is updated on such city or city agency website, such public data set shall also be updated on the single web portal within ten days in accordance with the technical standards published by the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-505" destination-id="0-0-0-10229">23-505</LINK>; provided that if any such public data set receives automated updates on such city or city agency website, such public data set shall be updated on the single web portal within one day of any such automated update. If there is a public data set for which such update schedule regularly cannot be met, the agency that maintains such public data set shall report to the department the reasons why it cannot meet such update schedule and the date by which the agency expects that it will be able to meet such schedule, and such information shall be disclosed in the compliance plan prepared pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-506" destination-id="0-0-0-10231">23-506</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-007]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42737" number="55160" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Such public data sets shall be made available without any restrictions on their use provided that the department may require a third party providing to the public any public data set, or application utilizing such data set, to explicitly identify the source and version of the public data set, and a description of any modifications made to such public data set. Restrictions as used in this section shall not include measures required to ensure access to public data sets, to protect the single web site housing public data sets from unlawful abuse or attempts to damage or impair use of the web site, or to analyze the types of data being used to improve service delivery. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42738" number="55161" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Such public data sets shall be accessible to external search capabilities.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42739" number="55162" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Agencies shall review responses to freedom of information law requests that include the release of data to determine if such responses consist of or include public data sets that have not yet been included on the single web portal or the inclusion of which on the single web portal is not provided for in the compliance plan prepared pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-506" destination-id="0-0-0-10231">23-506</LINK>. Each agency shall disclose in the update to such compliance plan the total number, since the last update, of such agency&apos;s freedom of information law responses that included the release of data, the total number of such responses determined to consist of or include a public data set that had not yet been included on the single web portal and the name of such public data set, where applicable, and the total number of such responses that resulted in voluntarily disclosed information being made accessible through the single web portal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42740" number="55163" version="711">
+											<PARA>(Am. L.L. 2015/106, 11/30/2015, eff. 11/30/2016; Am. L.L. 2015/110, 11/30/2015, eff. 11/30/2016; Am. L.L. 2016/007, 1/5/2016, eff. 1/5/2016; Am. L.L. 2017/244, 12/17/2017, eff. 12/17/2017; Am. L.L. 2017/251, 12/17/2017, eff. 12/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42741" number="55164" version="1368">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204578" number="55165" version="1368">
+										<HEADING>§ 23-503 Web portal administration.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10233" name="23-503"/>§ 23-503 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Web portal administration.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42742" number="55166" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department may take reasonable measures to maintain bandwidth availability of the web portal.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42743" number="55167" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall conspicuously publish the open data legal policy, as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-504" destination-id="0-0-0-10235">23-504</LINK>, on the web portal.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42744" number="55168" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall implement an on-line forum to solicit feedback from the public and to encourage public discussion on open data policies and public data set availability on the web portal.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42745" number="55169" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Requests received via the on-line forum for inclusion of particular public data sets shall be considered by agencies in making determinations as to priority for public data set inclusion on the single web portal pursuant to paragraph 5 of subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-506" destination-id="0-0-0-10231">23-506</LINK>. The department shall provide an initial response to each such request within two weeks of receipt. The agency to which the department refers the request shall post its final determination as to the request on the single web portal within two months of receipt. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42746" number="55170" version="3">
+											<PARA>(Am. L.L. 2015/109, 11/30/2015, eff. 12/30/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42747" number="55171" version="1368">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2015/109" destination-id="0-0-0-20649">L.L. 2015/109</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-130572" number="55172" version="667">
+										<HEADING>§ 23-504 Open data legal policy.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10235" name="23-504"/>§ 23-504 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Open data legal policy.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42748" number="55173" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Public data sets made available on the web portal are provided for informational purposes. The city does not warranty the completeness, accuracy, content or fitness for any particular purpose or use of any public data set made available on the web portal, nor are any such warranties to be implied or inferred with respect to the public data sets furnished therein.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42749" number="55174" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The city is not liable for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42750" number="55175" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>This chapter shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this chapter shall not result in liability to an agency.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42751" number="55176" version="1368">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204579" number="55177" version="1368">
+										<HEADING>§ 23-505 Internet data set policy and technical standards.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10229" name="23-505"/>§ 23-505 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Internet data set policy and technical standards.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42752" number="55178" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Within one hundred eighty days of the effective date of this chapter, the department shall prepare and publish a technical standards manual for the publishing of public data sets in raw or unprocessed form through a single web portal by city agencies for the purpose of making public data available to the greatest number of users and for the greatest number of applications and shall, whenever practicable, use open standards for web publishing and e-government. Such manual shall identify the reasons why each technical standard was selected and for which types of data it is applicable and may recommend or require that data be published in more than one technical standard. The manual shall include a plan to adopt or utilize a web application programming interface that permits application programs to request and receive public data sets directly from the web portal. The manual shall also include guidelines for the division of large data sets into groups of smaller data sets, disaggregated by discrete time units, when technical barriers, archival necessity or practical concerns require such division. Such manual shall be updated by the department as necessary. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-007]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42753" number="55179" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall consult with voluntary consensus standards bodies and shall, when such participation is feasible, in the public interest and is compatible with agency and departmental missions, authorities and priorities, participate with such bodies in the development of technical and open standards.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42754" number="55180" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Each data set on the single web portal shall include a plain language data dictionary; provided that for any data set available on the single web portal before the effective date of the local law that added this subdivision, a data dictionary shall be added to such data set no later than December 31, 2017; and provided further that for any data set made available on the single web portal on or after the effective date of the local law that added this subdivision and before December 31, 2017, a data dictionary shall be added to such data set no later than thirty days after such data set is made available on the single web portal. Such data dictionary shall provide a description for each column heading used within the data set and shall include a description of any acronym, technical term, unit of measure, range of possible values, relationship between or among columns within the data set, frequency of updates to the data set, and other information or description that can provide context to the data, such as the method of collection, a history of modifications to the data set format, data or methods of collection, or any other contextual information that the agency providing the data deems relevant or the technical standards manual requires. Such data dictionary shall be in a format and layout to be determined by the technical standards manual. The data dictionary accompanying each data set, or a link to such data dictionary, shall be included directly on the single web portal. The most recent upload date and generation date for each data set shall be included directly on the single web portal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42755" number="55181" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The manual described in subdivision a of this section shall include a technical standard requiring every public data set containing address information to utilize a standard field layout and presentation of address information and include corresponding community district and geospatial reference data. If there is a public data set for which an agency cannot utilize such standard field layout and presentation of address information, such agency shall report to the department and to the council the reasons why it cannot, and the date by which the agency expects that it will be able to utilize such standard field layout and presentation of address information, and such information shall be disclosed in the compliance plan prepared pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-506" destination-id="0-0-0-10231">23-506</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-007]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42756" number="55182" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Every two years, the department shall review the technical standards manual and electronically submit to the mayor and the speaker of the council a report of this review, including any updates pursuant to the compliance plan required under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-506" destination-id="0-0-0-10231">23-506</LINK>. The department shall establish a method through which the public may comment on the technical standards manual. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42757" number="55183" version="711">
+											<PARA>(Am. L.L. 2015/106, 11/30/2015, eff. 11/30/2016; Am. L.L. 2015/107, 11/30/2015, eff. 3/29/2016; Am. L.L. 2015/108, 11/30/2015, eff. 11/30/2016; Am. L.L. 2017/251, 12/17/2017, eff. 12/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42758" number="55184" version="1368">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2015/108" destination-id="0-0-0-20647">L.L. 2015/108</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-130560" number="55185" version="666">
+										<HEADING>§ 23-506 Agency compliance plan. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10231" name="23-506"/>§ 23-506 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency compliance plan. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42759" number="55186" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Within eighteen months of the effective date of this chapter, the department shall submit a compliance plan to the mayor and the council and shall make such plan available to the public on the web portal. Each agency shall cooperate with the department in its preparation of such plan. The plan shall include a summary description of public data sets under the control of each agency on or after the effective date of this chapter, and shall prioritize such public data sets for inclusion on the single web portal on or before December 31, 2018 in accordance with the standards promulgated by the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-505" destination-id="0-0-0-10229">23-505</LINK> and shall create a timeline for their inclusion on the single web portal. If a public data set or sets cannot be made available on the single web portal on or before December 31, 2018, the plan shall state the reasons why such set or sets cannot be made available, and, to the extent practicable, the date by which the agency that owns the data believes that it will be available on the single web portal.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42760" number="55187" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>For purposes of prioritizing public data sets, agencies shall consider whether information embodied in the public data set: (1) can be used to increase agency accountability and responsiveness; (2) improves public knowledge of the agency and its operations; (3) furthers the mission of the agency; (4) creates economic opportunity; or (5) responds to a need or demand identified by public consultation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42761" number="55188" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>No later than September fifteen, 2018, and every September fifteen thereafter, the department shall submit and post on the web portal an update of the compliance plan to the mayor and the council until all public data sets have been made available through a single web portal in compliance with this chapter. Such update shall include the specific measures undertaken to make public data sets available on the single web portal since the immediately preceding update, specific measures that will be undertaken prior to the next update, an update to the list of public data sets, if necessary, any changes to the prioritization of public data sets and an update to the timeline for the inclusion of data sets on the single web portal, if necessary. If a public data set cannot be made available on the single web portal on or before December 31, 2018, the update shall state the reasons why it cannot and, to the extent practicable, the date by which the agency believes that such public data set will be available on the single web portal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42762" number="55189" version="711">
+											<PARA>(Am. L.L. 2017/251, 12/17/2017, eff. 12/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42763" number="55190" version="1368">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/011" destination-id="0-0-0-24778">L.L. 2012/011</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204580" number="55191" version="1368">
+										<HEADING>§ 23-507 Agency open data coordinator.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10237" name="23-507"/>§ 23-507 Agency open data coordinator.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42764" number="55192" version="1762">
+											<PARA>The head of each agency shall designate an employee of such agency to serve as the open data coordinator for such agency. Such coordinator shall be responsible for ensuring that such agency complies with the requirements of this chapter and for receiving and responding to feedback from the public regarding such agency&apos;s public data sets.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42765" number="55193" version="711">
+											<PARA>(L.L. 2017/251, 12/17/2017, eff. 12/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42766" number="55194" version="3">
+										<HEADING>§ 23-508 Web portal site analytics.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10239" name="23-508"/>§ 23-508 Web portal site analytics.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42767" number="55195" version="1762">
+											<PARA>The department shall collect, analyze and publish data on how users interact with the portal established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-502" destination-id="0-0-0-6699">23-502</LINK>. Such data shall include, but need not be limited to, number of page views, number of unique users and the location from which a user accesses such portal. Location shall not refer to any user&apos;s internet protocol address and it shall not include the user&apos;s personally identifying information.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42768" number="55196" version="711">
+											<PARA>(L.L. 2017/251, 12/17/2017, eff. 12/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42769" number="55197" version="3">
+										<HEADING>§ 23-509 Status of all public data sets.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10241" name="23-509"/>§ 23-509 Status of all public data sets.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42770" number="55198" version="3">
+											<PARA>No later than September fifteen, 2018, the department shall provide, and update in real-time, the following information on each data set classified as a public data set on or after March 7, 2012: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42771" number="55199" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Each scheduled publication date; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42772" number="55200" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If such data set has been published, the date of such publication, the date of the most recent update to such data set, and the current location of the data set; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42773" number="55201" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Status of compliance with subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-502" destination-id="0-0-0-6699">23-502</LINK> of this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42774" number="55202" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Status of compliance with subdivision c and subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-505" destination-id="0-0-0-10229">23-505</LINK> of this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42775" number="55203" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Whether the data set is automated; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42776" number="55204" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Whether the data set feasibly can be automated. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42777" number="55205" version="711">
+											<PARA>(L.L. 2017/251, 12/17/2017, eff. 12/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-020]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

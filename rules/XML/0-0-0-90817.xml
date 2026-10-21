@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-90817" number="109491" version="1357">
+			<HEADING>Chapter 7: Permit Duration, Renewal and Revocation</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-12709" name="T63C007"/>Chapter 7: Permit Duration, Renewal and Revocation</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-90818" number="109492" version="1357">
+				<PARA>
+					<PARAFORMAT justify="center">(Title amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-113750" number="109493" version="1357">
+								<HEADING>§ 7-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12711" name="T63C007_7-01"/>§ 7-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90826" number="109494" version="1357">
+									<PARA>As used in this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113766" number="109495" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Day.</CHARFORMAT> The term &quot;day&quot; means any day other than a Saturday or Sunday or legal holiday. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113765" number="109496" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Landmarks Law.</CHARFORMAT> The term &quot;Landmarks Law&quot; refers to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="3020" destination-id="0-0-0-0">3020</LINK> of the Charter and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T25C003" destination-id="0-0-0-0">Chapter 3 of Title 25</LINK> of the Administrative Code of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113764" number="109497" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Landmarks Preservation Commission.</CHARFORMAT> The term &quot;Landmarks Preservation Commission&quot; means the Commission acting in its agency capacity to implement the Landmarks Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113767" number="109498" version="1753">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permit.</CHARFORMAT> The term &quot;permit&quot; means an approval, other than a Notice to Proceed, issued by the Landmarks Preservation Commission, in accordance with the provisions of the Landmarks Law and Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="854" destination-id="0-0-0-0">854</LINK>(h) of the Charter: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113762" number="109499" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>&quot;PMW&quot; means a Permit for Minor Work as defined by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-310" destination-id="0-0-0-0">25-310</LINK> of the Landmarks Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113761" number="109500" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>&quot;CNE&quot; means a Certificate of No Effect as defined by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-306" destination-id="0-0-0-0">25-306</LINK> of the Landmarks Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113760" number="109501" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>&quot;C of A&quot; means a Certificate of Appropriateness as defined by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-307" destination-id="0-0-0-0">25-307</LINK> of the Landmarks Law and shall not refer to a Certificate of Appropriateness as defined by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-309" destination-id="0-0-0-0">25-309</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113759" number="109502" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>&quot;MOU&quot; means a modification of use or bulk issued by the Commission in connection with an application by an applicant to the City Planning Commission pursuant to the Zoning Resolution, including but not limited to §§ 74-11 and 74-79, and as required by such sections of the Zoning Resolution. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113758" number="109503" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>&quot;Report&quot; means an Advisory or Binding Report as defined by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-318" destination-id="0-0-0-0">25-318</LINK> of the Landmarks Law and as referenced in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="854" destination-id="0-0-0-0">854</LINK>(h) of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90827" number="109504" version="1357">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-113756" number="109505" version="1357">
+								<HEADING>§ 7-02 Duration of Permits.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12713" name="T63C007_7-02"/>§ 7-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Duration of Permits.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90835" number="109506" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113780" number="109507" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A permit will be of limited duration as provided in these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113779" number="109508" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A permit must clearly state the expiration date of such permit on the permit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113778" number="109509" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Work approved by a permit must be substantially completed within the time period for such permit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113777" number="109510" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Duration of Approvals.</CHARFORMAT> The following types have the following durations: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113776" number="109511" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">PMW.</CHARFORMAT> Each PMW will be valid for four (4) years from the date of issuance for such PMW, or six (6) years from the date of issuance if issued in connection with an approval for a Modification of Use or Bulk. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113775" number="109512" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">CNE.</CHARFORMAT> Each CNE will be valid for four (4) years from the date of issuance for such CNE, or six (6) years from the date of issuance if issued in connection with an approval for a Modification of Use or Bulk. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113774" number="109513" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">C of A.</CHARFORMAT> Except as provided in paragraph (7), each C of A will be valid for six (6) years from the date of a Commission vote to approve such C of A. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113773" number="109514" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Report.</CHARFORMAT> Each Report, whether Binding or Advisory and whether issued by LPC Staff or the Commission, will be valid for six (6) years from the date of issuance for such Report. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113772" number="109515" version="2544">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Master Plan.</CHARFORMAT> A master plan will be valid indefinitely, unless a lesser period of time is provided for in these rules. A PMW, CNE, C of A or Report issued for a master plan will be valid for the time period indicated in the approval; however, any time period provided in such PMW, CNE, C of A or Report shall not affect the expiration date of the master plan. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-088]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113771" number="109516" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">MOU.</CHARFORMAT> Each MOU will be valid for eight (8) years from the date the Commission votes to approve the application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113770" number="109517" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conceptual approval; extension of approval for C of A.</CHARFORMAT> If an applicant is also applying to the Commission for a Modification of Use or Bulk, or otherwise applies to the City Planning Commission for a special permit or authorization, or to the Board of Standards and Appeals for a variance, the Commission will issue a conceptual or design C of A with a watermark for the sole purpose of allowing the City Planning Commission and/or the Board of Standards and Appeals, pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-305" destination-id="0-0-0-0">25-305</LINK>(b)(1) of the Administrative Code, to act on the application. Upon approval of the special permit, authorization or variance, and submission of all required drawings and materials to the LPC staff, the Commission will issue the final C of A, and the expiration of the final C of A will be eight years from the Commission&apos;s vote to approve the application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113769" number="109518" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Shorter Period of Time to Cure a Condition Subject to a Warning Letter or Summons.</CHARFORMAT> Without limiting the time periods for permit duration set forth in 63 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T63C007_7-02" destination-id="0-0-0-12713">7-02</LINK>(b), where a permit or certificate has been issued to address conditions subject to a warning letter or Summons issued pursuant to 63 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T63C011" destination-id="0-0-0-12759">Chapter 11</LINK>, the Commission may require by the terms of such permit or certificate that the work be performed within a specified time period. The failure to perform the work and remedy the conditions within the specified time period means that the Chair may serve a warning letter or a first, second or subsequent Summons in accordance with the provisions of §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-317.1" destination-id="0-0-0-0">25-317.1</LINK>(b) and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-317.2" destination-id="0-0-0-0">25-317.2</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90836" number="109519" version="2544">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019; amended City Record 7/20/2023, eff. 8/19/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-088]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-113755" number="109520" version="1357">
+								<HEADING>§ 7-03 Renewal of Permits.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12715" name="T63C007_7-03"/>§ 7-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Renewal of Permits.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90846" number="109521" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Number of Renewals.</CHARFORMAT> An approval may be renewed twice, as set forth below: once by LPC Staff renewal and once by a Chair&apos;s renewal. An expired approval may be reinstated one time. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113813" number="109522" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conditions for LPC Staff Renewal.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113812" number="109523" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Requirements.</CHARFORMAT> LPC Staff will issue a renewal of an LPC Staff or Commission approval upon satisfaction of all of the following conditions: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113811" number="109524" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>An application requesting a renewal is filed with the Commission prior to the expiration date shown on such permit; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113810" number="109525" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The application requesting a renewal includes the following documents: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113809" number="109526" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>In the case of an approval that does not require a building permit for the work which is the subject of the approval, a copy of a signed contract that is binding on the parties for the work which is the subject of the approval then expiring and which specifies that work is to be commenced by a date which is no more than one hundred and eighty (180) days after the expiration date of such approval, or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113808" number="109527" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>In the case of an approval that does require a building permit for the work which is the subject of the approval, either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113807" number="109528" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A copy of a valid building permit for all of the work approved in the Commission&apos;s approval for the work which is the subject of the permit then expiring, or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113806" number="109529" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A copy of a valid building permit for a substantial portion of the work approved in the Commission&apos;s approval for the work which is the subject of the approval then expiring. This must also include proof that work has commenced on such building permit, and proof that the applicant has applied for a building permit for all of the remaining work approved in Commission&apos;s approval for the work which is the subject of the approval then expiring; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113805" number="109530" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>No Summons or previously issued Notice of Violation from the Landmarks Preservation Commission is in effect against the property subject to the approval for which a renewal is requested, except that this requirement will not apply if: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113804" number="109531" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The Commission finds that the work which is the subject of the approval for which a renewal is requested will correct a hazardous condition or prevent deterioration affecting the building; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113803" number="109532" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>An escrow agreement, or other form of assurance acceptable to LPC Staff, has been established to provide a mechanism to ensure that work approved to correct the Summons or previously issued Notice of Violation will be completed within a specified time period. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113802" number="109533" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Duration of renewal.</CHARFORMAT> If all conditions required for the renewal of an approval have been met, LPC Staff will renew the approval for an additional: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113801" number="109534" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Two years from the date of expiration of the original approval if the original approval is either a PMW or a CNE, or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113800" number="109535" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Three years from the date of the expiration of the original approval if the original approval is a C of A, an advisory or binding report, or a MOU. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113799" number="109536" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conditions for Chair&apos;s Discretionary Renewal.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113798" number="109537" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Extraordinary circumstances.</CHARFORMAT> Notwithstanding the foregoing provisions, the Chair of the Commission has the discretion, based on extraordinary circumstances, to allow the renewal of any LPC Staff or Commission approval. Such circumstances may include, but are not limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113797" number="109538" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Delays resulting from the inability to obtain other governmental approvals, licenses or permits, but not including time spent in connection with applying for an approval from the City Planning Commission that is subject to the Uniform Land Use Review Procedure (&quot;ULURP&quot;) or from the Board of Standards and Appeals, or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113796" number="109539" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>An inability, due to factors beyond the control of the applicant, to complete construction of a project within the term of such permit, where work has begun and is continuing with due diligence. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113795" number="109540" version="1358">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>In making a finding with respect to this subdivision, the Chair may consider whether the applicant has already obtained an LPC Staff renewal pursuant to 63 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T63C007_7-03" destination-id="0-0-0-12715">7-03</LINK>(b)(2) and, if there was an LPC Staff renewal, whether there has been a significant change in Commission policy or practice since the LPC Staff renewal was granted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113794" number="109541" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Timing.</CHARFORMAT> A request for an extension under this subdivision (c) must be made in writing prior to the expiration date of the approval or within ten (10) days after receipt of notice that the approval will not be renewed pursuant to subparagraph (a) above. A request must include supporting documentation explaining the extraordinary circumstances. The Chair will respond in writing to such request within twenty (20) days of receipt of the request. If the Chair determines that a renewal of the approval is appropriate, the Chair will extend the approval for a stated period of time. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113793" number="109542" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reasonable conditions.</CHARFORMAT> In allowing the renewal, the Chair may set reasonable conditions, including removal of any conditions related to outstanding Summons, warning letters or Notices of Violation within a reasonable stated time. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113792" number="109543" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Tolling of the Expiration Date.</CHARFORMAT> The expiration of any approval will be tolled if a judicial proceeding to review the Commission&apos;s decision to grant the approval, or any other governmental approval, license, permit or similar action applied for, or granted in connection with, the project has been instituted until the date of the entry of a final order in such proceeding, including all appeals. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113791" number="109544" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conditions for the Chair&apos;s Discretionary Reinstatement of Expired Permit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113790" number="109545" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Requirements.</CHARFORMAT> The Chair of the Commission has the discretion to reinstate a permit that has expired where: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113789" number="109546" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The applicant demonstrates that substantial work has occurred prior to the expiration; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113788" number="109547" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The work is continuing with due diligence; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113787" number="109548" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The applicant has all necessary permits to finish the work; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113786" number="109549" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>There is no Summons or previously issued Notice of Violation in effect against the property or that part of the property subject to the permit; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113785" number="109550" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The work will be substantially complete within thirty-six (36) months of the expiration date of the permit; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113784" number="109551" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>The Chair determines that it would be unreasonable to require the applicant to stop the work in order to obtain a new permit pursuant to these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113783" number="109552" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Timing.</CHARFORMAT> A request to reinstate an expired permit under subdivision (e)(1) must be made in writing no more than ninety (90) days from the expiration of the permit, and must include supporting documentation, including the status of the work, documentation that the work that has already occurred is in compliance with the permit, and the reasons it would be unreasonable if the work had to stop. If the Chair determines that reinstatement is appropriate, the Chair will reinstate the expired permit for a stated period of time not to exceed three years after expiration of the permit and may impose reasonable conditions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113782" number="109553" version="1357">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">No Renewal or Reinstatement if a Summons or Previously Issued Notice of Violation is in Effect Against Property.</CHARFORMAT> Any person who has been notified by the Commission that a permit will not be renewed or reinstated because a Summons or previously issued Notice of Violation from the Commission is in effect against the property may request that the Chair of the Commission, or the Chair&apos;s designee, review whether the notice of violation is properly in effect against the property. Such request must be made in writing within ten (10) days from the date of the notification that the permit will not be renewed and may include supporting documentation. The Chair of the Commission will respond to such request within twenty (20) days of receipt of the request. If the Chair or the Chair&apos;s designee determines that a Summons or previously issued Notice of Violation was not properly in effect against the property, the Chair will issue a renewed permit or reinstate an expired permit if it finds that all other conditions set forth in these rules have been met. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90847" number="109554" version="1357">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-113754" number="109555" version="1357">
+								<HEADING>§ 7-04 Effect of Expiration of Permits.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12717" name="T63C007_7-04"/>§ 7-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effect of Expiration of Permits.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90849" number="109556" version="1358">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Upon expiration of any permit, such permit will terminate and be of no further effect, except if the permit is renewed or reinstated pursuant to 63 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T63C007_7-03" destination-id="0-0-0-12715">7-03</LINK> or otherwise complies with the provisions of 63 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T63C007_7-02" destination-id="0-0-0-12713">7-02</LINK>(a)(3). Work done after an approval has expired, except for reasonable and necessary work undertaken to stabilize and secure the site pending application for and issuance of a renewed or reinstated approval subject to 63 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T63C007_7-03" destination-id="0-0-0-12715">7-03</LINK>, or a new approval, will constitute a violation of the Landmarks Law and may be subject to enforcement proceedings. A renewed or reinstated permit will not be a defense against any enforcement proceedings related to work occurring after the expiration and before such renewal or reinstatement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113814" number="109557" version="1378">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An applicant may apply for a new permit for work which is the subject of an expired permit. The Commission will treat such application as a new application in all respects and it will be subject to all applicable procedures, rules and guidelines in effect at the time of such application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90852" number="109558" version="1357">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-113753" number="109559" version="1357">
+								<HEADING>§ 7-05 Revocation of Approvals.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12721" name="T63C007_7-05"/>§ 7-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Revocation of Approvals.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90853" number="109560" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Commission may revoke the approval of any certificate of no effect, certificate of appropriateness, permit for minor work, binding or advisory report, notice to proceed, or any amendments thereof, whenever:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90854" number="109561" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>there is a failure to comply with the provisions of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T25C003" destination-id="0-0-0-0">Chapter 3 of Title 25</LINK> of the Administrative Code of the City of New York, or this title of the Rules of the City of New York;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90855" number="109562" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>there is any incorrect or false statement or any misrepresentation or omission in the documents submitted in the application for approval with respect to a fact that was material to the issuance of the approval;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90856" number="109563" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>or an approval has been issued in error and conditions are such that approval should not have been issued. In such an event, the Commission will issue a &quot;Notice of Intent to Revoke&quot; (&quot;Notice&quot;) that will inform the applicant of the reasons for the proposed revocation. The applicant has the right to present to the commissioner or his or her representative information on why the approval should not be revoked. The applicant must present such evidence within 10 business days if the Notice was personally served or 15 calendar days if the Notice was sent by mail.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90857" number="109564" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Effect on Approval.</CHARFORMAT> Upon issuance of a Notice all work must cease immediately and no work will occur at the site until such time as the Commission shall withdraw the Notice and reinstate the approval. Revocation of an approval will be effective upon the issuance of a written Final Decision of Revocation by the commissioner after the time period for submission of rebuttal information has ended. The Final Decision of Revocation should be issued within 20 working days after the time period for the applicant to respond has expired, or within ten working days after receipt of a written request for issuance of a Final Decision of Revocation if the commissioner fails to issue the Final Decision of Revocation in the initial 20 working day period. The Final Decision of Revocation will state the reasons that the approval is being withdrawn. The revocation of any approval is the automatic revocation of all associated approvals (including certificates, permits, reports, notices or amendments in the future) that may have been issued.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90858" number="109565" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Notice of Intent to Revoke and the Final Decision of Revocation may be issued by personal service or sent by registered mail to the applicant&apos;s address as it appears in the application. If the registered mail is unsuccessful, the commission may send the notice using the procedures permitted in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-313" destination-id="0-0-0-0">25-313</LINK> of the Administrative Code of the City of New York.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-90859" number="109566" version="1891">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Enforcement action.</CHARFORMAT> All or some of the work performed in connection with an approval that has been revoked may be subject to enforcement action under §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-317" destination-id="0-0-0-0">25-317</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-317.1" destination-id="0-0-0-0">25-317.1</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-317.2" destination-id="0-0-0-0">25-317.2</LINK> of the Administrative Code of the City of New York. Such enforcement action may start upon the issuance of a written final decision by the commissioner or his or her designee to revoke the approval.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113751" number="109567" version="1357">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

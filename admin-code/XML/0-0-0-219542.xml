@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-219542" number="18764" version="1662">
+			<HEADING>Chapter 23-B: Wireless Communications Service Surcharge</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-4339" name="T11C023-b"/>Chapter 23-B: Wireless Communications Service Surcharge</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-15336" number="18765" version="1509">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+						<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+					</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212436" number="18766" version="1509">
+										<HEADING>§ 11-2341 Short title. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4341" name="11-2341"/>§ 11-2341 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short title. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15337" number="18767" version="3">
+											<PARA>This chapter shall be known and may be cited as the &quot;wireless communications service surcharge act.&quot;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15338" number="18768" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+													<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+												</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212437" number="18769" version="1509">
+										<HEADING>§ 11-2342 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4343" name="11-2342"/>§ 11-2342 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15339" number="18770" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;Wireless communications device&quot; means any equipment used to access a wireless communications service.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15340" number="18771" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;Wireless communications service&quot; means all commercial mobile services, as that term is defined in 47 U.S.C. § 332(d), as amended from time to time, including, but not limited to, all broadband personal communications services, wireless radio telephone services, geographic area specialized and enhanced specialized mobile radio services, and incumbent-wide area specialized mobile radio licensees, which offer real time, two-way voice or data service that is interconnected with the public switched telephone network or otherwise provides access to emergency communications services.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15341" number="18772" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;Wireless communications service supplier&quot; means any commercial entity that operates a wireless communications service.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15342" number="18773" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>&quot;Place of primary use&quot; means the street address that is representative of where the customer&apos;s use of the wireless communications service primarily occurs, which address must be either the residential street address or the primary business street address of the customer; and within the licensed service area of the wireless communications service provider. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15343" number="18774" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+													<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+												</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212438" number="18775" version="1509">
+										<HEADING>§ 11-2343 Establishment of surcharge for wireless communications devices. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4345" name="11-2343"/>§ 11-2343 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Establishment of surcharge for wireless communications devices. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15344" number="18776" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In accordance with the provisions of article six of the county law, as amended, there is hereby established a surcharge of thirty cents per month on wireless communications service in the city of New York. The surcharge shall be imposed on each wireless communications device and shall be reflected and made payable on bills rendered for wireless communications service that is provided to a customer whose place of primary use is within the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15345" number="18777" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The surcharge imposed by subdivision (a) of this section shall be used to pay for the costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15346" number="18778" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>All wireless communications service suppliers that provide service to customers whose place of primary use is within the city of New York shall begin to add the monthly surcharge as provided in subdivision (a) of this section to all service bills no later than the forty-fifth day after the effective date of the local law that added this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15347" number="18779" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Notwithstanding any provision of law to the contrary, no surcharge shall be imposed pursuant to this chapter on or after December 1, 2017. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15348" number="18780" version="3">
+											<PARA>(Am. L.L. 2017/139, 8/25/2017, eff. 12/1/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15349" number="18781" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+													<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+												</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212439" number="18782" version="1509">
+										<HEADING>§ 11-2344 Collection of surcharge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4347" name="11-2344"/>§ 11-2344 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Collection of surcharge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15350" number="18783" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Each wireless communications service supplier serving the city of New York shall act as collection agent for the city of New York and shall remit the funds collected pursuant to the surcharge imposed under the provisions of this chapter to the commissioner of finance each month. Such funds shall be remitted no later than thirty days after the last business day of the month.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15351" number="18784" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Each wireless communications service supplier shall be entitled to retain, as an administrative fee, an amount equal to two per cent of its collections of the surcharge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15352" number="18785" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The surcharge required to be collected by the wireless communications service supplier shall be added to and stated separately in its billings to customers.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15353" number="18786" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Each wireless communications service supplier shall annually provide to the city of New York an accounting of the surcharge amounts billed and collected. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15354" number="18787" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+													<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+												</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212440" number="18788" version="1509">
+										<HEADING>§ 11-2345 Liability for surcharge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4349" name="11-2345"/>§ 11-2345 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Liability for surcharge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15355" number="18789" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Each wireless communications service customer who is subject to the provisions of this chapter shall be liable to the city of New York for the surcharge until it has been paid to the city except that payment to a wireless communications service supplier is sufficient to relieve the customer from further liability for such surcharge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15356" number="18790" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No wireless communications service supplier shall have a legal obligation to enforce the collection of any surcharge imposed under the provisions of this chapter, provided, however, that whenever the wireless communications service supplier remits the funds collected to the city of New York, it shall also provide the city with the name and address of any customer refusing or failing to pay the surcharge and shall state the amount of such surcharge remaining unpaid. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15357" number="18791" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+													<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+												</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212441" number="18792" version="1509">
+										<HEADING>§ 11-2346 Systems revenues; adjustment of surcharge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4351" name="11-2346"/>§ 11-2346 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Systems revenues; adjustment of surcharge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15358" number="18793" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>All surcharge monies remitted to the city of New York by a wireless communications service supplier shall be expended only upon authorization of the council and only for payment of system costs or other costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate books and records of the amount and source of all such monies and of the amount and object or purpose of all expenditures thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15359" number="18794" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If, at the end of any fiscal year, the total amount of all such monies exceeds the amount necessary for payment of the above mentioned costs in such fiscal year, such excess shall be reserved and carried over for the payment of those costs in the following fiscal year. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15360" number="18795" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">
+													<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/015" destination-id="0-0-0-25410">L.L. 2002/015</LINK>
+												</HIGHLIGHTER>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-2099" number="1433" version="3">
+			<HEADING>Chapter 50: Distributed Energy Resource Standards</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-890" name="T01C050"/>Chapter 50: Distributed Energy Resource Standards</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2100" number="1434" version="3">
+								<HEADING>§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-892" name="T01C050_50-01"/>§ 50-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2101" number="1435" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General requirements.</CHARFORMAT> All microturbine systems shall comply with the following general requirements:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2102" number="1436" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Description.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2103" number="1437" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2104" number="1438" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2105" number="1439" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2106" number="1440" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Listing or MEA approval.</CHARFORMAT> For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2107" number="1441" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Utility ruling.</CHARFORMAT> The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2108" number="1442" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Filing and permit.</CHARFORMAT> Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2109" number="1443" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Installation.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2110" number="1444" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2111" number="1445" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2112" number="1446" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2113" number="1447" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2114" number="1448" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2115" number="1449" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2116" number="1450" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2117" number="1451" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating &quot;emergency gas shut-off to microturbine.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2118" number="1452" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2119" number="1453" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2120" number="1454" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Manufacturer&apos;s requirements. All manufacturer&apos;s requirements and recommendations shall be satisfied.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2121" number="1455" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>Signage. Signage clearly stating &quot;HIGH PRESSURE GAS&quot; shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2122" number="1456" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(x)<TAB tab-count="1"/>Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2123" number="1457" version="1772">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Inspection.</CHARFORMAT> Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-132" destination-id="0-0-0-0">27-132</LINK> of the New York City Building Code. Gas will be turned on only after successful completion of all testing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2124" number="1458" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire Department permit.</CHARFORMAT> A Fire Department permit is required to operate the equipment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2125" number="1459" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire Department Certificate of Fitness.</CHARFORMAT> A certificate of fitness (&quot;C of F&quot;) holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2126" number="1460" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service contract.</CHARFORMAT> The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2127" number="1461" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permitted locations.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2128" number="1462" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2129" number="1463" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2130" number="1464" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>50 feet from any subway entrance, exit, vent or other opening;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2131" number="1465" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>20 feet from any above-ground flammable or combustible liquid storage tank;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2132" number="1466" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2133" number="1467" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>D.<TAB tab-count="1"/>5 feet from any vent or fill line of any flammable or combustible liquid storage tank;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2134" number="1468" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>E.<TAB tab-count="1"/>5 feet from any parked motor vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2135" number="1469" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2136" number="1470" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2137" number="1471" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2138" number="1472" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2139" number="1473" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer&apos;s recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer&apos;s recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2140" number="1474" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2141" number="1475" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2142" number="1476" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2143" number="1477" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>Storage. No combustible materials shall be stored in the mechanical equipment penthouse.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2144" number="1478" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Within a dedicated room in a building, subject to the following:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2145" number="1479" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2146" number="1480" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2147" number="1481" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2148" number="1482" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer&apos;s recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer&apos;s recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2149" number="1483" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2150" number="1484" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2151" number="1485" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2152" number="1486" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Storage. No combustible materials shall be stored in the microturbine room.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2153" number="1487" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Within a boiler or other mechanical equipment room of a building, subject to the following:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2154" number="1488" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2155" number="1489" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2156" number="1490" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2157" number="1491" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer&apos;s recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer&apos;s recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2158" number="1492" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2159" number="1493" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2160" number="1494" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>Gas meters shall not be permitted within the mechanical equipment room.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2161" number="1495" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

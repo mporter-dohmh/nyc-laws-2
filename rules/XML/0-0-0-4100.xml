@@ -1,0 +1,1933 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-4100" number="5026" version="3">
+			<HEADING>Chapter 3000: Elevators and Conveying Systems</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1026" name="T01C3000"/>Chapter 3000: Elevators and Conveying Systems</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4101" number="5027" version="3">
+				<HEADING>Subchapter A: Amusement Devices</HEADING>
+				<PARA>Subchapter A: Amusement Devices</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4102" number="5028" version="1937">
+								<HEADING>§ 3005-01 Scope and Application.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1028" name="T01C3000_3005-01"/>§ 3005-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Scope and Application.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4103" number="5029" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&#160;</CHARFORMAT>This subchapter adopts all the national standards set forth in 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3000_3005-11" destination-id="0-0-0-1030">3005-11</LINK> and is applicable to all amusement devices including, but not limited to, inflatable amusement devices, portable amusement devices and simulators operated within the City of New York, whether located on a permanent, temporary, or mobile foundation. An amusement device that is not in compliance with this subchapter must not be operated.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4104" number="5030" version="3">
+								<HEADING>§ 3005-02 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1032" name="T01C3000_3005-02"/>§ 3005-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4105" number="5031" version="3">
+									<PARA> For the purposes of this subchapter, the following terms are defined as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4106" number="5032" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Amusement device or ride.</CHARFORMAT> A device or combination of devices or elements that carry, convey, or direct a person(s) over or through a fixed or restricted course, or within a defined area, for the primary purpose of amusement or entertainment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4107" number="5033" version="1006">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Exceptions.</CHARFORMAT> For the purposes of this subchapter, the following are not considered to be amusement devices:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4108" number="5034" version="1006">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any single passenger, coin-operated amusement device that is manually, mechanically, or electrically operated, does not normally require the supervision or services of a device operator, and is customarily placed, individually or in groups, in a public location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4109" number="5035" version="1006">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Locomotives weighing more than 7 tons (3178 kg), operating on a track of any length, the gage of which is 3 feet (914 mm) or greater, and the weight of which is 60 pounds (927.24 kg) per yard (1006 mm).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4110" number="5036" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Amusement device operator.</CHARFORMAT> Any person or persons actually engaged in or directly controlling the operations of an amusement device or ride, including the start, stop or speed of the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4111" number="5037" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Amusement park.</CHARFORMAT> A temporary or permanent entertainment complex or park, offering various forms of entertainment, such as arcade games and amusement devices as well as food, drink, and souvenirs.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4112" number="5038" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Amusement park operator.</CHARFORMAT> A person who manages or is in charge of the operations of one or more amusement devices and also one or more device operators.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4113" number="5039" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Certificate of competency.</CHARFORMAT> A certificate issued by the Department to an amusement park operator who demonstrates his or her competence in operating an amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4114" number="5040" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Certificate of compliance (&quot;Green card&quot;).</CHARFORMAT> A certificate issued by the Department for an amusement device that passes inspection by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4115" number="5041" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Certificate of operation.</CHARFORMAT> A certificate issued to a device operator for a specific amusement device to certify that training on that device was provided by an amusement park operator who has received his/her certificate of competency for the same device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4116" number="5042" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Child.</CHARFORMAT> A person twelve (12) years of age and under.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4117" number="5043" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Containing device.</CHARFORMAT> A strap, belt, bar, gate or other safety device that is not intended to provide physical support, but is designed to prevent accidental or unintentional ejection of a passenger from an amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4118" number="5044" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Entry area (to amusement device).</CHARFORMAT> The area or gate where passengers form a line and hand in tickets prior to arriving at the loading area to get on the amusement device or ride.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4119" number="5045" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Exit area (from amusement device).</CHARFORMAT> The area or gate where passengers depart from the ride area after leaving the unloading area.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4120" number="5046" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Guardian.</CHARFORMAT> Any parent, custodian, supervisory companion, or other person responsible for the well-being and safety of another amusement device rider such as a minor, disabled person, or elderly person, while entering, riding, and exiting the amusement device and/or park.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4121" number="5047" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Guardian restriction.</CHARFORMAT> A requirement placed on an amusement device by the manufacturer or amusement park operator that a rider must be accompanied by a guardian.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4122" number="5048" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Height restriction.</CHARFORMAT> A minimum height requirement of passengers permitted to ride an amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4123" number="5049" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Inflatable.</CHARFORMAT> An amusement device designed for uses that may include, but are not limited to, bouncing, climbing, sliding, or interactive play. An inflatable is made of flexible fabric, is kept inflated by continuous air flow by one or more blowers, and relies upon air pressure to maintain its shape.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4124" number="5050" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Kiddie ride.</CHARFORMAT> An amusement ride designed primarily for use by children.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4125" number="5051" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Loading/unloading area (of amusement device).</CHARFORMAT> The area(s) immediately next to the recreational or moving portion of the amusement device where passengers get on/off the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4126" number="5052" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Lock-out.</CHARFORMAT> The placement of a device, such as a lock, on an energy isolating device so that the energy isolating device and the equipment being controlled cannot be operated until the device is removed, typically accompanied by tag-out.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4127" number="5053" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Manual(s).</CHARFORMAT> Information and instructions related to the operation, maintenance, inspection and test requirements of the amusement device. A manual is prepared by the amusement device manufacturer or, where the manufacturer&apos;s manual is not available, by a registered design professional.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4128" number="5054" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Nondestructive test or testing (NDT).</CHARFORMAT> A general term used to identify inspection methods that allow for the evaluation of welds, structural members and joints without destroying their function.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4129" number="5055" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Owner.</CHARFORMAT> A lessee or a person with legal title to one or more amusement devices.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4130" number="5056" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Permanent.</CHARFORMAT> Lasting for a period of time exceeding fourteen (14) calendar days from the date of the issuance of a certificate of compliance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4131" number="5057" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Portable.</CHARFORMAT> An amusement device that may be relocated by mounting such a device on a motor vehicle or trailer; or an amusement device, including an inflatable amusement device, that requires additional assembly or support for its proper operation at the location where it is to be used.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4132" number="5058" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Restraining device.</CHARFORMAT> A safety belt, harness, chair, bar or other device that provides actual physical support, retention or restraint to the passenger of an amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4133" number="5059" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Signal person.</CHARFORMAT> A person who assists the amusement device operator in ensuring that all passengers have been loaded/unloaded and/or are secured with restraining/containing devices and signals the amusement device operator when the ride is safe to operate via hand or verbal signals.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4134" number="5060" version="2294">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Special amusement building.</CHARFORMAT> See Building Code Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 411" destination-id="0-0-0-0">BC 411</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4135" number="5061" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Tag-out.</CHARFORMAT> The placement of a prominent warning device, such as a tag and means of attachment, on an energy isolating device to indicate that the energy isolating device and the equipment being controlled cannot be operated until the warning device is removed, typically accompanied by lock-out.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4136" number="5062" version="3">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Temporary.</CHARFORMAT> Lasting for a period of time equal to or less than 14 calendar days from the issuance date of a certificate of compliance.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4137" number="5063" version="3">
+								<HEADING>§ 3005-03 Administration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1034" name="T01C3000_3005-03"/>§ 3005-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administration.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4138" number="5064" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Filing requirements.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4139" number="5065" version="1782">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">License applications.</CHARFORMAT> All license applications for amusement devices are filed with the Department of Consumer Affairs (&quot;DCA&quot;) pursuant to the requirements of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T20" destination-id="0-0-0-0">Title 20</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4140" number="5066" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permanent installations.</CHARFORMAT> No permanent amusement device may be installed, dismantled, removed, relocated, or reassembled unless an installation application is filed with the Department. The Department&apos;s application form(s), along with all required construction documents, must be completed and filed by the owner, amusement park operator, or the owner&apos;s representative. Such application must be approved by the Department prior to the initial use of the amusement device and include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4141" number="5067" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The name, address and signature of the amusement device owner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4142" number="5068" version="1006">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Complete application and engineering plans signed and sealed by a registered design professional including other reports required by 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3000_3005-10" destination-id="0-0-0-1048">3005-10</LINK> and the manual. Engineering plans, dimensioned to scale, must identify parts and components of amusement devices including, but not limited to bars, cables, chains, ropes, rods, pipes, girders, braces, fittings, fasteners, trusses, pressure vessels, pressure piping, gears, clutches, speed reducers, welds, bearings, couplings, shaftings, axles, hangers, pivots, carriers (such as tubs, cars, chairs, gondolas, or seating and carrying apparatus of any description) and safety bars, belts, harnesses, chains, gates or other restraining, containing, or retaining devices.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4143" number="5069" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Foundation support and details signed and sealed by a registered design professional.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4144" number="5070" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Trade or descriptive name of the amusement device and model number, if any, together with any identifying numbers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4145" number="5071" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The name and address of the manufacturer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4146" number="5072" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Passenger capacity of the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4147" number="5073" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>An electrical permit, if applicable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4148" number="5074" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Associated estimated cost of the device and installation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4149" number="5075" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>Commercial general liability insurance as required by DCA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4150" number="5076" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary and portable installations.</CHARFORMAT> The owner, amusement park operator, or owner&apos;s representative of temporary and portable amusement devices, including inflatable devices, must file a registration application with the Department using forms created by the Department. Such registration information must be approved by the Department prior to the amusement device&apos;s initial use and include:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4151" number="5077" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The name, address and signature of the amusement device owner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4152" number="5078" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Trade or descriptive name of the amusement device and model number, if any, together with any identifying numbers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4153" number="5079" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The name and address of the manufacturer.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4154" number="5080" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Manufacturing date of the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4155" number="5081" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Passenger capacity of the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4156" number="5082" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Commercial general liability insurance as required by DCA.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4157" number="5083" version="2294">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fees.</CHARFORMAT> Refer to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="Table 28-112.2" destination-id="0-0-0-0">Table 28-112.2</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4158" number="5084" version="896">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Alterations and modifications.</CHARFORMAT> All alterations and modifications to an amusement device must be filed with the Department. Refer to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3000_3005-04" destination-id="0-0-0-1038">3005-04</LINK> for design guidelines and 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3000_3005-06" destination-id="0-0-0-1036">3005-06</LINK> for device identification requirements.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4159" number="5085" version="896">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Dismantling and removals.</CHARFORMAT> All dismantling and removals of permanent amusement devices must be filed with the Department. All such filings must be signed and sealed by a registered design professional attesting that the dismantling and removal of the amusement device would not leave any remaining structure associated with the amusement device in an unstable or compromised condition.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4160" number="5086" version="1782">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cease use order.</CHARFORMAT> In accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-207.5" destination-id="0-0-0-0">28-207.5</LINK> of the Administrative Code, whenever the commissioner determines that the operation of any amusement device is or may be dangerous to life, health, or safety, the commissioner may issue a &quot;cease use&quot;&apos; order requiring such equipment to be shut down, sealed, or otherwise made inoperable. Upon the issuance of such order, a tag or notice must be affixed to the amusement device warning that it is unsafe for operation. It is unlawful to operate such device or to remove or deface such tag until the cease use order is rescinded by the commissioner per § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-207.5.1" destination-id="0-0-0-0">28-207.5.1</LINK> of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4161" number="5087" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adverse weather conditions.</CHARFORMAT> An amusement device that is exposed to strong winds or storm cannot be operated under such dangerous weather conditions, as provided in such device&apos;s operating manual, except for the purpose of releasing passengers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4162" number="5088" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Record keeping.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4163" number="5089" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Manuals.</CHARFORMAT> All relevant amusement device manuals must be kept on site and made available to the commissioner upon request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4164" number="5090" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Records.</CHARFORMAT> All inspection and test records of amusement devices and equipment must be kept on site and made available to the commissioner upon request. Such records must contain the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4165" number="5091" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Date and nature of all inspections and tests, whether by the Department, the owner, or amusement park operator;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4166" number="5092" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Any violation or notice of deficiency issued by New York City (NYC) and the action taken to fix the problem;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4167" number="5093" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Any repairs and adjustments made to any part of the equipment to ensure safe operating conditions for the amusement device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4168" number="5094" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Any parts changed or repaired; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4169" number="5095" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The inspectors&apos; names.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4170" number="5096" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Duration.</CHARFORMAT> The amusement park operator must retain current operation, maintenance, inspection, and test records for each amusement device for the preceding one (1) year in a maintenance log kept on site. Such records must be kept up-to-date and be made available to the commissioner upon request. The owner must maintain records for the past seven years and make them available to the commissioner on request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4171" number="5097" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certification and revocation.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4172" number="5098" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of competency for amusement park operators.</CHARFORMAT> Amusement park operators of permanent, temporary and portable amusement devices must obtain a certificate of competency from the Department by demonstrating an ability to operate an amusement device safely in normal and emergency situations. Each certificate must list every amusement device that the applicant will be operating.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4173" number="5099" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of competency for inflatable rides.</CHARFORMAT> In order to receive a certificate of competency for an inflatable ride, the amusement park operator must bring, set up, and operate such ride at a location and on a date and time determined by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4174" number="5100" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Duration and renewal.</CHARFORMAT> Certificates of operation and competency are valid for one (1) year from the date of issuance and can be renewed annually.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4175" number="5101" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Revocation.</CHARFORMAT> Following notice and an opportunity to be heard, the Department may revoke an amusement park operator&apos;s certificate of competency for failure to comply with the requirements of these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4176" number="5102" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amusement device operator qualifications.</CHARFORMAT> All amusement devices must be operated by a competent individual designated by the owner or amusement park operator. All amusement device operators must:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4177" number="5103" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Be eighteen (18) years of age or older, except for kiddie ride operators, who can be seventeen (17) years of age or older;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4178" number="5104" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Be free from any physical or mental conditions that could affect the performance of his/her duties;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4179" number="5105" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Be able to communicate and understand the English language;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4180" number="5106" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Hold a current certificate of operation from the amusement park operator as provided for in subparagraph (ii) of paragraph (4) of subdivision (j) of this section; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4181" number="5107" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Be trained in accordance with ASTM F 770, by the amusement park operator, before being allowed to operate an amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4182" number="5108" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Responsibilities.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4183" number="5109" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Owner responsibilities.</CHARFORMAT> Refer to general maintenance, device maintenance, and record keeping requirements set out in this rule.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4184" number="5110" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amusement device operator responsibilities.</CHARFORMAT> The amusement device operator has the following responsibilities:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4185" number="5111" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The amusement device operator must maintain full and uninterrupted attention during the amusement device&apos;s operation;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4186" number="5112" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The amusement device operator may not use any personal telecommunication or listening device during the amusement device&apos;s operation;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4187" number="5113" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The amusement device operator may not operate more than one (1) amusement device at any given time;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4188" number="5114" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>The amusement device operator must have knowledge and training in the use and function of all normal and emergency operating controls of the amusement device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4189" number="5115" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The amusement device operator must be within reach of the normal and emergency operating controls during the device&apos;s operation. No other person may be permitted to handle such controls unless the amusement device is designed to be partially or entirely operated or controlled by a passenger;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4190" number="5116" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>The amusement device operator must not operate any amusement device while under the influence of alcohol or drugs;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4191" number="5117" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>The amusement device operator must operate the amusement device in accordance with the operating manual. An amusement device must not be operated at an unsafe speed or at a speed beyond that recommended by the manufacturer. The operating manual must be kept with the amusement device or in an office on the same location as the amusement device. The manual must be made available for inspection or use by the Department;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4192" number="5118" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>When restoration of electrical power to an amusement device could create a hazard to anyone during the performance of maintenance, repair, inspection, or an emergency evacuation of passengers, the amusement device&apos;s electrical disconnect switch must be turned off and the device locked-out and tagged-out. The amusement device must remain locked-out and tagged-out until such time that the restoration of power will not create a hazard; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4193" number="5119" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>The amusement device operator must not operate an amusement device that does not have a current certificate of compliance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4194" number="5120" version="896">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Owner, amusement park operator and amusement device operator responsibilities.</CHARFORMAT> The owner, amusement park operator, or amusement device operator must refuse any member of the public admission to an amusement device if:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4195" number="5121" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The passenger&apos;s health, physical condition, or conduct appears to make it unsafe for him/her to use the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4196" number="5122" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The passenger does not meet the amusement device specific requirements as stipulated by the posted height and guardian restrictions. Legible signs displaying these restrictions must be posted in an unobstructed location in full view of individuals seeking admission to the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4197" number="5123" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amusement park operator responsibilities.</CHARFORMAT> The amusement park operator has the following responsibilities:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4198" number="5124" version="2295">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Training of device operators.</CHARFORMAT> The amusement park operator who holds a certificate of competency is responsible for training individual device operators in accordance with ASTM F 770. All training must be documented in a log which must be kept at the site and made available upon the Department&apos;s request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4199" number="5125" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Issuing a certificate of operation for amusement device operators.</CHARFORMAT> After training the amusement device operators in accordance with the provisions of subparagraph (i) of this paragraph, amusement park operators must issue certificates of operation to the amusement device operators.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4200" number="5126" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Affidavit.</CHARFORMAT> The amusement park operator must provide an affidavit stating that the amusement device operators have been issued certificates of operation and that each amusement device operator meets the qualifications as set forth in subdivision (i) of this section. Such affidavit must include a government-issued photo identification card of each device operator as well as a list of the amusement devices that he/she has been trained to operate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4201" number="5127" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Ensuring compliance.</CHARFORMAT> The amusement park operator must ensure that the amusement device operators comply with the requirements of these rules. If the requirements are not met, or as directed by the Department, the amusement park operator must immediately revoke the certificate of operation and notify the Department in writing of the revocation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4202" number="5128" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Inflatable amusement devices.</CHARFORMAT> Prior to an event, the amusement park operator must provide the Department with the event location, event dates, and written certification verifying that all of the installed inflatable amusement rides comply with the manufacturer&apos;s manual and bulletins. The Department may perform an audit of the certificate of competency requirements at such event location.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4203" number="5129" version="1937">
+								<HEADING>§ 3005-04 Design Guidelines.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1038" name="T01C3000_3005-04"/>§ 3005-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Design Guidelines.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4204" number="5130" version="2295">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General requirements.</CHARFORMAT> All new and altered structures used in connection with amusement devices must be designed and constructed in accordance with ASTM F 1159, F 1193, F 2374, F 2375, and F 2291 and relevant provisions of the Building Code to safely carry all loads to which such structures may normally be subjected.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4205" number="5131" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stress analysis.</CHARFORMAT> All amusement devices must be designed, constructed, and installed to withstand any normal stresses to which they may be subjected. Stress analysis must include the effect of forces generated by acceleration, deceleration, centrifugal action, or by kinetic or other forces that are constant, reversible, or eccentric. Materials and other data pertinent to the design, factors of safety, or performance characteristics must be in accordance with accepted engineering practices, standards and specifications acceptable to the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4206" number="5132" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stability.</CHARFORMAT> Before being used by the public, amusement devices must be placed or secured with blocking, cribbing, outriggers, guys or other methods as required by the manual in order to be stable under all operating conditions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4207" number="5133" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Foundations.</CHARFORMAT> The manual containing the recommended foundations must be kept with all permanent and temporary amusement devices. If the manual does not contain the required foundations, then a plan and design of the footings prepared by a registered design professional must be prepared and kept with the amusement device. Such plan must indicate the size and pressure under the footings and allowable soil bearing capacity.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4208" number="5134" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Passenger restraining or containing devices.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4209" number="5135" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Passenger restraining or containing devices must be provided and used by passengers on any amusement device where centrifugal and other forces or mechanical malfunction could unseat or eject a passenger. Such passenger restraining or containing devices must be designed, constructed, installed, and maintained to safely support the passenger.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4210" number="5136" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Amusement devices equipped with a safety bar, cage, or other mechanically operated restraining device must be equipped with a device designed so that the safety bar, cage, or other mechanically operated device cannot be released except at the point of loading or unloading by the device operator.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4211" number="5137" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Anchorage for the required restraining devices must have a minimum strength equal to the strength of the restraining device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4212" number="5138" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Fastenings of the restraining or containing device must be of a type that cannot be unintentionally released by the passenger.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4213" number="5139" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Passenger loading and unloading.</CHARFORMAT> Belts, bars, foot rests, and other equipment necessary for safe entrance and exit, and for support while the amusement device is in operation, must be provided and maintained in a safe condition. Such equipment and fastenings must be of sufficient strength to hold or support the passengers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4214" number="5140" version="2294">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electrical work.</CHARFORMAT> When setting up amusement devices, the electrical work must conform to the requirements of the New York City Electrical Code. All amusement devices powered by electricity must be provided with a main disconnect switch capable of being locked only in the &quot;off&quot; position.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4215" number="5141" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">New and modified amusement devices.</CHARFORMAT> For any new permanent, temporary, or portable amusement devices, or whenever any additions or alterations are made to any amusement device that change its structure, mechanism, or capacity, a registered design professional must submit signed and sealed plans of the amusement device to the Department for approval. Such plans must contain design data, safety factors, materials utilized, stress analysis and any other relevant data.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4216" number="5142" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Air compressors and equipment.</CHARFORMAT> Air compressors, air compressor tanks, and related equipment must be designed, constructed, and maintained to ensure safe operation at all times. Air compressor tanks and other air receivers used in connection with air compressors must have the maximum and minimum allowable working pressures noticeably and clearly marked on the tanks and receivers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4217" number="5143" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adequate clearance.</CHARFORMAT> There must be sufficient clearance in the path of travel of an amusement device to ensure that a passenger in the riding position cannot be injured by contact with any structural component or other fixed object.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4218" number="5144" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Handrails.</CHARFORMAT> Handrails for new stairs, stairways, ramps, and walkways associated with the amusement device must be in accordance with Section 1009.11 of the Building Code. Handrails must be of sufficient attachment strength in accordance with Section 1607.7.1 of the Building Code. Handrails of existing structures must be in compliance with the codes in existence at the time the structure was originally constructed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4219" number="5145" version="1968">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>Stairways, landings and ramps. Stairways, landings and ramps must be designed, constructed, and maintained to safely support a minimum live load of 100 pounds per square foot (488.2 kg/m<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-60">2</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-60">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">
+										</CHARFORMAT>).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4220" number="5146" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(12)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Surfaces.</CHARFORMAT> Stairways, landings and ramps must have non-slip surfaces.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4221" number="5147" version="2294">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(13)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flame resistant fabrics.</CHARFORMAT> Fabrics constituting part of an amusement device must be flame resistant as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 802" destination-id="0-0-0-0">802</LINK> of the New York City Fire Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4222" number="5148" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Safety devices.</CHARFORMAT> The following safety devices, as listed below, must be incorporated into the design of the amusement device or ride:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4223" number="5149" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emergency brakes.</CHARFORMAT> If cars or other components of an amusement device are capable of colliding upon failure of normal controls, the device must be equipped with emergency brakes sufficient to prevent such collisions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4224" number="5150" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Anti-roll back devices.</CHARFORMAT> Amusement devices that use inclined tracks must be equipped with automatic anti-roll back devices to prevent backward downward movement of the passenger-carrying units.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4225" number="5151" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Speed limiting devices.</CHARFORMAT> An amusement device capable of exceeding its maximum safe operating speed must be equipped with an electrical or mechanical maximum speed-limiting device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4226" number="5152" version="2295">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emergency stop switches.</CHARFORMAT> The installation or modification of emergency stop (e-stop) switches must be in accordance with ASTM F 2291, the manufacturer&apos;s manual and/or bulletin, or as directed by the commissioner.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4227" number="5153" version="1937">
+								<HEADING>§ 3005-05 Assembly and Disassembly of Amusement Devices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1040" name="T01C3000_3005-05"/>§ 3005-05 Assembly and Disassembly of Amusement Devices<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4228" number="5154" version="3">
+									<PARA> The assembly and disassembly of an amusement device must be performed by or under the direct supervision of the owner or amusement park operator in accordance with the manual.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4229" number="5155" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Installation.</CHARFORMAT> Parts must be properly aligned and may not be bent, distorted, cut or otherwise damaged to force a fit. Parts requiring lubrication must be lubricated in the course of assembly and as required during operation. Fastening and locking devices, such as bolts, cap screws, cotter pins and lock washers, must be installed where required for safe operation. Nuts must be drawn tight, cotter pins must be spread, and lock nuts firmly set. &quot;R&quot; pins must only be used in locations recommended by the manufacturer or a registered design professional. Immediate inspection of fastening devices must be conducted after assembly to make sure that they have been properly installed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4230" number="5156" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Worn or damaged parts.</CHARFORMAT> Parts that are excessively worn or that have been materially damaged may not be used. Close visual inspection of parts must be conducted during assembly and disassembly to discover such wear or damage.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4231" number="5157" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Tools.</CHARFORMAT> Anyone engaged in the assembly or disassembly of amusement devices must use tools of proper size and design to enable the work to be performed in a proper manner. Broken, damaged and unsuitable tools may not be used.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4232" number="5158" version="1937">
+								<HEADING>§ 3005-06 Information Tags.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1036" name="T01C3000_3005-06"/>§ 3005-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Information Tags.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4233" number="5159" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Identification.</CHARFORMAT> Every amusement device must be identified by the name and address of the manufacturer, a trade or descriptive name of the device, and any Department issued amusement device identification number. Such identification information must be permanently attached to the device and placed in a visible location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4234" number="5160" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rating plates.</CHARFORMAT> A metal plate must be permanently attached to the amusement device in a location that is clearly visible to inspectors, owners, amusement park operators, and amusement device operators. If a metal plate is not possible, an identification tag, acceptable to the Department, may be substituted, but must still be in a visible location and permanently attached to the amusement device. The following information must be legibly written on the plate or identification tag:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4235" number="5161" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The name and address of the amusement device manufacturer;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4236" number="5162" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The trade or descriptive name of the amusement device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4237" number="5163" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The maximum allowable and safe load and passenger capacity of the amusement device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4238" number="5164" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The maximum allowable and safe speed of the amusement device; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4239" number="5165" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Weather restrictions. Additional information may be requested by the Department prior to the issuance of a certificate of compliance. If an amusement device or its supporting structure is altered, or if there is a change to any of the rating plate information, the existing rating plate must be replaced with a new metal plate with the correct information.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4240" number="5166" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of compliance.</CHARFORMAT> Every amusement device must have its certificate of compliance displayed in a location on or near the control station of the device that is visible to the public.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4241" number="5167" version="1937">
+								<HEADING>§ 3005-07 Posted Warnings and Restrictions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1042" name="T01C3000_3005-07"/>§ 3005-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Posted Warnings and Restrictions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4242" number="5168" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General restrictions.</CHARFORMAT> When the operation and use of an amusement device is subject to restrictions imposed by the manufacturer, such restrictions must be clearly posted next to the amusement device. Additional restrictions may also be imposed by the commissioner in order to ensure safe operation of the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4243" number="5169" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Height and guardian restrictions.</CHARFORMAT> The owner or amusement park operator must post a list of the manufacturer recommended minimum height restrictions and any guardian restrictions for all amusement devices. The commissioner reserves the right to modify the height restriction and/or guardian restriction of any amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4244" number="5170" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Warning signs.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4245" number="5171" version="1006">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Where an amusement device exposes a passenger to high speed, substantial centrifugal or gravitational force, or when directed by the commissioner, the owner or amusement park operator must post a prominent warning sign at the entrance to the amusement device advising the public of the risks to passengers. The sign must be at least 2 feet by 2 feet (610 mm by 610 mm), with the message displayed in a color that is sharply contrasting to the background. The sign must read as follows or express an equivalent warning:<LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4246" number="5172" version="3055">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="1">
+												<COLUMNFORMAT column-width="34" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center" tab-count="1">
+															<TABSTOP number="0" position="421" justification="left" leader="none"/>&quot;THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:<LINEBRK/>People under the influence of alcohol.<LINEBRK/>People under the influence of drugs or medications that could impair judgment.<LINEBRK/>People with heart conditions.<LINEBRK/>Pregnant women.<LINEBRK/>People with disabilities that may interfere with their safety during the operation of the amusement device.<LINEBRK/>People with motion sickness.<LINEBRK/>People with any physical ailments that could be aggravated by this amusement device.&quot;</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4247" number="5173" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The following additional signs must be installed where applicable for the amusement device, or as directed by the commissioner:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4248" number="5174" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;Passengers must remain seated until the amusement device comes to a complete stop!&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4249" number="5175" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>&quot;No Standing!&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4250" number="5176" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The following signs must be installed on all amusement devices:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4251" number="5177" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;No Smoking!&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4252" number="5178" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>&quot;No Food or Drink!&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4253" number="5179" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>&quot;No Cell Phone Use!&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4254" number="5180" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Special amusement buildings must also have the following signs installed:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4255" number="5181" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Capacity signs indicating the number of persons who may safely occupy the space. Where the occupancy of the space is seventy-five (75) or more persons, the sign must comply with Section 1024.1.2 of the Building Code, Public Assembly.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4256" number="5182" version="2294">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Illuminated exit signs. Such signs must comply with Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="bc 411" destination-id="0-0-0-0">BC 411</LINK> and all other Building Code provisions in effect at the time of construction of the building or structure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4257" number="5183" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>No smoking or open flame. A sign stating: &quot;NO SMOKING OR OPEN FLAME,&quot; must be prominently posted at all entrances.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4258" number="5184" version="1937">
+								<HEADING>§ 3005-08 General Safety and Maintenance.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1044" name="T01C3000_3005-08"/>§ 3005-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General Safety and Maintenance.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4259" number="5185" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cleanliness.</CHARFORMAT> A suitable number of metal containers for trash must be provided in and around amusement devices. Excessive trash or refuse must be promptly removed. All parts of amusement devices, buildings and structures must be maintained in a clean condition, including the underside of amusement devices where the buildup of leaves and trash poses a fire hazard.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4260" number="5186" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lighting.</CHARFORMAT> While an amusement device is in operation or occupied, all entry/exit and loading/unloading areas of the amusement device must be provided with illumination by natural or artificial means of not less than five (5) foot-candles (fc) measured at grade level.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4261" number="5187" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Location of controls.</CHARFORMAT> Controls for the starting and stopping of amusement devices must be properly labeled and in a location that allows the device operator to have a clear view of the passengers in the loading and unloading areas. In those cases where the device operator does not have clear views of the passenger loading and unloading areas from the controls, the amusement device must be equipped with a signal system in accordance with subdivision (g) of this section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4262" number="5188" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Overload.</CHARFORMAT> An amusement device must not be overcrowded or loaded above its safe carrying capacity, as stipulated in the manufacturer&apos;s operating manual.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4263" number="5189" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Entry and exit areas.</CHARFORMAT> Each amusement device, special amusement building, or dark ride must have safe means of entry and exit as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4264" number="5190" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Protection from nearby hazards.</CHARFORMAT> Means of entry and exit must be protected from nearby hazards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4265" number="5191" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Debris and other hazards.</CHARFORMAT> Passenger loading and unloading areas and means of entry and exit must be free from debris, obstructions and projections, and from slipping, tripping, and other hazards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4266" number="5192" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Head clearance.</CHARFORMAT> The head clearance in passageways must not be less than 7 feet (2134 mm).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4267" number="5193" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Stairways and ramps.</CHARFORMAT> Means of entry and exit must be comprised of either stairways or ramps, and connecting landings or platforms with proper handrails and guards to prevent falls where the public enters or leaves an amusement device that is above or below grade.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4268" number="5194" version="2223">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Special amusement buildings.</CHARFORMAT> All special amusement buildings must also comply with the means of egress requirements in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 411" destination-id="0-0-0-0">BC 411</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4269" number="5195" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Protection against moving parts.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4270" number="5196" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fencing and barricading.</CHARFORMAT> An amusement device may not be used or operated if anyone from the public has access to unsafe areas when the device is in operation. Such areas must be fenced, barricaded, or otherwise guarded against public access.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4271" number="5197" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Machinery guards and maintenance.</CHARFORMAT> Machinery used in or with an amusement device must be enclosed, barricaded or otherwise guarded in accordance with the operating and maintenance manual. All guards removed for maintenance purposes must be replaced before normal operation is resumed. Maintenance may not be performed while the amusement device is being used by the public.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4272" number="5198" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Passenger protection.</CHARFORMAT> Passengers on loading and unloading areas must be protected from coming in contact with moving parts accidentally.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4273" number="5199" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Signal systems.</CHARFORMAT> Where the device operator does not have a clear view of the point at which passengers are loaded or unloaded, signal systems for the starting and stopping of the amusement device must be in place.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4274" number="5200" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Communication system of signals.</CHARFORMAT> Both the device operator and signal person must be familiar with any communication system of signals adopted for the operation of an amusement device. Anyone, including the amusement device operator, who may use these signals must be instructed in their use by the amusement park operator.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4275" number="5201" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Position of safety.</CHARFORMAT> Signals for movement or operation of an amusement device may not be given until all of the passengers and other affected individuals are in safe positions and locations where they are not endangered by the movement or operation of the device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4276" number="5202" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electrical wiring and equipment.</CHARFORMAT> All electrical wiring and equipment used for amusement devices or for lighting must be installed, operated and maintained in accordance with the New York City Electrical Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4277" number="5203" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electrical transformer substations.</CHARFORMAT> All electrical transformer substations must be properly enclosed and proper warning signs must be posted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4278" number="5204" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Outdoor wiring and equipment.</CHARFORMAT> Electrical wiring and equipment located outdoors must be protected from exposure to weather that may interfere with its normal operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4279" number="5205" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lightning protection.</CHARFORMAT> Amusement rides must be protected from lightning strikes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4280" number="5206" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Elevated power lines.</CHARFORMAT> Elevated power lines crossing access pathways or other roads within the grounds of an amusement park must be suspended high enough to provide a vertical clearance of at least 14 feet (4267 mm) from the road surface or 3 feet (914 mm) above any vehicle used within the grounds of such amusement park. A horizontal clearance of at least 3 feet (914 mm) must be provided on each side of the normal passage space of vehicles.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4281" number="5207" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lighting fixtures.</CHARFORMAT> All lighting fixtures used for general illumination must be a minimum of 7 feet (2134 mm) above the normal walking surface to the bottom of such fixture, including its lamp. If lighting stringers are used, such stringers must also be suitably hung with fixture or lamp holders with bulb guards to protect the bulb from accidental contact or breakage.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4282" number="5208" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Protection from electrical shock.</CHARFORMAT> No person may be permitted to remain so close to an electric power circuit that he or she may come into physical contact with the circuit unless the person is protected against electrical shock by de-energizing the circuit, grounding it, or guarding it by effective insulation. If protection is provided by de-energizing the circuit, the switch controlling the circuit must be locked-out and tagged-out to prevent any unintentional energizing of the circuit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4283" number="5209" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emergency lighting.</CHARFORMAT> Emergency lighting must be in compliance with the code provisions in effect at the time of construction of the amusement device and be operable and in use in conjunction with the automatic fire detection and alarm/communication systems.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4284" number="5210" version="2223">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Special amusement buildings.</CHARFORMAT> All special amusement buildings must also comply with the emergency voice/alarm communication requirements in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 411" destination-id="0-0-0-0">BC 411</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4285" number="5211" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire prevention.</CHARFORMAT> For the purposes of this subsection, the term &quot;listed&quot; has the same definition as established in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 202" destination-id="0-0-0-0">FC 202</LINK> of the New York City Fire Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4286" number="5212" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fire extinguishers.</CHARFORMAT> The owner or amusement park operator must provide at least one listed 20-pound (9.07 kg) ABC multi-purpose portable type fire extinguisher for every amusement ride, in order to secure reasonable and adequate protection from fire hazards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4287" number="5213" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flammable items.</CHARFORMAT> Flammable waste, such as oily rags and other flammable materials, must be placed in listed containers with lids that are listed for such use. Such containers cannot be kept at or near exits or entrances to any amusement ride or the amusement park.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4288" number="5214" version="2217">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Flammable liquids and gases.</CHARFORMAT> Gasoline and other flammable liquids and flammable gases, when stored, must be kept in reasonably cool and ventilated places. Such liquids must be stored in listed containers or tanks that comply with the requirements of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="FC 3404" destination-id="0-0-0-0">FC 3404</LINK> of the New York City Fire Code. Smoking and/or the handling of lit cigars, cigarettes, pipes, or any open flame is prohibited in any area where such liquids or gases are stored or are transferred from one container to another.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4289" number="5215" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Special amusement buildings.</CHARFORMAT> The owner or amusement park operator must provide special amusement buildings with:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4290" number="5216" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>No fewer than two (2) listed portable fire extinguishers of a 20-pound (9.07 kg) ABC multi-purpose type; and.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4291" number="5217" version="2223">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Automatic fire detectors and sprinklers in compliance with Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC 411" destination-id="0-0-0-0">BC 411</LINK>.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4292" number="5218" version="1937">
+								<HEADING>§ 3005-09 Maintenance of Amusement Devices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1046" name="T01C3000_3005-09"/>§ 3005-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maintenance of Amusement Devices.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4293" number="5219" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Protection of passengers.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4294" number="5220" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Passenger-carrying amusement devices, interior and exterior parts.</CHARFORMAT> All interior and exterior parts of passenger carrying amusement devices, with which a passenger may come in contact, must be smooth and rounded, free from sharp, rough or splintered edges and corners, and have no protruding studs, bolts, screws or other projections that might cause injury. Interior parts that a passenger may be thrown onto by the action of the amusement device must be sufficiently padded to prevent injury, in accordance with the device&apos;s operating manual.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4295" number="5221" version="1006">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Restraining devices and/or containing devices.</CHARFORMAT> Passenger restraining or containing devices must be inspected daily in accordance with paragraph (4) of subdivision (f) of 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3000_3005-10" destination-id="0-0-0-1048">3005-10</LINK> and maintained as needed to ensure they are fully functional before the operation of the ride.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4296" number="5222" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Self-powered amusement devices.</CHARFORMAT> Amusement devices that are self-powered by the passenger must have the driving mechanism securely guarded to prevent passengers from gaining access to the mechanism. The driving mechanism must also be secured in a manner that will prevent passengers with long hair, clothing, or accessories from becoming tangled in the mechanism.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4297" number="5223" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amusement devices constructed prior to adoption of this rule.</CHARFORMAT> All existing amusement devices must be in compliance with the following safety standards:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4298" number="5224" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Code in effect at the time the amusement device was manufactured;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4299" number="5225" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Code in effect at the time of alteration of the device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4300" number="5226" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Manufacturer&apos;s manual and bulletin. If no manual exists, then a registered design professional must create a manual for the device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4301" number="5227" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>There must be no pinch or nip points that may cause injury to a passenger;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4302" number="5228" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>There must be no exposed electrical wiring creating unsafe conditions; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4303" number="5229" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The safety of bystanders and passengers must be provided for when operating and loading/unloading the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4304" number="5230" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Repairs.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4305" number="5231" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Maintenance log and manual.</CHARFORMAT> All repairs must be entered into the maintenance log and performed in accordance with the manufacturer&apos;s operation and maintenance manual and any other specific repair instructions.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4306" number="5232" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Life-supporting or suspending parts.</CHARFORMAT> A life-supporting or suspending part such as a pin, axle, or tension strap, that fails inspection must be removed and a new or repaired part must be used as a replacement in accordance with the manual&apos;s specifications. No amusement device may be placed into operation until all necessary repairs are made and the repaired parts are reinspected and retested.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4307" number="5233" version="2294">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Welds.</CHARFORMAT> A weld that fails inspection must be noted in the maintenance log and must be repaired before the device is placed in operation. Repairs must be completed by a welder licensed in accordance with <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-407" destination-id="0-0-0-0">Article 407 of Title 28</LINK> of the Administrative Code. Where the welding work is not performed in the city, welds must be made by American Welding Society (AWS) qualified welders.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4308" number="5234" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notification.</CHARFORMAT> The owner or amusement park operator must notify the manufacturer of the amusement device of any defects. Before starting repairs, owners or amusement park operators must request an official repair procedure from the manufacturer. Where the manufacturer is no longer in business, the repairs must be made following a procedure prescribed by a registered design professional.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4309" number="5235" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Out of service individual units.</CHARFORMAT> Individual units of an amusement device, such as cars, seats, or other carriers that may be taken out of service without jeopardizing the safety of the entire amusement device as outlined in the operating manual, must be firmly secured with caution tape and clearly marked with a sign reading &quot;Out of Service&quot;.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4310" number="5236" version="1937">
+								<HEADING>§ 3005-10 Inspections and Tests.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1048" name="T01C3000_3005-10"/>§ 3005-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Inspections and Tests.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4311" number="5237" version="2295">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Scope.</CHARFORMAT> Every new altered, rebuilt, or modified amusement device, temporary or permanent, must be inspected and tested in accordance with the manufacturer&apos;s manuals, manufacturer&apos;s bulletins, and the requirements of this subchapter. In the case where such manuals are not available, a registered design professional must prepare the necessary operation, maintenance, inspection, and test manual(s) in accordance with ASTM F 853, F 770, F 2374, and F 2376.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4312" number="5238" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Inspection and testing notification.</CHARFORMAT> The owner or amusement park operator of a permanent amusement device must provide notice to the Department by phone, fax or email that the device is ready to be inspected and tested. Notice must be provided at least thirty (30) business days prior to the proposed date of inspection and test.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4313" number="5239" version="1006">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exception.</CHARFORMAT> Inflatable rides are not tested. Certificates of competency are issued instead, based on criteria described in paragraph (2) of subdivision (h) of 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3000_3005-03" destination-id="0-0-0-1034">3005-03</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4314" number="5240" version="2294">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fees.</CHARFORMAT> Refer to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-112.8" destination-id="0-0-0-0">28-112.8</LINK> of the Administrative Code for fees related to inspections and related required filings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4315" number="5241" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Initial inspection and testing by the Department.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4316" number="5242" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Acceptance test required.</CHARFORMAT> Upon initial installation, the load capacity and safety of permanent amusement devices including, but not limited to all operating protective safety devices, the adequacy of the structural supports and anchorage to floors, walls, ceilings, and foundations must be inspected and tested in accordance with the manufacturer&apos;s requirements documented in the operating manual. Inspections and testing must be done by the person or firm installing, assembling, altering or relocating the amusement device, and such tests must be witnessed by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4317" number="5243" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Relocated, disassembled and reassembled permanent amusement devices.</CHARFORMAT> Relocated, disassembled and reassembled permanent amusement devices must be inspected and tested. The inspection and tests must be conducted after relocation or reassembly and prior to its use and operation, regardless of the date of the previous inspection and tests. The commissioner may require inspections or tests to be performed during assembly or disassembly of amusement devices when such tests are necessary to ensure safety.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4318" number="5244" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Portable mechanical amusement devices.</CHARFORMAT> Portable mechanical rides must have an initial Department inspection performed after having registered with the Department prior to public use. During the initial inspection, the owner must submit all maintenance and repair logs. In order to pass inspection, all rides must be in compliance with manufacturer&apos;s bulletins, if any. Any other alteration performed on the amusement device must be supported with certification from a registered design professional.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4319" number="5245" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary devices.</CHARFORMAT> In order to obtain a Certificate of Compliance (green card), every temporary amusement device, except an inflatable and truck mounted amusement devices, must be inspected each time the amusement device is set up or a DCA license is issued.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4320" number="5246" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional tests and inspections.</CHARFORMAT> The commissioner may require additional tests and inspections of amusement devices regardless of the date of the previous inspection and tests, when such tests are necessary to ensure safety.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4321" number="5247" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Periodic Department inspections and testing.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4322" number="5248" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permanent.</CHARFORMAT> Every new and existing permanent amusement device is subject to periodic inspection and testing as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4323" number="5249" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rides operated seasonally.</CHARFORMAT> The Department will perform two (2) field inspections of all permanent amusement devices. The first inspection will take place prior to the initial use of the device for the season. The second inspection will take place no sooner than ninety (90) days and no later than one hundred and twenty (120) days after the first inspection. However, the commissioner may extend the periodic inspection and test for an additional two (2) months for such devices.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4324" number="5250" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rides operated year round.</CHARFORMAT> The Department will perform a minimum of three inspections on rides operated year round. Each subsequent inspection will take place no sooner than ninety (90) days and no later than one hundred and twenty (120) days after the previous inspection.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4325" number="5251" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary.</CHARFORMAT> Every temporary amusement device must be retested by the Department upon renewal of the DCA license in order to receive a new Certificate of Compliance (or &quot;green card&quot;), if applicable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4326" number="5252" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Portable mechanical.</CHARFORMAT> Every portable mechanical amusement device must be inspected and tested every year by the Department upon renewal of the DCA license in order to receive a new Certificate of Compliance (or &quot;green card&quot;).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4327" number="5253" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional tests and inspections.</CHARFORMAT> The commissioner may require additional tests and inspections of amusement devices regardless of the date of the previous inspection and tests, when such tests are necessary to ensure safety.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4328" number="5254" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Daily inspection and test by competent person.</CHARFORMAT> An amusement device must be inspected and tested by a competent person in accordance with the manual each day before it is used. The inspection and test must be performed by the amusement park operator and must include, but not be limited to, evaluation of items such as:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4329" number="5255" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electrical:</CHARFORMAT> Operation of control devices, speed-limiting devices, wiring, lighting, control panel function and indicator lights, and emergency stop switches;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4330" number="5256" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Mechanical:</CHARFORMAT> Brakes, proper adjustment of brakes, drive systems, wheels, rollers, chains, bearings, bushings, gears, pulleys, drive-belts, clutches, anti-rollback features, listening for any unusual noises, and looking for unusual movements or actions by the amusement device;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4331" number="5257" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amusement device setup:</CHARFORMAT> Blocking, leveling, ground conditions, fencing clearance, clearance to local hazards, trip hazards, and security issues;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4332" number="5258" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Structural components:</CHARFORMAT> Passenger enclosures, welds, cracks, pins, bolts, nuts, fasteners, harnesses, safety belts, lap-bars, hair guards, and passenger restraints; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4333" number="5259" version="2447">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional safety items:</CHARFORMAT> Checking sharp edges and the condition of fire extinguishers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4334" number="5260" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certificate of Compliance.</CHARFORMAT> A Certificate of Compliance (&quot;green card&quot;) is issued to all amusement devices, except inflatables, as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4335" number="5261" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permanent.</CHARFORMAT> Upon satisfactory completion of an inspection and test of a permanent amusement device, the Department will issue a Certificate of Compliance (&quot;green card&quot;) for ninety (90) to one hundred and twenty (120) days. Such certificate must be posted in plain sight next to the amusement device. The device must be retested to renew the Certificate of Compliance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4336" number="5262" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary.</CHARFORMAT> Upon satisfactory completion of the inspection and test of a temporary amusement device, the Department will issue a Certificate of Compliance (&quot;green card&quot;) for fourteen (14) calendar days. Such certificate must be posted in plain sight next to the amusement device. Green cards may be renewed by filing a license renewal application with the DCA and passing a Department inspection.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4337" number="5263" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Portable.</CHARFORMAT> Upon satisfactory completion of the inspection and test of a portable truck mounted amusement device, the Department will issue a Certificate of Compliance (&quot;green card&quot;) for the season. Such certificate must be posted in plain sight next to the amusement device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4338" number="5264" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Load tests.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4339" number="5265" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Annual.</CHARFORMAT> Where an annual load test is required by the manual, the following types of passenger-carrying amusement devices may not be used until they have passed an annual load test without material failure as witnessed by the Department:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4340" number="5266" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Amusement devices having suspended passenger seats or spaces;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4341" number="5267" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Amusement devices normally operated at speeds or with movements creating severe gravity, inertial or centrifugal forces;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4342" number="5268" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Amusement devices elevated in such a way that structural failure is likely to cause passengers to be injured by falling; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4343" number="5269" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Amusement devices that the Department has ordered to undergo such a test, when such a test is necessary to ensure safety.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4344" number="5270" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Load test procedure.</CHARFORMAT> Each passenger seat or space in the amusement device, other than an amusement device intended only for children, must be weighted with 170 pounds (77.1 kg) of dead weight. Each seat or space in an amusement device intended only for children must be weighted with 90 pounds (40.8 kg). When loaded, the amusement device must be operated at rated speed, as specified in the manual, to test the full operation of all control devices, anti-rollback devices, speed limiting devices, brakes, and other safety equipment. The amusement device must withstand the test without material failure. Additionally, the soil and foundation must not show any signs of breaking, cracking, or deterioration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4345" number="5271" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Other jurisdictions.</CHARFORMAT> A load test complying with the requirements of this section and performed in another jurisdiction will be considered acceptable if the owner or amusement park operator of the amusement device files a statement with the Department that the amusement device withstood the test without material failure and that the manufacturer, or an inspector acceptable to the Department from another jurisdiction, performed the test. The owner or amusement park operator must submit other relevant information as the Department and commissioner may require. Until such a statement is filed and accepted by the Department, the device is presumed to have not withstood the required test.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4346" number="5272" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Load test failure.</CHARFORMAT> An amusement device that fails a load test is unsafe and must not be used until it passes a subsequent load test and an additional inspection witnessed by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4347" number="5273" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rebuilt, altered, or modified amusement devices.</CHARFORMAT> If an amusement device is rebuilt, altered, or modified after the load test is performed, or if the commissioner orders such test, a subsequent load test must be performed. The rebuilt, altered, or modified amusement device must not be used until it passes such test and an additional inspection witnessed by the Department is completed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4348" number="5274" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Air compressor load test.</CHARFORMAT> Air compressors, tanks and related equipment must be inspected and tested annually or more frequently if required by the manual. Air compressor tanks must be tested to demonstrate their ability to sustain a hydrostatic pressure specified by the manufacturer for a period of at least one (1) hour. A record of each inspection and the results of the air compressor tank test must be kept at the site where the device is used and made available to the commissioner upon request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4349" number="5275" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Welding work.</CHARFORMAT> An inspector certified by the National Association of Amusement Ride Safety Officials (&quot;NAARSO&quot;), an inspector certified by the Amusement Industry Manufacturers and Suppliers (&quot;AIMS&quot;), or a registered design professional, must affirm, in a form acceptable to the Department, that any welding performed (new, replaced, or inspected) was done by a licensed welder. Such certified inspector or registered design professional must also affirm that all necessary weld maintenance, inspections and tests, required by either the ride manual or manufacturer, were performed within the last twelve (12) months prior to the amusement device&apos;s scheduled inspection by the Department and are clearly listed in the amusement device&apos;s maintenance log. Such an affirmation must be kept at the site and made available upon request of the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4350" number="5276" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Nondestructive testing (&quot;NDT&quot;).</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4351" number="5277" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permanent amusement devices.</CHARFORMAT> All permanent amusement devices require nondestructive tests (NDT) in accordance with the manual or pursuant to the commissioner&apos;s request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4352" number="5278" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Personnel performing nondestructive tests.</CHARFORMAT> All personnel performing NDT must be qualified by experience, education, and examination in accordance with ASNT/SNT-TC-1A-05 for Level II in the presence of a registered design professional.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4353" number="5279" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Visual inspection.</CHARFORMAT> The amusement device must first be inspected in the disassembled configuration, where possible, to enable inspection of critical areas that cannot be seen or reached in the assembled configuration. Once assembled, the entire amusement device and supporting structure must be visually inspected prior to performing any tests.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4354" number="5280" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Test procedures.</CHARFORMAT> The parts of the amusement device and supporting structure subject to NDT are those recommended for such testing by the manufacturer. Where the manufacturer&apos;s recommendations are not available, a registered design professional must determine the parts of the amusement device and supporting structure that must be tested in accordance with applicable ASTM standards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4355" number="5281" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Test report.</CHARFORMAT> A special inspection report for the NDT performed must be filed with the Department. The test report must identify the ride by name, serial number and manufacturer and must include the part(s) tested and the location of the tested areas. If the manufacturer or the registered design professional does not recommend NDT for all or part of the device, an affidavit must be submitted by the owner or amusement park operator with evidence acceptable to the commissioner that such testing is not required.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4356" number="5282" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary amusement devices.</CHARFORMAT> The requirements described in paragraph (1) of this subdivision are applicable to temporary amusement devices, unless an NDT was performed on such device within one (1) year prior to use of the amusement device in the city.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4357" number="5283" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Steel roller coasters.</CHARFORMAT> The requirements described in paragraph (1) of this subdivision are applicable to all steel roller coasters.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4358" number="5284" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure of test.</CHARFORMAT> An amusement device that fails an NDT is unsafe and must not be used until it passes a subsequent NDT and an additional inspection witnessed by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4359" number="5285" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Unsafe conditions.</CHARFORMAT> If, during inspection or operation, any amusement device or part thereof is found to be unsafe or hazardous to life and safety, the device must be taken out of service immediately by the owner, amusement park operator, amusement device operator, or inspector. Unsafe conditions must be corrected before the device is returned to service. Findings of unsafe conditions and necessary corrective actions taken must be logged and made available for inspection when requested.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4360" number="5286" version="3">
+								<HEADING>§ 3005-11 Referenced National Standards.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1030" name="T01C3000_3005-11"/>§ 3005-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Referenced National Standards.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-4361" number="5287" version="1006">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&#160;</CHARFORMAT>These standards are adopted in full, except to the extent there is a conflict with this subchapter, in which case the provisions of this subchapter will apply.<LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-4362" number="5288" version="2366">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="10" percentage="yes"/>
+												<COLUMNFORMAT column-width="20" percentage="yes"/>
+												<COLUMNFORMAT column-width="10" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Standard</CHARFORMAT>
+															</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Name</CHARFORMAT>
+															</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELL header="true">
+															<CELLFORMAT alignment="bottom">
+																<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Year</CHARFORMAT>
+															</CELLFORMAT>
+														</CELL>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>ASNT/SNT-TC-1A</PARA>
+												</COL>
+												<COL>
+													<PARA>American Society for Nondestructive Testing (ASNT) Certification &amp; Qualification Recommended Practice in NDT</PARA>
+												</COL>
+												<COL>
+													<PARA>2011</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>ASTM Vol 03.03</PARA>
+												</COL>
+												<COL>
+													<PARA>Standards for Nondestructive Testing</PARA>
+												</COL>
+												<COL>
+													<PARA>2013</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="center">
+															<CELL cells-merged-right="2">ASTM standards: </CELL>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 1957</PARA>
+												</COL>
+												<COL>
+													<PARA>American Standard Test Method (ASTM) for Composite Foam Hardness-Durometer Hardness</PARA>
+												</COL>
+												<COL>
+													<PARA>2011</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2137</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Measuring the Dynamic Characteristics of Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2013</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 747</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Terminology Relating to Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2006</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 1159</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Design and Manufacture of Patron Directed, Artificial Climbing Walls, Dry Slide, Coin Operated and Purposeful Water Immersion Amusement Rides and Devices and Air-Supported Structures</PARA>
+												</COL>
+												<COL>
+													<PARA>2011</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 1193</PARA>
+												</COL>
+												<COL>
+													<PARA>Practice for Quality, Manufacture, and Construction of Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2006</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2291</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Design of Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2013</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2375</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Design, Manufacture, Installation and Testing of Climbing Nets and Netting/Mesh used in Amusement Rides, Devices, Play Areas and Attractions</PARA>
+												</COL>
+												<COL>
+													<PARA>2009</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 853</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Maintenance Procedures for Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2005</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2974</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Guide for Auditing Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2013</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 770</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Ownership, Operation, Maintenance, and Inspection of Amusement Rides and Devices</PARA>
+												</COL>
+												<COL>
+													<PARA>2013</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2374</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Design, Manufacture, Operation, and Maintenance of Inflatable Amusement Devices </PARA>
+												</COL>
+												<COL>
+													<PARA>2010</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2460</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Special Requirements for Bumper Boats</PARA>
+												</COL>
+												<COL>
+													<PARA>2011</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2959</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Special Requirements for Aerial Adventure Courses</PARA>
+												</COL>
+												<COL>
+													<PARA>2012</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2376</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Classification, Design, Manufacture, Construction, and Operation of Water Slide Systems</PARA>
+												</COL>
+												<COL>
+													<PARA>2008</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>F 2461</PARA>
+												</COL>
+												<COL>
+													<PARA>Standard Practice for Manufacture, Construction, Operation, and Maintenance of Aquatic Play Equipment.</PARA>
+												</COL>
+												<COL>
+													<PARA>2009</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-136554" number="5289" version="2366">
+				<HEADING>[Subchapter B: Fire Protection]</HEADING>
+				<PARA>[Subchapter B: Fire Protection]</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136559" number="5290" version="2366">
+								<HEADING>§ 3007-01 Fire Service Annunciators.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17848" name="T01C3000_3007-01"/>§ 3007-01 Fire Service Annunciators.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136561" number="5291" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Applicability of NFPA 72.</CHARFORMAT> The provisions of National Fire Protection Association (&quot;NFPA&quot;) standard 72 Section 21.5 as amended and adopted by 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C3600_3616-04" destination-id="0-0-0-1092">3616-04</LINK> shall apply to the design and installation requirements for fire service annunciators associated with fire service access elevators (&quot;FSAE&quot;) installed as required by sections 403.6.1 and 3007.7 of the Building Code. These provisions shall not apply to existing buildings lawfully erected in accordance with a Building code prior to the 2014 Building code that did not require the installation of an FSAE, unless an alteration to such building triggers the requirement to newly install an FSAE. The provisions of this rule shall not apply to FSAE annunciator installations approved by the New York City Fire Department prior to the effective date of this rule. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136560" number="5292" version="2366">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Temporary and final certificates of occupancy.</CHARFORMAT> Buildings with an occupied floor more than 120 feet above the lowest level of fire department access that have received a temporary certificate of occupancy prior to the effective date of this rule may be issued a certificate of occupancy before the installation of a fire service annunciator. Such buildings, and buildings with an occupied floor more than 120 feet above the lowest level of fire department access that have been issued a certificate of occupancy without such fire service annunciator, must comply with the design and installation requirements identified in subdivision a of this section by no later than three years from the effective date of this rule. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136558" number="5293" version="2366">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Construction sign-off.</CHARFORMAT> Buildings with an occupied floor more than 120 feet above the lowest level of fire department access that have received construction sign-off prior to the effective date of this rule may be issued a certificate of occupancy before the installation of a fire service annunciator. Such buildings must comply with the design and installation requirements identified in subdivision a of this section by no later than three years from the effective date of this rule. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136557" number="5294" version="2366">
+									<PARA>(Added City Record 1/20/2023, eff. 2/19/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136562" number="5295" version="2366">
+								<HEADING>§ 3007-02 Fire Service Access Elevator (FSAE) Hoistway Lighting.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17850" name="T01C3000_3007-02"/>§ 3007-02 Fire Service Access Elevator (FSAE) Hoistway Lighting.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136567" number="5296" version="2366">
+									<PARA>Where hoistway lighting is required to be provided in accordance with Building Code section 3007.5.2, the following lighting control requirements shall apply: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136566" number="5297" version="2366">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A two-position ON-AUTO switch shall be provided for FSAE hoistway lighting controls. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136565" number="5298" version="2366">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>One switch for each hoistway containing FSAE shall be provided. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136564" number="5299" version="2366">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Each switch&apos;s label descriptor shall include a reference to the FSAE car designation (e.g. A-1). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136563" number="5300" version="2366">
+									<PARA>(Added City Record 1/20/2023, eff. 2/19/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-4363" number="5301" version="3040">
+								<HEADING>§ 3009-01 Renewal of a Temporary Use Certificate for an Elevator, Escalator, or Other Device, Except Amusement Devices, Listed in Chapter 30 of the New York City Building Code.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20011" name="T01C3000_3009-01"/>§ 3009-01 Renewal of a Temporary Use Certificate for an Elevator, Escalator, or Other Device, Except Amusement Devices, Listed in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC Ch. 30" destination-id="0-0-0-0">Chapter 30</LINK> of the New York City Building Code.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155365" number="5302" version="3040">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Renewal.</CHARFORMAT> A temporary use certificate issued pursuant to Section 3009.3 of the New York City Building Code for an elevator, escalator or other device, except amusement devices, listed in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="BC Ch. 30" destination-id="0-0-0-0">Chapter 30</LINK> of the New York City Building Code may be renewed subject to the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155364" number="5303" version="3040">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Each renewal application must be submitted in a form and manner acceptable to the department not later than five business days prior to the expiration date of the temporary use certificate; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155363" number="5304" version="3040">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Such application must state the reason for renewal and be accompanied by the required fee as set forth in subdivision (c) of this section; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155362" number="5305" version="3040">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Such application must be submitted on behalf of the owner and signed by the owner or its authorized representative. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155361" number="5306" version="3040">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Inspection.</CHARFORMAT> The department may require an inspection prior to the issuance of a renewal of a temporary use certificate. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155360" number="5307" version="3040">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fee.</CHARFORMAT> Each application for renewal must be accompanied by a fee of $100 per device. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155358" number="5308" version="3040">
+									<PARA>(Added City Record 5/12/2026, eff. 6/11/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-121]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

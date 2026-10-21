@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-136410" number="97181" version="2357">
+			<HEADING>Chapter 22: Booking Service Requirements for Short-Term Rentals</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-17782" name="T43C022"/>Chapter 22: Booking Service Requirements for Short-Term Rentals</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136353" number="97182" version="2357">
+								<HEADING>§ 22-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17812" name="T43C022_22-01"/>§ 22-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136354" number="97183" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administering agency.</CHARFORMAT> The term &quot;administering agency&quot; means the Office of Special Enforcement, as established under executive order number 96 for the year 2006, or such other agency as subsequently designated by executive order.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136355" number="97184" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Application program interface.</CHARFORMAT> The term &quot;application program interface&quot; means a software intermediary that makes it possible for application programs to interact with each other and share data or successor technologies.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136356" number="97185" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Class B multiple dwelling.</CHARFORMAT> The term &quot;class B multiple dwelling&quot; has the meaning ascribed to such term by subchapter 1 of the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136357" number="97186" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Booking Service.</CHARFORMAT> The term &quot;booking service&quot; has the meaning ascribed to such term by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-2101" destination-id="0-0-0-0">26-2101</LINK> of the Administrative Code of the City of New York, as added by local law number 146 for the year 2018.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136358" number="97187" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Directly or indirectly.</CHARFORMAT> The term &quot;directly or indirectly&quot; has the meaning ascribed to such term by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-2101" destination-id="0-0-0-0">26-2101</LINK> of the Administrative Code of the City of New York, as added by local law number 146 for the year 2018.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136359" number="97188" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dwelling unit.</CHARFORMAT> The term &quot;dwelling unit&quot; has the meaning ascribed to such term by the housing maintenance code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136360" number="97189" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Electronic verification system.</CHARFORMAT> The term &quot;electronic verification system&quot; means an application program interface created and maintained by the administering agency that a booking service may use to: (i) verify whether the housing accommodation or dwelling unit that is the subject of a short-term rental is included on the list of class B multiple dwellings published pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-2103" destination-id="0-0-0-0">26-2103</LINK> of the Administrative Code, as added by local law number 146 for the year 2018; or (ii) verify that the dwelling unit or housing accommodation that is the subject of such short-term rental has a currently valid short-term rental registration number, and that the full legal name of the host and the physical address of the dwelling unit associated with such short-term rental match the host and physical address information associated with such registration number, and that the uniform resource locator or listing identifier being used to offer the short term rental is associated with the currently valid short-term rental registration number; and (iii) obtain a unique confirmation number reflecting that such verification has occurred.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136361" number="97190" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Full Legal Name.</CHARFORMAT> The term &quot;full legal name&quot; means either the actual legal name of a registered host or the chosen or preferred name provided by a registered host to the administering agency and accepted for use by the administering agency in relationship to the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136362" number="97191" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Listing.</CHARFORMAT> The term &quot;listing&quot; means an advertisement on a booking service that offers a short-term rental.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136363" number="97192" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Listing identifier.</CHARFORMAT> The term &quot;listing identifier&quot; means a unique identification number assigned by the booking service to each listing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136364" number="97193" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registered host or host.</CHARFORMAT> The term &quot;registered host&quot; or &quot;host&quot; means a natural person who is a permanent occupant of a dwelling unit registered in accordance with these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136365" number="97194" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short-term rental.</CHARFORMAT> The term &quot;short-term rental&quot; has the meaning ascribed to such term in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-2101" destination-id="0-0-0-0">26-2101</LINK> of the Administrative Code of the City of New York, as added by local law number 146 for the year 2018.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136366" number="97195" version="2502">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short-term rental registration number.</CHARFORMAT> The term &quot;short-term rental registration number&quot; means a registration number issued in accordance with the registration of a dwelling unit pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-3102" destination-id="0-0-0-0">26-3102</LINK> of the Administrative Code of the City of New York and 43 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C021" destination-id="0-0-0-17780">Chapter 21</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136367" number="97196" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136409" number="97197" version="2357">
+								<HEADING>§ 22-02 Verification of lawful short-term rentals.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17814" name="T43C022_22-02"/>§ 22-02 Verification of lawful short-term rentals.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136368" number="97198" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>A booking service shall not charge, collect, or receive a fee from a person in connection with a short-term rental of a dwelling unit or housing accommodation unless such booking service has used the electronic verification system maintained by the administering agency either to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136369" number="97199" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Verify that a short-term rental is for a dwelling unit or housing accommodation within a class B multiple dwelling on the list of class B multiple dwellings published pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="26-2103" destination-id="0-0-0-0">26-2103</LINK>, as added by local law number 146 for the year 2018; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136370" number="97200" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Verify that 1) the dwelling unit or housing accommodation that is the subject of such short-term rental is associated with the short-term rental registration number submitted by such person to the booking service, 2) such registration is currently valid, 3) that the uniform resource locator or listing identifier being used to offer the short-term rental is associated with the short-term rental registration number, and 4) that the host&apos;s full legal name and physical address information provided by such person to the booking service match the information contained in the electronic verification system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136374" number="97201" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>The electronic verification system will accept from a booking service through an application program interface the street address, host name, registration number, and the uniform resource locator or listing identifier being used to offer the short-term rental. If the street address matches an address on the list of Class B multiple dwellings, the electronic verification system will provide a unique confirmation number to the booking service, reflecting that such verification has occurred. If the street address does not match an address on the list of Class B multiple dwellings, the electronic verification shall verify that the registration number is currently valid and associated with the host name, street address and the uniform resource locator or listing identifier being used to offer the short-term rental. If the data submitted matches the records related to the registration number, the electronic verification system will provide a unique confirmation number to the booking service, reflecting that such verification has occurred. The confirmation number shall be formatted such that the booking service shall be able to identify whether the verification match was based on a Class B list or a registration status.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136375" number="97202" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>The administering agency shall incorporate the registration expiration date into the unique code and shall provide all bookings services that use the electronic verification service information sufficient to understand how the date is included. The processing of a transaction by a booking service relying on a code that contains the expiration date shall be presumptive evidence that the booking service is aware of the expiration date of the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136376" number="97203" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>The booking service must retain all unique confirmation numbers for use in meeting the reporting requirement below.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136377" number="97204" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>A booking service shall reverify each listing:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136378" number="97205" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>within twelve calendar months of the previous verification, except where the previous verification&apos;s unique confirmation number indicates that the verification was based on Class B dwelling list match;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136379" number="97206" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>within 15 business days of the expiration date contained in the unique confirmation number; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136380" number="97207" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>whenever it knows or should have known that any data it used to complete the most recent verification has changed, including but not limited to the host&apos;s name and the address of the listing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136381" number="97208" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>A booking service will be required to provide an email address to the administering agency that will be used by the administering agency to transmit notices of revocation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136382" number="97209" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>A booking service will be presumed to know that a registration has been revoked if an email notifying the booking service of the revocation was sent to the email account provided by the booking service and 15 business days have passed since the email was sent.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136383" number="97210" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136408" number="97211" version="2357">
+								<HEADING>§ 22-03 Reporting requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17816" name="T43C022_22-03"/>§ 22-03 Reporting requirements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136384" number="97212" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>A booking service shall submit to the administering agency a monthly report of each short-term rental transaction processed by the booking service. Such report shall be electronically submitted on a monthly basis by a booking service through a secure portal accessible from the administering agency&apos;s website. The report shall be in the format published on the administering agency&apos;s website. The report shall include the following information:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136385" number="97213" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The booking service&apos;s public uniform resource locator for the listing or other listing identifier; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136386" number="97214" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>The unique confirmation number obtained from the electronic verification system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136387" number="97215" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>A booking service may provide the required data once per transaction or may provide the data and indicate the number of transactions processed relying on the unique confirmation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136388" number="97216" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Submission of such report shall constitute a statement by the booking service that for each transaction enumerated in the report, the verification required by this chapter occurred.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136389" number="97217" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>Each report shall cover transactions occurring during a period that begins with the first day of a reporting period and ends with the last day of that reporting period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136390" number="97218" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>A transaction related to a short-term rental that begins in one reporting period but ends in a subsequent reporting period shall be included in the report covering the reporting period in which such rental concludes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136391" number="97219" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>Except for the initial reporting period, the reporting periods shall begin on the first day of a month and end on the last day of that month. The initial reporting period shall begin May 9, 2023, and end on May 31, 2023.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136392" number="97220" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>The initial report shall be submitted not more than 30 calendar days after the conclusion of the initial reporting period. Following the initial report, a booking service must submit the report to the administering agency not more than 15 calendar days after the conclusion of the reporting period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136393" number="97221" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136407" number="97222" version="2357">
+								<HEADING>§ 22-04 Fees.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17818" name="T43C022_22-04"/>§ 22-04 Fees.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136394" number="97223" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>Each booking service shall register with the administering agency to use the electronic verification system. Such registration shall require the name of the booking service, an email that the booking service agrees to receive correspondence with, the name of a contact person, and the phone number for the contact person. The booking service shall provide the number of listings that it reasonably believes it will verify the registration status of using the electronic verification system per calendar year.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136395" number="97224" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>The booking service shall pay an initial fee to use the electronic verification system equivalent to $2.40 per listing that it provides during registration, and such fee shall be required to be paid to complete the registration.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136396" number="97225" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>The administering agency shall charge $2.40 for each listing the booking service submits for verification in a calendar year, except that there shall be no fee when a listing was verified as having an address that matches an address on the list of Class B multiple dwellings. Reverification of a listing in compliance with 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C022_22-02" destination-id="0-0-0-17814">22-02</LINK>(5) shall not result in an additional charge. The administering agency shall conduct a quarterly reconciliation of each booking service&apos;s use of the electronic verification system. The administering agency shall provide a statement to the booking service indicating the number of listings verified, the number that had not been previously verified in the calendar year, the number that were on the list of Class B multiple dwellings, and the total charges in the quarter. The booking services shall not be liable for fees equal to the initial registration fee, and the administering agency shall reflect on the statement a credit equivalent to such fee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136397" number="97226" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>Once a booking service is provided a statement showing that it owes money, it shall pay the balance within 30 days. Failure to pay the balance within 30 days will result in a suspension of the booking service&apos;s registration to use the electronic verification system.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136398" number="97227" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-136406" number="97228" version="2357">
+								<HEADING>§ 22-05 Penalties.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17820" name="T43C022_22-05"/>§ 22-05 Penalties.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-136399" number="97229" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>No penalties will be imposed for violations of these rules or of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T26C032" destination-id="0-0-0-0">Chapter 32 of Title 26</LINK> of the Administrative Code of the City of New York until May 9, 2023, nor shall any such violation be based on conduct that occurred prior to May 9, 2023.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136400" number="97230" version="2360">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>For each transaction in which a booking service charges, collects, or receives a fee, directly or indirectly, for activity described in the definition of booking service in relation to a short-term rental in violation of 43 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T43C022_22-02" destination-id="0-0-0-17814">22-02</LINK>, such booking service shall be liable for a civil penalty of not more than $1,500. However, if such booking service can establish the amount of such fee, the civil penalty shall be not more than three times such fee. A booking service may establish the amount of such fee by providing to the administering agency records reflecting the fee in which the booking service charged, collected, or received for such transaction. A booking service shall not be penalized for charging, collecting, or receiving a fee based on a short-term rental occupancy that commenced prior to the end of either the period in which a booking service must reverify a listing or the period after which a booking service is presumed to have notice of revocation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136401" number="97231" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>A booking service that fails to submit information in compliance with the requirements of this chapter shall be liable for a civil penalty, to be assessed once per reporting period for each transaction that the booking service has failed to report.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136402" number="97232" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>The civil penalty shall not be more than the greater of $1,500 or the total fees collected during the preceding year by the booking service for transactions related to the registration number or uniform resource locater. Penalties based on total fees shall not include any fees that were used to assess a previous penalty.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136403" number="97233" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>If a booking service&apos;s report is missing, incomplete, or inaccurate, the administering agency will provide the booking service with a written notice of its deficiencies in compliance. The notice shall include specific information regarding deficiencies in need of correction. The booking service shall have 15 business days from the date such a notice is provided to either correct the deficiency or provide a written statement explaining why the required information is unavailable or how it is complete or accurate. The booking service shall submit the corrections or explanation in a manner directed in the notice of deficiency. Upon the conclusion of the 15 business-day period in which a booking service may cure deficiencies, the administering agency may seek civil penalties for any continuing deficiency.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136404" number="97234" version="2359">
+									<PARA>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>Civil penalties established by this section may be imposed and recovered in a proceeding before the office of administrative trials and hearing or a court of competent jurisdiction. Notices of violation, administrative summonses and appearance tickets for violations may be issued by officers and employees of the administering agency or other city agencies designated by such administering agency</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136069" number="97235" version="2357">
+									<PARA>(Added City Record 2/3/2023, eff. 3/5/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-082]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

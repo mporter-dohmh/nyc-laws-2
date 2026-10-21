@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-233641" number="51906" version="2209">
+			<HEADING>Chapter 6-E: Relocation Assistance Credit per Employee</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-28304" name="T22C006-e"/>Chapter 6-E: Relocation Assistance Credit per Employee</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-233647" number="51907" version="2209">
+										<HEADING>§ 22-627 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28302" name="22-627"/>§ 22-627 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-233646" number="51908" version="2209">
+											<PARA>When used in this chapter, the following terms shall have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233687" number="51909" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Aggregate employment shares</CHARFORMAT>&quot; means the sum of all employment shares maintained by an eligible business in a taxable year. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233686" number="51910" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible aggregate employment shares</CHARFORMAT>&quot; means, in the case of an eligible business, the amount, if any, of aggregate employment shares maintained by an eligible business in eligible premises in the taxable year in which such eligible business claims a credit pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-628" destination-id="0-0-0-28300">22-628</LINK> of this chapter; provided, however, that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233685" number="51911" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>such amount shall not exceed the lesser of: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233684" number="51912" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the number of aggregate employment shares maintained by such eligible business in eligible premises in the taxable year during which such eligible business relocates; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233683" number="51913" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the maximum approved employment shares for such eligible business; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233682" number="51914" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>an amount equal to the product of multiplying the aggregate employment shares and the linear scalar for such eligible business in such tax year; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233681" number="51915" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a full-time work week or part-time work week at eligible premises prior to the date of relocation shall not be taken into account in determining eligible aggregate employment shares. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233680" number="51916" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible business</CHARFORMAT>&quot; means any person subject to a tax imposed under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T11C005" destination-id="0-0-0-2747">chapter five</LINK>, subchapter two, three or three-A of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T11C006" destination-id="0-0-0-2711">chapter six of title eleven</LINK> of this code, that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233679" number="51917" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>has been conducting substantial business operations at one or more business locations outside of New York state for the twenty-four consecutive months immediately preceding the taxable year during which such eligible business relocates but has not maintained employment shares at premises in New York state at any time during the period beginning January first, two thousand twenty-five and ending on the date such business enters into a lease or a contract to purchase the premises that will qualify as eligible premises pursuant to this chapter; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233678" number="51918" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>on or after July first, two thousand twenty-five relocates all or part of such business operations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233677" number="51919" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible premises</CHARFORMAT>&quot; means one or more non-residential premises that consist of at least ten thousand square feet that are: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233676" number="51920" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>wholly contained in real property located in the city of New York; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233675" number="51921" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>if contained in real property wholly contained in the borough of Manhattan, are premises for which final certificates of occupancy were issued prior to January first, two thousand. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233674" number="51922" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employment share</CHARFORMAT>&quot; means, for each employee, partner or sole proprietor of an eligible business, the sum of: (1) the number of full-time work weeks worked by such employee, partner or sole proprietor during the eligible business&apos;s taxable year divided by the number of weeks in the taxable year; and (2) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business&apos;s taxable year divided by an amount equal to twice the number of weeks in the taxable year. Employment share shall not include full-time or part-time work weeks attributable to employees, partners or sole proprietors acquired by an eligible business as a result of a merger with, acquisition of another person, or a transaction having a comparable effect, that occurs after June thirtieth, two thousand twenty-five, and before the end of the taxable year in which a credit is claimed by such eligible business pursuant to this section, or to successors, if any, to those employees, partners or sole proprietors. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233673" number="51923" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Full-time work week</CHARFORMAT>&quot; means a week during which at least thirty-five hours of gainful work has been performed by an employee, partner or sole proprietor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233672" number="51924" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Hotel services</CHARFORMAT>&quot; means any services that consist predominately of the lodging of guests at a building or a portion thereof that is regularly used and kept open for such services. Hotel services shall include the lodging of guests at an apartment hotel, a motel, boarding house or club, whether or not meals are served. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233671" number="51925" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Linear scalar</CHARFORMAT>&quot; means, for an eligible business in a taxable year, the quotient of dividing: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233670" number="51926" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the total square footage of an eligible premises; by <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233669" number="51927" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the product of multiplying one hundred seventy-five by such business&apos;s aggregate employment shares. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233668" number="51928" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maximum approved employment shares</CHARFORMAT>&quot; means a limitation on the aggregate employment shares that an eligible business may receive in any taxable year determined by the mayor pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-628" destination-id="0-0-0-28300">22-628</LINK> of this chapter based on documentation submitted by such business demonstrating such business&apos;s intention to relocate. The maximum approved employment shares is the number of aggregate employment shares such business intends to relocate as indicated by the mayor on the applicable initial certification of eligibility. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233667" number="51929" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(j)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Mayor</CHARFORMAT>&quot; means the mayor, or an agency as designated by the mayor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233666" number="51930" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(k)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Part-time work week</CHARFORMAT>&quot; means a week during which at least fifteen but less than thirty-five hours of gainful work has been performed by an employee, partner or sole proprietor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233665" number="51931" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(l)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person</CHARFORMAT>&quot; includes any individual, partnership, association, joint-stock company, corporation, estate or trust, limited liability company, and any combination of the foregoing. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233664" number="51932" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(m)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program total</CHARFORMAT>&quot; means the sum of maximum approved aggregate employment shares included in all initial certification of eligibility issued by the mayor. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233663" number="51933" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(n)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Relocate</CHARFORMAT>&quot; means, with respect to an eligible business, to transfer a pre-existing business operation to an eligible premises, or to establish a new business operation at such premises, provided that an eligible business shall not be deemed to have relocated unless at least one employee, partner or sole proprietor of the eligible business is transferred to such premises from a pre-existing business operation conducted outside the state of New York. The date of relocation shall be the first day on which the individual so transferred commences work at such eligible premises. The taxable year of relocation shall be the taxable year in which the date of relocation occurs. For purposes of this chapter, an eligible business may relocate only once but may add or substitute other eligible premises throughout such period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233662" number="51934" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(o)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Retail activity</CHARFORMAT>&quot; means any activity which consists predominately of: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233661" number="51935" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the sale, other than through the mail or by the telephone or by means of the internet, of tangible personal property to a person, for any purpose unrelated to the trade or business of such person; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233660" number="51936" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the selling of a service to an individual which generally involves the physical, mental or spiritual care of such individual; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233659" number="51937" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the physical care of the personal property of any person unrelated to the trade or business of such person; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233658" number="51938" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the provision of a retail banking service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233643" number="51939" version="2209">
+											<PARA>(2025 N.Y. Laws Ch. 171, 6/26/2025, eff. 7/1/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-233644" number="51940" version="2209">
+										<HEADING>§ 22-628 Authorization to provide relocation assistance credit per employee.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28300" name="22-628"/>§ 22-628 Authorization to provide relocation assistance credit per employee.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-233645" number="51941" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An eligible business that relocates shall be allowed to receive a credit against a tax imposed by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T11C005" destination-id="0-0-0-2747">chapter five</LINK>, subchapter two, three or three-A of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T11C006" destination-id="0-0-0-2711">chapter six of title eleven</LINK> of this code, as described in subdivision (r) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-503" destination-id="0-0-0-3001">11-503</LINK>, subdivision twenty-four of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-604" destination-id="0-0-0-2999">11-604</LINK>, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-643.10" destination-id="0-0-0-28306">11-643.10</LINK>, or subdivision twenty-four of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-654" destination-id="0-0-0-3493">11-654</LINK> of this code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233656" number="51942" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No eligible business shall be authorized to receive a credit against tax under the provisions of this chapter and of title eleven of this code as described in subdivision (a) of this section, unless the premises with respect to which it is claiming the credit are eligible premises and until it has obtained an initial certification of eligibility from the mayor and an annual certification from the mayor as to the number of eligible aggregate employment shares maintained by such eligible business that may qualify for obtaining a tax credit for the eligible business&apos;s taxable year. Each initial certification of eligibility shall include the maximum approved employment shares for the eligible business, which shall not exceed five hundred employment shares. Any written documentation submitted to the mayor in order to obtain any such certification shall be deemed a written instrument for purposes of section 175.00 of the penal law. An application fee for such certification shall be determined by the mayor. No initial certification of eligibility shall be issued to an eligible business on or after July first, two thousand twenty-eight unless: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233655" number="51943" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>prior to such date such business has purchased, leased or entered into a contract to purchase or lease eligible premises; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233654" number="51944" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>prior to such date such business submits a preliminary application for an initial certification of eligibility to such mayor with respect to a proposed relocation to such premises; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233653" number="51945" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>such business enters into a lease or contract to purchase an eligible premises between the date that such business submits such preliminary application and three months thereafter; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233652" number="51946" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>such business relocates to such premises not later than thirty-six months from the date of submission of such preliminary application. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233651" number="51947" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Notwithstanding any provision of law to the contrary, the mayor shall not issue an initial certification of eligibility that would cause the program total to exceed three thousand maximum approved employment shares. The mayor shall approve such applications on a first-come, first-serve basis among eligible businesses in accordance with rules promulgated pursuant to subdivision (d) of this section. The mayor shall include on the mayor&apos;s website an indication regarding whether the program total has reached three thousand maximum approved employment shares. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233650" number="51948" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The mayor shall be authorized to promulgate rules and regulations to administer and ensure compliance with the provisions of this chapter, including but not limited to rules and regulations to provide for alternative methods to measure employment shares in instances where an eligible business is not required by law to maintain weekly records of full-time work weeks and part-time work weeks of employees, partners or sole proprietors. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233649" number="51949" version="2209">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>For the duration of the benefit period, the recipient of a credit shall file an application for an annual certification each year demonstrating such recipient&apos;s eligibility for such credit and the average wage and benefits offered to the applicable relocated employees used in determining eligible aggregate employment shares. Such mayor shall have the authority to require that statements filed under this subdivision be filed electronically and that such statements be certified. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233642" number="51950" version="2209">
+											<PARA>(2025 N.Y. Laws Ch. 171, 6/26/2025, eff. 7/1/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-111]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

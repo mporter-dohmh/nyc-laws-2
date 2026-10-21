@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-240033" number="45774" version="2371">
+			<HEADING>Chapter 13: Pay Deductions for Contributions to Not-for-Profit Organizations</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-9331" name="T20C013"/>Chapter 13: Pay Deductions for Contributions to Not-for-Profit Organizations</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-36546" number="45775" version="716">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> Pursuant to L.L. 2017/098, this chapter expires and is deemed repealed on November 26, 2019. For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129175" number="45776" version="2279">
+										<HEADING>§ 20-1301 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9333" name="20-1301"/>§ 20-1301 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36548" number="45777" version="3">
+											<PARA>For purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36549" number="45778" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chain.</CHARFORMAT> The term &quot;chain&quot; means a set of establishments that share a common brand or that are characterized by standardized options for decor, marketing, packaging, products and services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36551" number="45779" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term &quot;commissioner&quot; means the commissioner of consumer and worker protection. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-124532" number="45780" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of consumer and worker protection. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-124531" number="45781" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employee.</CHARFORMAT> The term &quot;employee&quot; means any person covered by the definition of &quot;employee&quot; set forth in subdivision 5 of section 651 of the labor law or any person covered by the definition of &quot;employee&quot; set forth in 29 U.S.C. § 203(e), any person covered by the definition of an &quot;employee&quot; set forth in subsection (3) of 29 U.S.C. § 152, any person covered by the definition of &quot;public employee&quot; in subdivision 7 of section 201 of the civil service law, or any person covered by the definition of &quot;employees&quot; in subdivision 3 of section 701 of the labor law and who is employed within the city and who performs work on a full-time or part-time basis, including work performed in a transitional jobs program pursuant to section 336-f of the social services law, but not including work performed as a participant in a work experience program pursuant to section 336-c of the social services law. Notwithstanding any other provision of this section, the term &quot;employee&quot; does not include any person who is employed by (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city or any local government, municipality or county or any entity governed by section 92 of the general municipal law or section 207 of the county law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36552" number="45782" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employer.</CHARFORMAT> The term &quot;employer&quot; means any person or entity covered by the definition of &quot;employer&quot; set forth in subdivision 6 of section 651 of the labor law or any person or entity covered by the definition of &quot;employer&quot; set forth in in 29 U.S.C. § 203(d), any person or entity covered by the definition of &quot;employer&quot; set forth in subsection (2) of 29 U.S.C. § 152, any person or entity covered by the definition of a &quot;public employer&quot; in subdivision 6 of section 201 of the civil service law, or any person or entity covered by the definition of &quot;employer&quot; in subdivision 2 of section 701 of the labor law. Notwithstanding any other provision of this section, the term does not include (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city or any local government, municipality or county or agency or other body thereof. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36553" number="45783" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fast food employee.</CHARFORMAT> The term &quot;fast food employee&quot; means any employee employed or permitted to work at or for a fast food establishment that is located within the city, by any employer, where such job duties include at least one of the following: customer service, cooking, food or drink preparation, delivery, security, stocking supplies or equipment, cleaning or routine maintenance. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36554" number="45784" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fast food employer.</CHARFORMAT> The term &quot;fast food employer&quot; means any employer that employs a fast food employee at a fast food establishment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36555" number="45785" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fast food establishment.</CHARFORMAT> The term &quot;fast food establishment&quot; means any establishment (i) that has as its primary purpose serving food or drink items; (ii) where patrons order or select items and pay before eating and such items may be consumed on the premises, taken out or delivered to the customer&apos;s location; (iii) that offers limited service; (iv) that is part of a chain; and (v) that is one of 30 or more establishments nationally, including (A) an integrated enterprise that owns or operates 30 or more such establishments in the aggregate nationally or (B) an establishment operated pursuant to a franchise where the franchisor and the franchisees of such franchisor own or operate 30 or more such establishments in the aggregate nationally. The term &quot;fast food establishment&quot; includes such establishments located within non-fast food establishments. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36556" number="45786" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Franchise.</CHARFORMAT> The term &quot;franchise&quot; has the same definition as set forth in section 681 of the general business law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36557" number="45787" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Franchisee.</CHARFORMAT> The term &quot;franchisee&quot; means a person or entity to whom a franchise is granted. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36558" number="45788" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Franchisor.</CHARFORMAT> The term &quot;franchisor&quot; means a person or entity who grants a franchise to another person or entity. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36559" number="45789" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Integrated enterprise.</CHARFORMAT> The term &quot;integrated enterprise&quot; means two or more entities sufficiently integrated so as to be considered a single employer as determined by application of the following factors: (i) degree of interrelation between the operations of multiple entities; (ii) degree to which the entities share common management; (iii) centralized control of labor relations; and (iv) degree of common ownership or financial control. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36560" number="45790" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Not-for-profit.</CHARFORMAT> The term &quot;not-for-profit&quot; means an entity that is organized under the not-for-profit corporation law or the law governing incorporation of not-for-profit organizations in the jurisdiction of its incorporation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36562" number="45791" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36563" number="45792" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128113" number="45793" version="471">
+										<HEADING>§ 20-1302 Requirement to deduct and remit voluntary contributions to not-for-profits.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9335" name="20-1302"/>§ 20-1302 Requirement to deduct and remit voluntary contributions to not-for-profits.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36564" number="45794" version="427">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A fast food employer shall, upon authorization from a fast food employee and upon receipt of a registration letter as provided in subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1303" destination-id="0-0-0-9337">20-1303</LINK> pertaining to the relevant not-for-profit, deduct voluntary contributions from such fast food employee&apos;s paycheck and remit them to the not-for-profit designated by such fast food employee. An authorization shall be written, whether on paper or by an electronic or other method prescribed by the commissioner, and shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36565" number="45795" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The fast food employee&apos;s signature; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36566" number="45796" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The fast food employee&apos;s name and physical address; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36567" number="45797" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The amount, frequency and start date of the contribution; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36568" number="45798" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The name, physical address, email address, web address, if any, and phone number of the not-for-profit and a contact for an employee who seeks to revoke authorization and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36569" number="45799" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>A statement notifying the fast food employee that contributions are voluntary and that the authorization to deduct is revocable at any time by submitting a written revocation to the not-for-profit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36570" number="45800" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>An authorization may be submitted to a fast food employer by either a not-for-profit or a fast food employee. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36571" number="45801" version="427">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>An authorization is in effect until the fast food employee revokes the authorization in writing, whether on paper or by an electronic or other method prescribed by the commissioner, to the not-for-profit. The not-for-profit shall transmit the revocation to the fast food employer. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36572" number="45802" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The fast food employer shall provide a copy of any authorization and any revocation to the not-for-profit to which it pertains and to the fast food employee who submitted it within five business days of receipt. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36573" number="45803" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The fast food employer shall begin or end deductions no later than the first pay period after 15 days of receipt of the authorization or of receipt of the revocation. In the case of authorization, the fast food employer shall remit the deductions to the not-for-profit, by the method of transmission that such organization requests, no later than 15 days after deduction. Deductions may only be taken from paychecks issued after the date the fast food employer receives the authorization, and the deduction amount from any one paycheck shall not exceed the maximum amount specified by the fast food employee. The fast food employer must comply with state law regarding notation of deductions on fast food employees&apos; statements of wages. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36574" number="45804" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>A fast food employer is not required to honor an authorization for a contribution to a not-for-profit: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36575" number="45805" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Of less than $6 per paycheck if the fast food employee is paid every two weeks, or less than $3 per paycheck if the fast food employee is paid every week; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36576" number="45806" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>More than once per pay period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36577" number="45807" version="427">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Processing fee.</CHARFORMAT> Upon request by a fast food employer, the not-for-profit shall reimburse the fast food employer for the costs associated with deduction and remittance, as calculated pursuant to rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36578" number="45808" version="427">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Written notice of rights and obligations.</CHARFORMAT> A fast food employer shall provide written notice to its fast food employees of their rights and of the fast food employer&apos;s obligations under this section on a form provided by the department. Such notice shall be posted in a conspicuous place in the fast food establishment. Such notice shall include a statement that labor organizations as defined by the national labor relations act, employee organizations as defined by subdivision 5 of section 201 of the civil service law, and labor organizations as defined in subdivision 5 of section 701 of the labor law are not permitted to seek remittances under this chapter pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1310" destination-id="0-0-0-9339">20-1310</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36579" number="45809" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128114" number="45810" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129176" number="45811" version="538">
+										<HEADING>§ 20-1303 Registration by not-for-profits required.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9337" name="20-1303"/>§ 20-1303 Registration by not-for-profits required.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36581" number="45812" version="427">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Before it may accept deductions pursuant to this chapter, a not-for-profit shall register with the department by providing the following in the manner prescribed by the department: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36582" number="45813" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The name, physical address, email address, web address, if any, and phone number of the not-for-profit and a contact; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36583" number="45814" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Proof of status as a not-for-profit that has not been suspended or dissolved pursuant to the laws of the state of its incorporation; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36584" number="45815" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Facially valid written authorizations in the form described in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1302" destination-id="0-0-0-9335">20-1302</LINK> from at least 500 fast food employees, though such authorizations need not be from employees employed by the same fast food employer; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36585" number="45816" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Proof that the not-for-profit has provided the information required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1304" destination-id="0-0-0-9341">20-1304</LINK> to the fast food employee; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36586" number="45817" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The not-for-profit organization&apos;s form 990 of the Internal Revenue Service of the United States Department of the Treasury or other equivalent tax filing for the three most recent tax years for which such form was filed. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36587" number="45818" version="427">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall issue a registration letter to the registered not-for-profit confirming that it has met the conditions required to trigger the requirements of this chapter. A not-for-profit or fast food employee seeking to have a fast food employer make payroll deductions pursuant to this chapter must provide a copy of the department&apos;s registration letter to the relevant fast food employer along with the request for such deductions authorization. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36588" number="45819" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128115" number="45820" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129177" number="45821" version="538">
+										<HEADING>§ 20-1304 Not-for-profit required disclosure.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9341" name="20-1304"/>§ 20-1304 Not-for-profit required disclosure.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36590" number="45822" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Before any deduction pursuant to this chapter is made, the not-for-profit shall provide the relevant fast food employee the following information concerning its operations: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36591" number="45823" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Name, contact, physical address, email address, web address, if any, and phone number; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36592" number="45824" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Information about the not-for-profit&apos;s governance, which shall include any officers and directors and may include members or shareholders as the director shall require; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36593" number="45825" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Information about the not-for-profit&apos;s mission, programs and areas of focus; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36594" number="45826" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>When prescribed by the commissioner, a list of the not-for-profit&apos;s employees; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36595" number="45827" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Information about the not-for-profit&apos;s finances, including its sources of funding, budget and expenditures; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36596" number="45828" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>A statement that labor organizations as defined by the national labor relations act, employee organizations as defined by subdivision 5 of section 201 of the civil service law, and labor organizations as defined in subdivision 5 of section 701 of the labor law are not permitted to seek remittances under this chapter pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1310" destination-id="0-0-0-9339">20-1310</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36597" number="45829" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The not-for-profit may satisfy the disclosure requirements of this section by the conspicuous posting of the information on a single webpage on the website of the covered not-for-profit dedicated to fulfilling the disclosure requirements of this section, provided that the website address of such page is included on the authorization described in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1302" destination-id="0-0-0-9335">20-1302</LINK> or other written document provided to the fast food employee and that such website address is preceded by language indicating that legally required disclosures are contained there. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36598" number="45830" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128116" number="45831" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129178" number="45832" version="538">
+										<HEADING>§ 20-1305 Recordkeeping.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9343" name="20-1305"/>§ 20-1305 Recordkeeping.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36600" number="45833" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A fast food employer must keep records of the following for two years: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36601" number="45834" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Deduction authorizations and revocations made pursuant to this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36602" number="45835" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Remittances pursuant to this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36603" number="45836" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Deductions pursuant to this chapter; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36604" number="45837" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>A copy of the authorization required by subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1302" destination-id="0-0-0-9335">20-1302</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36605" number="45838" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Proof of distribution of the notice to fast food employees required by subdivision h of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1302" destination-id="0-0-0-9335">20-1302</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36606" number="45839" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The failure to keep records required by this section creates an inference that such records would be unfavorable to that fast food employer, and a factfinder may use such inference to establish facts in support of a final determination pursuant to sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1307" destination-id="0-0-0-9345">20-1307</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1308" destination-id="0-0-0-9347">20-1308</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36607" number="45840" version="3">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36608" number="45841" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129179" number="45842" version="538">
+										<HEADING>§ 20-1306 Retaliation prohibited.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9349" name="20-1306"/>§ 20-1306 Retaliation prohibited.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36609" number="45843" version="3">
+											<PARA>No person shall take any adverse action against a fast food employee that penalizes such employee for, or is reasonably likely to deter such employee from, exercising or attempting to exercise any right protected under this chapter. Taking an adverse action includes threatening, intimidating, disciplining, discharging, demoting, suspending or harassing a fast food employee, reducing the hours or pay of a fast food employee, informing another employer that a fast food employee has engaged in activities protected by this chapter, and discriminating against the fast food employee, including actions related to perceived immigration status or work authorization. A fast food employee need not explicitly refer to this chapter or the rights enumerated herein to be protected from retaliation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36610" number="45844" version="3">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36611" number="45845" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129180" number="45846" version="538">
+										<HEADING>§ 20-1307 Enforcement.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9345" name="20-1307"/>§ 20-1307 Enforcement.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36612" number="45847" version="680">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall investigate potential violations and enforce the provisions of this chapter consistent with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="2203" destination-id="0-0-0-0">2203</LINK> of the charter and with all powers and duties described therein and according to rules and policies of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36613" number="45848" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Violations by fast food employers.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36614" number="45849" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Except as provided in subdivision c of this section, an aggrieved fast food employee or duly authorized representative thereof or an aggrieved not-for-profit may file a complaint with the department regarding violations of this chapter by a fast food employer. Except for an allegation of retaliation in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1306" destination-id="0-0-0-9349">20-1306</LINK>, the department shall only investigate such a complaint if the relevant not-for-profit demonstrates that it has complied with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1303" destination-id="0-0-0-9337">20-1303</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1304" destination-id="0-0-0-9341">20-1304</LINK> by providing a copy of the registration letter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36615" number="45850" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Except as otherwise provided in subdivision c of this section, if a fast food employer is found to have violated this chapter, including by retaliation, the department may award any of the following, in addition to any other remedy provided in the charter or other law: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36616" number="45851" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Deductions and remittances as authorized by the fast food employee and the payment of interest to the not-for-profit from the date of the failure to deduct or remit based on the interest rate then in effect as prescribed by the superintendent of banks pursuant to section 14-a of the banking law, but in any event at a rate of no less than six percent per year; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36617" number="45852" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Payment of a further sum as a civil penalty in an amount not exceeding $500 for each violation of this chapter. However, in cases where a final disposition has been entered against a fast food employer twice within any consecutive three-year period determining that such fast food employer has willfully failed to deduct or remit funds in accordance with this chapter, or has retaliated against a fast food employee in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1306" destination-id="0-0-0-9349">20-1306</LINK>, the department may impose a civil penalty in an amount not exceeding $1,000 for each violation of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36618" number="45853" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Reinstatement, back pay and other appropriate relief for any fast food employee found to have been subject to retaliation in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1306" destination-id="0-0-0-9349">20-1306</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36619" number="45854" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>In assessing an appropriate remedy, due consideration shall be given to the gravity of the violation, the history of previous violations, and the good faith of the fast food employer. No procedure or remedy set forth in this section is exclusive of or a prerequisite for asserting a claim for relief to enforce any rights under this chapter in a court of competent jurisdiction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36620" number="45855" version="427">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to honor a revocation.</CHARFORMAT> A fast food employer or a not-for-profit that the department finds has failed to honor the revocation of a fast food employee of voluntary deductions and instead has retained contributions after revocation shall refund the fast food employee the amount of the contribution wrongfully retained. If the refund to the fast food employee is not made within 60 days of receipt of the revocation by the party that retained the contribution, the department may require the payment of interest on the amount of the refund owed based on the rate then in effect as prescribed by the superintendent of banks pursuant to section 14-a of the banking law, but in any event at a rate of no less than six percent per year. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36621" number="45856" version="427">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">False or misleading disclosures to fast food employees.</CHARFORMAT> It is a violation of this chapter for a not-for-profit intentionally to make materially false or misleading disclosures to fast food employees under subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1304" destination-id="0-0-0-9341">20-1304</LINK>, and as set forth in rules prescribed by the commissioner. Where a violation is established, such not-for-profit shall cure the false or misleading statements to fast food employees within 30 days. Upon establishing a second such violation within two years of a previous violation, the commissioner shall revoke any previously issued letter of registration as set forth in subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1303" destination-id="0-0-0-9337">20-1303</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36622" number="45857" version="427">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The department shall make rules establishing a process for such interested parties as the department may identify by rule to petition the commissioner to re-examine or revoke a not-for-profit&apos;s registration pursuant to this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36623" number="45858" version="427">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Any party with rights under this chapter may bring an action pursuant to article 78 of the civil practice law and rules to enforce, vacate or modify an order, determination or other disposition of the department, the office of administrative trials and hearings or other relevant tribunal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36624" number="45859" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128117" number="45860" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129181" number="45861" version="538">
+										<HEADING>§ 20-1308 Civil action.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9347" name="20-1308"/>§ 20-1308 Civil action.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36626" number="45862" version="427">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Except as otherwise provided by law, any person claiming to be aggrieved by a fast food employer&apos;s violation of this chapter has a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, if the relevant not-for-profit demonstrates that it has complied with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1303" destination-id="0-0-0-9337">20-1303</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="20-1304" destination-id="0-0-0-9341">20-1304</LINK> by providing a copy of the registration letter from the department unless such person has filed a complaint with the department with respect to such claim. If the court finds in favor of the plaintiff, it shall award such person, in addition to other relief, reasonable attorney&apos;s fees and costs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36627" number="45863" version="427">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding any inconsistent provision of subdivision a of this section, if the department dismisses a complaint or the complaint is withdrawn, an aggrieved person maintains all rights to commence a civil action pursuant to this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36628" number="45864" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An employee need not file a complaint with the department before bringing a civil action; however, no person shall file a civil action after filing a complaint with the department unless such complaint has been withdrawn or dismissed without prejudice to further action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36629" number="45865" version="427">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>No person shall file a complaint with the department after filing a civil action unless such action has been withdrawn or dismissed without prejudice to further action. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36630" number="45866" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A civil action under this section shall be commenced in accordance with subdivision 2 of section 214 of the civil practice law and rules. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36631" number="45867" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>This chapter does not limit a fast food employee&apos;s right to bring any other action authorized by law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36632" number="45868" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128118" number="45869" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129182" number="45870" version="538">
+										<HEADING>§ 20-1309 Limitations period.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9351" name="20-1309"/>§ 20-1309 Limitations period.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36634" number="45871" version="428">
+											<PARA>The department shall not investigate violations of this chapter committed more than two years before the filing of a complaint or the commencement of such investigation, whichever is earlier. Each failure to comply with this chapter constitutes a separate violation; a pattern of such violations is a continuing violation for purposes of assessing the limitations period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36635" number="45872" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128119" number="45873" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-129183" number="45874" version="538">
+										<HEADING>§ 20-1310 Application; exclusion of labor organizations.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9339" name="20-1310"/>§ 20-1310 Application; exclusion of labor organizations.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-36637" number="45875" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>This chapter does not discourage, prohibit, preempt or displace any law, regulation, rule, requirement, written policy or standard that is at least as protective of a fast food employee as the requirements of this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36638" number="45876" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>This chapter does not authorize deductions prohibited by section 193 of the labor law or remittances to labor organizations. For purposes of this subdivision, the term &quot;labor organization shall mean: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36639" number="45877" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A &quot;labor organization&quot; as defined in subdivision 5 of section 701 of the labor law; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36640" number="45878" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>An &quot;employee organization&quot; as defined in subdivision 5 of section 201 of the civil service law; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36641" number="45879" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>A &quot;labor organization&quot; within the meaning of subsection (5) of 29 U.S.C. § 152, which defines a labor organization as &quot;any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work,&quot; as such definition is interpreted by the national labor relations board. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-013]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36642" number="45880" version="428">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall promulgate rules necessary to ensure that this law will be applied in a manner consistent with federal or state labor law and will not affect the relationship among workers or employees and employers, and the entities described in subdivision b, except as specifically provided in this chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-36643" number="45881" version="709">
+											<PARA>(L.L. 2017/098, 5/30/2017, eff. 11/26/2017; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-052]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128120" number="45882" version="538">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2017/098" destination-id="0-0-0-20461">L.L. 2017/098</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2020/080" destination-id="0-0-0-20343">L.L. 2020/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

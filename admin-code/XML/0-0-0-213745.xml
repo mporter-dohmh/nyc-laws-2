@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-213745" number="48761" version="1530">
+			<HEADING>Chapter 7: Education and Training for Public Assistance Recipients</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-9635" name="T21C007"/>Chapter 7: Education and Training for Public Assistance Recipients</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-38022" number="48762" version="1494">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-211540" number="48763" version="1494">
+										<HEADING>§ 21-701 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9637" name="21-701"/>§ 21-701 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-38023" number="48764" version="3">
+											<PARA>When used in this chapter, the following words have the following meanings: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38024" number="48765" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;Agency&quot; means the city agency responsible for administering programs created under title 9-B of article five of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38025" number="48766" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;Applicant&quot; means an individual who has submitted an application for safety net assistance, family assistance or food stamps.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38026" number="48767" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;Approved program&quot; means education, training and/or vocational rehabilitation that is provided by an entity that is licensed, certified or otherwise approved by the city or state government to provide such education, training and/or vocational rehabilitation; or is funded to provide training or education services through Title I and/or Title II of the Workforce Investment Act; or is included on the Consolidated Master List of Approved Training Programs.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38027" number="48768" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;Assessment&quot; has the same meaning as set forth in sections 335 and 335-a of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38028" number="48769" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;Assessment period&quot; means the 90-day period of time after an individual is found to be eligible for public assistance within which the agency must complete the assessment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38029" number="48770" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;Basic literacy&quot; means a literacy level equivalent to the ninth month of the eighth grade and English language proficiency.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38030" number="48771" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>&quot;Course hours&quot; means all hours included in the curriculum of an approved program, including classroom hours, lab time, and supervised or structured study time.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38031" number="48772" version="609">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>&quot;Consolidated master list of approved training programs&quot; means the list of education and training providers maintained by the agency that have been approved pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T68C003_3-03" destination-id="0-0-0-0">3-03</LINK> of title 68 of the rules of the city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38032" number="48773" version="3">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>&quot;Countable work activities&quot; means any activity or combination of activities listed under section 336 of the social services law, the participation in which counts toward the satisfaction of the New York social service district&apos;s requirements to meet federal and state participation rates as set forth in sections 335-b and 336 of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38033" number="48774" version="3">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>&quot;Effective participation rate&quot; means the rate of participation in work activities necessary to satisfy the minimum participation required by state and federal law for recipients of public assistance.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38034" number="48775" version="3">
+											<PARA>
+												<TAB tab-count="1"/>k.<TAB tab-count="1"/>&quot;Employability plan&quot; shall have the same meaning as set forth in sections 335 and 335-a of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38035" number="48776" version="3">
+											<PARA>
+												<TAB tab-count="1"/>l.<TAB tab-count="1"/>&quot;English language proficiency&quot; means scoring above fifty on the New York State Placement Test (NYS PLACE) or achieving an equivalent score on a comparable test.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38036" number="48777" version="3">
+											<PARA>
+												<TAB tab-count="1"/>m.<TAB tab-count="1"/>&quot;Opportunity to enroll in an approved program or programs&quot; means permitting an applicant, recipient or participant to attend all activities required to participate in the program, including orientation and registration.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38037" number="48778" version="3">
+											<PARA>
+												<TAB tab-count="1"/>n.<TAB tab-count="1"/>&quot;Parental study credit&quot; is a number of hours that will be applied toward the countable work activity of an applicant, recipient or participant who is the parent or guardian of at least one dependent child or children under the age of six for the first twenty-four months of participation in an approved program, other than a post-secondary 2- or 4-year degree program, in which the curriculum does not include lab time or supervised or structured study time. Such hours will be calculated by multiplying the number of course hours in the applicant, recipient or participant&apos;s program by .5.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38038" number="48779" version="3">
+											<PARA>
+												<TAB tab-count="1"/>o.<TAB tab-count="1"/>&quot;Participant&quot; means an applicant or recipient for whom the agency has completed an assessment or employability plan, or whom the agency has assigned to any work activity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38039" number="48780" version="3">
+											<PARA>
+												<TAB tab-count="1"/>p.<TAB tab-count="1"/>&quot;Program credit&quot; means the number of hours applied toward the applicant, recipient or participant&apos;s countable work activity as a result of participation in an approved program. Such hours equal the greater of:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38040" number="48781" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the sum of the parental study credit and the number of classroom hours in the approved program; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38041" number="48782" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the number of weekly course hours in the approved program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38042" number="48783" version="3">
+											<PARA>
+												<TAB tab-count="1"/>q.<TAB tab-count="1"/>&quot;Qualifying year&quot; means a City fiscal year during which all of the following conditions are met:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38043" number="48784" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>federal and state law provide for a caseload reduction credit;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38044" number="48785" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>in the last two fiscal years for which published data is available, New York State exceeded the effective participation rate by at least 10%; 3. New York City&apos;s public assistance caseload has not increased by more than 25% over the last six months for which reported numbers are available.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38045" number="48786" version="3">
+											<PARA>
+												<TAB tab-count="1"/>r.<TAB tab-count="1"/>&quot;Recipient&quot; means an individual currently receiving safety net assistance, family assistance or food stamps.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38046" number="48787" version="3">
+											<PARA>
+												<TAB tab-count="1"/>s.<TAB tab-count="1"/>&quot;Satisfactory progress&quot; means:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38047" number="48788" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>maintaining a minimum grade point average of 2.0 or its equivalent; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38048" number="48789" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>making satisfactory educational progress reasonably calculated to achieve the standards of the educational program, for any individual enrolled in any program not included in paragraph 1 of this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38049" number="48790" version="3">
+											<PARA>
+												<TAB tab-count="1"/>t.<TAB tab-count="1"/>&quot;Search period&quot; means the fifteen business day period before the assessment that begins when an applicant or recipient expresses an interest in education, training or vocational rehabilitation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38050" number="48791" version="3">
+											<PARA>
+												<TAB tab-count="1"/>u.<TAB tab-count="1"/>&quot;Undue hardship exemption&quot; means an exemption from the requirement to make satisfactory progress in an approved program granted by the agency based on:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38051" number="48792" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the death of a relative of the student;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38052" number="48793" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the personal injury or illness of the student; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38053" number="48794" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>other extenuating circumstances </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-211541" number="48795" version="1494">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-211542" number="48796" version="1494">
+										<HEADING>§ 21-702 Assessments, employability plans and reassessments. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9641" name="21-702"/>§ 21-702 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Assessments, employability plans and reassessments. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-38055" number="48797" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>During a period of no more than 45 days within the assessment period, the agency shall conduct and complete an assessment of employability and shall develop a written employability plan, pursuant to sections 335 and 335-a of the social services law, for each applicant or recipient, provided that the agency is not required to complete an assessment for applicants for and recipients of food stamps only who are already engaged in unsubsidized employment. Prior to the assessment, the agency may not assign an individual to any work activity. During the assessment, the agency may not assign an individual to any work activity, except for job search activity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38056" number="48798" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The agency shall provide each participant with a copy of such participant&apos;s employability plan upon completion of such employability plan.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38057" number="48799" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>If an applicant who expresses an interest in or preference for participating in training or education is found not to be eligible for training and education as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="21-703" destination-id="0-0-0-9643">21-703</LINK>, the reasons shall be specified in the employability plan.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38058" number="48800" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The agency will conduct a reassessment of employability for a participant who expresses an interest in discontinuing a work activity to which that individual has been assigned and enrolling in an education or training program if the participant has been engaged in the work activity for six months or more, or the participant&apos;s assignment to a work activity ends and the agency seeks to reassign the participant to another work activity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38059" number="48801" version="1494">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-211543" number="48802" version="1494">
+										<HEADING>§ 21-703 Assignment of individuals engaged in or expressing an interest in engaging in education and training and/or vocational rehabilitation activities to other work activities. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9643" name="21-703"/>§ 21-703 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Assignment of individuals engaged in or expressing an interest in engaging in education and training and/or vocational rehabilitation activities to other work activities. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-38060" number="48803" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>If an applicant, recipient or participant is enrolled in an approved program, then the agency shall permit such applicant, recipient or participant to participate in such approved program provided such approved program can be classified as a countable work activity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38061" number="48804" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>If an applicant, recipient or participant who is eligible for education or training as set forth in subdivision c of this section expresses an intention or preference to the agency to enroll in education, training or vocational rehabilitation, or if an applicant&apos;s, recipient&apos;s or participant&apos;s assessment indicates that he or she lacks basic literacy, a secondary school diploma, or a general equivalency diploma (GED) or otherwise indicates that education, training or vocational rehabilitation would enhance the individual&apos;s ability to obtain and maintain employment, then the agency shall offer such applicant, recipient or participant the opportunity to enroll in an approved program or programs, provided that such approved program or programs can be classified as countable work activities.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38062" number="48805" version="1494">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>E<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">ligibility for education or training:</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38063" number="48806" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An applicant, recipient or participant is eligible to participate in a post-secondary two- or four-year college program if s/he has:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38064" number="48807" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>been accepted to attend a two- or four-year college program; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38065" number="48808" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>not yet received a degree from a four-year college.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38066" number="48809" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>An applicant, recipient or participant is eligible to participate in adult basic education if s/he has not attained basic literacy.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38067" number="48810" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>An applicant, recipient or participant is eligible to participate in English for Speakers of Other Languages (ESOL) if s/he does not have English language proficiency.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38068" number="48811" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>An applicant, recipient or participant is eligible to participate in a GED program if s/he has attained basic literacy but has not received a secondary school diploma.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38069" number="48812" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>An applicant, recipient or participant is eligible to participate in a vocational education program if s/he:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38070" number="48813" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>has been accepted into the program;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38071" number="48814" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>has not yet completed a program teaching the same set of skills offered by the program by which s/he has been accepted;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38072" number="48815" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>has not commenced participation in an unrelated vocational education course within the last 90 days;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38073" number="48816" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>has not enrolled in and failed a vocational education course three times during the time s/he has received public assistance; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38074" number="48817" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>has not for 24 months or more during the time the individual has received public assistance attended a vocational education program or combination of vocational education programs that included more than 15 course hours per week.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38075" number="48818" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>An applicant, recipient or participant who is not eligible for education or training as set forth in paragraphs 1 through 5 of this subdivision may attend an education or training program with agency approval. In deciding whether to grant an individual approval to attend an education or training program under this paragraph, the agency shall consider extenuating circumstances that have affected the individual&apos;s eligibility as set forth in paragraphs 1 through 5 of this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38076" number="48819" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>During the search period, the agency may not assign an applicant or recipient to any activities.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38077" number="48820" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The agency shall classify education, training and vocational rehabilitation activities as countable work activities to the maximum extent permitted by state and federal law. Activities which shall be classified as both &quot;on-the-job training&quot; and &quot;community service&quot; in the New York City Social Services District Welfare to Work Plan that is required pursuant to section 333 of the social services law shall include but not be limited to: internships and externships related to the curriculum of a non-graduate student enrolled in an approved post-secondary institution; GED instruction; Adult Basic Education; ESOL; vocationally-oriented training and education programs; and activities engaged in pursuant to an individualized plan of employment as designed by the New York state department of education, office of vocational and educational services for individuals with disabilities (VESID). If the New York state department of labor does not permit the classification of any of the above-listed activities as &quot;on-the-job training,&quot; then the agency shall classify the disallowed activity or activities as only &quot;community service&quot;. Work-study shall be classified as &quot;unsubsidized employment&quot; in the New York City Social Services District Welfare to Work Plan that is required pursuant to section 333 of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38078" number="48821" version="1494">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Credit for Participation.</CHARFORMAT> An applicant, recipient or participant who is making satisfactory progress in an approved program or has an undue hardship exemption shall receive program credit for such participation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38079" number="48822" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>When assigning an applicant, recipient or participant who is engaged in an educational, training or vocational rehabilitation activity to any additional activity, the agency shall take all reasonable steps to locate an assignment that is either at the site of the educational, training or vocational rehabilitation activity or in reasonably close proximity thereto and which does not conflict with the hours during which such individual&apos;s educational, training and vocational rehabilitation activity takes place.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38080" number="48823" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>The agency shall not require any applicant, recipient or participant who is enrolled at least half-time at CUNY, SUNY, or at any other post-secondary degree-granting educational program or who is participating in any approved program that can be classified as a countable work activity to participate in any other activity for more than 35 hours or the minimum number of hours necessary to count such applicant, recipient or participant as &quot;engaged in work&quot; for purposes of calculating the city&apos;s work participation rates as set forth in sections 335-b and 336 of the social services law, whichever is greater.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38081" number="48824" version="1494">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Postsecondary Education: 2- and 4-year degree programs.</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38082" number="48825" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>In every qualifying year, an applicant, recipient or participant may enroll in a postsecondary 2- or 4-year degree program if the individual engages in a combination of educational activities in connection with a course of study time, training, employment, study, or work experience for an average of no less than 35 hours or the minimum number of hours per week that sections 335-b and 336 of the social services law would require for an applicant, participant or recipient to be &quot;engaged in work,&quot; whichever is greater.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38083" number="48826" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>During the period an individual participates in a postsecondary 2- or 4-year degree program under this subdivision, the individual must make satisfactory progress in the program or have an undue hardship exemption.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38084" number="48827" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>For purposes of determining hours per week under subparagraph 1 of this subdivision, an applicant, recipient or participant who is a parent or guardian of a dependent child will receive one hour of study time for every hour of class time during the first 24 months of participation in the postsecondary degree program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38085" number="48828" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Individuals engaging in activities pursuant to this subdivision shall be deemed to be participating in activities pursuant to Title 9-b of the social services law and shall be eligible for supportive services pursuant to section 332-a of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38086" number="48829" version="3">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>An individual engaged in, or accepted to engage in, activities pursuant to an individualized plan of employment (IPE) as designed by the New York state department of education, office of vocational and educational services for individuals with disabilities (VESID), shall be considered work limited pursuant to section 332-b(3) of the social services law upon submission to the agency of the IPE and supporting medical documentation. In such cases, the IPE shall be considered to be a part of the individual&apos;s treatment plan pursuant to section 335-b(5)(e) of the social services law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38087" number="48830" version="1494">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-211544" number="48831" version="1494">
+										<HEADING>§ 21-704 Notice of rights and responsibilities. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9645" name="21-704"/>§ 21-704 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of rights and responsibilities. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-38088" number="48832" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The agency shall inform applicants, recipients and participants of all rights, entitlements and agency obligations required under this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38089" number="48833" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any notice directing an applicant, recipient or participant to report for an assessment, the development of an employability plan, or a work-related assignment, shall contain a description of the rights to pursue education and training activities as set forth in this chapter, and shall contain the following statement: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38090" number="48834" version="1494">
+											<PARA>
+												<PARAFORMAT left-indent="36">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Your Education and Training Rights</CHARFORMAT> When you come for your appointment, we will tell you about your rights to participate in education and training programs. The hours you spend in education and training programs may count toward your work requirement. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">A Master List of Programs</CHARFORMAT> You have a right to receive the complete &quot;HRA Consolidated Master List of Approved Training Programs.&quot; This is a list of education and training programs you can choose to go to. Hours spent in any program on that list will count toward your work requirement. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Other Choices for Training and Education</CHARFORMAT> You can also go to education or training programs that are not on the Consolidated Master List. However, those programs must meet appropriate City or State standards. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Time To Find the Right Program for You</CHARFORMAT> If you need to participate in an education or training program in order to improve your chances of getting a job, we must give you 15 business days before your assessment, upon your request, to find an appropriate education or training program. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">If You Are Already In an Education or Training Program</CHARFORMAT> If you are already in school we must allow you to remain in your program as long as your program appears on the &quot;HRA Consolidated Master List of Approved Training Programs&quot; or meets the City or State standards mentioned above. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reassessment</CHARFORMAT> If you are dissatisfied with the work activity to which you have been assigned for six months or more and you believe that you are eligible to attend education or training, you should request a reassessment of your employability. If you are found to be eligible to attend a training or education program, you can switch into an education or training program. Again, your choice must appear on the &quot;HRA Consolidated Master List of Approved Training Programs&quot; or meet appropriate City or State standards. If you are already in a work activity, you do not have a 15 business day period to find an education or training program. In this case, you must continue in your work activity while you look for an education or training program. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Your Right to a Fair Hearing</CHARFORMAT> The agency must give you a copy of your employability plan. You have a right to a fair hearing to challenge your assignment.&quot; </PARAFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38091" number="48835" version="1494">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-211545" number="48836" version="1494">
+										<HEADING>§ 21-705 Submission of plan to state department of labor. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9647" name="21-705"/>§ 21-705 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Submission of plan to state department of labor. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-38092" number="48837" version="3">
+											<PARA>To the extent that provisions of this chapter are subject to the approval of the state department of labor, the agency shall include such provisions in the city&apos;s biennial plan to the state department of labor in accordance with section 333 of the social services law. In the event the local law that added this chapter becomes effective during the operation of a biennial plan, then the agency shall submit a modified plan to the state department of labor pursuant to title 12, section 1300.00 of the New York codes, rules and regulations within thirty days of enactment of the local law that added this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38093" number="48838" version="1494">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-211546" number="48839" version="1494">
+										<HEADING>§ 21-706 Severability. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-9649" name="21-706"/>§ 21-706 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Severability. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-38094" number="48840" version="3">
+											<PARA>If any provision of this chapter, or the local law that added this chapter, or of any amendments thereto, shall be held invalid or ineffective in whole or in part or inapplicable to any person or situation, such holding shall not affect, impair or invalidate the remainder of this chapter or the local law that added this chapter, and all other provisions thereof shall nevertheless be separately and fully effective and the application of any such provision to other persons or situations shall not be affected.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-38095" number="48841" version="1494">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2003/023" destination-id="0-0-0-25354">L.L. 2003/023</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

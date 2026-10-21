@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-474" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-147293" number="71523" version="2751">
+			<HEADING>Title 31: Mayor&apos;s Office of Homelessness and Single Room Occupancy</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15520" name="Title 31"/>Title 31: Mayor&apos;s Office of Homelessness and Single Room Occupancy</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-60962" number="71524" version="1961">
+				<HEADING>Chapter 1: Eligibility of Homeless Families and Individuals to Rent City-Owned Apartment</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-8325" name="T31C001"/>Chapter 1: Eligibility of Homeless Families and Individuals to Rent City-Owned Apartment</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+				<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+						<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-60963" number="71525" version="3">
+									<HEADING>§ 1-01 Eligibility.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-8327" name="T31C001_1-01"/>§ 1-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligibility.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-60964" number="71526" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Apartments in City-owned buildings may be viewed and rented by families who have been homeless for at least twelve months.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-60965" number="71527" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Priority for such housing among eligible families shall be based on length of stay in City-sponsored emergency housing. Families with a longer cumulative stay in such housing shall have a priority for viewing and renting City-owned apartments. In determining the length of stay for this purpose, stays in Tier I or Tier II shelters, Family Centers, hotels (when family has been in continuous receipt of hotel/motel allowance), or City sponsored battered women&apos;s programs shall be cumulated. Where a family has a break in residence in excess of 30 days their length of stay should be calculated from the first day of their return to any of the above facilities.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-60966" number="71528" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Exceptions to the policy stated in paragraphs (a) and (b) may be granted in exigent circumstances by the Mayor&apos;s office or Homelessness and SRO Housing Services. An exception may be granted only if residence in any facility listed in paragraph (b) would pose a serious and present danger to the life, safety or health of a family member and there is no alternative housing available for the family.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-60967" number="71529" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Smaller apartments suitable for only single individuals may be assigned to appropriate homeless individuals. They shall be assigned to appropriate homeless individuals:</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-60968" number="71530" version="3">
+										<PARA>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>to foster and encourage independence by shelter residents participating in employment programs, and</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-60969" number="71531" version="3">
+										<PARA>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>to address the special medical needs of an individual who may benefit from housing outside of the shelter system, as determined by ERA in conjunction with a designee of the Mayor&apos;s Office on Homelessness and SRO Housing Services.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

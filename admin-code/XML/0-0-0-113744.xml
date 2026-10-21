@@ -1,0 +1,1464 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-682" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-27387" number="32507" version="223">
+			<HEADING>Title 16-B: Commercial Waste Zones</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19345" name="T16-b"/>Title 16-B: Commercial Waste Zones</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-113744" number="32508" version="223">
+				<HEADING>Chapter 1: Commercial Waste Zones</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-19347" name="T16-bC001"/>Chapter 1: Commercial Waste Zones</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+								<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-113745" number="32509" version="223">
+											<HEADING>§ 16-1000 Definitions.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19349" name="16-1000"/>§ 16-1000 Definitions.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113769" number="32510" version="223">
+												<PARA>As used in this title, the following terms shall have the following meanings:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113972" number="32511" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Awardee.</CHARFORMAT> The term &quot;awardee&quot; means an entity with whom the department enters into an agreement for the provision of commercial waste collection services pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113971" number="32512" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Bicycle.</CHARFORMAT> The term &quot;bicycle&quot; means: (i) a two or three wheeled device upon which a person or persons may ride, propelled by human power through a belt, a chain or gears; (ii) a &quot;pedal-assist bicycle&quot; as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T34C004_4-01" destination-id="0-0-0-0">4-01</LINK> of title 34 of the rules of the city of New York or as otherwise defined by the department of transportation; or (iii) any other device upon which a person or persons may ride, as defined by the rules of the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113970" number="32513" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Broker.</CHARFORMAT> The term &quot;broker&quot; or &quot;trade waste broker&quot; has the same meaning as such term is defined in subdivision g of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-501" destination-id="0-0-0-6195">16-501</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113969" number="32514" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Change in control.</CHARFORMAT> The term &quot;change in control&quot; means the assignment of an awardee&apos;s agreement with the department entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> from such awardee to a different entity. The effective date of a change in control shall be the date of such assignment.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113968" number="32515" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial waste.</CHARFORMAT> The term &quot;commercial waste&quot; means all trade waste, as defined in subdivision f of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-501" destination-id="0-0-0-6195">16-501</LINK>, except for construction and demolition debris; fill material; medical waste; electronic waste; textiles; yard waste collected by landscapers; waste collected by a one-time, on-call bulk waste removal service; grease; paper that is collected for the purpose of shredding or destruction; or waste that is collected by a micro-hauler. References to &quot;commercial waste&quot; in this title shall be construed to also refer to &quot;containerized commercial waste&quot; unless otherwise specified.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113967" number="32516" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial waste zone.</CHARFORMAT> The term &quot;commercial waste zone&quot; or &quot;zone&quot; means a geographic area designated by the commissioner pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1001" destination-id="0-0-0-19351">16-1001</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113966" number="32517" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term &quot;commissioner&quot; means the commissioner of sanitation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113965" number="32518" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Containerized commercial waste.</CHARFORMAT> The term &quot;containerized commercial waste&quot; means commercial waste that: (i) is stored on the premises of the commercial establishment that generates such waste in a container that has a capacity of 10 cubic yards or more, and which may or may not be equipped with compaction ability and (ii) is transported directly in such container when such container is at or near capacity from such commercial establishment to a transfer, processing or disposal location.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113964" number="32519" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of sanitation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113963" number="32520" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated carter.</CHARFORMAT> The term &quot;designated carter&quot; or &quot;carter&quot; means a licensee that is authorized to provide commercial waste collection services pursuant to an agreement between an awardee and the department entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>. The term &quot;designated carter&quot; may describe the awardee or another licensee that the awardee has designated to fulfill the terms of such agreement as specified therein, and provided further that notwithstanding any other provision of this section, the term &quot;designated carter&quot; may also include a person that the awardee has designated to fulfill the terms of such agreement as specified therein who is operating in accordance with the provisions of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T16-a" destination-id="0-0-0-6275">title 16-A</LINK> and the rules promulgated pursuant to such title and who is authorized by the business integrity commission to collect certain categories of commercial waste without a license.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113962" number="32521" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible employee.</CHARFORMAT> The term &quot;eligible employee&quot; means any person employed in the city of New York by an awardee to perform services under an agreement entered into between the department and such awardee pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, and who has been employed by such awardee for a period of at least six months prior to the effective date of a change in control, provided that such term shall not include persons who are managerial, supervisory or confidential employees.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113961" number="32522" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Global Positioning System.</CHARFORMAT> The term &quot;global positioning system&quot; or &quot;GPS&quot; means a global positioning system, or a comparable location tracking technology, that uses navigational satellites to determine a user&apos;s location and velocity in real time and is capable of collecting, storing and transmitting geographical data.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113960" number="32523" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Incumbent employer.</CHARFORMAT> The term &quot;incumbent employer&quot; means any person that owns or controls an awardee prior to any change in control.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113959" number="32524" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Licensee.</CHARFORMAT> The term &quot;licensee&quot; means any person licensed to collect trade waste pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T16-a" destination-id="0-0-0-6275">title 16-A</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113958" number="32525" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Micro-hauler.</CHARFORMAT> The term &quot;micro-hauler&quot; means any person that is not a designated carter, does not dispose of waste at a solid waste transfer station and either:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113957" number="32526" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(1)<TAB tab-count="1"/>collects less than 2,600 tons of source separated organic waste from commercial establishments per year and collects such waste exclusively using bicycles; or<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113956" number="32527" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>collects less than 500 tons of source separated organic waste from commercial establishments per year and collects such waste using exclusively (i) a zero emissions vehicle that has a gross vehicle weight rating of not more than 14,000 pounds or (ii) any other mode of transport specified in the rules of the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113955" number="32528" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Organic waste.</CHARFORMAT> The term &quot;organic waste&quot; has the same meaning as such term is defined in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-306.1" destination-id="0-0-0-6273">16-306.1</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113954" number="32529" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Successor employer.</CHARFORMAT> The term &quot;successor employer&quot; means any person that owns or controls an awardee after any change in control.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113953" number="32530" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Trade waste.</CHARFORMAT> The term &quot;trade waste&quot; has the same meaning as such term is defined in subdivision f of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-501" destination-id="0-0-0-6195">16-501</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113952" number="32531" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transitional employment period.</CHARFORMAT> The term &quot;transitional employment period&quot; means a 90 day period beginning upon the effective date of a change in control of an awardee.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113951" number="32532" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113768" number="32533" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128597" number="32534" version="497">
+											<HEADING>§ 16-1001 Commercial waste zones; designation.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19351" name="16-1001"/>§ 16-1001 Commercial waste zones; designation.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113770" number="32535" version="223">
+												<PARA>Notwithstanding any other provision of law, no later than 120 days after the effective date of the local law that added this section, the commissioner shall divide the geographic area of New York city into no less than twenty commercial waste zones. The commissioner may amend the boundaries of such zones or establish additional zones as deemed appropriate by the commissioner and consistent with the purposes of this title. In establishing such commercial waste zones, the commissioner may consider:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113950" number="32536" version="223">
+												<PARA>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number and types of commercial establishments within the proposed zone;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113949" number="32537" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>The amount and types of waste generated by commercial establishments within the proposed zone and the potential for achieving the city&apos;s commercial waste reduction goals;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113948" number="32538" version="223">
+												<PARA>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>Existing service patterns within the proposed zone and the potential for traffic and noise reduction;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113947" number="32539" version="223">
+												<PARA>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>The types and estimated amounts of recyclable materials generated by commercial establishments within the proposed zone that are required to be recycled, reused or sold for reuse pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-306" destination-id="0-0-0-6267">16-306</LINK> and any rules promulgated pursuant thereto;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113946" number="32540" version="223">
+												<PARA>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>The estimated amount of organic waste collected within the proposed zone;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113945" number="32541" version="223">
+												<PARA>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>The rates being charged by persons licensed pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T16-a" destination-id="0-0-0-6275">title 16-A</LINK> to commercial establishments within the proposed zone;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113944" number="32542" version="223">
+												<PARA>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>The history of complaints concerning commercial waste collection from commercial establishments within the proposed zone; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113943" number="32543" version="223">
+												<PARA>
+													<TAB tab-count="1"/>8.<TAB tab-count="1"/>Any other information or criteria the commissioner deems relevant.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113942" number="32544" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113767" number="32545" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128598" number="32546" version="497">
+											<HEADING>§ 16-1002 Agreements.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19353" name="16-1002"/>§ 16-1002 Agreements.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113771" number="32547" version="226">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>For each area designated as a commercial waste zone pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1001" destination-id="0-0-0-19351">16-1001</LINK>, the department shall be authorized to select and to enter into agreements with no more than three awardees per zone, permitting each awardee to provide for the collection, transport and removal of commercial waste within such zone as set forth in such agreement. The department shall be further authorized to select and enter into agreements with no more than five awardees permitting each awardee to provide for the collection, transport and removal of containerized commercial waste from any commercial establishment within the city of New York as set forth in such agreement. The department shall only enter into an agreement pursuant to this subdivision with an awardee that has obtained a license issued by the business integrity commission pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-505" destination-id="0-0-0-6131">16-505</LINK> on or before the date of such agreement. A proposer that responds to the request for proposals authorized pursuant to subdivision b of this section that does not hold such a license at the time a proposal is submitted pursuant to this section must submit an application for such a license to the business integrity commission no later than the date such proposal is submitted to the department. The initial term of any such agreement shall include authorization to collect, transport and remove commercial waste for ten years in each zone covered by such agreement. The department shall have the option, at its sole discretion, to renew any such agreement for no more than two additional terms of no more than five years each, provided that prior to the expiration of any agreement entered into pursuant to this section, the commissioner shall provide the awardee with adequate written notice of whether it intends to renew such agreement. The department shall not enter into any such agreement with an awardee that results in such awardee providing services in more than fifteen commercial waste zones, provided that any agreement to provide for the collection, transport and removal of containerized commercial waste citywide shall not count toward such limit.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113941" number="32548" version="226">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than one year after the effective date of the local law that added this section, the department shall issue one or more requests for proposals to conduct commercial waste removal in a commercial waste zone and to collect containerized commercial waste citywide and, based upon the review and evaluation of responses thereto, may negotiate and enter into such agreements pursuant to subdivision a of this section, as the department, in its discretion, determines will best provide for the efficient and orderly removal of commercial waste, consistent with the provisions of this title. Whenever necessary to ensure the ongoing efficient and orderly removal of commercial waste, the department may issue additional requests for proposals and, based upon the review and evaluation of responses thereto, may negotiate and enter into agreements in accordance with the provisions of this section. Any requests for proposals issued pursuant to this subdivision shall solicit information regarding the qualifications of proposers. Where a proposer intends to arrange for designated carters other than the proposer to provide all or some portion of the services requested, such proposal shall provide the requested information with respect to each designated carter being proposed. When evaluating proposals pursuant to the procedures described in this subdivision, the department shall consider the following factors:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113940" number="32549" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>The rate or rates to be charged to establishments for such services, including the proposer&apos;s commitment to providing lower rates for organics and recycling collection than for refuse collection services, the proposer&apos;s plan for covering costs of third party waste audits, and any extra service fees or supplemental charges the proposer plans on including in the pricing structure, except that in the case of a proposal to provide for the collection, transport and removal of containerized commercial waste citywide, a description of the proposer&apos;s commitment to providing lower rates for organics and recycling collection shall only be required where such proposal includes organics or recycling collection, transport and removal services;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113939" number="32550" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>The nature and frequency of the commercial waste removal services to be provided and the proposer&apos;s plan for ensuring that the proposer has the ability and adequate capacity to provide such services within the zone, including but not limited to, a description of the proposer&apos;s fleet and other relevant infrastructure, the proposer&apos;s plans, if any, for the set-out of commercial waste in a matter that promotes the city&apos;s goals of improving cleanliness, rodent mitigation, order and safety on city sidewalks, and a staffing plan to ensure continuity and safety in the delivery of services;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113938" number="32551" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>The proposer&apos;s submission of a customer service plan detailing customer service support tools, customer service standards, a mechanism for receiving and addressing customer complaints, performance metrics or other methods of addressing customer service, and the proposer&apos;s plan for addressing the language access needs of customers in the zone;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113937" number="32552" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>The proposer&apos;s submission of a plan describing practices to support waste reduction, reuse and recycling among commercial establishments within the zone, such as partnerships with local organizations, waste reduction or diversion targets, plans for offering organics collection services to a broad range of establishments within the zone, customer outreach and education or other practices to further such goals;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113936" number="32553" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>The proposer&apos;s submission of a waste management plan describing practices for disposal of commercial waste collected, including but not limited to, a description of the transfer, processing or final disposal locations for all materials collected, and specific practices or investments designed to promote the goals of sustainability, reliability and equity in the delivery of waste management services. In evaluating waste management plans submitted by proposers pursuant to this paragraph, the commissioner shall consider: (i) the total vehicle miles expected to be traveled as a result of the proposer&apos;s services, including but not limited to, consideration of the proximity of such locations to the zone, as applicable; (ii) whether such commercial waste will be transported to or from a solid waste transfer station by a sustainable mode of transport, such as rail or barge; (iii) whether, after considering a solid waste transfer station&apos;s history of compliance with applicable local, state and federal laws, the proposer&apos;s use of such solid waste transfer station is likely to have an impact on public health or safety; and (iv) any other factors that the commissioner deems relevant to promoting the goals of sustainability, reliability and equity in the delivery of waste management services;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113935" number="32554" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>The proposer&apos;s plan, if any, to reduce air pollution and greenhouse gas emissions from commercial waste vehicles, including but not limited to, any plans to: provide commercial waste collection, removal and disposal services with a fleet comprised of at least 50 percent zero emissions vehicles by 2030, or for any request for proposals issued after 2030, 100 percent zero emissions vehicles by 2040; implement operational best practices; or otherwise utilize zero emissions vehicles in the provision of commercial waste collection, removal and disposal services;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113934" number="32555" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>The proposer&apos;s plan, if any, to reduce air pollution and greenhouse gas emissions through infrastructure investments, adoption of technologies or other sustainable solutions, including but not limited to, any plans to invest in sustainable facilities or infrastructure for organics and recycling processing;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113933" number="32556" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>8.<TAB tab-count="1"/>The proposer&apos;s submission of a health and safety plan detailing compliance with applicable federal, state and local laws and specific practices to further the goals of promoting health and safety; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113932" number="32557" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>9.<TAB tab-count="1"/>The proposer&apos;s history of compliance with existing federal, state and local laws, including but not limited to, laws relating to waste collection, removal and disposal, environmental protection, antitrust, consumer protection, health and safety, labor and employment, and anti-discrimination protections;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113931" number="32558" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>10.<TAB tab-count="1"/>Submission of a plan describing the customer communication efforts the proposer intends to undertake during the transition to the commercial waste zone system and other communication efforts that will support and supplement the public outreach and education efforts of the department conducted pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1010" destination-id="0-0-0-19369">16-1010</LINK>;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113930" number="32559" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>11.<TAB tab-count="1"/>The proposer&apos;s plan, if any, to subcontract with any other designated carter, which shall include a description of how such subcontracting is consistent with the purposes of this chapter, including but not limited to, how such subcontracting will enhance public safety, minimize harmful environmental impacts and improve customer service;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113929" number="32560" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>12.<TAB tab-count="1"/>The proposer&apos;s history of operating in New York city and the proposer&apos;s history of operating within the geographic area of each commercial waste zone for which such proposer has submitted a proposal;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113928" number="32561" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>13.<TAB tab-count="1"/>The proposer&apos;s financial statements, including available capital, access to credit, and physical assets, including number of available commercial waste vehicles; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113927" number="32562" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>14.<TAB tab-count="1"/>Any other information the department deems appropriate.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113926" number="32563" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>Except as otherwise provided in subdivision d of this section, any agreement entered into pursuant to subdivision b of this section shall include:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113925" number="32564" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>A requirement that the awardee may not refuse commercial waste collection service to any commercial establishment within the commercial waste zone required to provide for the removal of such waste pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-116" destination-id="0-0-0-6129">16-116</LINK>, provided that such agreement may include provisions authorizing termination of service, refusal of service for good cause or setting forth other allowable measures to address default or non-payment by a commercial establishment;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113924" number="32565" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>A description of the maximum rate or rates that the awardee may charge customers for waste collection services, including any extra service fees or supplemental charges the awardee plans on including in the pricing structure, provided that extra service fees shall not be allowed for locking or unlocking gates or the rental of containers or dumpsters other than compactors and roll-offs;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113923" number="32566" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>A process by which awardees may petition the department for changes to the maximum rates described in paragraph 2 of this subdivision, which may include the opportunity for public comment, as set forth in such agreement;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113922" number="32567" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>A requirement that the awardee provide each customer with a written service agreement, which shall be negotiated between the customer and the awardee, specifying rates, standards of service and such other provisions as may be set forth in the agreement entered into between the awardee and the department pursuant to this section or as otherwise specified in the rules of the department;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113921" number="32568" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>A requirement that the awardee provide organic waste collection services to all commercial establishments that: (i) are located within the commercial waste zone for which the awardee has been awarded an agreement pursuant to this section; (ii) are not designated covered establishments pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-306.1" destination-id="0-0-0-6273">16-306.1</LINK>; (iii) select such awardee for removal of commercial waste or have been assigned such awardee pursuant to paragraph 4 of subdivision e of this section; and (iv) request organic waste collection services, provided that such agreement may authorize the awardee to implement such requirement on a graduated schedule or may otherwise set forth circumstances in which such provision of such services shall not be required, consistent with the purposes of this chapter;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113920" number="32569" version="226">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>Specifications regarding the GPS devices, capable of collecting, storing and transmitting geographical data, to be installed on commercial waste vehicles, and requirements regarding periodic reporting of data collected by such devices to the department for purposes consistent with this title;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113919" number="32570" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>Any additional reporting requirements that the department deems necessary to further the goals of this title, including but not limited to, (i) waste generation estimates or waste characterization studies; (ii) collection routes; (iii) rates charged to customers; (iv) investments in sustainable vehicles, facilities or infrastructure; (v) any warnings or violations issued from agencies for violating local, state or federal law; and (vi) workplace injuries and accidents;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113918" number="32571" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>8.<TAB tab-count="1"/>A requirement that the awardee and any of its designated carters comply with the terms of the awardee&apos;s air pollution and greenhouse gas emission reduction plan, if any, customer service plan, waste reduction plan, waste management plan and health and safety plan as described in subdivision b of this section;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113917" number="32572" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>9.<TAB tab-count="1"/>A requirement that the awardee and any of its designated carters ensure that employees receive periodic training relating to health and safety, as set forth in the agreement;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113916" number="32573" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>10.<TAB tab-count="1"/>A requirement that the awardee and any of its designated carters comply with the provisions of this title and all other applicable laws;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113915" number="32574" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>11.<TAB tab-count="1"/>A requirement that the awardee prepare for submission and review by the department an emergency action plan detailing procedures to be deployed in emergency situations, including but not limited to, fires, evacuations, spills or weather emergencies, and addressing continuity and restoration of service;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113914" number="32575" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>12.<TAB tab-count="1"/>Provisions addressing contingency planning to ensure (i) the orderly transition of services to a subsequent awardee upon the conclusion of the agreement, (ii) continuity of service in the case of an awardee or any of its designated carters being unable to provide commercial waste collection services or any other default by the awardee or any of its designated carters, and (iii) continuity of service in the case of a default by another awardee or designated carter;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113913" number="32576" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>13.<TAB tab-count="1"/>The option for the awardee to subcontract with no more than two designated carters in each zone for services in order to meet the requirements of the agreement, provided that: (i) any such designated carter must fully comply with all terms of such agreement and must be licensed by the business integrity commission or otherwise authorized to collect trade waste in accordance with the provisions of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T16-a" destination-id="0-0-0-6275">title 16-A</LINK> and rules promulgated pursuant thereto; (ii) the agreement shall include a requirement that the department review and approve all contracts between the awardee and all designated carters for purposes of ensuring that the terms of such contracts are in accordance with the provisions of this chapter; and (iii) a subcontracting arrangement with a designated carter that collects waste exclusively using bicycles shall not count toward the numerical limit on designated carters as subcontractors provided in this paragraph;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113912" number="32577" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>14.<TAB tab-count="1"/>A requirement that the awardee engage in public outreach and education efforts to address the transition to the commercial waste zone system;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113911" number="32578" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>15.<TAB tab-count="1"/>A requirement that the awardee and any of its designated carters utilize existing programs or resources developed by the department of small business services or any other relevant agency designed to promote employment opportunities for New York city residents, where applicable and appropriate; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113910" number="32579" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>16.<TAB tab-count="1"/>A requirement that the awardee pay liquidated damages as deemed appropriate by the department and set forth in the agreement.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113909" number="32580" version="223">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>Paragraphs 1 and 5 of subdivision c of this section shall not apply to an agreement to provide for the collection, transport and removal containerized commercial waste citywide.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113908" number="32581" version="223">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>1.<TAB tab-count="1"/>On or after the implementation start date for a commercial waste zone, no person other than an awardee authorized to operate within such commercial waste zone pursuant to an agreement entered into pursuant to this section may enter into a new contract or renew an existing contract with a commercial establishment located within such zone to provide for the collection, removal or disposal of commercial waste.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113907" number="32582" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>By the final implementation date for a commercial waste zone, every owner, lessee or person in control of a commercial establishment must contract with an awardee selected for such zone in which such establishment is located for the removal of such establishment&apos;s commercial waste by a designated carter pursuant to the terms of the agreement entered into between such awardee and the department pursuant to this section, provided however, that an owner, lessee or person in control of a commercial establishment may, by such final implementation date, contract for the removal of containerized commercial waste with either an awardee selected for such zone or with an awardee selected for the removal of containerized commercial waste citywide pursuant to this section.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113906" number="32583" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>The commissioner shall promulgate rules setting forth an implementation start date and a final implementation date for each commercial waste zone established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1001" destination-id="0-0-0-19351">16-1001</LINK>. The commissioner may select different implementation start dates and final implementation dates for different commercial waste zones.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113905" number="32584" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>Such rules may also set forth a procedure whereby the commissioner shall assign an awardee to a commercial establishment that has failed to select an awardee by the final implementation date established pursuant to such rules, provided that in such a case, the owner, lessee or person in control of a commercial establishment shall have 30 days after the assignment is made by the commissioner to select a different awardee authorized to operate in such commercial waste zone.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113904" number="32585" version="223">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>Any agreement entered into pursuant to subdivision b of this section may include any other terms or provisions deemed appropriate by the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113903" number="32586" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113766" number="32587" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128599" number="32588" version="497">
+											<HEADING>§ 16-1003 Unauthorized conduct within commercial waste zones.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19355" name="16-1003"/>§ 16-1003 Unauthorized conduct within commercial waste zones.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113772" number="32589" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Except as provided in subdivision c of this section and notwithstanding any other provision of law, it shall be unlawful for any person to operate a business for the purpose of the collection, transport or removal of commercial waste from the premises of a commercial establishment required to provide for the removal of such waste pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-116" destination-id="0-0-0-6129">16-116</LINK> or to engage in, conduct or cause the operation of such a business, or to solicit commercial establishments to engage such a business for such purpose, except as authorized pursuant to an agreement with the department entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> and in accordance with the provisions of this title and any rules promulgated pursuant thereto.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113902" number="32590" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding any other provision of law, it shall be unlawful for any trade waste broker to broker agreements between a commercial establishment located in a commercial waste zone required to provide for the removal of commercial waste pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-116" destination-id="0-0-0-6129">16-116</LINK> and a provider of commercial waste removal, collection or disposal services, except where such provider is authorized to provide such services within such zone pursuant to an agreement with the department entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113901" number="32591" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>The provisions of this section shall not apply to a person registered by the business integrity commission to remove, collect or dispose of trade waste that is generated in the course of operation of such person&apos;s business pursuant to subdivision b of section 16-505, or to a commercial establishment, owner or managing agent of a building, or owner of an establishment exempt from the requirement to obtain a registration pursuant to such subdivision.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113900" number="32592" version="223">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>Any awardee that has entered into an agreement with the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> permitting such awardee to provide for the collection, transport and removal of containerized commercial waste citywide shall be deemed to be authorized to operate within any commercial waste zone in the city of New York.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113899" number="32593" version="226">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Notwithstanding any other provision of this title, it shall be unlawful for any person to collect, transport or remove waste, as defined in paragraph 2 of this subdivision, from any premises that is not required to provide for the removal of waste pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-116" destination-id="0-0-0-6129">16-116</LINK>, unless such person is a designated carter authorized to collect, transport or remove commercial waste from commercial establishments in the zone in which such premises is located pursuant to an agreement with the department entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, or such person is an authorized employee or agent of a city agency. Nothing in this subdivision shall be deemed to amend, alter or supersede the provisions of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T16C004-C" destination-id="0-0-0-6375">chapter 4-C</LINK> of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T16" destination-id="0-0-0-6087">title 16</LINK> and any rules promulgated pursuant thereto.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113898" number="32594" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>For the purposes of this subdivision, the term &quot;waste&quot; shall mean all putrescible materials or substances that are discarded or rejected by the owners or occupants of such premises as being spent, useless, worthless or in excess to such owners or occupants at the time of such discard or rejection, including recyclable materials as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-303" destination-id="0-0-0-6177">16-303</LINK> of this code, except that such term shall not include: sewage; industrial wastewater discharges; irrigation return flows; radioactive materials that are source, special nuclear or by-product material as defined by the Atomic Energy Act of 1954, as amended, 42 U.S.C. § 2011 et seq.; materials subject to in-situ mining techniques that are not removed from the ground as part of the extraction process; hazardous waste as defined in section 27-0901 of the environmental conservation law; construction and demolition debris; fill material; medical waste; electronic waste; textiles; yard waste collected by landscapers; waste collected by a one-time, on-call bulk waste removal service; grease; paper that is collected for the purpose of shredding or destruction; or waste that is collected by a micro-hauler.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113897" number="32595" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113765" number="32596" version="932">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-133364" number="32597" version="932">
+											<HEADING>§ 16-1004 Interference with commercial waste zone agreements.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19357" name="16-1004"/>§ 16-1004 Interference with commercial waste zone agreements.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113773" number="32598" version="223">
+												<PARA>No person shall make false, falsely disparaging or misleading oral or written statements or other representations to the owners or operators of a commercial establishment that have the capacity, tendency or effect of misleading such owners or operators, for the purpose of interfering with the performance of the terms of any agreement between the department and an awardee entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>. No person shall interfere or attempt to interfere by threats, intimidation, or coercion, or by destruction or damage of property or equipment, with performance of the terms of an agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113896" number="32599" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113764" number="32600" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128600" number="32601" version="497">
+											<HEADING>§ 16-1005 Conduct by awardees and designated carters within commercial waste zones.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19359" name="16-1005"/>§ 16-1005 Conduct by awardees and designated carters within commercial waste zones.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113888" number="32602" version="2514">
+												<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this section has been amended by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861374&amp;GUID=34505287-D0AC-48AF-95F0-055CA00F2BB3&amp;Options=ID|Text|&amp;Search=">L.L. 2026/118, 7/30/2026, eff. 11/27/2026</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-124]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-246141" number="32603" version="2514">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Each awardee shall only charge, exact or accept rates for the collection, removal or disposal of commercial waste within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, or for the collection, removal or disposal of containerized commercial waste citywide under an agreement pursuant to such section, as set forth in such agreement and any rules promulgated by the department pursuant to this chapter.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113895" number="32604" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>No awardee shall refuse commercial waste collection service to any commercial establishment required to provide for the removal of such waste pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-116" destination-id="0-0-0-6129">16-116</LINK> within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, except as otherwise set forth in such agreement.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113894" number="32605" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>Each awardee shall provide recyclable materials collection services to all commercial establishments that: (i) are located within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>; (ii) are required to provide for the removal of such materials in accordance with the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-306" destination-id="0-0-0-6267">16-306</LINK> and any rules promulgated pursuant thereto; and (iii) select such awardee for removal of commercial waste or have been assigned such awardee pursuant to paragraph 4 of subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113893" number="32606" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>Each awardee shall provide organic waste collection services to all commercial establishments that: (i) are located within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>; (ii) are designated covered establishments pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-306.1" destination-id="0-0-0-6273">16-306.1</LINK> that have elected collection by a private carter of organic waste pursuant to subdivision c of such section; and (iii) select such awardee for removal of commercial waste or have been assigned such awardee pursuant to paragraph 4 of subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113892" number="32607" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>Each awardee and any of its designated carters shall ensure proper disposal of all commercial waste collected, consistent with the terms of any applicable agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, and all applicable laws and rules, and retain for five years and make available for inspection by the department any records provided by a waste transfer station that document disposal of commercial waste collected, and each awardee shall report to the department the amount of commercial waste collected, transported or removed, disaggregated by zone, as applicable, designated carter, material type, and the destination of each material.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113891" number="32608" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>Each awardee and any of its designated carters shall comply with all terms of such awardee&apos;s health and safety plan as set forth in the agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, and any rules promulgated by the department related to public health and safety.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113890" number="32609" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>As set forth in the agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> and any rules promulgated by the department, each awardee and designated carter shall maintain: (i) audited financial statements, (ii) ledgers, (iii) receipts, (iv) audits, (v) bills, (vi) customer complaints and other records related to the delivery of commercial waste removal, collection or disposal services, (vii) records related to vehicle maintenance and inspection, (viii) records related to health and safety planning, and (ix) such other written records as the department determines are necessary for demonstrating compliance with the requirements of this chapter and any rules promulgated pursuant thereto. Such records shall be maintained for a period of time to be determined by rule by the department. Such records shall be made available for inspection and audit by the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113889" number="32610" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>8.<TAB tab-count="1"/>Each awardee and designated carter shall comply with all operational requirements regarding the collection, removal and disposal of commercial waste as set forth in the rules of the department promulgated in the furtherance of public health and safety.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113887" number="32611" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>9.<TAB tab-count="1"/>No awardee shall enter into a subcontracting agreement with a designated carter without obtaining prior approval by the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113886" number="32612" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>10.<TAB tab-count="1"/>Each awardee and designated carter shall report any employees hired as a result of the displaced employees list pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1007" destination-id="0-0-0-19363">16-1007</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113885" number="32613" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>11.<TAB tab-count="1"/>As set forth in the agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, and any rules promulgated by the department, each awardee shall:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113884" number="32614" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Comply with the terms of their customer service plan;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113883" number="32615" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Enter into written service agreements with all customers;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113882" number="32616" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Provide a consolidated monthly bill to all customers;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113881" number="32617" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Offer third party waste audit services to all customers;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113880" number="32618" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Comply with all other requirements as set forth in such rules related to standards for service; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113879" number="32619" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Accept only non-cash payment from customers, except as otherwise provided in such agreement and such rules.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113878" number="32620" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>12.<TAB tab-count="1"/>Each awardee and each designated carter shall comply with all applicable reporting requirements as set forth in the agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> and any rules promulgated by the department requiring reporting of information related to the collection of commercial waste in commercial waste zones.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113877" number="32621" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding any other provision of this section, paragraphs 2, 3 and 4 of subdivision a of this section shall not apply to an awardee or designated carter operating pursuant to an agreement to provide for the collection, removal and disposal of containerized commercial waste citywide.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113876" number="32622" version="224">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any truck used to collect, transport or remove commercial waste within a commercial waste zone must be equipped with a GPS device that meets the requirements of the department as set forth in any agreement with the department entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> or as otherwise specified in the rules of the department. All awardees and designated carters must comply with all requirements relating to the reporting of data generated by such device to the department as set forth in such rules and such agreements.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113973" number="32623" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019; Am. L.L. 2019/196, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113763" number="32624" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128601" number="32625" version="497">
+											<HEADING>§ 16-1006 Employee retention.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19361" name="16-1006"/>§ 16-1006 Employee retention.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113775" number="32626" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>No less than thirty calendar days before the effective date of any change in control of an awardee, the incumbent employer shall:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113875" number="32627" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>provide to the successor employer a full and accurate list containing the name, address, phone number, date of hire, and job category of each eligible employee;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113874" number="32628" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>post a notice in the same location and manner that other statutorily required notices to employees are posted, which shall include: (i) the effective date of such change in control; (ii) the name and contact information for the successor employer; and (iii) an explanation of the rights provided pursuant to this section, in a form prescribed by the department; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113873" number="32629" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>post such explanation of rights in any language spoken as a primary language by any eligible employee, provided that the department has made a translation available in such language.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113872" number="32630" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The successor employer shall retain each eligible employee for the transitional employment period and, except as otherwise provided in this section, the successor employer shall not discharge an eligible employee retained pursuant to this section during the transitional employment period without cause.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113871" number="32631" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>If at any time during the transitional employment period, the successor employer determines that it requires fewer employees than were employed by the incumbent employer, such successor employer shall retain such eligible employees by seniority within each job category. During the transitional employment period, the successor employer shall maintain a preferential hiring list of any eligible employees not retained by such successor employer who shall, by seniority within their job category, be given a right of first refusal to any jobs that become available during such transitional employment period within such job category.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113870" number="32632" version="223">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The successor employer shall retain written verification of any offer of employment made by such successor employer to any eligible employee for a period of no less than three years from the date such offer was made. Such verification shall include the name, address, date of offer and job category of each eligible employee.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113869" number="32633" version="223">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>By the end of the transitional employment period, the successor employer shall have a record of a written performance evaluation for each eligible employee retained pursuant to this section and may offer such eligible employee continued employment. The successor employer shall retain a record of the written performance evaluation for a period of no less than three years.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113868" number="32634" version="223">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>The provisions of this section shall not apply to any successor employer that, on or before the effective date of the transfer of control from an incumbent employer to the successor employer, enters into a collective bargaining agreement covering the eligible employees or agrees to assume, or to be bound by, the collective bargaining agreement of the incumbent employer covering the eligible employees, provided that such collective bargaining agreement provides terms and conditions regarding the discharge or laying off of employees.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113867" number="32635" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113762" number="32636" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128602" number="32637" version="497">
+											<HEADING>§ 16-1007 Displaced employees list.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19363" name="16-1007"/>§ 16-1007 Displaced employees list.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113776" number="32638" version="226">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall maintain a list containing the names and contact addresses or telephone numbers of persons formerly employed by a business either currently engaged in the collection, removal or disposal of commercial waste, or that was engaged in the collection, removal or disposal of commercial waste prior to the implementation of this chapter, whose employment with such business has ended. The addition or deletion of information on such list shall be made only upon the request of such a former employee. At the time a former employee requests to be added to such list, the department shall provide the employee with information regarding employment programs and initiatives administered by the department of small business services or other city agencies.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113866" number="32639" version="1811">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall provide a copy of such list to an applicant or licensee pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-508" destination-id="0-0-0-6191">16-508</LINK> or an awardee or designated carter upon request. Additionally, the department shall provide a copy of such list to an awardee within six months of entering into an agreement with such awardee pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> and every six months thereafter for a period of five years.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113865" number="32640" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>The maintenance or provision of such list shall in no way be construed as a recommendation by the city regarding the employment of any person on such list, nor shall the city be responsible for the accuracy of the information set forth therein.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113864" number="32641" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113761" number="32642" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128603" number="32643" version="497">
+											<HEADING>§ 16-1008 Worker safety training.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19365" name="16-1008"/>§ 16-1008 Worker safety training.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113777" number="32644" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>In addition to any other applicable requirements pursuant to local, state or federal laws or rules, no later than 180 days after the date on which an awardee enters into an agreement with the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, each designated carter that will be operating pursuant to such agreement shall be responsible for ensuring that all workers, including but not limited to, vehicle operators, laborers, helpers, mechanics, supervisors and managers, employed by such designated carter as of such date have received worker safety training as required by this section. For workers employed by such designated carter after an awardee enters into an agreement with the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, such worker safety training shall be provided within 90 days after the start of employment or prior to the initial assignment of a worker to a job or task, whichever is earlier.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113863" number="32645" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each designated carter shall provide for a worker safety training program at no cost to workers to ensure its workers are properly trained for each assigned job or task to be performed and use of related equipment. The worker safety program shall include a review of any hazardous activities of the job that are relevant to the tasks and activities to be performed. For vehicle operators, laborers and helpers who are directly assigned to the collection, removal, transport or disposal of trade waste on or about the public right of way, such training shall consist of no less than 40 hours, of which no fewer than 16 hours shall be dedicated to classroom instruction. For all other workers, such training shall consist of no less than 8 hours.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113862" number="32646" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such worker safety training program shall be tailored for individual operations, hazards or potential hazards present, and the type of equipment utilized including detailed equipment-specific training for drivers, equipment operators and loaders, as well as maintenance personnel and supervisors. Training shall include a practical demonstration of equipment operation, the knowledge and skills needed by the employee to operate such equipment and the consequences for failure to operate the equipment properly, as appropriately related to the requirements of the worker&apos;s job duties.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113861" number="32647" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>(a)<TAB tab-count="1"/>All training shall include, at a minimum, educating workers on workplace safety requirements, operational instruction on each specific type of equipment used by the employee, and training to address specific public safety hazards associated with collecting, transporting and removing commercial waste, including but not limited to, training, as applicable, on:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113860" number="32648" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(1)<TAB tab-count="1"/>collision avoidance, including defensive driving and best practices to avoid collisions with pedestrians, cyclists and other sensitive road users;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113859" number="32649" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>pre-trip vehicle and equipment inspections;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113858" number="32650" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(3)<TAB tab-count="1"/>state and local traffic laws, including speed limits, yielding, and bus and bicycle lane restrictions;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113857" number="32651" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(4)<TAB tab-count="1"/>preventing distracted driving;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113856" number="32652" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(5)<TAB tab-count="1"/>navigating intersections and turns;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113855" number="32653" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(6)<TAB tab-count="1"/>backing up a commercial waste vehicle;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113854" number="32654" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(7)<TAB tab-count="1"/>best practices for safe collection stops;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113853" number="32655" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(8)<TAB tab-count="1"/>container management;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113852" number="32656" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(9)<TAB tab-count="1"/>hopper operation;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113851" number="32657" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(10)<TAB tab-count="1"/>fire prevention and response; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113850" number="32658" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(11)<TAB tab-count="1"/>transporting and disposing of specialized waste or hazardous materials.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113849" number="32659" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(b)<TAB tab-count="1"/>All such training shall be consistent with all applicable laws, rules and regulations, including but not limited to, requirements administered by the United States occupational safety and health administration, the United States department of transportation, the New York state department of transportation, the United States department of labor, and the New York state department of labor.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113848" number="32660" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The worker safety training program required by this section shall include a language access plan to ensure that the needs of workers with limited English proficiency are adequately addressed by the designated carter&apos;s worker safety training program. Such language access plan shall include, at a minimum, a description of the language access needs of the designated carter&apos;s workforce and specific language assistance tools to be used in the administration of the worker safety training program designed to meaningfully address such needs. Such language access plan shall be updated annually and made available for inspection upon request by the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113847" number="32661" version="223">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>Each designated carter shall provide re-training of employees as follows:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113846" number="32662" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>An annual refresher training class to all workers;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113845" number="32663" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>No less 90 days after a change in the worker&apos;s job assignment or a change in equipment used by the worker that presents a new hazard;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113844" number="32664" version="226">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>No less than 90 days after an inspection by the department reveals, or the designated carter has reason to believe, that there are material deviations from workplace safety requirements or inadequacies in worker knowledge of workplace safety requirements.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113843" number="32665" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>Each designated carter shall refer workers to, and have readily available, the manufacturer&apos;s, installer&apos;s or modifier&apos;s instructions to ensure that correct operating and maintenance procedures and work practices are understood and followed.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113842" number="32666" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>Upon each worker&apos;s completion of the worker safety program required by this section, the designated carter shall issue to each such worker a safety training card evidencing the completion of such safety training which such worker shall carry with him or her during the performance of his or her duties.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113841" number="32667" version="223">
+												<PARA>
+													<TAB tab-count="1"/>h.<TAB tab-count="1"/>Each designated carter shall maintain training records, including the name of each worker, date or dates of training, the type of training received by each worker, and the language in which such training was provided. Records shall be maintained for a period of three years and be made available for inspection upon request by the department.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113840" number="32668" version="223">
+												<PARA>
+													<TAB tab-count="1"/>i.<TAB tab-count="1"/>A designated carter shall certify to the department that it has met the requirements of this section, in the form and manner as the commissioner may prescribe, no later than 180 days after the date of the agreement between an awardee and the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> under which the designated carter will first provide commercial waste collection services or, for subcontractors, the date on which the department approves the designated carter as a subcontractor of the awardee, and annually thereafter.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113839" number="32669" version="223">
+												<PARA>
+													<TAB tab-count="1"/>j.<TAB tab-count="1"/>No later than 180 days after the effective date of the local law that added this section, the commissioner shall convene a commercial waste zone safety task force to monitor industry conditions in order to make recommendations regarding improving worker safety training and other ways to protect the public from potential dangers posed by commercial waste hauling activities. Such task force shall be composed of the commissioner, who shall serve as the chairperson of such task force, the chair of the business integrity commission, the speaker of the council, or the designees of any of these such members, and eight additional members, four of which shall be appointed by the mayor and four of which shall be appointed by the speaker of the council. Such task force shall include members who are representative of the commercial waste hauling industry and persons having expertise in workplace safety.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113838" number="32670" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such task force shall meet at least quarterly each year for the first two years of its existence and at least annually for three years thereafter.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113837" number="32671" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such task force shall periodically on its own initiative, or upon request of the commissioner, provide the commissioner with recommendations relating to improving the worker safety training required by this section and other ways to protect the public from potential dangers posed by commercial waste hauling activities. Any such recommendations shall be made available to the commissioner, the chair of the business integrity commission, and all awardees and designated carters within one year of the first meeting of the task force and annually for four years thereafter. In making such recommendations, such task force shall consider, but need not be limited to considering, the following:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113836" number="32672" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Personal protection equipment;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113835" number="32673" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Safely working with and operating vehicle equipment and machines;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113834" number="32674" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Handling heavy materials and proper lifting techniques;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113833" number="32675" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Working with hazardous chemicals or other materials;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113832" number="32676" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Emergency action plans, fire prevention and fire protection;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113831" number="32677" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Hazard communication;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113830" number="32678" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Drug and alcohol awareness;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113829" number="32679" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(h)<TAB tab-count="1"/>First aid, including cardiopulmonary resuscitation (CPR) and automated external defibrillator (AED) use; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113828" number="32680" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Whether and under what circumstances a person would be permitted to transfer safety training acquired or obtained under one employer to another employer.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113827" number="32681" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113760" number="32682" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128604" number="32683" version="497">
+											<HEADING>§ 16-1009 Whistleblower protections.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19367" name="16-1009"/>§ 16-1009 Whistleblower protections.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113778" number="32684" version="223">
+												<PARA>It shall be unlawful for an awardee or designated carter or the agent of an awardee or designated carter to take or threaten to take a retaliatory personnel action, as defined by section 740 of the labor law, against an employee of such awardee or designated carter for reporting to the officer or employee of any city agency information concerning the conduct of such awardee or designated carter or such agent, which the employee knows or reasonably believes to involve a violation of the provisions of this title or any rules promulgated pursuant thereto or the terms of any applicable agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113826" number="32685" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113759" number="32686" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128605" number="32687" version="497">
+											<HEADING>§ 16-1010 Outreach and education.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19369" name="16-1010"/>§ 16-1010 Outreach and education.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113779" number="32688" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner, together with the chair of the business integrity commission and any other agency designated by the mayor, shall establish an outreach and education program aimed at educating commercial establishments on the implementation of the commercial waste zone collection system, instructions for arranging for collection of commercial waste, and the environmental, health and safety benefits to be yielded through such system. This outreach and education program shall include but not be limited to, seminars, webinars, conferences, and a multilingual public education program.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113825" number="32689" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner may seek the assistance of for-profit and not-for-profit corporations in providing education to commercial establishments pursuant to subdivision a of this section.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113824" number="32690" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>No later than 90 days following the selection of awardees within a commercial waste zone pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>, the commissioner shall distribute a multilingual letter to all commercial establishments within such zone informing them of their obligations to comply with the provisions of this chapter and any rules promulgated pursuant thereto. Failure to receive a letter pursuant to this subdivision shall not eliminate or otherwise affect the obligations of a commercial establishment pursuant to this chapter and any rules promulgated pursuant thereto.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113823" number="32691" version="223">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The commissioner, together with the chair of the business integrity commission and any other agency designated by the mayor, shall also conduct an outreach and education program aimed at educating businesses within the commercial waste industry about the requirements and procedures for those interested in operating as awardees or designated carters pursuant to this title. Such program shall include but not be limited to, targeted outreach to minority and women-owned business enterprises and the facilitation of information exchange between such business enterprises and other businesses within the commercial waste industry.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113822" number="32692" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113758" number="32693" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128606" number="32694" version="497">
+											<HEADING>§ 16-1011 Agency reporting.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19371" name="16-1011"/>§ 16-1011 Agency reporting.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113780" number="32695" version="1762">
+												<PARA>On or before September 30, 2020, and annually thereafter, the commissioner shall issue a report to the speaker of the council and the mayor and post such report on the agency&apos;s website. Such report shall include but not be limited to, information regarding the implementation of the commercial waste zone program for each month during the previous fiscal year, disaggregated by zone and further disaggregated by awardee, as applicable, on: (i) the cost and volume of solid waste and recyclables collection and disposal; (ii) feedback from commercial establishments; (iii) the number and types of complaints received regarding commercial waste removal; (iv) outreach and education conducted, including the number of trainings and the number of individuals who have participated in such trainings, if applicable, and materials provided; (v) the number of vehicle miles traveled by trucks used to collect, transport or remove commercial waste within commercial waste zones and any change to such number as compared to the previous fiscal year; (vi) diversion of commercial waste from landfill and any change to such diversion as compared to the previous fiscal year; (vii) any recommendations for improving the commercial waste zone collection system; (viii) the feasibility of accepting commercial waste at marine transfer stations; and (ix) the amount and proportion of commercial waste received at marine transfer stations.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113821" number="32696" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113757" number="32697" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128607" number="32698" version="497">
+											<HEADING>§ 16-1012 Reporting by micro-haulers.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19373" name="16-1012"/>§ 16-1012 Reporting by micro-haulers.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113781" number="32699" version="223">
+												<PARA>On or before February 1, 2022 and each February 1 thereafter, any micro-hauler operating within a commercial waste zone shall submit to the department and the business integrity commission the following information for the previous calendar year in a form and in a manner prescribed by the department:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113820" number="32700" version="223">
+												<PARA>
+													<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the amount of source separated organic waste collected from commercial establishments, disaggregated by quarter year;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113819" number="32701" version="223">
+												<PARA>
+													<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the mode of transport of all source separated organic waste collected from commercial establishments, disaggregated by quarter year;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113818" number="32702" version="223">
+												<PARA>
+													<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the disposal location of all source separated organic waste collected from commercial establishments, disaggregated by quarter year; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113817" number="32703" version="223">
+												<PARA>
+													<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>a list of commercial establishments from which source separated commercial waste was collected, disaggregated by zone.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113816" number="32704" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113756" number="32705" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128608" number="32706" version="497">
+											<HEADING>§ 16-1013 Fees.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19375" name="16-1013"/>§ 16-1013 Fees.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113782" number="32707" version="223">
+												<PARA>The commissioner shall promulgate rules establishing fees to be collected from any awardee selected pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK> for the administration of the commercial waste zone program.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113815" number="32708" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113755" number="32709" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128609" number="32710" version="497">
+											<HEADING>§ 16-1014 Minimum rates.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19377" name="16-1014"/>§ 16-1014 Minimum rates.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113783" number="32711" version="223">
+												<PARA>The department may fix by rule and periodically refix minimum rates for the collection, removal or disposal of commercial waste. Such minimum rates shall be based upon a fair and reasonable return to the awardee and consideration of the purposes of this chapter.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113814" number="32712" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113754" number="32713" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128610" number="32714" version="497">
+											<HEADING>§ 16-1015 Penalties, injunction and equitable remedies.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19379" name="16-1015"/>§ 16-1015 Penalties, injunction and equitable remedies.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113784" number="32715" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any person who violates any provision of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1003" destination-id="0-0-0-19355">16-1003</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1004" destination-id="0-0-0-19357">16-1004</LINK>, or any rules promulgated pursuant to such sections or any order issued by the commissioner or chair of the business integrity commission pursuant to such sections shall be liable for a civil penalty of $10,000 for each violation, or, in the case of a continuing violation, $10,000 for each day of such violation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113813" number="32716" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Any person who violates any provision of paragraphs 1 through 9 of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1005" destination-id="0-0-0-19359">16-1005</LINK> shall be liable for a civil penalty of $2,500 for the first violation, and, for subsequent violations that occur within a two-year period of any previous violation, $5,000 for the second violation and $10,000 for any subsequent violation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113812" number="32717" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>Any person who violates any provision of paragraphs 10 through 12 of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1005" destination-id="0-0-0-19359">16-1005</LINK> shall be liable for a civil penalty of $500 for the first violation, and, for subsequent violations that occur within a two year period of any previous violation, $750 for the second violation and $1,000 for any subsequent violation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113811" number="32718" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Any person who violates any provision of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1005" destination-id="0-0-0-19359">16-1005</LINK> shall be liable for a civil penalty of $10,000 per vehicle that is in violation. Each notice of violation shall contain an order of the commissioner or chair of the business integrity commission directing the respondent to correct the condition constituting the violation and to file with the department electronically, or in such other manner as the commissioner shall authorize, a certification that the condition has been corrected within thirty days from the date of the order. In addition to such civil penalty, a separate additional penalty shall be imposed of $500 for each day that the violation is not corrected beyond thirty days from such order.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113810" number="32719" version="680">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>For the purposes of this section, if a court of competent jurisdiction or the office of administrative trials and hearings, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the charter, finds that a certification of correction filed pursuant to this subdivision contained material false statements relating to the correction of a violation, such certification of correction shall be null and void. It shall be an affirmative defense that the respondent neither knew nor should have known that such statements were false.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113809" number="32720" version="223">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The civil penalty for each violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1008" destination-id="0-0-0-19365">16-1008</LINK> shall be $1,000. A violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1008" destination-id="0-0-0-19365">16-1008</LINK> shall be computed on a per employee basis. Notwithstanding any other provision of this section, any penalty imposed for a violation of subdivision i of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1008" destination-id="0-0-0-19365">16-1008</LINK> shall be mitigated to zero dollars if, on or before the initial return date stated on the notice of violation, a designated carter who fails to provide the certification required pursuant to subdivision i of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1008" destination-id="0-0-0-19365">16-1008</LINK> submits proof of having cured such violation at the hearing of such notice of violation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113808" number="32721" version="223">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>Any person who violates any provision of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1012" destination-id="0-0-0-19373">16-1012</LINK> shall be liable for a civil penalty of $1,000, except that such penalty shall be mitigated to zero dollars if on or before the initial return date stated on the notice of violation, a micro-hauler who fails to file the report required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1012" destination-id="0-0-0-19373">16-1012</LINK> submits proof of having cured the violation at the hearing of such notice of violation.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113807" number="32722" version="680">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>All civil penalties imposed pursuant to this section may be recovered in a civil action in any court of competent jurisdiction or in a proceeding before the office of administrative trials and hearings, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the charter.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113806" number="32723" version="223">
+												<PARA>
+													<TAB tab-count="1"/>g.<TAB tab-count="1"/>The corporation counsel is authorized to commence a civil action on behalf of the city for civil penalties or for injunctive relief to restrain or enjoin any activity in violation of this chapter.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113805" number="32724" version="223">
+												<PARA>
+													<TAB tab-count="1"/>h.<TAB tab-count="1"/>In addition to or as an alternative to any civil penalty pursuant to subdivision a of this section, any person who violates section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1003" destination-id="0-0-0-19355">16-1003</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1004" destination-id="0-0-0-19357">16-1004</LINK> or any of the rules promulgated pursuant thereto shall, upon conviction thereof, be punished for each violation by a criminal fine of not more than $10,000, or in the case of a continuing violation, not more than $10,000 for each day of such violation, or by imprisonment not exceeding six months, or both such criminal fine and imprisonment.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113804" number="32725" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>i.<TAB tab-count="1"/>Any employee that has been the subject of a retaliatory personnel action or the threat of a retaliatory personnel action in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1009" destination-id="0-0-0-19367">16-1009</LINK> or any rules promulgated pursuant thereto shall be entitled to all relief necessary to make the employee whole. Such relief may include but not be limited to: (i) an injunction to restrain the retaliatory action or threat of retaliatory action, (ii) reinstatement to the position such employee would have had but for the retaliatory action or to an equivalent position, (iii) reinstatement of full fringe benefits and seniority rights, (iv) payment of two times back pay, plus interest, and (v) compensation for any special damages sustained as a result of the retaliatory action or threat of retaliatory action, including litigation costs and reasonable attorneys&apos; fees. Such an employee may bring an action in any court of competent jurisdiction for the relief provided in this subdivision.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113803" number="32726" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113753" number="32727" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128611" number="32728" version="497">
+											<HEADING>§ 16-1016 Impoundment and forfeiture.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19381" name="16-1016"/>§ 16-1016 Impoundment and forfeiture.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113785" number="32729" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any vehicle that has been used or is being used in the violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1003" destination-id="0-0-0-19355">16-1003</LINK> shall be impounded by the department or the business integrity commission and shall not be released until either all removal charges and storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner or as otherwise provided in subdivision c of this section. The commissioner shall have the power to establish rules concerning the impoundment and release of vehicles and the payment of removal charges and storage fees for such vehicles, including the amounts and rates thereof.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113802" number="32730" version="680">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>In addition to any other penalties provided in this section, the interest of an owner in any vehicle impounded pursuant to subdivision a of this section shall be subject to forfeiture upon notice and judicial determination thereof if such owner has been convicted of or found liable for a violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1003" destination-id="0-0-0-19355">16-1003</LINK> in a civil or criminal proceeding or in a proceeding before the office of administrative trials and hearings, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the charter two or more times, if at least two of such violations were committed within an eighteen-month period.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113801" number="32731" version="223">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>Except as hereinafter provided, the city agency having custody of a vehicle, after judicial determination of forfeiture, shall no sooner than 30 days after such determination upon a notice of at least five days, sell such forfeited vehicle at public sale. Any person, other than an owner whose interest is forfeited pursuant to this section, who establishes a right of ownership in a vehicle, including a part ownership or security interest, shall be entitled to delivery of the vehicle if such person:<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113800" number="32732" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Redeems the ownership interest which was subject to forfeiture by payment to the city of the value thereof;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113799" number="32733" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Pays the reasonable expenses of the safekeeping of the vehicle between the time of seizure and such redemption; and<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113798" number="32734" version="223">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Asserts a claim within thirty days after judicial determination of forfeiture.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113797" number="32735" version="223">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>Notwithstanding the foregoing provisions, establishment of a claim shall not entitle such person to delivery of the vehicle if the city establishes that the unlawful conduct for which the vehicle was seized was expressly or impliedly permitted by such person.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113796" number="32736" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113752" number="32737" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128612" number="32738" version="497">
+											<HEADING>§ 16-1017 Liability for violations.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19383" name="16-1017"/>§ 16-1017 Liability for violations.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113786" number="32739" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>A designated carter shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its employees or agents.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113795" number="32740" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>An awardee shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any designated carter or other subcontractor performing services pursuant to any agreement entered into pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="16-1002" destination-id="0-0-0-19353">16-1002</LINK>.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113794" number="32741" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113751" number="32742" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128613" number="32743" version="497">
+											<HEADING>§ 16-1018 Enforcement.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19385" name="16-1018"/>§ 16-1018 Enforcement.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113787" number="32744" version="223">
+												<PARA>Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by the department or the business integrity commission. In addition, such notices of violation may be issued by any other agency of the city as designated by the commissioner.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113793" number="32745" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113750" number="32746" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128614" number="32747" version="497">
+											<HEADING>§ 16-1019 Labor and wage violations.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19387" name="16-1019"/>§ 16-1019 Labor and wage violations.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113788" number="32748" version="223">
+												<PARA>Where the commissioner has reasonable cause to believe that a designated carter has engaged in or is engaging in actions: (i) involving egregious or habitual nonpayment or underpayment of wages, or (ii) that constitute a significant violation of city, state or federal labor or employment law, the commissioner shall inform the New York state attorney general, the New York state department of labor, the United States department of labor or other relevant city, state or federal law enforcement agency of such actions.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113792" number="32749" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113749" number="32750" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-128615" number="32751" version="497">
+											<HEADING>§ 16-1020 Administration of commercial waste zones.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-19389" name="16-1020"/>§ 16-1020 Administration of commercial waste zones.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-113789" number="32752" version="223">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Notwithstanding any inconsistent provision of law, the business integrity commission may, upon approval by a majority of its members, elect to assume, in whole or in part, the powers and duties of the commissioner and the department assigned by the local law that added this section, provided that such commission notifies the mayor, the council and the commissioner in writing of such election either (i) within 30 days of the enactment of the local law that added this section, or (ii) subsequently, no less than six months prior to the date that the assumption of powers and duties pursuant to such election takes effect. In the event of an election that is made pursuant to clause (ii) of the preceding sentence, such commission and the department shall take measures to effect an orderly transfer of such powers and duties. Such commission and the department shall make all necessary arrangements with respect to any relevant property, contracts, personnel, funding, administration, enforcement and pending matters. No judicial or administrative action or proceeding, civil or criminal, pending at the time of such election, or any contract in effect at the time of such election, shall be affected or abated by such assumption; all such actions, proceedings or contracts may be continued, but upon the effective date of the assumption of powers and duties by such commission, the same may be prosecuted, defended or enforced by such commission. Any rules promulgated by the department pursuant to the local law that added this section shall remain in effect as rules of such commission until such time as they are repealed or amended by such commission.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113791" number="32753" version="223">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>Subsequent to any election made pursuant to subdivision a of this section, such commission may elect for the department to assume, in whole or in part, powers and duties assumed by the commission pursuant to such subdivision, provided that such assumption shall take effect no less than six months after such election. In such event, the transitional provisions applicable to the initial assumption by such commission in subdivision a of this section shall apply in a similar manner to the assumption by the department pursuant to this subdivision.<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113743" number="32754" version="706">
+												<PARA>(L.L. 2019/199, 11/20/2019, eff. 11/20/2019)<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25"> [ALP S-043]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-113742" number="32755" version="497">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/199" destination-id="0-0-0-20383">L.L. 2019/199</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

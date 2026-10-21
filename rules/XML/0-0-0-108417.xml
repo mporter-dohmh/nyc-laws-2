@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-108417" number="50021" version="1960">
+			<HEADING>Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class Two Properties</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15145" name="T19C056"/>Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class Two Properties</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-108420" number="50022" version="957">
+								<HEADING>§ 56-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15147" name="T19C056_56-01"/>§ 56-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-108469" number="50023" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Class two building</CHARFORMAT>&quot; means any building in a special assessing unit classified as class two pursuant to subdivision 1 of Section 1802 of the Real Property Tax Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108468" number="50024" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner</CHARFORMAT>&quot; means the Commissioner of Finance of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108467" number="50025" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department</CHARFORMAT>&quot; means the Department of Finance of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108466" number="50026" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHCR</CHARFORMAT>&quot; is the New York State Division of Housing and Community Renewal. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108465" number="50027" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DRIE</CHARFORMAT>&quot; is the Disability Rent Increase Exemption program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108464" number="50028" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible Building</CHARFORMAT>&quot; means a class two building that is subject to either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108463" number="50029" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the emergency housing rent control law; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108462" number="50030" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the rent and rehabilitation law of the City of New York enacted, pursuant to the emergency housing rent control law or to the emergency tenant protection act of nineteen seventy-four. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108461" number="50031" version="2301">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">J-51 Program</CHARFORMAT>&quot; is the tax exemption and abatement program governed by Section 489 of the Real Property Tax Law, § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-243" destination-id="0-0-0-0">11-243</LINK> of the Administrative Code of the City of New York and 28 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C005" destination-id="0-0-0-7465">Chapter 5</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108460" number="50032" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Major Capital Improvement</CHARFORMAT>&quot; (&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">MCI</CHARFORMAT>&quot;) – is an improvement or installation to a building subject to either the emergency housing rent control law or the rent and rehabilitation law of the City of New York enacted under the local emergency housing rent control law or under the emergency tenant protection act of 1974 for which DHCR has granted approval for a rent increase to a building owner. MCI increases apply to building-wide improvements, not to individual apartment improvements. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108459" number="50033" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">SCRIE</CHARFORMAT>&quot; is the Senior Citizen Rent Increase Exemption program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108458" number="50034" version="957">
+									<PARA>(Added City Record 7/11/2018, eff. 8/10/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-108472" number="50035" version="957">
+								<HEADING>§ 56-02 Amount of Abatement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15149" name="T19C056_56-02"/>§ 56-02 Amount of Abatement.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-108457" number="50036" version="957">
+									<PARA>An eligible building shall receive an abatement of real property taxes as provided in these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108456" number="50037" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The amount of such tax abatement shall be calculated as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108455" number="50038" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>0.5, multiplied by <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108454" number="50039" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the total approved cost of the MCI order issued by DHCR, multiplied by <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108453" number="50040" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a fraction, where the numerator equals the increase, of the amortization schedule of the improvement established by the rent act of 2015, measured in months, and where the denominator equals the total new amortization period for the MCI established by the rent act of 2015 applied to the eligible building, measured in months. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108452" number="50041" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For eligible buildings with 35 or fewer residential units, the new amortization schedule for an MCI order increases from 7 to 8 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108451" number="50042" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>0.5 x $10,000 [approved cost of MCI order] = $5,000. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108450" number="50043" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>$5,000 x (12 months)/ (96 months) [8 year amortization schedule] = <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108449" number="50044" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>$5,000 x 0.125 =$625. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108448" number="50045" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>The MCI tax abatement for the building is $625. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108447" number="50046" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>For eligible buildings with more than 35 residential units, the new amortization schedule for an MCI order increases from 7 to 9 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108446" number="50047" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>0.5 x $10,000 [approved cost of MCI order] =$5,000. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108445" number="50048" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>$5,000 x (24 months/108 months) [9 year amortization schedule] = <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108444" number="50049" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>$5,000 x 0.222 = $1,111. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108443" number="50050" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>The MCI tax abatement for the building is $1,111. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108442" number="50051" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The department will adjust the amount of the abatement if the DHCR MCI order is amended in the future. However, the original owner will not receive an adjustment in the abatement amount if the MCI was amended after the sale of the real property. If an MCI is amended after the sale, the new owner may apply for an adjustment to the abatement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108441" number="50052" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The department will adjust the amount of the abatement if a subsequent assessment reduction by the New York City Tax Commission or a court of appropriate jurisdiction changes the amount of the abatement that would have been calculated under these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108440" number="50053" version="957">
+									<PARA>(Added City Record 7/11/2018, eff. 8/10/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-108471" number="50054" version="957">
+								<HEADING>§ 56-03 Application for Abatement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15151" name="T19C056_56-03"/>§ 56-03 Application for Abatement.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-108439" number="50055" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Except as allowed by paragraph (b) of this subdivision, an MCI tax abatement application must be submitted electronically to the department by the building owner or his or her designated representative and include all information requested by the department. The submission must follow the format required by the department and follow the instructions for submission of the application as described on the department&apos;s website. The information required by the application will include, but is not limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108438" number="50056" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the amount of the MCI order approved by DHCR <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108437" number="50057" version="957">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the number of residential units in the eligible building. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108436" number="50058" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Request for waiver of electronic filing requirement.</CHARFORMAT> The Commissioner may waive the requirement of an electronic filing for good cause. A request for waiver of the electronic filing requirement must be made in writing. Any filing in paper format must be filed with the department at the address designated by the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108435" number="50059" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The department may request, in writing, additional information from an MCI tax abatement applicant concerning their application. The applicant will be notified in a written notice whether their application is granted or denied. If the MCI tax abatement application is denied, the notice will mention the reasons for the department&apos;s decision and inform the applicant of their right to appeal the decision. The appeal must be submitted by the applicant or his or her designee to the Commissioner within 60 days of the posting of notice by mail. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108434" number="50060" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Building owners must submit MCI tax abatement applications for MCI tax abatements within five years after the date of the order issued by DHCR granting an MCI rent increase. After this period, a building owner will not be eligible for any MCI tax abatement benefits for that MCI order. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108433" number="50061" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>An MCI tax abatement application may not be submitted and an MCI tax abatement will not be granted for MCI orders dated prior to June 15, 2015. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108432" number="50062" version="1378">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>If multiple MCI orders are issued by DHCR for an eligible building the building owner must submit a separate application to the department for each MCI order. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108431" number="50063" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>A building owner may withdraw an MCI tax abatement application submitted to the department prior to May 15th of a calendar year Applications which are not withdrawn by May 15th will be reviewed by the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108430" number="50064" version="957">
+									<PARA>(Added City Record 7/11/2018, eff. 8/10/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-108470" number="50065" version="957">
+								<HEADING>§ 56-04 Administration of Abatement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15153" name="T19C056_56-04"/>§ 56-04 Administration of Abatement.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-108429" number="50066" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An MCI tax abatement will be for a term of one tax year and is not renewable for any subsequent tax years. An MCI tax abatement or a portion thereof cannot be carried over to the next tax year if the MCI tax abatement reduces the tax liability to an amount below $0. An MCI tax abatement is not refundable but applied only as a credit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108428" number="50067" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The date an approved MCI tax abatement is applied depends on the date the MCI tax abatement application is received by the department. An approved application received by the department before May 15th of a calendar year will be applied in the tax year starting on July 1st of that calendar year. Approved applications received on or after May 15th of a calendar year will be applied in the tax year starting on July 1st of the following calendar year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108427" number="50068" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>An MCI tax abatement will not reduce or offset any other tax benefit provided, calculated or approved by the City of New York or the State of New York. The MCI tax abatement will be applied prior to the application of SCRIE or DRIE credits or J-51 program abatements. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108426" number="50069" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>An MCI tax abatement is compatible with other tax benefits unless specifically prohibited by statute. A building is not eligible to receive an abatement if it receiving benefits under Sections 420-c, 421-a, and 421-g of the Real Property Tax Law, or any other provision that prohibits the receipt of other benefits. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108425" number="50070" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If multiple applications are submitted for the same tax lot, the MCI tax abatement will be calculated using the number of units specified in the MCI order issued by DHCR applicable to the building that is the subject of the individual application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108424" number="50071" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>If an MCI tax abatement is approved for a building that is included within multiple tax lots, each lot will be allocated a fraction of the abatement proportional to each lot&apos;s percentage of the total combined actual assessed value of the lots for the tax year that the abatement is applied. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108423" number="50072" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>If an apportionment or merger occurs after an MCI order is issued by DHCR, the department will make the appropriate allocation of the MCI tax abatement to the successor tax lots. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108422" number="50073" version="957">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>In enacting the MCI tax abatement the department in no way intends to affect the legal status of any apartment in an eligible building. Should it ever be determined that the receipt of an MCI tax abatement will affect the legal status of an apartment in a building, such as subjecting a decontrolled apartment to rent regulation, the building owner may withdraw its pending application for an MCI tax abatement or renounce an MCI tax abatement that has been received. Such renunciation by the building owner shall be deemed to void the MCI tax abatement ab initio. If an eligible building owner renounces an MCI tax abatement received, the building owner shall have thirty (30) days to pay the revised tax bill without interest being imposed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-108419" number="50074" version="957">
+									<PARA>(Added City Record 7/11/2018, eff. 8/10/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-028]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

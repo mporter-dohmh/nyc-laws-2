@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-47930" number="61506" version="3">
+			<HEADING>Chapter 17: Periodic Reports on Inclusionary Housing Programs</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-11727" name="T26C017"/>Chapter 17: Periodic Reports on Inclusionary Housing Programs</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-47931" number="61507" version="3">
+										<HEADING>§ 26-1701 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11729" name="26-1701"/>§ 26-1701 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-47932" number="61508" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Unless otherwise indicated, the following terms, as used in this chapter, shall have the meanings ascribed to such terms by the New York city zoning resolution: administering agent; affordable floor area; affordable housing fund; affordable housing unit; compensated development; dwelling unit; generating site; inclusionary housing designated area; income band; MIH development; MIH site and zoning lot. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47933" number="61509" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>As used in this chapter, the term &quot;department&quot; means the department of housing preservation and development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47934" number="61510" version="712">
+											<PARA>(L.L. 2017/200, 11/17/2017, eff. 11/17/2017; Am L.L. 2017/212, 11/17/2017, eff. 11/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-47935" number="61511" version="3">
+										<HEADING>§ 26-1702 Annual report.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11731" name="26-1702"/>§ 26-1702 Annual report.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-47936" number="61512" version="1762">
+											<PARA>No later than September 1 of each year, the department, in consultation with the department of buildings and the department of city planning, shall publish an interactive map on the department&apos;s website and shall make the data used to compile such map publicly available in a form that permits automated processing and downloading. Such map shall indicate or provide a link to the following information for each zoning lot that contains a generating site, a compensated development, an MIH development or an MIH site: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47937" number="61513" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Whether such lot contains a generating site, a compensated development, an MIH development or an MIH site; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47938" number="61514" version="3">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>For each generating site, whether such site is located in a R10 district or within an inclusionary housing designated area; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47939" number="61515" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The address, block and lot number of such lot; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47940" number="61516" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The source and type of all financial assistance, including but not limited to grants, loans, subsidies, tax credits and tax exemptions or abatements, provided by any federal, state or local agency or instrumentality for the purpose of promoting the creation, preservation or rehabilitation of affordable floor area; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47941" number="61517" version="3">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The number of affordable housing units located at or provided in connection with such lot, disaggregated by income band; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47942" number="61518" version="3">
+											<PARA>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>The administering agent for affordable housing units located at or provided in connection with such lot; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47943" number="61519" version="3">
+											<PARA>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>If such lot contains a compensated development or an MIH development, the address, block and lot number of the generating site or MIH site for such lot. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47944" number="61520" version="712">
+											<PARA>(L.L. 2017/200, 11/17/2017, eff. 11/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-47945" number="61521" version="3">
+										<HEADING>§ 26-1703 Reporting on affordable housing fund.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11733" name="26-1703"/>§ 26-1703 Reporting on affordable housing fund.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-47946" number="61522" version="1762">
+											<PARA>On or before September 30, 2018, and annually thereafter, the department shall publish on the department&apos;s website a report on contributions to and expenditures from the affordable housing fund. The information in such report shall be indexed by borough and community district and shall include the total amount of money in such fund available for exclusive use in each community district and for use in each borough without regard to community district. Such report shall include, at a minimum, the following information about each zoning lot for which a contribution is made to such fund: (i) the name of the owner of such lot; (ii) the address, block and lot number; (iii) the total number of dwelling units located at such lot; (iv) the amount of affordable floor area that would otherwise be required at such lot in lieu of such contribution pursuant to section 23-154 of the New York city zoning resolution; and (v) the total amount of contributions made in connection with such lot. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-47947" number="61523" version="712">
+											<PARA>(L.L. 2017/212, 11/17/2017, eff. 11/17/2017) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-019]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

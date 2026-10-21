@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-682" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-4" number="4" version="3">
+			<HEADING>Title 1: General Provisions</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-709" name="T01"/>Title 1: General Provisions</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-5" number="5" version="3">
+				<HEADING>Chapter 1: Rules of Construction</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-711" name="T01C001"/>Chapter 1: Rules of Construction</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+								<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-6" number="6" version="3">
+											<HEADING>§ 1-101 Short title. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-713" name="1-101"/>§ 1-101 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Short title. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-7" number="7" version="2263">
+												<PARA>This code shall be known and may be cited as &quot;administrative code of the city of New York.&quot;</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-8" number="8" version="3">
+											<HEADING>§ 1-102 Legislative intent. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-715" name="1-102"/>§ 1-102 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Legislative intent. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-9" number="9" version="2502">
+												<PARA>It is the intent of the legislature by the enactment of this chapter to recodify, without substantive change, the administrative code of the city of New York in effect immediately prior to the effective date of this chapter. The enactment of this code shall not be construed as validating, ratifying or conforming any provision hereof which was enacted by any local law of the city of New York, and incorporated within the prior administrative code of the city of New York and recodified in this code which the city was without authority to enact at the time of such enactment of such local law.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-10" number="10" version="3">
+											<HEADING>§ 1-103 Effect of local law. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-717" name="1-103"/>§ 1-103 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effect of local law. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-11" number="11" version="3">
+												<PARA>This chapter shall not operate to deprive the local legislative body of the city of New York of the power to enact local laws in relation to any matter in respect to which such power would otherwise exist, nor shall it limit such power. If this power otherwise exists, any provision of this chapter may be superseded, supplemented or amended by local law in the same manner and to the same extent as such provisions could be superseded, supplemented or amended had this chapter not been enacted.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-12" number="12" version="3">
+											<HEADING>§ 1-104 Judicial notice. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-719" name="1-104"/>§ 1-104 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Judicial notice. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-13" number="13" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>All courts shall take judicial notice of all laws contained in the code, the charter, local laws, ordinances, the health code, resolutions, and of all rules and regulations adopted pursuant to law. </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-14" number="14" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>The compilations of rules and regulations published pursuant to subdivision f of section eleven hundred five of the charter shall be prima facie evidence in all courts of the authenticity of the provisions contained therein. </PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-15" number="15" version="3">
+											<HEADING>§ 1-105 Separability. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-721" name="1-105"/>§ 1-105 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Separability. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-16" number="16" version="3">
+												<PARA>If any clause, sentence, paragraph, section or part of the code shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered. </PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-17" number="17" version="3">
+											<HEADING>§ 1-106 No failure of applicable statutes. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-723" name="1-106"/>§ 1-106 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">No failure of applicable statutes. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-18" number="18" version="3">
+												<PARA>Any provision of any statute applicable to the city or any part thereof, now or hereafter enacted, imposing functions generally, specifically or by devolution, upon any agency, which is not identified in the city by the designation provided in such statute, shall be deemed to have imposed such functions upon any agency of the city or part thereof, to which has been transferred the functions of the designated agency or which exercises similar functions, or in the absence of such agency, upon the mayor.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-19" number="19" version="3">
+											<HEADING>§ 1-107 Pending actions and proceedings. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-725" name="1-107"/>§ 1-107 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Pending actions and proceedings. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-20" number="20" version="1758">
+												<PARA>No action or proceeding, civil or criminal, pending at the time the code shall take effect, brought by or against the city or any agency or officer thereof, shall be affected or abated by the adoption of the code or by anything therein contained. All such actions and proceedings may be continued in full force and effect under the appropriate provisions of the code.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-21" number="21" version="3">
+											<HEADING>§ 1-108 Existing rights and remedies saved. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-727" name="1-108"/>§ 1-108 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Existing rights and remedies saved. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-22" number="22" version="3">
+												<PARA>No existing right or remedy of any kind shall be lost or impaired by reason of this recodification.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-23" number="23" version="3">
+											<HEADING>§ 1-109 Enumeration of powers not restrictive. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-729" name="1-109"/>§ 1-109 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Enumeration of powers not restrictive. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-24" number="24" version="3">
+												<PARA>The enumeration of specific powers by this code shall not operate to restrict the meaning of a general grant of power contained in this code or to exclude other powers comprehended in such general grant.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-25" number="25" version="3">
+											<HEADING>§ 1-110 No repeal by implication. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-731" name="1-110"/>§ 1-110 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">No repeal by implication. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-26" number="26" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>It is not intended by this code to repeal by implication any existing provision of law and no law shall be deemed repealed thereby unless expressly provided for herein. </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-27" number="27" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>No law hereafter enacted shall be construed to repeal any provision of this code by implication, but every such provision shall be deemed to be in full force and effect until specifically repealed or amended. </PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-28" number="28" version="3">
+											<HEADING>§ 1-111 Amendment of water supply provisions. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-733" name="1-111"/>§ 1-111 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Amendment of water supply provisions. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-29" number="29" version="3">
+												<PARA>All rights and powers to amend, modify, extend or supersede any provision or provisions of sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-376" destination-id="0-0-0-735">5-376</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-399" destination-id="0-0-0-737">5-399</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-401" destination-id="0-0-0-739">5-401</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-403" destination-id="0-0-0-741">5-403</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-410" destination-id="0-0-0-743">5-410</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-418" destination-id="0-0-0-745">5-418</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-423" destination-id="0-0-0-747">5-423</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-424" destination-id="0-0-0-749">5-424</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-426" destination-id="0-0-0-751">5-426</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="5-429" destination-id="0-0-0-753">5-429</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-301" destination-id="0-0-0-755">24-301</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-347" destination-id="0-0-0-757">24-347</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-352" destination-id="0-0-0-759">24-352</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-354" destination-id="0-0-0-761">24-354</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="24-365" destination-id="0-0-0-763">24-365</LINK> of this code and any other provision or provisions of this code relating to any lands now or hereafter acquired outside the corporate limits of the city for water supply purposes, including highways, bridges and sewers, are hereby reserved to the legislature of the state of New York.</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-30" number="30" version="3">
+											<HEADING>§ 1-112 Definitions. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-765" name="1-112"/>§ 1-112 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-226728" number="31" version="2092">
+												<PARA>Unless expressly otherwise provided, whenever used in the code, the following terms shall mean or include: </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-32" number="32" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency</CHARFORMAT>&quot;. A city, county, borough, or other office, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-33" number="33" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Budget</CHARFORMAT>&quot;. The expense budget unless the context otherwise requires.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-34" number="34" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Charter</CHARFORMAT>&quot;. The New York city charter.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-35" number="35" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>4.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City</CHARFORMAT>&quot;. The city of New York.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-36" number="36" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>5.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">County</CHARFORMAT>&quot;. Any county wholly included within the city of New York.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-37" number="37" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>6.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employee</CHARFORMAT>&quot;. Any person whose salary in whole or in part is paid out of the city treasury.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-38" number="38" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>7.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Intercepting sewer</CHARFORMAT>&quot;. A sewer the principal purpose of which is the interception from other sewers and conveyance of sewage to treatment plants. In case of doubt the board of estimate shall decide whether a sewer is an intercepting sewer.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-39" number="39" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>8.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Law</CHARFORMAT>&quot;. Any provision of the constitution, enactments of the state legislature, the charter, the administrative code, any local law, or any rule or regulation adopted pursuant to any of the aforementioned.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-40" number="40" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>9.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maintenance</CHARFORMAT>&quot;. Includes minor repairs, and in case of doubt the mayor or an officer designated by him shall decide whether a repair is a minor repair.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-41" number="41" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>10.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person</CHARFORMAT>&quot;. A natural person, co-partnership, firm, company, association, joint stock association, corporation or other like organization.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-42" number="42" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>11.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Real property</CHARFORMAT>&quot;. Includes real estate, lands, tenements and hereditaments, corporeal or incorporeal.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-43" number="43" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>12.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Statute</CHARFORMAT>&quot;. Any enactment of the legislature of the state of New York.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-44" number="44" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>13.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Street</CHARFORMAT>&quot;. Any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, except marginal streets.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-45" number="45" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>14.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">The code</CHARFORMAT>&quot;. The administrative code of the city.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-46" number="46" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>15.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">The port of New York</CHARFORMAT>&quot;. Includes all the waters of the North River, the East River and the Harlem River and all the tidal waters embraced within or adjacent to or opposite to the shores of the city.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-47" number="47" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>16.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Three-fourths vote and two-thirds vote</CHARFORMAT>&quot;. When they apply to the board of estimate, shall mean, respectively, three-fourths and two-thirds of the total number of votes which all the members of the board are entitled to cast.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-48" number="48" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>17.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Wharf property</CHARFORMAT>&quot;. Wharves, piers, docks and bulkheads and structures thereon and slips and basins, the land beneath any of the foregoing, and all rights, privileges and easements appurtenant thereto and land under water in the port of New York, and such upland or made land adjacent thereto as was vested in the department of docks on January first, nineteen hundred thirty-eight or thereafter was or may be assigned to it or its successor agencies.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-49" number="49" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>18.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water front property</CHARFORMAT>&quot;. Property fronting on all the tidal waters in the port and city of New York and extending inshore to the property line of the first adverse owner and shall include such land under water extending outshore to the pierhead line or the property line, whichever extends furthest outshore.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-50" number="50" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>19.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water front commerce</CHARFORMAT>&quot;. The activity on water front property which encompasses the receipt of cargo or goods at the wharves, piers, docks or bulkheads from ships and their delivery to points inland or the receipt of such cargo or goods at such wharves, piers, docks or bulkheads from points inland for shipment by ships and shall include the temporary storage of such cargo or goods in the sheds or warehouses on such property pending their delivery or shipment.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-51" number="51" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>20.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Furtherance of navigation</CHARFORMAT>&quot;. The activity on water front property which involves ship building, ship repairing, boating, dry dock facilities and similar uses.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-52" number="52" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>21.<TAB tab-count="1"/>The term &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">domestic partner</CHARFORMAT>&quot; shall mean persons who have a registered domestic partnership pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-240" destination-id="0-0-0-767">3-240</LINK> of the administrative code, a domestic partnership registered in accordance with executive order number 123, dated August 7, 1989, or a domestic partnership registered in accordance with executive order number 48, dated January 7, 1993. </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-53" number="53" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>22.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notice of violation</CHARFORMAT>&quot;. An instrument charging a person or entity with violation of a local law or rule. &quot;Notice of violation&quot; shall be deemed to include a &quot;civil summons&quot;, &quot;a summons for a civil violation&quot; and a &quot;notice of hearing&quot;. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-002]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-54" number="54" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>23.<TAB tab-count="1"/>“<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Menstrual products</CHARFORMAT>”. Menstrual cups, tampons, and menstrual pads for use in connection with the menstrual cycle. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-102]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-228742" number="55" version="2374">
+												<PARA>
+													<TAB tab-count="1"/>24.<TAB tab-count="1"/>“<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">The New York city land bank</CHARFORMAT>”. The term “New York city land bank” means a land bank established pursuant to a local law for the year 2025, relating to creating a land bank, as proposed in introduction number 570-b.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-240214" number="56" version="2374">
+												<PARA>(Am. L.L. 2016/071, 6/13/2016, eff. 6/13/2016; Am. L.L. 2024/012, 1/6/2024, eff. 10/2/2024; Am. L.L. 2026/056, 1/29/2026, eff. 1/29/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-118]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-55" number="57" version="2374">
+												<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+													<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+														<BOOKMARK id="0-0-0-24542" name=""/>Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1998/027" destination-id="0-0-0-25818">L.L. 1998/027</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2016/071" destination-id="0-0-0-20543">L.L. 2016/071</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2026/056" destination-id="0-0-0-28828">L.L. 2026/056</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-118]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-129752" number="58" version="579">
+											<HEADING>§ 1-113 Gender neutral language. </HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-769" name="1-113"/>§ 1-113 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Gender neutral language. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-56" number="59" version="3">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Except as otherwise provided in this section, all laws, documents and materials generated by the city shall be drafted in a gender-neutral manner and shall not include gender-biased terminology; including, but not limited to, the term &quot;councilman&quot; and &quot;councilmanic.&quot; To the extent consistent with the meaning of this law, masculine pronouns may be used together with feminine pronouns in reference to elected officials, commissioners and similar persons. </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-57" number="60" version="3">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding the provisions of subdivision a of this section, no law, document, or other material of the city shall be invalidated due to the inclusion of gender-biased terminology. </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-58" number="61" version="3">
+												<PARA>
+													<TAB tab-count="1"/>c.<TAB tab-count="1"/>Notwithstanding the provisions of subdivision a of this section, no agency of the city shall be required to dispose of any materials that were produced prior to the enactment of this section and which may include gender-biased terminology.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-59" number="62" version="3">
+												<PARA>
+													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The provisions of subdivision a of this section shall in no way interfere with the ability of any agency of the city to collect gender-specific information, to the extent permitted by law, as necessary to carry out their responsibilities; including, but not limited to, maintaining personnel files, generating medical records, or creating police records.</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-60" number="63" version="3">
+												<PARA>
+													<TAB tab-count="1"/>e.<TAB tab-count="1"/>The provisions of subdivision a of this section shall not apply to any law, document, or material that addresses a gender-specific matter; including, but not limited to, pregnancy or maternal health. </PARA>
+											</RECORD>
+											<RECORD id="0-0-0-61" number="64" version="1988">
+												<PARA>
+													<TAB tab-count="1"/>f.<TAB tab-count="1"/>All laws, documents, and materials generated by the city shall be drafted using the term “menstrual products” when referring to products for use in connection with the menstrual cycle such as menstrual cups, tampons, and menstrual pads. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-093]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-226699" number="65" version="1988">
+												<PARA>(Am. L.L. 2024/008, 1/6/2024, eff. 1/6/2024) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-093]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+										<RECORD id="0-0-0-226697" number="66" version="1988">
+											<HEADING>§ 1-114 Language referring to noncitizens.</HEADING>
+											<PARA>
+												<DESTINATION id="0-0-0-20053" name="1-114"/>§ 1-114 Language referring to noncitizens.</PARA>
+										</RECORD>
+										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+											<RECORD id="0-0-0-124180" number="67" version="1765">
+												<PARA>
+													<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any law, rule, order or other document, or material created by the city shall not use the terms &quot;alien,&quot; &quot;illegal immigrant,&quot; or &quot;illegal migrant&quot; to refer to an individual who is not a citizen of the United States, provided that: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-050]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-124179" number="68" version="382">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>1.<TAB tab-count="1"/>A law, rule, order, or any other document or material shall not be deemed invalid due to the inclusion of such a term. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-050]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-124178" number="69" version="382">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>2.<TAB tab-count="1"/>An agency shall not be required to dispose of any printed material that includes such a term if such material was produced prior to the effective date of the local law that added this section, and may use such material until it is exhausted. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-050]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-124177" number="70" version="1762">
+												<PARA>
+													<TAB tab-count="1"/>
+													<TAB tab-count="1"/>3.<TAB tab-count="1"/>An agency of the city may use such a term in a law, rule, order, or other document or material if the agency determines that using such a term is required pursuant to a state or federal law, or that excluding such term would be inconsistent with state or federal law, or that using such a term is reasonably necessary to achieve the agency&apos;s purpose. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-050]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-124176" number="71" version="382">
+												<PARA>
+													<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than one year after the effective date of this section, each agency shall review its rules and other documents or materials to identify any use of the terms prohibited by subdivision a of this section, and amend any such rule that is in effect on the effective date of this section, or revise any such other document or material, in accordance with this section, provided that the failure to amend any such rule, document or material shall not change the validity thereof, and further provided that this paragraph shall not apply to orders issued before the effective date of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-050]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+											<RECORD id="0-0-0-124174" number="72" version="403">
+												<PARA>(L.L. 2020/058, 6/29/2020, eff. 8/28/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-050]</HIGHLIGHTER>
+												</PARA>
+											</RECORD>
+										</LEVEL>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

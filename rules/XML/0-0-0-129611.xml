@@ -1,0 +1,940 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-129611" number="32763" version="2227">
+			<HEADING>Chapter 21: Water Shortage Emergency Rules</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-3733" name="T15C021"/>Chapter 21: Water Shortage Emergency Rules</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-27916" number="32764" version="2227">
+				<PARA>
+					<PARAFORMAT justify="center">(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-132817" number="32765" version="2227">
+				<HEADING>Subchapter A: General Provisions</HEADING>
+				<PARA>Subchapter A: General Provisions</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-27917" number="32766" version="3">
+								<HEADING>§ 21-01 Introduction.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3735" name="T15C021_21-01"/>§ 21-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Introduction.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27918" number="32767" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The provisions of this subchapter apply to all stages of a Water Shortage Emergency in the City, unless otherwise specifically provided herein. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132831" number="32768" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Commissioner may declare any one of three stages of a Water Shortage Emergency, based on the anticipated severity of the shortage and the need to reduce consumption, as described in these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27919" number="32769" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132818" number="32770" version="2227">
+								<HEADING>§ 21-02 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3737" name="T15C021_21-02"/>§ 21-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27933" number="32771" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Acceptable irrigation controller.</CHARFORMAT> &quot;Acceptable irrigation controller&quot; means a microprocessor-based controller for the valve(s) of an irrigation system that can be programmed for the various time and date intervals set forth in 15 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-10" destination-id="0-0-0-3753">21-10</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-11" destination-id="0-0-0-3755">21-11</LINK>, and that incorporates a rain sensor, soil moisture sensor or evapo-transpiration control. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132850" number="32772" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Active source.</CHARFORMAT> &quot;Active source&quot; means any sprinkling device or system and any device that delivers water under pressure. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132849" number="32773" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City.</CHARFORMAT> &quot;City&quot; means the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132848" number="32774" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City water.</CHARFORMAT> &quot;City water&quot; means water supplied by or taken from the City water supply system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132847" number="32775" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City water supply system.</CHARFORMAT> &quot;City water supply system&quot; means any public water supply system owned or operated by the City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132846" number="32776" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> &quot;Commissioner&quot; means the Commissioner of the Department or his or her designee or successor in function, who may perform all functions of the Commissioner authorized under the Chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132845" number="32777" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> &quot;Department&quot; means the New York City Department of Environmental Protection or its successor in function. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132844" number="32778" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Golf course fairway and rough.</CHARFORMAT> &quot;Golf course fairway and rough&quot; means all the turf on a golf course other than the golf course tee box and green. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132843" number="32779" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Golf course tee box and green.</CHARFORMAT> &quot;Golf course tee box and green&quot; means the area from which golf balls are teed-up or placed for the first stroke on a hole, and the area immediately surrounding the golf hole or the green where putts are played. The golf course tee and green are not included in the golf course fairway and rough for the purposes of these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132842" number="32780" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Health care facilities.</CHARFORMAT> &quot;Health care facilities&quot; means hospitals, hospices, medical clinics, physician&apos;s offices, nursing homes or any other facility caring for persons who are ill, aged or infirm, where, in the opinion of the Commissioner, relief from the prohibition contained in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-11" destination-id="0-0-0-3755">21-11</LINK>(a)(9) is necessary to protect the health and well-being of such persons. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132841" number="32781" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-turf plants.</CHARFORMAT> &quot;Non-turf plants&quot; means all plants, including trees, but excluding turf. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132840" number="32782" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Nursery.</CHARFORMAT> &quot;Nursery&quot; means the private or public grounds and premises on or in which nursery stock is propagated, grown, or cultivated for the commercial purpose of distributing or selling the same. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132839" number="32783" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">OATH.</CHARFORMAT> &quot;OATH&quot; means the Office of Administrative Trials and Hearings in its capacity pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1049-a" destination-id="0-0-0-0">1049-a</LINK> of the Charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132838" number="32784" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person.</CHARFORMAT> &quot;Person&quot; means an individual, firm, partnership, company, corporation, association, governmental agency, administration, or department, or other legal entity, or an officer or employee thereof. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132837" number="32785" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Turf.</CHARFORMAT> &quot;Turf&quot; means grasses used as ground cover or lawn. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132836" number="32786" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Waste of City water.</CHARFORMAT> &quot;Waste of City water&quot; means (i) any leak or waste from any water pipe, valve, faucet, conduit, equipment, facility, or device connected to the City water supply system or which uses city water, or (ii) any failure to reduce water consumption as required by this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132835" number="32787" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water Board.</CHARFORMAT> &quot;Water Board&quot; means the New York City Water Board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132834" number="32788" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water-conserving irrigation system.</CHARFORMAT> &quot;Water-conserving irrigation system&quot; means an irrigation system that delivers water at low pressure and low flow rate directly to the roots of non-turf plants, such as &quot;drip irrigation systems,&quot; &quot;soaker hoses,&quot; or &quot;Treegators.&quot; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132833" number="32789" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water Shortage Emergency.</CHARFORMAT> &quot;Water Shortage Emergency&quot; means a declaration by the Commissioner that there is a reasonable probability of a shortage of City water, or an expected shortage of City water, that would threaten public health and safety absent the implementation of measures to reduce water consumption. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132832" number="32790" version="2228">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Well water.</CHARFORMAT> &quot;Well water&quot; means an individual source of potable water drawn from a subsurface well. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27934" number="32791" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132819" number="32792" version="2227">
+								<HEADING>§ 21-03 Sanctions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3739" name="T15C021_21-03"/>§ 21-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sanctions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27937" number="32793" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Violations of the rules in this chapter or of the terms and conditions of any variances granted pursuant to 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-04" destination-id="0-0-0-3741">21-04</LINK> are punishable by fines and penalties established by §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-337" destination-id="0-0-0-0">24-337</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-346" destination-id="0-0-0-0">24-346</LINK> of the Administrative Code, and may be returnable before OATH. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132853" number="32794" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Where a leak and waste notice has been served in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-337" destination-id="0-0-0-0">24-337</LINK> of the Administrative Code and the condition to which such notice relates has not been corrected within the time set for compliance, the Commissioner may, after notice and opportunity for a hearing before the Commissioner in accordance with the hearing procedures set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C032_32-02" destination-id="0-0-0-3939">32-02</LINK>, impose a fine of up to fifty dollars per day, in addition to any penalties that may be imposed by OATH. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132852" number="32795" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Where a leak and waste notice has been served in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-337" destination-id="0-0-0-0">24-337</LINK> of the Administrative Code and the condition to which such notice relates has not been corrected within the time set for compliance, the Commissioner may, after notice and opportunity for a hearing before the Commissioner in accordance with the hearing procedures set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C032_32-02" destination-id="0-0-0-3939">32-02</LINK>, install a flow restrictor or terminate water service to the premises. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132851" number="32796" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Nothing in this section shall be construed to limit the Commissioner&apos;s power to shut off water supply without notice, or with such notice as the Commissioner may deem practicable, where a leak exists; or where emergency action is otherwise deemed essential. If the Commissioner shuts off water in accordance with this subdivision, the Commissioner shall provide notice and an opportunity to be heard after the shut off is performed. Such notice and hearing shall be conducted in accordance with the procedures set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C032_32-02" destination-id="0-0-0-3939">32-02</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27938" number="32797" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132820" number="32798" version="2227">
+								<HEADING>§ 21-04 Variances.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3741" name="T15C021_21-04"/>§ 21-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Variances.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27952" number="32799" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Commissioner may in his or her discretion, upon written application, grant a variance from the requirements of the rules in this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132865" number="32800" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Any person applying for a variance must file a notarized application for a variance to the Commissioner. The person must demonstrate, at a minimum, to the satisfaction of the Commissioner, that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132864" number="32801" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>compliance with such rules would result in an undue hardship; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132863" number="32802" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>there are no reasonable alternatives; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132862" number="32803" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the person has taken and will continue to take all reasonable measures to conserve water, and will provide a complete description of such measures that have been implemented to achieve reductions and the anticipated water savings; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132861" number="32804" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>such variance is not inconsistent with the purpose of such rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132860" number="32805" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Commissioner may grant a variance relieving a person from compliance with any of the requirements of the rules in this chapter. In connection with any variance that may be granted, the Commissioner may impose terms and conditions as deemed appropriate. Requests for variances must be processed in a timely fashion, and determinations must not be unreasonably withheld or delayed. The filing or pendency of a variance application does not relieve any person from complying with any of the requirements of this chapter, including any rules cited in the variance application, and does not grant immunity to any person from any civil or criminal prosecution or sanction under the rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132859" number="32806" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Variance application forms may be obtained at 59-17 Junction Boulevard, Flushing, NY 11373, Attention: Office of the General Counsel, or by calling 311. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132858" number="32807" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Appeals.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132857" number="32808" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A person may appeal the denial of a variance, or the imposition of an arbitrary and substantial condition in the grant of a variance, by the Commissioner by filing a notarized petition in writing with the Commissioner and with OATH within thirty (30) days of the date the determination was mailed. The petition must state the name, address and email address of the petitioner and must include a short and plain statement of the matters to be adjudicated, identifying the specific provision of these rules from which the variance is sought, the proposed location of the activity, and the date of the variance determination by the Commissioner. A copy of the determination being appealed must be attached to the petition. In addition, a completed OATH intake sheet must be included with the petition. The Department will provide blank intake sheets upon request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132856" number="32809" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A person may appeal only the issues of whether the Commissioner abused his or her discretion in denying a request for a variance or in imposing an arbitrary and substantial condition in a grant of a variance. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132855" number="32810" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Upon review of any appeal filed pursuant to this section, the Commissioner may, in his or her discretion, grant a variance relieving a person from compliance with any of the rules in this chapter. In connection with any variance that may be granted, the Commissioner may impose such terms and conditions as deemed appropriate. Appeals must be processed in a timely fashion, and determinations must not be unreasonably withheld or delayed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132854" number="32811" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The filing of an appeal does not relieve a person from complying with any of the requirements of the rules in this chapter, including any rules cited in the variance application, and does not grant immunity to any person from any civil or criminal prosecution or sanction under the rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27953" number="32812" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132821" number="32813" version="2228">
+								<HEADING>§ 21-05 Water Shortage Rate Plan.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3743" name="T15C021_21-05"/>§ 21-05 Water Shortage Rate Plan<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27954" number="32814" version="2228">
+									<PARA>At any time after the actual declaration of a Water Shortage Emergency, the Commissioner may recommend and request that the Water Board consider the adoption of a Water Shortage Emergency contingency rate plan. Such rate plan shall have as its goal the creation of enhanced incentives for water conservation by increasing the cost of city water by such amounts, and for such duration, as the Commissioner may recommend and which the Water Board in its sole discretion shall consider appropriate. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27955" number="32815" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132822" number="32816" version="2227">
+								<HEADING>§ 21-06 &quot;Save Water&quot; Signage.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3745" name="T15C021_21-06"/>§ 21-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Save Water&quot; Signage.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-132873" number="32817" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Introduction.</CHARFORMAT> Immediately upon the declaration of any stage of a Water Shortage Emergency by the Commissioner, &quot;Save Water&quot; signs, as described below, must be prominently posted in every building or premises connected to the City water supply system or in which City water is used, in the locations specified below. Every person owning, using, leasing, managing, operating or controlling any such building or premises must ensure that such signs are properly posted. The provisions set forth in this section do not apply to one-, two- or three- family dwellings. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132875" number="32818" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sign size and content.</CHARFORMAT> Such signs required pursuant to this section must be at least six inches in height by nine inches in width. The required text on the signs must be printed in letters at least three-quarters inch (3/4&quot;) in height. The signs may include any artwork or additional language related to water conservation that is desired by the person posting the sign, and must include the following required text: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132874" number="32819" version="2228">
+									<PARA>
+										<PARAFORMAT justify="center">SAVE WATER<LINEBRK/>Report Leaks and Water Waste<LINEBRK/>Call 311</PARAFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132872" number="32820" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sign locations.</CHARFORMAT> Such signs must be prominently posted in the following locations: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132871" number="32821" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Multiple dwellings (four units or more).</CHARFORMAT> At each entrance, near mailboxes, in each elevator and on each floor with more than one dwelling. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132870" number="32822" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hotels.</CHARFORMAT> At each entrance, near each check-in desk and cashier, near each entrance to each restaurant or other public eating place, in each elevator, in the public hallway on every floor and in each bathroom (except signs in private bathrooms in individual hotel rooms may be reduced to three inches in height by five inches in width). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132869" number="32823" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hospitals.</CHARFORMAT> At each entrance, in each elevator, on every floor by an elevator, in each bathroom and shower room, in each laboratory, and in each restaurant or cafeteria. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132868" number="32824" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Office buildings.</CHARFORMAT> At each entrance, in each elevator, on every floor by an elevator, in each bathroom and in each dining room or cafeteria or other places where food is sold. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132867" number="32825" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Restaurants.</CHARFORMAT> In each bathroom and at each table (except signs at tables may be reduced to three inches in height by five inches in width). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132866" number="32826" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">All other nonresidential buildings, including all commercial and industrial buildings, schools, universities and community centers.</CHARFORMAT> At each entrance, in each elevator, on every floor by an elevator, in each bathroom and shower room, above each sink or group of sinks, in each eating area and in the work area of every process or operation using any water. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27966" number="32827" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132823" number="32828" version="2227">
+								<HEADING>§ 21-07 &quot;Water-Conserving Irrigation System&quot; Signage.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3747" name="T15C021_21-07"/>§ 21-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Water-Conserving Irrigation System&quot; Signage.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27968" number="32829" version="2228">
+									<PARA>Immediately upon the declaration of any stage of a Water Shortage Emergency by the Commissioner, water-conserving irrigation system signs, as described below, must be prominently posted in every building or premises connected to the City water supply system or in which City water is used in water-conserving irrigation systems for non-turf plants. Every person owning, using, leasing, managing, operating or controlling any such building or premises must ensure that such signs are properly posted. A sign at least six inches in height by nine inches in width must be prominently posted at the watering location indicating that a water-conserving irrigation system is in use. The sign shall include the following wording and may include any artwork or additional language related to water conservation that is desired by the person posting the sign and must include the following required text, which must be in letters at least three-quarters inch (3/4&quot;) in height: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132877" number="32830" version="2228">
+									<PARA>
+										<PARAFORMAT justify="center">SAVE WATER<LINEBRK/>WATER-CONSERVING IRRIGATION SYSTEM IN USE<LINEBRK/>REPORT LEAKS AND WATER WASTE<LINEBRK/>CALL 311</PARAFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132876" number="32831" version="2228">
+									<PARA>The sign must include the time periods in which such water-conserving irrigation systems are permitted to be in use pursuant to 15 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-10" destination-id="0-0-0-3753">21-10</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-11" destination-id="0-0-0-3755">21-11</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27969" number="32832" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-132824" number="32833" version="2228">
+								<HEADING>§ 21-08 Well Water Use Prohibition Exception Conditions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3749" name="T15C021_21-08"/>§ 21-08 Well Water Use Prohibition Exception Conditions<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27975" number="32834" version="2228">
+									<PARA>No person shall cause, permit or allow the use of well water for any purpose for which the use of City water is prohibited by the rules in this chapter, unless: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132882" number="32835" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the well is covered by a valid permit from the New York City Department of Health and Mental Hygiene; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132881" number="32836" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>there are no cross-connections, and either all swing-joint connections have been replaced by permanent rigid piping or the connection to the City water supply system has been sealed; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132880" number="32837" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>immediately upon the declaration of any stage of a Water Shortage Emergency, signs are prominently displayed, at least eight and a half inches in height by eleven inches in width and with lettering at least one inch in height, with the following wording including the permit number: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132879" number="32838" version="2228">
+									<PARA>
+										<PARAFORMAT justify="center">WATER SHORTAGE EMERGENCY<LINEBRK/>PRIVATE WELL WATER IN USE<LINEBRK/>DOHMH PERMIT NO. _____</PARAFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132878" number="32839" version="2228">
+									<PARA>The permission to use well water granted by this section may be revoked by the Commissioner for any violation of the foregoing conditions, or of these rules, or of any applicable laws, rules or regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27976" number="32840" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-132825" number="32841" version="2227">
+				<HEADING>Subchapter B: Stage I</HEADING>
+				<PARA>Subchapter B: Stage I</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-27977" number="32842" version="2228">
+								<HEADING>§ 21-09 Prohibitions and Reductions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3751" name="T15C021_21-09"/>§ 21-09 Prohibitions and Reductions<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-27995" number="32843" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Prohibitions.</CHARFORMAT> Upon declaration by the Commissioner of a Stage I Water Shortage Emergency, no person shall cause, permit or allow: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132908" number="32844" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The continuing of any waste of City water on or in any premises owned, used, leased, managed, operated or controlled by such person; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132907" number="32845" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The use of City water to wash any vehicle (including any aircraft, watercraft or land vehicle whether on- or off-road), provided that this provision shall not be construed to prohibit the reasonable use of City water for washing such vehicles where mandated by law or for health or safety purposes; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132906" number="32846" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The use of City water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps; provided, however, that this provision shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, provided such use is consistent with any restrictions set forth in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-332" destination-id="0-0-0-0">24-332</LINK> of the Administrative Code of the City of New York and 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(a)(8); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132905" number="32847" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The use of City water for any ornamental or aesthetic purpose, including, but not limited to, use in fountains, waterfalls, reflecting pools, lakes and ponds, unless the pond or lake is a habitat for animals living in such body of water prior to a Water Shortage Emergency, and provided further that where City water is not used (e.g., private well water), a sign at least six inches in height by nine inches in width must be prominently posted at the location indicating that the water being used in such fountain, waterfall, reflecting pool, lake or pond is not City water; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132904" number="32848" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The use of City water by means of a hose or other active source to water any turf or any non-turf plants, except that, subject to any restrictions set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(a)(6)(ii) and (iii): <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132903" number="32849" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>City water may be used to water any turf from 10:00 a.m. to 12:00 p.m. and from 10:00 p.m. to 12:00 a.m., on the following schedule, based on the final digit or letter of the address number: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132902" number="32850" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On Mondays, if the address number ends in 0, 1 or a fraction; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132901" number="32851" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>On Tuesdays, if the address number ends in 2 or 3; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132900" number="32852" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>On Wednesdays, if the address number ends in 4 or 5; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132899" number="32853" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>On Thursdays, if the address number ends in 6 or 7; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132898" number="32854" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>On Fridays, if the address number ends in 8, 9, or a letter; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132897" number="32855" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>newly seeded or newly sodded turf (excluding golf course fairways and roughs) or newly planted non-turf plants may be irrigated with City water, in addition to the scheduled times in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a)(5)(i), on the day of planting and for the two days following planting; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132896" number="32856" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>if hand-held hoses equipped with nozzle tips or in-line flow regulators or water-conserving irrigation systems that effectively limit water output to a maximum flow rate of five gallons per minute at eighty pounds per square inch are utilized, City water may be used to water non-turf plants (except in nurseries) from 10:00 a.m. to 12:00 p.m. and from 10:00 p.m. to 12:00 a.m., on the following schedule, based on the final digit or letter of the address number: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132895" number="32857" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On Mondays, if the address number ends in 0, 1 or a fraction; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132894" number="32858" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>On Tuesdays, if the address number ends in 2 or 3; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132893" number="32859" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>On Wednesdays, if the address number ends in 4 or 5; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132892" number="32860" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>On Thursdays, if the address number ends in 6 or 7; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132891" number="32861" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>On Fridays, if the address number ends in 8, 9, or a letter; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132890" number="32862" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>if a hand-held container or a water-conserving irrigation system with an acceptable irrigation controller is utilized, City water may be used to water non-turf plants (except in nurseries) for one or both of the two two-hour periods on the appropriate day as set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a)(5)(iii), provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-07" destination-id="0-0-0-3747">21-07</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132889" number="32863" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The opening or use of any fire hydrant, or of the City water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department pursuant to 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(b); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132888" number="32864" version="2726">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The serving of water from the City water supply system to any patron of a restaurant, club, hotel, cafe, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132887" number="32865" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The use of City water to fill or maintain the water level in any swimming pool, except that pools operated with recirculating equipment may be filled with City water once during each calendar year and may thereafter use the minimum amount of City water necessary to maintain the water level at a level no greater than that necessary to ensure continued operation of such recirculating equipment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132886" number="32866" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reductions.</CHARFORMAT> Upon declaration by the Commissioner of a Stage I Water Shortage Emergency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132885" number="32867" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Notwithstanding any provisions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a), nurseries may continue to use City water to water non-turf plants but must reduce their water use by at least 5% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132884" number="32868" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Notwithstanding any provisions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a), golf course tee boxes and greens, playgrounds, and athletic play fields may be irrigated using City water, provided that (i) all irrigation is done using hand-held hoses equipped with nozzle tips or in-line flow regulators, or water-conserving irrigation systems, and (ii) water use is reduced by at least 15% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132883" number="32869" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Persons operating bottling plants, paper recycling facilities, or hotels in the City, any of which use an average of at least 100,000 gallons of City water per day, as calculated on an annual basis, must reduce water use at each such plant, facility, or hotel by at least 5% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; provided, however, that such person may instead reduce total water use by at least 5% per month, if such person demonstrates in writing to the Department that such reduction equals or exceeds the sum of reducing water use at each such plant, facility, or hotel by at least 5% per month. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-27996" number="32870" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-132826" number="32871" version="2227">
+				<HEADING>Subchapter C: Stage II</HEADING>
+				<PARA>Subchapter C: Stage II</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-27997" number="32872" version="2228">
+								<HEADING>§ 21-10 Prohibitions and Reductions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3753" name="T15C021_21-10"/>§ 21-10 Prohibitions and Reductions<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-28010" number="32873" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Prohibitions.</CHARFORMAT> Upon declaration by the Commissioner of a Stage II Water Shortage Emergency, no person shall cause, permit or allow: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132923" number="32874" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The continuing of any waste of City water on or in any premises owned, used, leased, managed, operated or controlled by such person; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132922" number="32875" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The use of City water to wash any vehicle (including any aircraft, watercraft or land vehicle whether on- or off-road), provided that this provision shall not be construed to prohibit the reasonable use of City water for washing such vehicles where mandated by law or for health or safety purposes; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132921" number="32876" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The use of City water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps; provided, however, that this provision shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, provided such use is consistent with any restrictions set forth in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-332" destination-id="0-0-0-0">24-332</LINK> of the Administrative Code of the City of New York and 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(a)(8); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132920" number="32877" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The use of City water from any source for any ornamental or aesthetic purpose, including, but not limited to, use in fountains, waterfalls, reflecting pools, lakes and ponds, unless the pond or lake is a habitat for animals living in such body of water prior to the Water Shortage Emergency, and provided further that where City water is not used (e.g., private well water), a sign at least six inches in height by nine inches in width must be prominently posted at the location indicating that the water being used in such fountain, waterfall, reflecting pool, lake or pond is not City water; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132919" number="32878" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The use of City water by means of a hose or other active source to water any turf or any other non-turf plants, except that, subject to any restrictions set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(a)(6)(ii) and (iii): <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132918" number="32879" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>newly seeded or newly sodded turf (excluding golf course fairways and roughs) or newly planted non-turf plants may be irrigated with City water on the day of planting and for the first day following planting; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132917" number="32880" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>if hand-held hoses equipped with nozzle tips or in-line flow regulators or water-conserving irrigation systems that effectively limit water output to a maximum flow rate of five gallons per minute at eighty pounds per square inch are utilized, City water may be used to water non-turf plants (except in nurseries) only in accordance with the schedule set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a)(5)(iii); and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132916" number="32881" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>if a hand-held container or a water-conserving irrigation system with an acceptable irrigation controller is utilized, City water may be used to water non-turf plants intended as food for human consumption for one or both of the two two-hour periods on the appropriate day as set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a)(5)(iii), provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-07" destination-id="0-0-0-3747">21-07</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132915" number="32882" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The opening or use of any fire hydrant, or of the City water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department pursuant to 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(b); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132914" number="32883" version="2726">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The serving of water from the City water supply system to any patron of a restaurant, club, hotel, cafe, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132913" number="32884" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The use of City water to fill or maintain the water level in any swimming pool, except that City water may be used to fill municipally-operated swimming pools and other swimming pools open to the general public that are operated with recirculating equipment and are filled once during each calendar year, and thereafter may be used as necessary to maintain the water level in such pools open to the general public at a level no greater than that necessary to ensure continued operation of such recirculating equipment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132912" number="32885" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reductions.</CHARFORMAT> Upon declaration by the Commissioner of a Stage II Water Shortage Emergency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132911" number="32886" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Notwithstanding any provisions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-10" destination-id="0-0-0-3753">21-10</LINK>(a), nurseries may continue to use City water to water non-turf plants but must reduce their water use by at least 10% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132910" number="32887" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Notwithstanding any provisions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-10" destination-id="0-0-0-3753">21-10</LINK>(a), golf course tee boxes and greens, playgrounds, and athletic play fields may be irrigated using City water, provided that (i) all irrigation is done using hand-held hoses equipped with nozzle tips or in-line flow regulators, or water-conserving irrigation systems, and (ii) water use is reduced by at least 30% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132909" number="32888" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Persons operating bottling plants, paper recycling facilities, or hotels in the City, any of which use an average of at least 100,000 gallons of City water per day, as calculated on an annual basis, must reduce water use at each such plant, facility, or hotel by at least 10% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; provided, however, that such person may instead reduce total water use by at least 10% per month, if such person demonstrates in writing to the Department that such reduction equals or exceeds the sum of reducing water use at each such plant, facility, or hotel by at least 10% per month. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-28011" number="32889" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-132827" number="32890" version="2227">
+				<HEADING>Subchapter D: Stage III</HEADING>
+				<PARA>Subchapter D: Stage III</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-28012" number="32891" version="2228">
+								<HEADING>§ 21-11 Prohibitions and Reductions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3755" name="T15C021_21-11"/>§ 21-11 Prohibitions and Reductions<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-28028" number="32892" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Prohibitions.</CHARFORMAT> Upon declaration by the Commissioner of a Stage III Water Shortage Emergency, no person shall cause, permit or allow: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132940" number="32893" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The continuing of any waste of City water on or in any premises owned, used, leased, managed, operated or controlled by such person; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132939" number="32894" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The use of City water to wash any vehicle (including any aircraft, watercraft or land vehicle whether on- or off-road), provided that this provision shall not be construed to prohibit the reasonable use of City water for washing such vehicles where mandated by law or for health or safety purposes; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132938" number="32895" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The use of City water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps; provided, however, that this provision shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, provided such use is consistent with any restrictions set forth in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-332" destination-id="0-0-0-0">24-332</LINK> of the Administrative Code of the City of New York and 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(a)(8); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132937" number="32896" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The use of City water from any source for any ornamental or aesthetic purpose, including, but not limited to, use in fountains, waterfalls, reflecting pools, lakes and ponds; provided that where City water is not used (e.g., private well water), a sign at least six inches in height by nine inches in width must be prominently posted at the location indicating that the water being used in such fountain, waterfall, reflecting pool, lake or pond is not City water; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132936" number="32897" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The use of City water by means of a hose or other active source to water any turf or any non-turf plants, except that, subject to any restrictions set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(a)(6)(ii) and (iii): <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132935" number="32898" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>newly seeded or newly sodded turf (excluding golf course fairways and roughs) or newly planted non-turf plants may be irrigated with City water on the day of planting; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132934" number="32899" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>if hand-held hoses equipped with nozzle tips or in-line flow regulators or water-conserving irrigation systems that effectively limit water output to a maximum flow rate of five gallons per minute at eighty pounds per square inch are utilized, City water may be used to water non-turf plants (except in nurseries) only in accordance with the schedule set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a)(5)(iii); and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132933" number="32900" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>if a hand-held container using recycled water from a non-prohibited use or a water-conserving irrigation system using recycled water from a non-prohibited use with an acceptable irrigation controller is utilized, City water may be used to water non-turf plants intended as food for human consumption for one or both of the two two-hour periods on the appropriate day of the month as set forth in 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-09" destination-id="0-0-0-3751">21-09</LINK>(a)(5)(iii), provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-07" destination-id="0-0-0-3747">21-07</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132932" number="32901" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The opening or use of any fire hydrant, or of the City water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department pursuant to 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C020_20-08" destination-id="0-0-0-3727">20-08</LINK>(b); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132931" number="32902" version="2726">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The serving of water from the City water supply system to any patron of a restaurant, club, hotel, cafe, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132930" number="32903" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The use of City water to fill or maintain the water level in any swimming pool, except that City water may be used to fill municipally-operated swimming pools and other swimming pools open to the general public that are operated with recirculating equipment and are filled once during each calendar year, and thereafter may be used as necessary to maintain the water level in such pools open to the general public at a level no greater than that necessary to ensure continued operation of such recirculating equipment; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132941" number="32904" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>The use of any air conditioning system utilizing water from the City water supply system to cool a room below 79 degrees Fahrenheit, except that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132929" number="32905" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>this subparagraph shall not apply to health care facilities; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132928" number="32906" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>when essential for the continuous operation of electronic data processing equipment, the temperature in a room or floor occupied predominantly by such equipment may be maintained lower than 79 degrees Fahrenheit but at the highest temperature compatible with such continuous operation, provided that the burden of proof shall be upon the respondent in any administrative proceeding to show that the temperature maintained was the highest temperature compatible with continuous operation of such equipment, and respondent&apos;s proof must include documentation of the manufacturer&apos;s temperature control specification for such equipment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132927" number="32907" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reductions.</CHARFORMAT> Upon declaration by the Commissioner of a Stage III Water Shortage Emergency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132926" number="32908" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Notwithstanding any provisions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-11" destination-id="0-0-0-3755">21-11</LINK>(a), nurseries may continue to use City water to water non-turf plants but must reduce their water use by at least 15% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132925" number="32909" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Notwithstanding any provisions of 15 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C021_21-11" destination-id="0-0-0-3755">21-11</LINK>(a), golf course tee boxes and greens, playgrounds, and athletic play fields may be irrigated with City water, provided that (i) all irrigation is done using hand-held hoses equipped with nozzle tips or in-line flow regulators, or water-conserving irrigation systems, and (ii) water use is reduced by at least 50% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-132924" number="32910" version="2228">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Persons operating bottling plants, paper recycling facilities, or hotels in the City, any of which use an average of at least 100,000 gallons of City water per day, as calculated on an annual basis, must reduce water use at each such plant, facility, or hotel by at least 15% per month, as compared to the average meter reading data for the same month in the year immediately preceding the declaration of the Water Shortage Emergency; provided, however, that such person may instead reduce total water use by at least 15% per month, if such person demonstrates in writing to the Department that such reduction equals or exceeds the sum of reducing water use at each such plant, facility, or hotel by at least 15% per month. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-28029" number="32911" version="2227">
+									<PARA>(Amended City Record 4/13/2022, eff. 5/13/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-97857" number="1291" version="116">
+			<HEADING>Chapter 49: Outdoor Signs</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-852" name="T01C049"/>Chapter 49: Outdoor Signs</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1958" number="1292" version="3">
+				<HEADING>Subchapter A: General Provisions</HEADING>
+				<PARA>Subchapter A: General Provisions</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1959" number="1293" version="3">
+								<HEADING>§ 49-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-854" name="T01C049_49-01"/>§ 49-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1960" number="1294" version="3">
+									<PARA>For the purposes of this chapter, the following terms shall have the following meanings:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1961" number="1295" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Accessory sign.</CHARFORMAT> The term &quot;accessory sign&quot; shall mean an accessory sign within the meaning and intent of the term &quot;accessory use&quot; as defined in § 12-10 of the Zoning Resolution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1962" number="1296" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Advertising sign.</CHARFORMAT> The term &quot;advertising sign&quot; shall mean an &quot;advertising sign&quot; as defined in § 12-10 of the Zoning Resolution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1963" number="1297" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affiliate outdoor advertising companies.</CHARFORMAT> The term &quot;affiliate outdoor advertising companies&quot; or &quot;affiliate OACs&quot; shall mean two or more outdoor advertising companies interrelated with one another such that one or more of such outdoor advertising companies maintains an interest in the others as hereinafter described: An outdoor advertising company (&quot;OAC&quot;) (A) has an interest in another OAC (B) where one or more of the following are present:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1964" number="1298" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A owns 10 percent or more of the voting stock of B, where B is a stock-issuing entity;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1965" number="1299" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A is a general partner in B, where B is a partnership or joint venture;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1966" number="1300" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A has an ownership interest of 10 percent or more in B, in a form not otherwise described in (1) or (2) above, where such ownership interest confers a power or right to vote or exercise similar control over the affairs of B proportionate to such ownership interest;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1967" number="1301" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A has one or more officers in common with B;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1968" number="1302" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>A has one or more key managers (chief executive officer; chief financial officer; chief operating officer; or persons with equivalent functions, irrespective of organizational title) in common with B;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1969" number="1303" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>A, by agency or other agreement, whether written or oral, conducts part or all of B&apos;s outdoor advertising business or has the power or right to direct part or all of B&apos;s outdoor advertising business;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1970" number="1304" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>A, by way of advertising, promotions or other methods, holds itself out as having the authority to, via a shared inventory arrangement, sell or lease space on signs situated on buildings or premises within the city, for outdoor advertising purposes, where the ownership, leasehold, license or other form of site control with respect to such signs is held by B. For the purposes of this chapter both A and B shall be known and referred to individually by the term &quot;affiliate OAC&quot; or &quot;affiliate&quot; and collectively by the term &quot;affiliate OACs&quot; or &quot;affiliates.&quot; Affiliates shall be jointly and severally liable for compliance with this chapter. Where affiliation is established only by virtue of a shared inventory of signs, sign structures or sign locations as described in example (7) above, responsibility for compliance and any resulting liability shall be limited to the extent of such shared inventory.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1971" number="1305" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affiliated outdoor advertising company.</CHARFORMAT> The term &quot;affiliated outdoor advertising company&quot; or &quot;affiliated OAC&quot; shall mean a single OAC that has authorized a responsible affiliate to act on its behalf for registration in accordance with this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1972" number="1306" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicant.</CHARFORMAT> The term &quot;applicant&quot; shall mean an OAC that has filed an application for registration with the Department as required by § 26-260 of the Administrative Code and Subchapter B of this chapter. Except where application is made pursuant to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK>(a)(3), the party holding fee or the dominant lease to a sign, sign structure or sign location, shall act as the applicant. With respect to an application for registration filed on behalf of an affiliated OAC the term &quot;applicant&quot; shall mean the responsible affiliate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1973" number="1307" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Approach.</CHARFORMAT> The term &quot;approach&quot; as found within the description of arterial highways indicated within appendix C of the Zoning Resolution, shall mean that portion of a roadway connecting the local street network to a bridge or tunnel and from which there is no entry or exit to such network.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1974" number="1308" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Arterial highways.</CHARFORMAT> The term &quot;arterial highways&quot; shall mean arterial highways as defined by § 26-253(c) of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1975" number="1309" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term &quot;Commissioner&quot; shall mean the Commissioner of Buildings or his/her designee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1976" number="1310" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Days.</CHARFORMAT> The term &quot;days&quot; shall mean calendar days.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1977" number="1311" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;Department&quot; shall mean the Department of Buildings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1978" number="1312" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Material change.</CHARFORMAT> The term &quot;material change&quot; shall mean a change in information supplied to the Department on an application form where the Department has indicated on such form by asterisk or otherwise that the information to be supplied is considered by the Department to be significant.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1979" number="1313" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-conforming sign.</CHARFORMAT> The term &quot;non-conforming sign&quot; shall mean a sign that is &quot;non-conforming&quot; as defined by § 12-10 of the Zoning Resolution. The extent of the &quot;non-conforming&quot; use status shall be as set forth in §§ 32-66, 42-55, and 42-58 of the Zoning Resolution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1980" number="1314" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Outdoor advertising business.</CHARFORMAT> The term &quot;outdoor advertising business&quot; shall mean &quot;outdoor advertising business&quot; as defined by § 26-259(c) of the Administrative Code. For the purposes of this rule, property owners and managers shall not be considered engaged in the outdoor advertising business where they are involved strictly to the extent of leasing space on property they control to an independent registered OAC that has registered the sign within its sign inventory. Such exclusion shall not apply where the property owner/manager has any interest in an OAC or role in any aspect of the OAC&apos;s operation or management.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1981" number="1315" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Outdoor advertising company.</CHARFORMAT> The term &quot;outdoor advertising company&quot; or &quot;OAC&quot; shall mean &quot;outdoor advertising company&quot; as defined by § 26-259(b) of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1982" number="1316" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Responsible affiliate.</CHARFORMAT> The term &quot;responsible affiliate&quot; shall mean the applicant that is authorized, by written instrument filed with the Department, to file an application for registration and to otherwise act on behalf of an affiliated OAC and receive all notices required to be sent under this chapter on behalf of such affiliated OAC. For the purposes of this chapter any direction or requirement imposed upon an OAC shall, with respect to an affiliated OAC, be undertaken by the responsible affiliate on behalf of the affiliated OAC and such affiliated OAC shall be bound by the act or failure to act of such responsible affiliate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1983" number="1317" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Responsible officer.</CHARFORMAT> The term &quot;responsible officer&quot; shall mean an officer or official of an OAC who is authorized to bind and commit such OAC and any affiliate(s).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1984" number="1318" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sign.</CHARFORMAT> The term &quot;sign&quot; shall mean a sign as defined in § 12-10 of the Zoning Resolution. Such term shall not include any sign erected upon property not subject to Department jurisdiction. Each sign face shall be a sign.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1985" number="1319" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sign inventory.</CHARFORMAT> The term &quot;sign inventory&quot; shall mean the list of signs, sign structures and sign locations under the control of an OAC, responsible affiliate or affiliated OACs as required and specified by § 26-261 of the Administrative Code and 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-15" destination-id="0-0-0-858">49-15</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1986" number="1320" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sign location.</CHARFORMAT> The term &quot;sign location&quot; shall mean sign location as defined by § 26-259(f) of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1987" number="1321" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sign structure.</CHARFORMAT> The term &quot;sign structure&quot; shall mean the supports or uprights, including the sign face(s), whether attached to a building or other structure or freestanding, of a sign.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1988" number="1322" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Within view.</CHARFORMAT> The term &quot;within view&quot; shall mean that part or all of the sign copy, sign structure, or sign location that is discernable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1989" number="1323" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Work permit.</CHARFORMAT> The term &quot;work permit&quot; shall mean a permit to erect, alter or install signs or sign structures issued pursuant to § 27-177 of the Administrative Code.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1990" number="1324" version="3">
+								<HEADING>§ 49-02 Obligation to Cooperate with Inquiries.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-860" name="T01C049_49-02"/>§ 49-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Obligation to Cooperate with Inquiries.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1991" number="1325" version="3">
+									<PARA>All OACs and all principals thereof, shall cooperate with Department investigations into the conduct of the outdoor advertising business within the City of New York, and shall provide prompt, accurate and complete responses to reasonable inquiries by the Department about the conduct of such business.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1992" number="1326" version="3">
+								<HEADING>§ 49-03 Obligation to Comply with an Order of the Commissioner.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-862" name="T01C049_49-03"/>§ 49-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Obligation to Comply with an Order of the Commissioner.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1993" number="1327" version="3">
+									<PARA>OACs shall be obligated to comply with any order issued by the Commissioner pursuant to this chapter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1994" number="1328" version="3">
+								<HEADING>§ 49-04 Severability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-864" name="T01C049_49-04"/>§ 49-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Severability.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1995" number="1329" version="3">
+									<PARA>If any clause, sentence, paragraph, section or part of this rule or the application thereof to any person or circumstance shall for any reason be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this rule or the application thereof to other persons or circumstances, but shall be confined in its operation to the clause, sentence, paragraph, section or part thereof directly involved in the controversy in which such judgment shall have been rendered and to the person or circumstance involved.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1996" number="1330" version="3">
+				<HEADING>Subchapter B: Registration of Outdoor Advertising Companies</HEADING>
+				<PARA>Subchapter B: Registration of Outdoor Advertising Companies</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-1997" number="1331" version="3">
+								<HEADING>§ 49-11 Effective Dates.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-866" name="T01C049_49-11"/>§ 49-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effective Dates.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-1998" number="1332" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to engage in the outdoor advertising business, or, by way of advertising, promotions or other methods, hold itself out as engaging in the outdoor advertising business, unless such OAC is registered with and has been issued a registration number by the Department and such registration has not expired or been revoked. Notwithstanding the foregoing provision, an OAC that is in existence on the effective date of this chapter may continue to do business as an OAC pending the issuance of a registration number if such OAC has filed a registration application pursuant to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK> on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-1999" number="1333" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to sell or otherwise transfer control of a sign, sign structure, or sign location or any right of such OAC to sell, lease, market, manage, or otherwise make space on a sign, or sign structure, or at a sign location available to others for advertising purposes, to an OAC other than one that is registered in accordance with this chapter and that has been issued a registration number by the Department and such registration has not expired or been revoked, or to a OAC that has timely filed for registration pursuant to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK> and such application has not been rejected by the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2000" number="1334" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>On and after the 60th day after the effective date of this chapter it shall be unlawful to erect, alter, install, maintain, attach, affix, paint on, or in any other manner represent on a building or premises any sign that is under the control of an OAC unless such OAC is registered in accordance with this chapter, and has been issued a registration number by the Department and such registration has not expired or been revoked or, with respect to an OAC that is in existence on the effective date of this chapter, such OAC has filed a registration application pursuant to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK> on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2001" number="1335" version="3">
+								<HEADING>§ 49-12 Application for Registration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-856" name="T01C049_49-12"/>§ 49-12 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Application for Registration.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2002" number="1336" version="2310">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The application for registration or the renewal of registration shall contain all of the information required by the application form and these rules. Except where an application is filed pursuant to subsection (3) below, the party holding fee or the dominant lease to the sign, sign structure or sign location, shall act as the applicant for registration. An applicant shall:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2003" number="1337" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>file an application for registration and be issued an OAC registration number; or,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2004" number="1338" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>where an affiliated OAC exists, file an application for registration on behalf of itself and any affiliated OAC only to the extent of their shared control of any sign(s), sign structure(s), and sign location(s), and each such shared inventory shall be issued the OAC registration number that has been assigned to the applicant; or,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2005" number="1339" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>file a single application for registration on behalf of itself and every affiliated OAC, including all signs, sign structures, and sign locations under the control of the applicant and every affiliated OAC. A responsible officer of the applicant shall certify the completeness and accuracy of the application and accompanying documents. A responsible officer of the affiliated OAC shall authorize the applicant to submit an application and act on behalf of the affiliated OAC. The Department shall act upon the application either by accepting the application or by notifying the applicant of deficiency in accordance with subdivision c of this section promptly but not later than 60 days after the date of receipt of the application, except that on or before such 60th day, the Commissioner may on good cause shown and upon notification to the applicant, extend such time for an additional 45 days. If the Department fails to act upon the application within such 60-day period or, where applicable, within such further 45-day period, the application shall be deemed accepted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2006" number="1340" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department shall accept applications complying with the provisions of these rules and other applicable law. An OAC registration number shall be issued to the applicant of each accepted registration application. Where the application is for the renewal of an existing registration, the applicant shall be notified of such acceptance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2007" number="1341" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Department may reject an application for registration or for the renewal of registration if it finds that the application, including the accompanying listing of sign inventory required by 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-15" destination-id="0-0-0-858">49-15</LINK>, is not complete and accurate or all required documents have not been submitted with the application. Before rejecting an application, the Department shall provide the applicant with an explanation of the deficiency and a period of time, but not more than 45 days, within which the applicant may submit a corrected application and any missing documents. Upon written request and for good cause, the Commissioner may extend the time for submitting a corrected application.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2008" number="1342" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>An OAC registration number issued by the Department pursuant to this section shall not be transferable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2009" number="1343" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>An OAC shall notify the Department within 30 days thereof of any material change in the information provided in the most recent registration or renewal application submitted pursuant to this chapter. Where the material change involves the addition of an affiliated OAC, such additional affiliated OAC shall not do business as an OAC until notice of such material change is received.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2010" number="1344" version="3">
+								<HEADING>§ 49-13 Term and Fees.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-868" name="T01C049_49-13"/>§ 49-13 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Term and Fees.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2011" number="1345" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The term of the registration shall be for two years commencing on the date of issuance of an OAC registration number. The fee for the initial registration shall be $1,500 per applicant, plus $125 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. The biennial registration renewal fee shall be $750 per applicant, plus $50 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. The fee per material change shall be $25.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2012" number="1346" version="1337">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A registration renewal application shall be filed no sooner than 90 or later than 60 days prior to the expiration date of the current term of the registration. Notwithstanding the renewal fee set forth in subdivision (a), where a registration renewal application is submitted later than 60 days before the expiration of the current term of the registration, the renewal fee shall be $1,500 per applicant OAC, plus $125 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. A registration renewal application may not be submitted after the expiration of the current term of the registration. Nothing in this section shall prohibit an OAC with an expired registration from filing a new application for registration, subject to the filing requirements and fees of an initial registration application.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2013" number="1347" version="3">
+								<HEADING>§ 49-14 Acceptable Type of Security.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-870" name="T01C049_49-14"/>§ 49-14 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Acceptable Type of Security.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2014" number="1348" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An applicant shall maintain security in the form of a letter of credit from an issuing bank or other security acceptable to the Department for all signs included in its inventory. Proof of such security must be filed with the Department with the initial application for registration and with all registration renewal applications. OACs may post one letter of credit or other security acceptable to the Department with respect to all affiliates or separate security for each affiliated OAC. The maximum number of letters of credit or other security acceptable to the Department shall not exceed the total number of signs in the inventory. The security must be in full force and effect from and after the date of registration. When a letter of credit or other security acceptable to the Department expires, is cancelled, is not renewed or for any reason becomes unenforceable, it shall be replaced forthwith and notice of such replacement shall be filed with the Department within 30 days thereafter. The bank shall be required to notify the Department promptly in the event of cancellation, failure to renew or other event that would render the security unavailable to the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2015" number="1349" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The amount of security shall be $25,000 for the first 20 signs in the sign inventory, plus $10,000 for each additional 20 signs, or part thereof.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2016" number="1350" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Replenishment. The Department shall draw upon the security in accordance with applicable law. Upon the Department drawing upon the security, the OAC or responsible affiliate shall replenish the amount within 14 days of notice by regular mail from the Department to the OAC, or, if applicable, such responsible affiliate. Evidence thereof shall be submitted to the Department within 30 days.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2017" number="1351" version="3">
+								<HEADING>§ 49-15 Sign Inventory to be Submitted with Registration Application.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-858" name="T01C049_49-15"/>§ 49-15 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sign Inventory to be Submitted with Registration Application.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2018" number="1352" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In addition to the information and documentation required by 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK>(a), an applicant shall submit, pursuant to § 26-261 of the Administrative Code, a sign inventory that shall include all signs, sign structures and sign locations located (1) within a distance of 900 linear feet from and within view of an arterial highway; or (2) within 200 linear feet from and within view of a public park of one-half acre or more. Such sign inventory shall be filed together with the registration application and each renewal registration application. The sign inventory submitted in connection with the renewal registration application shall include all material changes since the last registration or renewal registration application, and shall be accompanied by a statement that identifies all material changes since such prior registration. A registration application or renewal application submitted without such sign inventory or statement shall not be considered complete and may be rejected in accordance with subdivision (c) of 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2019" number="1353" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A sign inventory submitted by a responsible affiliate on behalf of:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2020" number="1354" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>an affiliated OAC, in accordance with subdivision (a)(2) of 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK>, shall include all signs, sign structures and sign locations under the shared control of such responsible affiliate and affiliated OAC; or,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2021" number="1355" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>every affiliated OAC, in accordance with subdivision (a)(3) of 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-12" destination-id="0-0-0-856">49-12</LINK>, shall include all signs, sign structures and sign locations under the control of such responsible affiliate and every affiliated OAC.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2022" number="1356" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The sign inventory shall be accompanied by a signed statement of a responsible officer of the OAC or, if applicable, the responsible affiliate, stating that the listing of its inventory is a complete listing of all signs, sign structures and sign locations under its control, subject to § 26-261 of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2023" number="1357" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The sign inventory shall be submitted on forms to be prescribed by the Department and shall include the information specified on such forms for each sign, sign structure and sign location including, but not limited to, the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2024" number="1358" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>For each sign, sign structure and sign location, the public park and/or arterial highway to which it is proximate pursuant to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-15" destination-id="0-0-0-858">49-15</LINK>(a) shall be identified, and its distance in feet from such public park or arterial highway shall be listed. Such distance shall be calculated as the length of a horizontal plane extending between a vertical plane reflecting the edge of the sign, sign structure or sign location closest to the park or arterial highway and a vertical plane reflecting the portion of the park or highway closest to the sign, sign structure or sign location. Where a sign location is vacant of buildings or other structures to support signage, the measurement shall be from the edge of its tax lot closest to the public park and/or arterial highway.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2025" number="1359" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The block and lot numbers and the address, if one exists, for the premises of each sign, sign structure and sign location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2026" number="1360" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The size of each sign and sign structure described in linear feet and inches.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2027" number="1361" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The height in feet and inches of the highest portion of each sign and sign structure above the curb level.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2028" number="1362" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Each sign shall be identified as either &quot;advertising&quot; or &quot;non-advertising.&quot; To the extent a sign is a non-conforming sign, it must further be identified as &quot;non-conforming advertising&quot; or &quot;non-conforming non-advertising.&quot; A sign identified as &quot;non-conforming advertising&quot; or &quot;non-conforming non-advertising&quot; shall be submitted to the Department for confirmation of its non-conforming status, pursuant to 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-16" destination-id="0-0-0-872">49-16</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2029" number="1363" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>For each accessory sign, the name and mailing address of the business to which the sign directs attention, the nature of such business and the square footage of the floor space occupied by such business on the zoning lot.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2030" number="1364" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The name and address of all parties with an interest in the premises where each sign, sign structure and sign location is situated.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2031" number="1365" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The name and address of all parties with an interest in the sign or sign structure.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2032" number="1366" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>A diagram, labeled with the information required by (1), (2) and (3) above, eight and one-half by eleven inches in size, that shows the position of the sign, sign structure or sign location on the lot with the distance in feet to the proximate highway or park.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2033" number="1367" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>Digitized and printed eight inch by ten inch color photographs, clearly showing a front view and, if practicable, a rear view of the entire sign and sign structure and the building or other structure to which the sign or sign structure is attached.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2034" number="1368" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>The work permit for the erection, installation, or most recent alteration of the sign or sign structure. To the extent such document is unavailable, the Department may accept a statement of diligent search.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2035" number="1369" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(12)<TAB tab-count="1"/>For each conforming sign, the name and license number of the master or special sign hanger who hung or erected each sign.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2036" number="1370" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(13)<TAB tab-count="1"/>Whether the sign is illuminated and if so whether such illumination is indirect as such term is defined in § 12-10 of the Zoning Resolution. If the sign is illuminated, the sign inventory shall include the permit number assigned by the Electrical Division of the Department for the associated power connection and if applicable, the illuminated sign permit number.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2037" number="1371" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(14)<TAB tab-count="1"/>Where a sign inventory is submitted on behalf of affiliated OACs, the legal name of the OAC that markets or manages each sign, sign structure or sign location and the legal name of the OAC with an ownership interest in each such sign, sign structure or sign location, if different, shall be identified.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2038" number="1372" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(15)<TAB tab-count="1"/>With respect to each sign that has been identified in the sign inventory as a non-conforming sign, the following additional information shall be included with the registration application:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2039" number="1373" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The Zoning Resolution section that establishes the sign as a non-conforming sign.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2040" number="1374" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Evidence that the non-conforming sign existed and the size of the sign that existed as of the relevant date set forth in the Zoning Resolution to establish its lawful status. Acceptable evidence may include permits, sign-offs of applications after completion, photographs and leases demonstrating that the non-conforming use existed prior to the relevant date. Affidavits, Department cashier&apos;s receipts and permit applications, without other supporting documentation, are not sufficient to establish the non-conforming status of a sign. The submitted evidence must specifically establish the non-conforming aspect of the sign. For example, where evidence is submitted to establish that a sign is a non-conforming advertising sign, proof that the sign was erected, but that does not establish that it was advertising, will not be sufficient.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2041" number="1375" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>Affidavit signed by the registered architect or professional engineer, that he or she reasonably believes the sign to be non-conforming based on the evidence submitted.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2042" number="1376" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A responsible officer of the OAC shall co-sign the affidavit, that he or she reasonably believes the sign to be non-conforming based on the evidence submitted, and that to the best of his or her knowledge there has not been any discontinuance of the non-conforming use for two or more years.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2043" number="1377" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Except as to non-conforming signs, the sign inventory shall be accompanied by a certification by a registered architect or licensed professional engineer, co-signed by a responsible officer of the OAC, that he or she has personal knowledge that the signs in the sign inventory are in compliance with the Zoning Resolution.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2044" number="1378" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The Department shall issue to each sign, or if vacant of signage, each sign structure and sign location listed in a sign inventory of a registered OAC, a &quot;sign identification number.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2045" number="1379" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The Department&apos;s acceptance of an application for registration or for the renewal of registration, and the issuance of an OAC registration number to an applicant or a sign identification number for any sign, sign structure or sign location in the sign inventory, shall not constitute a decision or determination by the Department that a sign or sign structure is lawful under the Zoning Resolution or that a sign may lawfully be erected at the sign location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2046" number="1380" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>An OAC shall amend its sign inventory to reflect material changes in its portfolio of signs. The amendment shall be made within 30 days after such change.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2047" number="1381" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The applicant shall provide a list of signs believed to be exempt from registration and not subject to Department jurisdiction and located (1) within a distance of 900 linear feet from and within view of an arterial highway; or (2) within 200 linear feet from and within view of a public park of one-half acre or more.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2048" number="1382" version="3">
+								<HEADING>§ 49-16 Non-Conforming Signs.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-872" name="T01C049_49-16"/>§ 49-16 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-Conforming Signs.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2049" number="1383" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>With respect to each sign identified in the sign inventory as non-conforming, the registered architect or professional engineer shall request confirmation of its non-conforming status from the Department based on the evidence submitted in the registration application. The Department shall review the evidence submitted and accept or deny the request within a reasonable period of time. A sign that has been identified as non-conforming on the initial registration application may remain erected unless and until the Department has issued a determination that it is not non-conforming. The registration of the OAC and remaining sign inventory shall continue unimpeded while such a determination is pending.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2050" number="1384" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department shall maintain a list of all signs that it accepts as non-conforming.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2051" number="1385" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Department may withdraw its acceptance of a non-conforming sign upon discovering evidence that the sign was improperly considered, or should no longer be considered, a non-conforming sign, and upon such withdrawal and after notice to the OAC, the sign must be removed pursuant to the Zoning Resolution.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2052" number="1386" version="3">
+								<HEADING>§ 49-17 Information Required on Signs.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-874" name="T01C049_49-17"/>§ 49-17 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Information Required on Signs.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2053" number="1387" version="3">
+									<PARA>On and after the 90th day after the approval of the OAC registration, all signs included in an OAC&apos;s inventory shall have posted thereon the name of the OAC to which it is registered, the OAC registration number and, unless a permit is not required, the permit identification number for the installation, alteration or erection of such sign and, if applicable, for the maintenance of such sign. All required information shall contrast with the background and be visible from the arterial highway and/or public park.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2054" number="1388" version="3">
+				<HEADING>Subchapter C: Administrative Remedies of the Department Pursuant To Section 26-260(d) of the Administrative Code</HEADING>
+				<PARA>Subchapter C: Administrative Remedies of the Department Pursuant To Section 26-260(d) of the Administrative Code</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2055" number="1389" version="3">
+								<HEADING>§ 49-21 Department&apos;s Discretionary Power to Revoke, Suspend or Refuse to Renew Registration and Impose Fines Pursuant to § 26-260(d) of the Administrative Code.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-876" name="T01C049_49-21"/>§ 49-21 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department&apos;s Discretionary Power to Revoke, Suspend or Refuse to Renew Registration and Impose Fines Pursuant to § 26-260(d) of the Administrative Code.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2056" number="1390" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Department may revoke, suspend or refuse to renew the registration of an OAC on the grounds specified in § 26-260(d) of the Administrative Code. For the purposes of this section it shall be presumed that an OAC knew or should have known that such inventory was incomplete or inaccurate if the OAC or, if applicable, an affiliated OAC thereof, owns or has a contract for control of the sign, sign structure or sign location that is omitted from or inaccurately described in the sign inventory.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2057" number="1391" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Procedure for revocation of registration. Prior to revoking, suspending or refusing to renew the registration of an OAC or imposing fines or other penalties, the Department shall give such OAC notice and opportunity to be heard as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2058" number="1392" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The Department shall serve notice on the OAC by regular mail, to the address and name provided in the most recent application for registration or renewal, listing the instances of liability by date, tribunal, section of law or rule found to have been violated, and title, caption, index number or other identifying indicator of the violation proceeding, if any.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2059" number="1393" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The notice shall advise the OAC of its right to submit papers in opposition to revocation, suspension of or refusal to renew the registration, and the deadline to do so, which shall not be less than 10 days after the date of mailing of such notice.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2060" number="1394" version="898">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Such notice, when the Department seeks to revoke or suspend the registration, also shall advise the OAC of its right to a hearing at the Office of Administrative Trials and Hearings (&quot;OATH&quot;), pursuant to the provisions of 1 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C013" destination-id="0-0-0-566">Chapter 13</LINK>.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2061" number="1395" version="3">
+				<HEADING>Subchapter D: Removal, Storage, and Disposal of Signs and Sign Structures</HEADING>
+				<PARA>Subchapter D: Removal, Storage, and Disposal of Signs and Sign Structures</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2062" number="1396" version="3">
+								<HEADING>§ 49-31 Applicability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-878" name="T01C049_49-31"/>§ 49-31 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Applicability.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2063" number="1397" version="3">
+									<PARA>The provisions of this subchapter shall apply to signs and sign structures removed by the Department or its authorized representatives pursuant to Administrative Code §§ 26-127.3 and 26-262(d).</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2064" number="1398" version="3">
+								<HEADING>§ 49-32 Procedure.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-880" name="T01C049_49-32"/>§ 49-32 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Procedure.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2065" number="1399" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Where the signs and sign structures are physically removed, they shall be vouchered and maintained in a secure location.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2066" number="1400" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Within ten days after removal, the Department or an authorized representative designated by the Department shall send notice of such removal by regular mail to the owner of the sign and/or sign structure if the address and identity of such owner is reasonably ascertainable. If applicable, such notice shall include the place where the sign and/or sign structure may be claimed and the procedure for making a claim.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2067" number="1401" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The owner or other person lawfully entitled to possession of such property shall submit a claim for the release of such property to the Department or to an authorized representative designated by the Department. Such claim shall be accompanied by documentary proof establishing entitlement to such property.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2068" number="1402" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The costs of removal and storage of the sign shall be determined by the Department. Such costs shall be paid prior to release of the sign and/or sign structure unless the sign and/or sign structure is under the control of an OAC and the Department has served notice on such company and drawn upon the letter of credit or other security acceptable to the Department posted by such company, in accordance with § 26-127.3 of the Administrative Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2069" number="1403" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If, after consulting with the Department&apos;s enforcement unit, it is determined that fines or civil penalties have been imposed for a violation related to such sign or that an action or proceeding is pending in which such fines or civil penalties may be imposed, the sign and/or sign structure shall not be released without proof of payment of such fines and civil penalties or, if the action or proceeding is pending in which such fines or civil penalties may be imposed, proof that a letter of credit or other security acceptable to the Department has been provided in an amount sufficient to guarantee such payment.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2070" number="1404" version="3">
+								<HEADING>§ 49-33 Disposal of Abandoned Signs and/or Sign Structures.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-882" name="T01C049_49-33"/>§ 49-33 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disposal of Abandoned Signs and/or Sign Structures.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2071" number="1405" version="3">
+									<PARA>Signs and/or sign structures that are not claimed in accordance with the procedure set forth above within 30 days after removal shall be deemed abandoned and shall be sold at public auction or turned over to the Department of Sanitation in accordance with subdivision i of § 26-127.3 of the Administrative Code.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2072" number="1406" version="1960">
+				<HEADING>Subchapter E: Application for Sign Work Permit</HEADING>
+				<PARA>Subchapter E: Application for Sign Work Permit</PARA>
+			</RECORD>
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2073" number="1407" version="3">
+								<HEADING>§ 49-41 Application Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-884" name="T01C049_49-41"/>§ 49-41 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Application Requirements.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2074" number="1408" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An application to erect, alter or install a sign and/or sign structure in an area that is subject to inclusion on the sign inventory as set forth in 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-15" destination-id="0-0-0-858">49-15</LINK> that is larger than 200 square feet shall be accompanied by the following documentation:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2075" number="1409" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A detailed description and/or drawing of the proposed sign, including its size;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2076" number="1410" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A plot plan indicating the block and lot, zoning lot and exact location and size of the proposed sign and/or sign structure, as well as the location, size, and, if available, sign permit and OAC identification numbers for all other signs on the zoning lot, with their size in square feet;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2077" number="1411" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A statement indicating whether the proposed sign and/or sign structure will be within view of a public park of one-half acre or more or of an arterial highway.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2078" number="1412" version="1003">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A statement indicating the distance in feet to each public park of one-half acre or more that is within 200 feet of the proposed sign, and to each road designated as an arterial highway, that is within 900 feet of such proposed sign. Distance to the public park or arterial highway shall be calculated as set forth in 1 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T01C049_49-15" destination-id="0-0-0-858">49-15</LINK>(d)(1);</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2079" number="1413" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>A statement whether the proposed sign is to be &quot;advertising,&quot; &quot;accessory&quot; to a business, or &quot;non-commercial.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2080" number="1414" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>For accessory signs, the following items shall be submitted with the application in addition to the other required items listed in this section:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2081" number="1415" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The corporate name and D/B/A name of the use on the zoning lot that the proposed sign is to advertise and the name of the owner or principal of such business.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2082" number="1416" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>A written description of the existing or proposed business operation on the zoning lot, including the size of the business operation in square feet and average number of daily employees regularly on-site, signed and notarized by a principal or officer of such business;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2083" number="1417" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>A drawing and/or description of the proposed sign copy;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2084" number="1418" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>A complete lease signed by a principal or officer of the business, demonstrating the amount of space leased at the zoning lot by the business being advertised. If the business being advertised at the zoning lot owns the subject premises, a copy of the deed is to be provided;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2085" number="1419" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>e.<TAB tab-count="1"/>A statement signed by the property owner indicating the parties with ownership, lease or creditor interest in the sign and sign structure;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2086" number="1420" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>f.<TAB tab-count="1"/>An approved alteration application and/or a certificate of occupancy or satisfactory historical evidence acceptable to the Borough Commissioner demonstrating that the specified business use to which the sign directs attention is permitted on the zoning lot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2087" number="1421" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>g.<TAB tab-count="1"/>A restrictive declaration, signed by a fee owner of the real property, that binds the owner and its successors to remove the sign and sign structure if at any time the use of the premises is changed, or an occupant of the premises ceases tenancy, such that the sign is no longer an accessory sign. The declaration shall further provide that if the sign is not removed, the Declarant consents to allow the City to enter onto the premises to remove the sign and sign structure and the Declarant agrees to reimburse the City for all actual costs associated with such removal. Proof of recording of the restrictive declaration must be submitted prior to approval of the sign work permit application; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2088" number="1422" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>h.<TAB tab-count="1"/>Financial statements detailing actual or projected income from the business at the zoning lot and demonstrating that no income or financial benefit shall be derived or expected from the sign.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2089" number="1423" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The work permit application shall be accompanied by a certification by a registered architect or licensed professional engineer that he or she has personal knowledge that the proposed sign and sign structure shall be in compliance with the zoning resolution and, if accessory, that the requirements of paragraph (a)(6) of this section have been satisfied.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2090" number="1424" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>No work permit shall be issued to erect a sign structure, unless a sign application has been approved to erect a sign thereon.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2091" number="1425" version="3">
+								<HEADING>§ 49-42 Accessory Sign Permits.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-886" name="T01C049_49-42"/>§ 49-42 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Accessory Sign Permits.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2092" number="1426" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A sign permit for an accessory sign shall only be issued to a sign with non-changeable copy, except that the Borough Commissioner may, upon review, accept changeable copy for a digital sign, provided the name of the business to which the sign is directing attention appears prominently at all times on the sign, the changeable copy directs attention only to products sold at the premises, and the Department is provided with a direct access means to monitor the copy.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2093" number="1427" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Borough Commissioner may request an inspection prior to issuing a permit for any accessory sign, to confirm that the sign will direct attention to a bona fide business on the zoning lot.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2094" number="1428" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>No sign with a permit for non-changeable copy may be changed, including a change in its copy, without obtaining a new permit from the Department. A change in copy on a sign that was permitted for non-changeable copy may be considered an alteration of the sign for purposes of §§ 27-147 and 27-177 of the Administrative Code.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-2095" number="1429" version="3">
+								<HEADING>§ 49-43 Advertising Signs.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-888" name="T01C049_49-43"/>§ 49-43 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Advertising Signs.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-2096" number="1430" version="3">
+									<PARA>Absent evidence that revenue from the sign is clearly incidental to the revenue generated from the use on the zoning lot to which it directs attention, the following signs are deemed to be advertising signs for purposes of compliance with the Zoning Resolution:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2097" number="1431" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Signs that direct attention to a business on the zoning lot that is primarily operating a storage or warehouse use for business activities conducted off the zoning lot, and that storage or warehouse use occupies less than the full building on the zoning lot; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-2098" number="1432" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>All signs, other than non-commercial, larger than 200 square feet, unless it is apparent from the copy and/or depictions on the sign that it is used to direct the attention of vehicular and pedestrian traffic to the business on the zoning lot.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

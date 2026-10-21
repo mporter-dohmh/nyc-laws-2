@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-24707" number="29000" version="3">
+			<HEADING>Chapter 6: Interpolation of Allowable Sound Levels For Motor Vehicles</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-3373" name="T15C006"/>Chapter 6: Interpolation of Allowable Sound Levels For Motor Vehicles</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-24708" number="29001" version="3">
+								<HEADING>§ 6-01 Introduction.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-3375" name="T15C006_6-01"/>§ 6-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Introduction.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-24709" number="29002" version="1812">
+									<PARA>Figure 1 and Figure 2 set forth below relate to allowable sound levels for motor vehicles as specified in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="24-232" destination-id="0-0-0-0">24-232</LINK>(a) of the Administrative Code (Noise Control Code). These figures shall be used for the interpolation between Column I and Column II of Table I of said section to determine the allowable sound levels for motor vehicles operated at speeds of 35 miles per hour or less and speeds of more than 35 miles per hour, respectively, at distances between twenty-five and fifty feet from the center of the lane of the public highway in which the motor vehicle is idling or is traveling.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24710" number="29003" version="3">
+									<PARA>
+										<PICTURE id="0-0-0-172-img" object-class="folio objects" original-name="Obj:ae0fc9fa-a538-43dc-8ff7-5c17d19d7450" name="Obj_ae0fc9fa-a538-43dc-8ff7-5c17d19d7450-0-0-0-172" href="#!-- #EXECUTIVE:HOME_PATH --#/img/Obj_ae0fc9fa-a538-43dc-8ff7-5c17d19d7450-0-0-0-172" width="9540" height="12525" left-border-line-color="0" left-border-line-width="0" left-border-space="0" right-border-line-color="0" right-border-line-width="0" right-border-space="0" top-border-line-color="0" top-border-line-width="0" top-border-space="0" bottom-border-line-color="0" bottom-border-line-width="0" bottom-border-space="0"/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-24711" number="29004" version="3">
+									<PARA>
+										<PICTURE id="0-0-0-174-img" object-class="folio objects" original-name="Obj:f68015bc-416f-4626-a2ee-e4d7a92befc5" name="Obj_f68015bc-416f-4626-a2ee-e4d7a92befc5-0-0-0-174" href="#!-- #EXECUTIVE:HOME_PATH --#/img/Obj_f68015bc-416f-4626-a2ee-e4d7a92befc5-0-0-0-174" width="9585" height="12585" left-border-line-color="0" left-border-line-width="0" left-border-space="0" right-border-line-color="0" right-border-line-width="0" right-border-space="0" top-border-line-color="0" top-border-line-width="0" top-border-space="0" bottom-border-line-color="0" bottom-border-line-width="0" bottom-border-space="0"/>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

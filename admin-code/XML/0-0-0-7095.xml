@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-7095" number="9633" version="3">
+			<HEADING>Chapter 5: Disclosure of Security Breach</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-2577" name="T10C005"/>Chapter 5: Disclosure of Security Breach</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-7096" number="9634" version="1472">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/045" destination-id="0-0-0-25200">L.L. 2005/045</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-209701" number="9635" version="1472">
+										<HEADING>§ 10-501 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2267" name="10-501"/>§ 10-501 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-136017" number="9636" version="1175">
+											<PARA>For the purposes of this chapter,</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7099" number="9637" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The term &quot;personal information&quot; shall mean any information concerning an individual that because of a name, number, symbol, mark or other identifier, can be used to identify that individual. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139793" number="9638" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The term &quot;private information&quot; shall mean either: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139794" number="9639" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>personal information consisting of any information in combination with any one or more of the following data elements, when either the data element alone or the combination of such information plus the data element is not encrypted, or encrypted with an encryption key that has also been accessed or acquired: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139792" number="9640" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>social security number; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139791" number="9641" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>driver&apos;s license number or non-driver identification card number; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139790" number="9642" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>account number, credit or debit card number, in combination with any required security code, access code, password or other information which would permit access to an individual&apos;s financial account; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139789" number="9643" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>account number, or credit or debit card number, if circumstances exist wherein such number could be used to access an individual&apos;s financial account without additional identifying information, security code, access code, or password; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139788" number="9644" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>biometric information, meaning data generated by electronic measurements of an individual&apos;s unique physical characteristics, such as a retina or iris scan, fingerprint, voiceprint, or scan of hand or face geometry, any of which is collected, retained, converted, stored or shared to identify an individual; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139787" number="9645" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a user name or e-mail address in combination with a password or security question and answer that would permit access to an online account. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139786" number="9646" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>&quot;Private information&quot; does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139785" number="9647" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The term &quot;breach of security&quot; shall mean the unauthorized access, acquisition, disclosure or use of computerized data that compromises the security, confidentiality or integrity of private information maintained by an agency. Good faith or inadvertent access, acquisition, disclosure, or use of any private information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any private information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security, but in such instances an agency must comply with the protocols issued pursuant to subdivision i of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="10-502" destination-id="0-0-0-2579">10-502</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139784" number="9648" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The term &quot;consumer reporting agency&quot; shall mean any person that, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139783" number="9649" version="1175">
+											<PARA>(Am. L.L. 2021/151, 12/11/2021, eff. 4/10/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7100" number="9650" version="1472">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/045" destination-id="0-0-0-25200">L.L. 2005/045</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-209702" number="9651" version="1472">
+										<HEADING>§ 10-502 Agency disclosure of a breach of security.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2579" name="10-502"/>§ 10-502 Agency disclosure of a breach of security<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-7108" number="9652" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any city agency that owns, leases, or licenses data that includes private information shall promptly disclose to the chief privacy officer, office of cyber command and department of information technology and telecommunications any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such private information was, or is reasonably believed to have been, accessed, acquired, disclosed, or used by an unauthorized person. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139810" number="9653" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns, leases, or licenses data that includes private information shall disclose, in accordance with the procedures set forth in subdivisions d, e and f of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any individual whose private information was, or is reasonably believed to have been, accessed, acquired, disclosed, or used by an unauthorized person. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139809" number="9654" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any city agency that maintains but does not own, lease, or license data that includes private information shall disclose any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the private information was, or is reasonably believed to have been, accessed, acquired, disclosed, or used by an unauthorized person. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139808" number="9655" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances, provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the integrity of the data system. Disclosures required by subdivision b of this section shall be made to each affected individual by at least one of the following means: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139807" number="9656" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Written notice; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139806" number="9657" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Telephonic notification, provided that a log of each such notification is maintained by the agency that notifies the affected individuals; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139805" number="9658" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Electronic notification, provided that the affected individual has expressly consented to receiving such notification in electronic form and a log of each such notification is maintained by the agency that notifies affected individuals in such form; provided further, however, that in no case shall any city agency, individual, or business require an individual to consent to accepting notification in such form as a condition of establishing any relationship or engaging in any transaction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139804" number="9659" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism that is reasonably targeted to the individual in a manner that does not further compromise the integrity of the private information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139803" number="9660" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>In the event that five thousand or more New York residents are to be notified at one time pursuant to this section, the agency shall also notify consumer reporting agencies as to the timing, content and distribution of the notices and approximate number of affected individuals. Such notice shall be made without delaying notice to affected New York residents. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139802" number="9661" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>Notice to affected individuals under this section is not required if the exposure of private information was an inadvertent disclosure by persons authorized to access private information, and the agency reasonably determines, in accordance with the protocols established pursuant to subdivision i of this section, that such exposure will not likely result in misuse of such information, or financial, personal, or reputational harm to the affected individuals. Such a determination must be documented in writing and maintained for at least five years. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139801" number="9662" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>If notice of a breach of security is made to affected individuals pursuant to any law or rule of the state of New York, or pursuant to a law described in paragraph b of subdivision 2 of section 208 of the state technology law, nothing in this section shall require any additional notice to those affected individuals, but notice still shall be provided pursuant to subdivision a of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139800" number="9663" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>The office of cyber command, in consultation with the chief privacy officer and the department of information technology and telecommunications, shall issue protocols for agency coordination and recordkeeping for any breach of security and any incident that is not a breach of security but involves the good faith or inadvertent access, acquisition, disclosure, or use of any private information by an employee or agent of an agency for the legitimate purposes of the agency. Such protocols may apply to all agencies or a subset thereof. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139797" number="9664" version="1175">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>Notifications made pursuant to this section may overlap with notifications required pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T23C012" destination-id="0-0-0-10271">chapter 12 of title 23</LINK>, including the regulations, policies and protocols issued by the chief privacy officer pursuant to such chapter. Nothing in this section or such chapter shall require duplicate notifications, as long as any notice provided meets any applicable requirements of both this law and such chapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7109" number="9665" version="1175">
+											<PARA>(Am. L.L. 2021/151, 12/11/2021, eff. 4/10/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139795" number="9666" version="1472">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/045" destination-id="0-0-0-25200">L.L. 2005/045</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-209703" number="9667" version="1472">
+										<HEADING>§ 10-503 Agency disposal of private information.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2581" name="10-503"/>§ 10-503 Agency disposal of private information<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-136019" number="9668" version="1175">
+											<PARA>An agency that discards records containing any individual&apos;s private information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7111" number="9669" version="1175">
+											<PARA>(Am. L.L. 2021/151, 12/11/2021, eff. 4/10/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-072]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139796" number="9670" version="1472">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/045" destination-id="0-0-0-25200">L.L. 2005/045</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-209704" number="9671" version="1472">
+										<HEADING>§ 10-504 Agency disposal of electronics.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-2583" name="10-504"/>§ 10-504 Agency disposal of electronics.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-7112" number="9672" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-010]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7113" number="9673" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-010]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7114" number="9674" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>For the purposes of this section, the term &quot;dispose&quot; includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-010]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-7115" number="9675" version="3">
+											<PARA>(L.L. 2017/011, 2/15/2017, eff. 2/15/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-010]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

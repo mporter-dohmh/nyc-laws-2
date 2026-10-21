@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-144019" number="15293" version="2600">
+			<HEADING>Chapter 37: Combustible Fibers</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-18128" name="T03C037"/>Chapter 37: Combustible Fibers</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-140929" number="15294" version="2588">
+				<PARA>
+					<PARAFORMAT justify="center">(Added City Record 9/20/2023, eff. 10/20/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-090]</HIGHLIGHTER>
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140043" number="15295" version="2588">
+								<HEADING>§ 3701 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18672" name="T03C037_3701"/>§ 3701 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140930" number="15296" version="2588">
+								<HEADING>§ 3702 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18674" name="T03C037_3702"/>§ 3702 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140931" number="15297" version="2588">
+								<HEADING>§ 3703 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18676" name="T03C037_3703"/>§ 3703 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140932" number="15298" version="2588">
+								<HEADING>§ 3704 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18678" name="T03C037_3704"/>§ 3704 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140933" number="15299" version="2588">
+								<HEADING>§ 3705 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18680" name="T03C037_3705"/>§ 3705 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-140934" number="15300" version="2588">
+								<HEADING>§ 3706 Reserved.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-18682" name="T03C037_3706"/>§ 3706 Reserved.</PARA>
+							</RECORD>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

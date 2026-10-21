@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-474" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-150844" number="112956" version="2881">
+			<HEADING>Title 67: Department of Information Technology and Telecommunications</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15578" name="Title 67"/>Title 67: Department of Information Technology and Telecommunications</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-93779" number="112957" version="3">
+				<HEADING>Chapter 1: Microtrenching</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-8409" name="T67C001"/>Chapter 1: Microtrenching</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+				<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+						<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93780" number="112958" version="3">
+									<HEADING>§ 1-01 Definitions.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13243" name="T67C001_1-01"/>§ 1-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93781" number="112959" version="3">
+										<PARA>The following terms are defined for purposes of this chapter:</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93782" number="112960" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Conduit&quot;</CHARFORMAT> means equipment installed by means of microtrenching to house fiber-optic cabling in multiple enclosed pathways or pipes.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93783" number="112961" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Department&quot;</CHARFORMAT> means the Department of Information Technology and Telecommunications.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93784" number="112962" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Duct&quot;</CHARFORMAT> means one enclosed pathway or pipe within a conduit.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93785" number="112963" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Excess capacity&quot;</CHARFORMAT> means ducts within a conduit that may not be used by the owner or for the owner&apos;s business. Each excess capacity duct must be no smaller than the largest duct within the conduit that is reserved for use by the owner, but in any event each excess capacity duct must have the capacity to house at least 96 strands of fiber-optic cable.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93786" number="112964" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Low density residential block&quot;</CHARFORMAT> means the side of a street on a City block that consists entirely of residential buildings with no more than three residential units each.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93787" number="112965" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Microtrenching&quot;</CHARFORMAT> means a technique for installing conduit to house fiberoptic cable to provide telecommunications services, utilizing a shallower and narrower cut that can be made in the expansion joint between the sidewalk and the curb as well as within the roadway.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93788" number="112966" version="1753">
+										<PARA>
+											<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Owner&quot;</CHARFORMAT> means the holder of a current telecommunications franchise pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1072" destination-id="0-0-0-0">1072</LINK>(c) of the Charter, that proposes to install or has installed conduit. A franchise is not &quot;current&quot; if the term of the franchise agreement has expired and the franchise is in holdover status.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93789" number="112967" version="1753">
+										<PARA>
+											<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;Telecommunications franchisee&quot;</CHARFORMAT> means the holder of a current franchise pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1072" destination-id="0-0-0-0">1072</LINK>(c) of the Charter, or of a revocable consent from the City of New York for installation of telecommunications equipment above, below or on any of the streets within the City. A franchise is not &quot;current&quot; if the term of the franchise agreement has expired and the franchise is in holdover status.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93790" number="112968" version="3">
+									<HEADING>§ 1-02 Microtrenching Permitted: Notifications to the Department.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13245" name="T67C001_1-02"/>§ 1-02 Microtrenching Permitted: Notifications to the Department.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93791" number="112969" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An owner may perform microtrenching to the extent allowed by a permit issued by the Department of Transportation. New microtrenching will not be permitted where sufficient excess capacity is available in existing microtrenching. Before applying to the Department of Transportation for such a permit, the owner must obtain a certification from the Department that no excess capacity is available in the location the owner proposes for microtrenching. The owner must submit that certification to the Department of Transportation as part of the owner&apos;s application for a permit.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93792" number="112970" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An owner must install conduit in a way that will readily permit another owner to add length to the microtrenching by connecting its own conduit to the first owner&apos;s conduit. Where an owner connects its own conduit to another owner&apos;s previously installed conduit, the owner must install conduit that has the same number of pathways or pipes as the previous owner&apos;s conduit.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93793" number="112971" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Microtrenching will be permitted only for: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93794" number="112972" version="3">
+										<PARA>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>a.<TAB tab-count="1"/>fiber-optic service to properties within the following zoning districts as defined pursuant to the New York City Zoning Resolution: R1, R2, R2A, R2X, R3, R3-1, R3-2, R3-A, R3-X, R4, R4-1, R4A, R4B, R5, R5-A, R5-B, R5-D, C1-1, C1-2, C1-4, C1-5, C2-1, C2-2, C2-3, C2-4, C2-5, C-3, C4 (but only to premises with a commercial floor area ratio of 2.0 or less), M-1 (but only to premises with a manufacturing floor area ratio of 2.0 or less), M-2, M-3, and special purpose districts (but only to premises with a floor area ratio of 2.0 or less); and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93795" number="112973" version="3">
+										<PARA>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>b.<TAB tab-count="1"/>fiber-optic service to telecommunications structures or equipment within the boundaries of streets regardless of zoning. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93796" number="112974" version="3">
+										<PARA>
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Before applying for a permit for microtrenching from the Department of Transportation the owner must submit the following documents to the Department: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93797" number="112975" version="1461">
+										<PARA>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Proof of security. </CHARFORMAT>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;Proof of security&quot; means proof that the issuer of any bond, insurance, letter of credit or other security issued in connection with the owner&apos;s telecommunications franchise agreements has agreed to extend the coverage of such security to the owner&apos;s microtrenching, without change to any other terms and conditions of such security that are for the benefit of the Department or the City. The Department will have the right to draw on the security to cover any unpaid fines assessed pursuant to 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-07" destination-id="0-0-0-13255">1-07</LINK>(c), or to cover any unmet obligation to remove conduit pursuant to 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-06" destination-id="0-0-0-13253">1-06</LINK>.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93798" number="112976" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+											</CHARFORMAT>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Indemnification. </CHARFORMAT>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">The owner shall execute an indemnification agreement prepared by the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93799" number="112977" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>After obtaining a permit for microtrenching from the Department of Transportation, but before beginning mictrotrenching construction, the owner must notify the Department of the intended dates of the start and completion of microtrenching construction. Notification must be made on a form and in a format prescribed by the Department.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93800" number="112978" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Promptly after completion of microtrenching construction, and at most within 40 calendar days after the Department of Transportation issued the permit for microtrenching, the owner must file a document with the Department, in a format to be prescribed by the Department, containing the following information:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93801" number="112979" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>a. An &quot;as-built&quot; drawing of the conduit installed. The &quot;as-built&quot; drawing will be treated as proprietary and confidential, to the extent permitted by law.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93802" number="112980" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>b. A map showing the street location of the conduit including the side of the street the conduit is on, the beginning and ending points of the conduit, the number of ducts in the conduit, and the number of ducts of excess capacity in the conduit. The map must accurately reflect the addresses of buildings that are passed by the conduit. The map may be made public, by itself or in aggregation with other maps, at the discretion of the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93803" number="112981" version="748">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(Amended City Record 7/9/2015, eff. 8/8/2015) </CHARFORMAT>
+											<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93804" number="112982" version="3">
+									<HEADING>§ 1-03 Requirement to Install Excess Capacity.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13247" name="T67C001_1-03"/>§ 1-03 Requirement to Install Excess Capacity.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93805" number="112983" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The owner must use microtrenching materials and equipment that will facilitate the use of excess capacity by telecommunications franchisees.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93806" number="112984" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>On a low density residential block, all conduit must have excess capacity of at least four ducts.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93807" number="112985" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>In any other location, all conduit must have excess capacity of at least six ducts.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93808" number="112986" version="3">
+									<HEADING>§ 1-04 Ownership and Maintenance of Conduit.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13249" name="T67C001_1-04"/>§ 1-04 Ownership and Maintenance of Conduit.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93809" number="112987" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Except as provided in 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-08" destination-id="0-0-0-13257">1-08</LINK>(b), the owner must retain title to the conduit and must maintain the conduit in working order and good repair, and in compliance with the rules of this chapter. The owner must comply with all requirements, directives and orders of the Department of Transportation regarding microtrenching.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93810" number="112988" version="3">
+									<HEADING>§ 1-05 Use and Management of Excess Capacity.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13251" name="T67C001_1-05"/>§ 1-05 Use and Management of Excess Capacity.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93811" number="112989" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The owner must make one duct of the excess capacity available without charge or fee to the City for installation of fiber-optic cable for use by the City for the City&apos;s direct benefit. The &quot;City&quot; includes any agency or office of New York City government, and any City-related public institution including the New York City Housing Authority, the Health and Hospitals Corporation, the New York City Department of Education, and the Metropolitan Transportation Authority.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93812" number="112990" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The owner must make all other ducts of the excess capacity available to any telecommunications franchisee for installation of fiber-optic cable to serve the telecommunications franchisee&apos;s business or customers. The owner may charge the telecommunications franchisee up to but not more than 75 cents per year per foot of duct occupied.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93813" number="112991" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Inquiries about the availability and ownership of excess capacity may be submitted to the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93814" number="112992" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A City request to use excess capacity may be submitted to the owner only by the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93815" number="112993" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>A telecommunications franchisee&apos;s request to use excess capacity must be submitted by the telecommunications franchisee to the owner. The telecommunications franchisee must submit a copy of the request to the Department simultaneously with submission of the request to the owner.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93816" number="112994" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The owner must respond to a request to use excess capacity within fifteen business days of the owner&apos;s receipt of the request. The owner&apos;s response must either approve or deny the request, and if the owner denies the request the owner must state the reasons for the denial. If the request is a City request, the owner must submit its response to the Department. If the request is by a telecommunications franchisee, the owner must submit its response to the telecommunications franchisee and simultaneously submit a copy of its response to the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93817" number="112995" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The owner must make excess capacity available to telecommunications franchisees on a first-come, first-served basis. However, the owner is not obligated to provide excess capacity to a telecommunications franchisee other than for the actual use for the telecommunications franchisee&apos;s business or customers. That is, a telecommunications franchisee may not reserve or use excess capacity for the possibility of future use or for hoarding. Also, the telecommunications franchisee may not sublease excess capacity.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93818" number="112996" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>The owner must make excess capacity available to a telecommunications franchisee no later than 45 calendar days of the owner&apos;s receipt of the telecommunications franchisee&apos;s request, unless the owner denies the request as provided by subdivision (f) or (g) of this section.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93819" number="112997" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>If a telecommunications franchisee does not complete the installation of fiber-optic cable within 45 calendar days after the owner makes excess capacity available to the telecommunications franchisee, the owner may deem any portion of the excess capacity that the telecommunications franchisee did not occupy by that time to be available to other telecommunications franchisees as provided by subdivision (g) of this section.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93820" number="112998" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(j)<TAB tab-count="1"/>Making excess capacity available to the City and to telecommunications franchisees includes making available the opportunity to enter and connect to the conduit at the nearest manhole or similar utility access space.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93821" number="112999" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(k)<TAB tab-count="1"/>No later than ten business days after the end of each calendar quarter, the owner must submit a report to the Department, in a format to be prescribed by the Department, stating:</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93822" number="113000" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The name of each telecommunications franchisee that took occupancy of excess capacity during the previous quarter, and, for each such telecommunications franchisee, the location of the beginning and ending points of each length of duct the telecommunications franchisee occupied; and</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93823" number="113001" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The name of each telecommunications franchisee that vacated excess capacity during the previous quarter, and, for each such telecommunications franchisee, the location of the beginning and ending points of each length of duct the telecommunications franchisee vacated.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93824" number="113002" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(l)<TAB tab-count="1"/>No later than January 20 of each year, the owner must submit a report to the Department, in a format to be prescribed by the Department, stating the location of each conduit repair and service outage that occurred in the owner&apos;s microtrenching during the previous year.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93825" number="113003" version="3">
+									<HEADING>§ 1-06 The Owner&apos;s Obligation to Remove or Otherwise Dispose of Conduit.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13253" name="T67C001_1-06"/>§ 1-06 The Owner&apos;s Obligation to Remove or Otherwise Dispose of Conduit.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93826" number="113004" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If an owner no longer intends to maintain conduit in working order and good repair, the owner must either remove the conduit at its own expense, or, at the Department&apos;s option, transfer the conduit to another owner, or otherwise dispose of the conduit as directed by the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93827" number="113005" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If an owner&apos;s telecommunications franchise or microtrenching permit is terminated or revoked, or if an owner&apos;s right to own microtrenching is revoked, the owner must either remove the conduit at its own expense, transfer the conduit to another owner, or otherwise dispose of the conduit as directed by the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93828" number="113006" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If the Department determines that microtrenching is unsuitable or unsafe, either entirely or under specified conditions, the owner must remove the conduit and fiber-optic cable at the owner&apos;s expense, or, at the Department&apos;s option, transfer title to the conduit and fiber-optic cable to the City without fee or cost.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93829" number="113007" version="3">
+									<HEADING>§ 1-07 Enforcement.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13255" name="T67C001_1-07"/>§ 1-07 Enforcement.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93830" number="113008" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Telecommunications franchisees may submit complaints about owners&apos; compliance with the rules of this chapter to the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93831" number="113009" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department may audit or otherwise investigate or review an owner&apos;s use of microtrenching and compliance with the rules of this chapter. The owner and any telecommunications franchisee that uses or has applied to use the owner&apos;s excess capacity must cooperate with the Department in the conduct of such an audit, investigation or review, and must cooperate with any other governmental entity lawfully authorized to conduct such an audit, investigation or review. The owner must provide access to individuals, documents, records and information as may be reasonable and appropriate to such audit, investigation or review.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93832" number="113010" version="1897">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>In the event of a violation of the rules of this chapter, the Department may initiate proceedings before the Office of Administrative Trials and Hearings (OATH) to seek the imposition of penalties on an owner, including fines or revocation or other limitation of the owner&apos;s right to engage in microtrenching. The rules of OATH will apply to such proceedings. Those rules are set forth in 48 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T48C001" destination-id="0-0-0-640">Chapter 1</LINK>.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93833" number="113011" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Following a hearing, an administrative law judge will issue a report and recommendation to the Commissioner of the Department or his or her designee. The report and recommendation will state proposed findings of fact and conclusions of law, and a recommended disposition. The responding party will have ten business days from the date of the report and recommendation to submit comments on the report and recommendation to the Commissioner. The Commissioner will issue a final decision, subject only to judicial review.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93834" number="113012" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Penalties include fines no less than $100 and no more than $25,000 per violation, termination of the owner&apos;s right to engage in additional microtrenching, and revocation of the owner&apos;s right to own microtrenching. Factors relevant to the determination of the penalty include the severity of the offense; whether the offense was willful or inadvertent; whether the offense furthered the owner&apos;s evasion of oversight and monitoring; the degree of the cost, disadvantage or inconvenience imposed on others by the offense; and the owner&apos;s history of offenses, if any.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93835" number="113013" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Violations include the following. (Descriptions are for informational purposes only; the text of the rule itself determines the scope and meaning of the rule.)</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93836" number="113014" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-02" destination-id="0-0-0-13245">1-02</LINK>(a): Performing microtrenching without or beyond the scope of a Department of Transportation-issued microtrenching permit.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93837" number="113015" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-02" destination-id="0-0-0-13245">1-02</LINK>(c): Providing fiber-optic service by microtrenching where prohibited.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93838" number="113016" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-02" destination-id="0-0-0-13245">1-02</LINK>(e): Failure to notify the Department, or to timely notify the Department, of the intended dates of microtrenching construction.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93839" number="113017" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iv.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-02" destination-id="0-0-0-13245">1-02</LINK>(f): Failure to file, or to timely file, drawings as required after conclusion of microtrenching construction.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93840" number="113018" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>v.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-03" destination-id="0-0-0-13247">1-03</LINK>: Failure to install required excess capacity.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93841" number="113019" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>vi.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-04" destination-id="0-0-0-13249">1-04</LINK>: Failure to maintain conduit in good repair, in compliance with these rules, or in compliance with requirements of the Department of Transportation.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93842" number="113020" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>vii.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-05" destination-id="0-0-0-13251">1-05</LINK>: Failure to make excess capacity available; failure to make excess capacity available timely; attempt to overcharge for excess capacity; failure to respond or respond timely to a request for excess capacity; failure to offer excess capacity on a first-come, first-served basis.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93843" number="113021" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>viii.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-05" destination-id="0-0-0-13251">1-05</LINK>(j): Failure to report to the Department as required.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93844" number="113022" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ix.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-06" destination-id="0-0-0-13253">1-06</LINK>: Failure to remove or dispose of conduit as directed.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93845" number="113023" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>x.<TAB tab-count="1"/>67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-07" destination-id="0-0-0-13255">1-07</LINK>(b): Failure to cooperate with an audit, investigation or review.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93846" number="113024" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>xi.<TAB tab-count="1"/>Any other violation of the rules of this chapter.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93847" number="113025" version="40">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(Amended City Record 7/9/2015, eff. 8/8/2015)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+								<RECORD id="0-0-0-93848" number="113026" version="3">
+									<HEADING>§ 1-08 Miscellaneous Provisions.</HEADING>
+									<PARA>
+										<DESTINATION id="0-0-0-13257" name="T67C001_1-08"/>§ 1-08 Miscellaneous Provisions.</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-93849" number="113027" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Conduit that was installed before the effective date of this chapter, in compliance with the terms of a microtrenching pilot program, will be allowed to remain in place despite any non-compliance with 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-02" destination-id="0-0-0-13245">1-02</LINK> or 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-03" destination-id="0-0-0-13247">1-03</LINK>. All of the other rules of this chapter apply to such conduit.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93850" number="113028" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An owner may transfer ownership of conduit to another entity that would be an &quot;owner&quot; as defined by 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-01" destination-id="0-0-0-13243">1-01</LINK>(g). A transfer may not be made effective before the submission to the Department of the contract or other document effectuating the transfer.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93851" number="113029" version="3">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>To the extent that any applicable federal or state law or regulation requires an owner to make excess capacity available to a person or entity more expeditiously or on any other term more favorable to that person or entity than a term provided for by the rules of this chapter, then the applicable federal or state law or regulation applies with respect to such persons or entities instead of the term provided for by the rules of this chapter.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93852" number="113030" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>By voluntarily choosing to install conduit pursuant to this chapter, an owner agrees that the owner will not charge telecommunications franchisees any fees or costs for the use or occupancy of duct installed pursuant to this chapter greater than the fees provided in 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-05" destination-id="0-0-0-13251">1-05</LINK>(b); represents that the owner has received any regulatory permission, approval or authority that may be required to install such conduit and to charge such fees; and acknowledges that the City of New York relies on that agreement and that representation in furtherance of the City&apos;s interests in expanding fiber-optic cable deployment, especially in underserved areas.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-93853" number="113031" version="1461">
+										<PARA>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The provisions of this chapter that require an owner to install excess capacity, to make it available to telecommunications franchisees, and to forego any fees and costs except as provided in 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-05" destination-id="0-0-0-13251">1-05</LINK>(b) that might otherwise be permitted by any applicable rate regulation are integral to this chapter and essential to the City&apos;s purposes in promulgating this chapter. The City&apos;s determination to permit microtrenching is expressly based on the assumptions that an owner&apos;s conduit will include excess capacity and that the excess capacity will be available to telecommunications franchisees without payment of any fees or costs except as provided in 67 RCNY </CHARFORMAT>§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T67C001_1-05" destination-id="0-0-0-13251">1-05</LINK>(b). Therefore, if any court or other tribunal of competent jurisdiction invalidates any of those provisions, this chapter will be invalidated in its entirety and microtrenching will not be permitted, and owners must remove or otherwise dispose of all conduit as directed by the Department.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

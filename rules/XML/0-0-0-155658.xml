@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-155658" number="10216" version="3061">
+			<HEADING>Appendix E – CEQR</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-19158" name="T02AppE"/>Appendix E – CEQR</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-146278" number="10217" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+					<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions:</CHARFORMAT> The following additional definitions shall apply to these rules unless otherwise noted: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146277" number="10218" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency.</CHARFORMAT> “Agency” means any agency, administration, department, board, commission, council, governing body or other governmental entity of the city of New York, including but not limited to community boards, borough boards and the offices of the borough presidents, unless otherwise specifically referred to as a state or federal agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146276" number="10219" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City Environmental Quality Review.</CHARFORMAT> “City Environmental Quality Review” (CEQR) means the environmental quality review procedure established by Executive Order 91 of 1977 as modified by the rules of the city planning commission. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146275" number="10220" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Development Site.</CHARFORMAT> “Development site” means the zoning lot all or part of which the applicant proposes to develop through the action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146274" number="10221" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Developable Site.</CHARFORMAT> “Developable site” means a zoning lot, including the development site, within the area that is the subject of the action that the lead agency determines is likely to be developed as a result of the action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146273" number="10222" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lead Agency.</CHARFORMAT> “Lead agency” means the agency principally responsible for environmental review pursuant to these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146272" number="10223" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Natural Resource.</CHARFORMAT> “Natural Resource” means surface water bodies; wetland resources; upland resources, such as beaches, shrublands, meadows, and forests; or other significant or sensitive resources. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146271" number="10224" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">SEQRA Regulations.</CHARFORMAT> “SEQRA Regulations” means Part 617 of Volume 6 of New York Codes, Rules and Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146270" number="10225" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+					<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Type II List.</CHARFORMAT> The following actions are not subject to review by the Board of Standards and Appeals under City Environmental Quality Review, the State Environmental Quality Review Act (Environmental Conservation Law, Article 8) or the SEQRA Regulations, subject to 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(c)*: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146269" number="10226" version="2697">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-20">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">* Editor&apos;s note:</CHARFORMAT> set forth as &quot;2 RCNY Appendix E(B)(b)&quot; in the original rule; corrected at the discretion of the editor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146279" number="10227" version="3061">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Special permits for radio and television towers, pursuant to § 73-141 of the Zoning Resolution; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-122]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146268" number="10228" version="3061">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Special permits for ambulatory diagnostic or treatment health care facilities, pursuant to § 73-134 of the Zoning Resolution; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-122]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146267" number="10229" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Special permits to allow a building or other structure to exceed the height regulations around airports, pursuant to § 73-66 of the Zoning Resolution; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146266" number="10230" version="3061">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Special permits for eating and drinking establishments of up to 2,500 gross square feet with accessory drive-through facilities, pursuant to § 73-311 of the Zoning Resolution; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-122]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146265" number="10231" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(5)<TAB tab-count="1"/>An action listed in subdivision (d) of this Appendix, provided that such action also meets the requirements in subdivision (e) of this Appendix. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146264" number="10232" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+					<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Type II Prerequisites.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146263" number="10233" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An action listed in 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(b), which is also classified as Type I pursuant to 6 NYCRR Part 617.4, shall remain Type I and subject to environmental review. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146262" number="10234" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(2)<TAB tab-count="1"/>An action listed in 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(b)(1) - (3) involving ground disturbance shall remain subject to environmental review, unless it is determined that any potentially significant hazardous materials impacts will be avoided. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146261" number="10235" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(3)<TAB tab-count="1"/>An action listed in 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(b)(1) or (2) involving excavation of an area that was not previously excavated shall remain subject to environmental review, unless it is determined that the project site is not archaeologically sensitive. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146260" number="10236" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(4)<TAB tab-count="1"/>An action listed in 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(b)(3) shall remain subject to environmental review, unless it is determined that any potentially significant noise impacts will be avoided. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146259" number="10237" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(5)<TAB tab-count="1"/>An action listed in 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(b)(1) or (2) involving the removal or alteration of significant natural resources shall remain subject to environmental review. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146258" number="10238" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(6)<TAB tab-count="1"/>An action listed in 2 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK>(b)(1), (3) or (4) shall remain subject to environmental review if the project site is: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146257" number="10239" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(i)<TAB tab-count="1"/>wholly or partially within any historic building, structure, facility, site or district that is calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146256" number="10240" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>substantially contiguous to any historic building, structure, facility, site or district that is designated, calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146255" number="10241" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>wholly or partially within or substantially contiguous to any historic building, structure, facility, site or district, or archaeological or prehistoric site that is listed, proposed for listing or eligible for listing on the State Register of Historic Places or National Register of Historic Places <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146254" number="10242" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+					<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Residential Development Type II Actions.</CHARFORMAT> The following actions are not subject to review by the Board of Standards and Appeals under City Environmental Quality Review, the State Environmental Quality Review Act (Environmental Conservation Law, Article 8) or the SEQRA Regulations, subject to subdivision (e) of this Appendix: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146253" number="10243" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Actions that enable incremental development of at least 1 and no more than 250 new dwelling units or new income-restricted dwelling units, and no more than 35,000 gross square feet of space for non-residential uses, which includes no more than 25,000 gross square feet of space for commercial uses and no more than 25,000 gross square feet of community facility space, and which, at the time of the environmental determination, are: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146252" number="10244" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(i)<TAB tab-count="1"/>located wholly within an existing R5 through R10 Residence zoning district, provided that such action does not include the creation or enlargement of a Special Mixed Use zoning district or a stand-alone Commercial zoning district; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146251" number="10245" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>located in an existing stand-alone Commercial zoning or Manufacturing zoning district and are being developed pursuant to a regulatory agreement or lease with a government agency to develop housing or a decision by the Board, authorizing residential development; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146250" number="10246" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Actions that enable incremental development of at least 1 and no more than 175 new dwelling units or new income restricted dwelling units, and no more than 20,000 gross square feet of space for non-residential uses, which includes no more than 10,000 gross square feet of space for commercial uses, and no more than 10,000 gross square feet of community facility space, and which, at the time of the environmental determination, are located at least partially within an existing R1 through R4 Residence zoning district, provided that such action shall not include actions that include the creation or enlargement of a Special Mixed Use zoning district or a stand-alone Commercial zoning district. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146249" number="10247" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+					<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Type II Residential Development Prerequisites.</CHARFORMAT> An action listed in subdivision (d) of this section must also comply with all of the following to be a Type II action, at or before the time environmental review is required to be completed: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146248" number="10248" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any new building or any enlargement of an existing building on the development site shall not burn fossil fuels to supply heat or hot water; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146247" number="10249" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The applicant or development site owner shall have complied with the following site-specific requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146246" number="10250" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(i)<TAB tab-count="1"/>for developable sites that include one or more tax lots that do not have an (E) designation for hazardous materials pursuant to § 11-15 of the New York City Zoning Resolution at the time of the environmental determination, completed a Phase I Environmental Site Assessment for the development site and either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146245" number="10251" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(A)<TAB tab-count="1"/>obtained a written signoff from the lead agency that no further environmental investigation is required or that a plan to address any hazardous materials is acceptable; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146244" number="10252" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(B)<TAB tab-count="1"/>consented to the establishment of an (E) designation for hazardous materials pursuant to § 11-15 of the New York City Zoning Resolution and 15 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C024" destination-id="0-0-0-3795">Chapter 24</LINK> on the developable sites, provided that where an (E) designation is not available and the development site will be developed pursuant to a regulatory agreement with a government agency, such government agency shall include protections and development oversight requirements equivalent to an (E) designation found in 15 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T15C024" destination-id="0-0-0-3795">Chapter 24</LINK> in such regulatory agreement; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146243" number="10253" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>obtained a determination from the New York City Landmarks Preservation Commission (LPC) stating whether any developable site is within an archaeologically sensitive area, is designated, calendared for consideration or eligible for designation as a New York City Landmark or Historic District, is listed on, or formally determined to be eligible for inclusion on, the National Register of Historic Places or the New York State Register of Historic Places, or is substantially contiguous to a sunlight sensitive architectural resource, and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146242" number="10254" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(A)<TAB tab-count="1"/>if LPC determines a developable site is within an archaeologically sensitive area, completed an archaeological document study for the development site and obtained a writing from LPC that the development of such development site does not raise archaeological concerns; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146241" number="10255" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(B)<TAB tab-count="1"/>if LPC determines a developable site is designated, calendared for consideration or eligible for designation as a New York City Landmark or Historic District or is listed on, or formally determined to be eligible for inclusion on, the National Register of Historic Places or the New York State Register of Historic Places, obtained a writing from LPC that the development of such development site does not raise historic preservation concerns; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146240" number="10256" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>agreed to prepare and implement a Construction Protection Plan consistent with the requirements of the New York City Department of Buildings Technical Policy and Procedure #10/88 for a development site located at least partially within 90 feet of a building or site formally determined to be eligible for listing on the National Register of Historic Places or the New York State Register of Historic Places or of a building or site that is eligible for designation as a New York City Landmark or Historic District; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146239" number="10257" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>for developable sites within 1,000 feet of an air emissions source that operates under a permit issued pursuant to subpart 201-5 of title 6 of the New York Codes, Rules and Regulations (New York State facility permits) or subpart 201-6 of such title (Clean Air Act Title V permits) or either within 400 feet of any existing air emission source with an active or expired industrial permit issued by the New York City Department of Environmental Protection or within 400 feet of any unpermitted industrial source, confirmed to the lead agency based on the emission limits in the permit(s) or, for any unpermitted source, the estimated emission limits from similar source permit(s) provided by the lead agency that concentrations of any pollutant regulated by the permit(s) or identified by the lead agency for any unpermitted source will not exceed the corresponding National Ambient Air Quality Standards (including background concentrations) and Annual Guideline Concentration (AGC) and Short-term Guideline Concentration (SGC) in the New York State Department of Environmental Conservation Division of Air Resources Guidelines for Evaluation and Control of Ambient Air Contaminants (DAR-1) at such developable site, as determined in accordance with the industrial source screen in subdivision (f) of this <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T02AppE" destination-id="0-0-0-19158">Appendix E</LINK> (Industrial Air Quality Checklist). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146238" number="10258" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(v)<TAB tab-count="1"/>With respect to calculation of noise levels, either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146237" number="10259" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(A)<TAB tab-count="1"/>provided to the lead agency representative peak hour outdoor noise sampling showing less than 70 A-weighted decibels (dBA) L10 ambient noise levels at all developable sites, and provided outdoor noise sampling for all developable site buildings within the line of sight of any railway or elevated subway showing less than 65 dBA Ldn ambient noise levels and confirmed that all developable sites are outside the 65 Day Night Average Sound Level contours established in the Noise Exposure Map (NEM) Report for John F. Kennedy Airport and LaGuardia Airport, or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146236" number="10260" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(B)<TAB tab-count="1"/>agreed to establishment of an (E) designation for noise pursuant to § 11-15 of the NYC Zoning Resolution on any developable sites that cannot meet the requirements of item (A) above, provided that where the development site will be developed pursuant to a regulatory agreement with a government agency, such government agency shall include protections equivalent to those imposed by an (E) designation for noise attenuation in such regulatory agreement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146235" number="10261" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The projected duration of construction at each development site shall not be greater than 24 months and no consecutive projected construction period for all substantially contiguous developable sites shall be greater than 24 months. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146234" number="10262" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(4)<TAB tab-count="1"/>No portion of any developable site shall: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146233" number="10263" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(i)<TAB tab-count="1"/>be located adjacent to an arterial highway listed in Appendix H to the New York City Zoning Resolution or a vent structure for a tunnel; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146232" number="10264" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>be located within in a Special Coastal Risk District mapped pursuant to Article XIII, Chapter 7 of the New York City Zoning Resolution; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146231" number="10265" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>contain a natural resource. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146230" number="10266" version="2697">
+				<PARA>
+					<TAB tab-count="1"/>
+					<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The action shall not enable construction of a new building or other structure or enlargement of an existing building or structure with a maximum allowable height greater than 250 feet, including all rooftop bulkheads, mechanical equipment, parapets, and any other parts of the building, or with a maximum possible height greater than 50 feet if substantially contiguous to a public open space other than a street or sidewalk, natural resource or an architectural sunlight sensitive resource identified by LPC under subparagraph (ii) of paragraph (2) of this subdivision above, unless such open space, natural resource or sunlight sensitive resource is entirely within the area between -108 degrees from true north and +108 degrees from true north of the building or other structure or is an architectural resource that is located on a facade that faces directly away from a developable site. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146229" number="10267" version="2698">
+				<PARA>
+					<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+					<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Industrial Air Quality Checklist.</CHARFORMAT> To determine the potential for exceedance of the New York State Department of Environmental Conservation (DEC) Division of Air Resources Guidelines for Evaluation and Control of Ambient Air Contaminants (DAR-1) guidelines at a developable site resulting from industrial emissions, emissions from industrial sources within 400 feet of the development site shall be determined from emission limits in permits issued by the New York City Department of Environmental Protection (DEP) or for unpermitted sources, from the estimated emission limits provided by the lead agency and for Title V or state facility-permitted sources within 1,000 feet of the development site, from the emissions limits in the DEC Title V or state facility permits. For purposes of this subdivision, industrial sources means air emission sources (direct and fugitive emissions) that have or should have an existing or expired DEP Clean Air Tracking System industrial permit, concrete batching plants, or material handling facilities. The emissions from any existing industrial or state permitted source or emission assumptions for any unpermitted industrial source must first be converted into grams/second. This converted emission rate must then be multiplied by the value in the table below corresponding to the minimum distance between the industrial source and the building containing the new dwelling units to determine if the National Ambient Air Quality Standards (including background concentrations) and AGC/SGC values in the DAR-1 guidelines are exceeded. Values are provided for 1-hour and annual averages to enable the comparison of pollutant levels to SGCs (1-hour averaging period) or AGCs (annual averaging period). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146226" number="10268" version="2697">
+				<PARA>
+					<TABLE>
+						<TABLEFORMAT number-of-widths="6" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+							<COLUMNFORMAT column-width="97" percentage="no"/>
+							<COLUMNFORMAT column-width="97" percentage="no"/>
+							<COLUMNFORMAT column-width="97" percentage="no"/>
+							<COLUMNFORMAT column-width="97" percentage="no"/>
+							<COLUMNFORMAT column-width="97" percentage="no"/>
+							<COLUMNFORMAT column-width="97" percentage="no"/>
+						</TABLEFORMAT>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL header="true">
+											<CELLFORMAT alignment="bottom">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Distance from Source</CHARFORMAT>
+											</CELLFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL header="true">
+											<CELLFORMAT alignment="bottom">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">1-Hour<LINEBRK/>Averaging Period<LINEBRK/>(ug/m</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-40">3</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>
+											</CELLFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL header="true">
+											<CELLFORMAT alignment="bottom">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">3-Hour<LINEBRK/>Averaging Period<LINEBRK/>(ug/m</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-40">3</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>
+											</CELLFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL header="true">
+											<CELLFORMAT alignment="bottom">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">8-Hour<LINEBRK/>Averaging Period<LINEBRK/>(ug/m</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-40">3</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>
+											</CELLFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL header="true">
+											<CELLFORMAT alignment="bottom">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">24-Hour<LINEBRK/>Averaging Period<LINEBRK/>(ug/m</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-40">3</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>
+											</CELLFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL header="true">
+											<CELLFORMAT alignment="bottom">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual<LINEBRK/>Averaging Period<LINEBRK/>(ug/m</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="8" background-color-auto="1" baseline="-40">3</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" background-color-auto="1" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-40">
+												</CHARFORMAT>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>
+											</CELLFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">30 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">124,848</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">61,874</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">46,700</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">38,284</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">5,251</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">60 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">31,284</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">15,479</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">12,721</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">10,292</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,386</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">90 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">13,936</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">6,884</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">6,098</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">4,858</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">645</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">120 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">7,857</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">4,028</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">3,658</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">2,877</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">378</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">150 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">5,038</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">2,721</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">2,476</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,926</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">252</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">180 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">3,507</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,982</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,808</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,393</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">181</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">210 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">2,599</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,520</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,390</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,063</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">138</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">240 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">2,038</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,211</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,109</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">844</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">110</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">270 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,684</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">992</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">910</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">692</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">90</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">300 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,449</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">831</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">764</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">580</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">75</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">330 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,282</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">714</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">653</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">496</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">64</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">360 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,153</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">631</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">566</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">431</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">56</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">400 ft</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">1,015</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">559</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">477</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">364</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">47</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+					</TABLE>
+				</PARA>
+				<PARA>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-146224" number="10269" version="3061">
+				<PARA>(Added City Record 4/24/2024, eff. 5/24/2024; amended City Record 5/18/2026, eff. 6/17/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-122]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

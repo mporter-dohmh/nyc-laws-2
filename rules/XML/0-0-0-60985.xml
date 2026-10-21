@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-60985" number="71547" version="3">
+			<HEADING>Chapter 3: Single Adult Homeless Shelter</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-8333" name="T31C003"/>Chapter 3: Single Adult Homeless Shelter</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-60986" number="71548" version="3">
+								<HEADING>§ 3-01 Single Adult Resource Assessment.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-8335" name="T31C003_3-01"/>§ 3-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Single Adult Resource Assessment.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-60987" number="71549" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60988" number="71550" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Official shelter:</CHARFORMAT> The single adult shelter to which an adult shelter client has been assigned, following intake and assessment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60989" number="71551" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Extended absence:</CHARFORMAT> An exit from the single adult shelter system lasting at least 30 consecutive days.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60990" number="71552" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Returnee:</CHARFORMAT> An adult shelter client who returns to a single adult shelter after an extended absence and within 365 days.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60991" number="71553" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Single Adult Resource Assessment:</CHARFORMAT> An assessment to identify alternative housing options available to a Returnee and to connect a Returnee to resources or benefits to avoid re-entry into shelter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60992" number="71554" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Diversion services:</CHARFORMAT> Services offered at a single adult intake center directed at finding non-shelter housing alternatives and resources.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60993" number="71555" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Diversion office:</CHARFORMAT> An office located at a single adult intake center that provides diversion services.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60994" number="71556" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Upon a Returnee&apos;s return to the adult shelter system, shelter staff must determine whether, based on the entirety of the Returnee&apos;s circumstances, the Returnee will return to his or her official shelter or be referred to a diversion office for a Single Adult Resource Assessment. Factors whose presence would allow the Returnee to return to his or her official shelter and not be referred for a Single Adult Resource Assessment include but are not limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60995" number="71557" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The Returnee has a mental or physical disability;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60996" number="71558" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Either the Returnee, or the primary tenant of the residence where the Returnee had been living prior to returning to shelter, has been evicted;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60997" number="71559" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A vacate order has been issued for the residence where the Returnee had been living during his or her extended absence;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60998" number="71560" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The Returnee was recently discharged from a prison, hospital, residential treatment facility, or other institution;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60999" number="71561" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The Returnee is a victim of domestic violence; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61000" number="71562" version="748">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The Returnee has been living on the street. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61001" number="71563" version="3">
+									<PARA>
+										<TAB tab-count="1"/>If one or more of these factors are present, the Returnee must be assigned a bed at his or her official shelter. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available. If none of these factors are present, shelter staff must refer the Returnee to a diversion office for a Single Adult Resource Assessment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61002" number="71564" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If shelter staff determines that the Returnee must be referred for a Single Adult Resource Assessment, the Returnee must appear in person at a diversion office. DHS must provide transportation services or MetroCards to transport the Returnee to a diversion office. No Returnee will be transported at a time, or in a manner, that would be unsafe for the Returnee due to illness or intoxication.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61003" number="71565" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Single Adult Resource Assessment.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61004" number="71566" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Upon the Returnee&apos;s arrival at a diversion office during regular business hours for conducting Single Adult Resource Assessments, diversion staff must conduct a Single Adult Resource Assessment with the Returnee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61005" number="71567" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If the Returnee arrives at a diversion office after regular business hours for conducting Single Adult Resource Assessments, he or she must be temporarily assigned a bed and provided meals and shower facilities at the diversion office until a Single Adult Resource Assessment can be conducted the next business day.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61006" number="71568" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Following the Single Adult Resource Assessment, if the Returnee does not have an alternative housing option, or has such an option but does not wish to return to or utilize the option, he or she must be referred back to his or her official shelter as soon as a bed is available. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-61007" number="71569" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>For a Returnee who is not referred to a diversion office for a Single Adult Resource Assessment, diversion staff may, at their discretion, conduct such an assessment over the phone with the Returnee at his or her official shelter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

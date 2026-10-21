@@ -1,0 +1,928 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-153979" number="50468" version="3073">
+			<HEADING>Chapter 62: Surcharge on Property that Does Not Serve as a Primary Residence</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-20079" name="T19C062"/>Chapter 62: Surcharge on Property that Does Not Serve as a Primary Residence</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-155970" number="50469" version="3073">
+								<HEADING>§ 62-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20081" name="T19C062_62-01"/>§ 62-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-156102" number="50470" version="3073">
+									<PARA>For the purposes of this chapter, the following terms have the following meanings. The terms not defined in this section have the meanings set forth in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3201" destination-id="0-0-0-0">11-3201</LINK> of the Administrative Code, except as otherwise provided in this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156101" number="50471" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Additional rental documents.</CHARFORMAT> The term “additional rental documents” means a utility bill in a lessee’s or sub-lessee’s name issued within one year prior to the date of submission, an unexpired renter’s insurance policy that such lessee or sub-lessee is party to, or proof of rental payment to the owner of a property. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156100" number="50472" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Arm’s length transaction.</CHARFORMAT> The term “arm’s length transaction” means a lease or sub-lease for a covered property or a dwelling unit in a covered property entered into in good faith and for valuable consideration that reflects the fair market rental value of such covered property or dwelling unit between two informed and willing parties, where neither is under any compulsion to participate in the transaction and circumstances do not indicate a reasonable possibility that the lease or sub-lease was entered into primarily for the purpose of avoiding imposition of the surcharge. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156099" number="50473" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term “commissioner” means the commissioner of the department or their designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156098" number="50474" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Duly authorized representative.</CHARFORMAT> The term “duly authorized representative” means: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156097" number="50475" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>any person who files a power of attorney with the department on a form designated by the department that authorizes such person to act on behalf of an owner; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156096" number="50476" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>any licensed attorney who submits an affidavit indicating that such attorney represents an owner with regard to the applicable matter; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156095" number="50477" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>for the purposes of submitting an appeal pursuant to 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C062_62-06" destination-id="0-0-0-20091">62-06</LINK>(b), any individual who provides the password included in the initial notice of primary residency determination and certifies that they are authorized to submit an appeal on behalf of a property owner; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156094" number="50478" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>with respect to a partnership, a general partner of such partnership; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156093" number="50479" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>with respect to a limited liability company, a member of such company; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156092" number="50480" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>with respect to a corporation, an officer of such corporation; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156091" number="50481" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>a trustee of a trust. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156090" number="50482" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Economic interest.</CHARFORMAT> The term “economic interest” means shares of stock in a corporation that owns a covered property, including shares of stock in a cooperative corporation entitling the holder of such shares to a proprietary lease in a dwelling unit; the ownership of an interest or interests in a partnership, limited liability company or other unincorporated entity that owns a covered property or such shares in a cooperative corporation; and the ownership of a beneficial interest or interests in a trust that owns a covered property or such shares in a cooperative corporation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156089" number="50483" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Majority interest.</CHARFORMAT> The term “majority interest” means: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156088" number="50484" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>In the case of a corporation, greater than 50% of the total combined voting power of all classes of stock of such corporation, or greater than 50% of the total fair market value of all classes of stock of such corporation; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156087" number="50485" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>in the case of a partnership or limited liability company, entitlement to greater than 50% of the capital or profits of such partnership or limited liability company. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156086" number="50486" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">OATH.</CHARFORMAT> The term “OATH” means the office of administrative trials and hearings. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156085" number="50487" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Petitioner.</CHARFORMAT> The term “petitioner” means an owner of a covered property or a duly authorized representative in relation to a petition that was submitted timely pursuant to subdivision (d) of 19 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C062_62-04" destination-id="0-0-0-20087">62-04</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156084" number="50488" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156110" number="50489" version="3073">
+								<HEADING>§ 62-02 Corporate Owners of a Covered Property.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20083" name="T19C062_62-02"/>§ 62-02 Corporate Owners of a Covered Property.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-156083" number="50490" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>For purposes of determining whether a person is a covered owner under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code, real property classified as class one or a residential condominium dwelling unit is held, or shares of stock in a cooperative corporation entitling the holder of such shares to a propriety lease in a dwelling unit are held, by a partnership, corporation or limited liability company only where such partnership, corporation or limited liability company holds an undivided fee interest in such property or holds all such shares of stock. A partner or partners, shareholder or shareholders or member or members of such partnership, corporation, or limited liability company, respectively, who individually or jointly hold a majority interest in such partnership, corporation or limited liability company shall only be deemed to be a covered owner or covered owners for the purposes of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code if such partnership, corporation or limited liability company holds an undivided fee interest in such property or holds all such shares of stock. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156082" number="50491" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Partners of a partnership, shareholders of a corporation, or members of a limited liability company who are covered owners of a covered property or, in the case of a covered property that is a residential cooperative property, a residential cooperative dwelling unit, shall only be considered primary residents of such property or dwelling unit under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code if such property or dwelling unit serves as the primary residence of such partners, shareholders, or members holding a majority interest in such partnership, corporation, or limited liability company. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156081" number="50492" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>For purposes of determining whether a person is a covered owner under <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code, contingent or future interests in a trust’s estate will not be considered in determining whether such person is the sole beneficiary of such trust. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156080" number="50493" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156109" number="50494" version="3073">
+								<HEADING>§ 62-03 Sale or Transfers of Property.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20085" name="T19C062_62-03"/>§ 62-03 Sale or Transfers of Property.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-156079" number="50495" version="3073">
+									<PARA>For purposes of determining whether a residential condominium dwelling unit or residential cooperative dwelling unit constitutes excluded property, as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3201" destination-id="0-0-0-0">11-3201</LINK> of the Administrative Code, the date of sale of a residential condominium dwelling unit, or a transfer of an economic interest in a residential cooperative dwelling unit, is the date of: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156077" number="50496" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>conveyance of a deed for such residential condominium dwelling unit; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156076" number="50497" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/> transfer of an economic interest in such residential condominium dwelling unit or such residential cooperative dwelling unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156075" number="50498" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156108" number="50499" version="3073">
+								<HEADING>§ 62-04 Investigations and Penalties.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20087" name="T19C062_62-04"/>§ 62-04 Investigations and Penalties.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-156074" number="50500" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Audit authority.</CHARFORMAT> The commissioner may conduct an audit for the purposes of determining the amount of the surcharge owed by a covered property, including any determination relating to primary residence, and any certification or documentation of primary residency submitted to the department, provided that any audit of such certification or documentation shall be conducted within six years of the submission of such certification or documentation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156073" number="50501" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Collection of records and subpoena.</CHARFORMAT> The commissioner may: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156072" number="50502" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>compile any materials necessary to conduct such audit; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156071" number="50503" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to an audit initiated pursuant to subdivision (a) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156070" number="50504" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Transmission of notice of penalty.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156103" number="50505" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner may transmit a notice of penalty to any owner of a covered property where the commissioner determines that: (i) any certification or documentation submitted to the department in connection with the imposition of the surcharge on a covered property contains inaccurate or misleading information that: (A) is material to the determination of the imposition of such surcharge, including a determination relating to primary residence; and (B) was submitted negligently or in bad faith; or (ii) a covered property that is a residential condominium unit has been divided into more than three units to avoid application of such surcharge and the owner of such covered property has made such division in bad faith. Such notice shall include the amount of such penalty pursuant to subdivision (g) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156069" number="50506" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>The commissioner shall transmit such notice to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156068" number="50507" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the address of the owner of record of such covered property filed with the department, provided that in the case of a covered property that is a residential cooperative property, such notice shall be transmitted to both the owner of record of such residential cooperative property and the owner of record of the applicable residential cooperative dwelling unit; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156067" number="50508" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the address of any person who has registered with respect to such covered property pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-309" destination-id="0-0-0-0">11-309</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156066" number="50509" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Filing of a petition for a hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156065" number="50510" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>An owner of a covered property that is subject to a notice of penalty pursuant to this section may request a hearing by filing a petition with the department no later than 30 days from the date of transmission of such notice on a form designated by the department. Failure to file a petition for a hearing within such period shall result in the imposition of a penalty pursuant to subdivision (g) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156064" number="50511" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>A petition may be filed only by an owner of a covered property or by a duly authorized representative of the owner, provided that that in the case of a covered property that is a residential cooperative property, a petition may be filed by the owner of record or duly authorized representative of either such residential cooperative property or the applicable residential cooperative dwelling unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156063" number="50512" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Delegation to the office of administrative trials and hearings.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156062" number="50513" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>If, prior to issuance of a notice of penalty, the commissioner and OATH enter into a memorandum of understanding authorizing OATH to conduct hearings in accordance with the procedures set forth in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="Title 48" destination-id="0-0-0-15548">Title 48</LINK> of the Rules of the City of New York and such memorandum of understanding has not been terminated, then upon receipt of a petition filed in a timely manner pursuant to subdivision (d) of this section: (i) the department shall transmit such petition to OATH; and (ii) following a hearing on such notice of penalty conducted in accordance with such title, the presiding hearing officer shall make a recommendation to the commissioner with respect to whether to impose penalties pursuant to this section. The commissioner shall make a determination regarding whether to impose penalties pursuant to this section no later than 30 days after the receipt of such recommendation, provided that the failure of the commissioner to make a determination within such time period shall not result in a waiver of such penalties. The commissioner shall transmit such determination to both the owner and the duly authorized representative of the owner, if any, at the addresses provided in the petition. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156061" number="50514" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>If the commissioner and OATH have not entered into a memorandum of understanding pursuant to paragraph 1 of this subdivision prior to issuance of a notice of penalty, or if such memorandum of understanding has been terminated prior to such issuance, any such hearing shall be conducted in accordance with the provisions of subdivision (f) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156060" number="50515" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conduct of hearings by the department.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156059" number="50516" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Designation of hearing officer.</CHARFORMAT> The commissioner shall designate a person to serve as hearing officer to hear petitions filed pursuant to these rules. Such person need not be an employee of the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156058" number="50517" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Representation of petitioners.</CHARFORMAT> A duly authorized representative may appear on behalf of an owner at a hearing. If an owner is an individual, such individual may appear on their own behalf. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156057" number="50518" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Proof of authorization.</CHARFORMAT> Documentation demonstrating that an individual is a duly authorized representative or such individual’s status as a duly authorized representative is revoked must be filed with the hearing officer with or prior to such individual’s appearance or submission of documents on behalf of an owner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156056" number="50519" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Consolidation, joinder, severance.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156055" number="50520" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Any party to a hearing may request the consolidation of hearings relating to the same owner or property. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156054" number="50521" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Any party may request the severance of a matter in a hearing relating to a property when such property is not owned by the same owner or identical issues of fact or law are not involved. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156053" number="50522" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Consolidation, joinder or severance of any case or issue shall be permitted at the discretion of the hearing officer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156052" number="50523" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>5.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Ex parte communications.</CHARFORMAT> No party to a hearing may make an ex parte communication to a hearing officer with respect to the merits of such hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156051" number="50524" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>6.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Burden of proof.</CHARFORMAT> The department shall have the burden of establishing each fact relevant to a determination of the matters reviewable pursuant to this subdivision by a preponderance of the evidence. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156050" number="50525" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>7.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearings without personal appearance.</CHARFORMAT> A petition for a hearing without a personal appearance may be made by mail or on the department’s website in accordance with this paragraph. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156049" number="50526" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A hearing by mail or website may be conducted by submission of a paper or electronic form, as applicable, if a petition filed pursuant to subdivision (d) of this section indicates that the petitioner wishes to conduct a hearing without a personal appearance. Such form must be received at an address or web portal designated by the department no later than 30 days following submission of such petition. Attached to such form, the petitioner may include legal memoranda, additional documents or other material in support of the owner’s position and proof that the individual submitting such form is authorized to submit such petition pursuant to paragraph 2 of this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156048" number="50527" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Upon receipt of a copy of the form and any materials attached thereto, the department may also submit legal memoranda, additional documents or other materials to the hearing officer to support the department’s position within a reasonable time as determined by the hearing officer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156047" number="50528" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>At any time after receipt of a petition indicating a request for a hearing without personal appearance, the hearing officer may by subpoena require the production of any relevant books, papers and documents, upon written request of a petitioner or the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156046" number="50529" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>At any time after receipt of submissions by the petitioner and the department pursuant to subparagraphs (i) and (ii) of this paragraph, a hearing officer may give both the department and the petitioner the opportunity to submit additional materials and legal memoranda in support of their positions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156045" number="50530" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>8.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing in person or through simultaneous electronic appearance.</CHARFORMAT> If a petition submitted pursuant to subdivision (d) of this section indicates that the petitioner wishes to conduct a hearing in person or through simultaneous electronic webcast, the following provisions shall apply to such hearing: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156044" number="50531" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The hearing officer may by subpoena require the production of any relevant books, papers and documents upon written request of a petitioner or the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156043" number="50532" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The hearing officer shall be authorized to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156042" number="50533" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>administer oaths and affirmations; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156041" number="50534" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>dictate the course of the hearing, set the time and place for conducting the hearing, and fix the time and manner for filing of legal briefs, memoranda and other documents; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156040" number="50535" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>rule upon offers of proof and receive relevant evidence; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156039" number="50536" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>require the parties at any time during the hearing to state their respective positions in support of any issues under consideration in the matter; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156038" number="50537" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>question any party or witness for the purpose of clarifying the record; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156037" number="50538" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>take any other action that the hearing officer determines is appropriate to conduct a speedy and expeditious hearing. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156036" number="50539" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The hearing officer shall set a schedule for the hearing as soon as is practicable. The parties shall be given notice of the hearing date no fewer than 20 days prior to such date. The notice shall include the time, place, and nature of the hearing, including whether the hearing will be conducted through simultaneous electronic webcast. The hearing officer will not consider a request for a postponement of a hearing date unless a written application setting forth good cause for the postponement is received by the hearing officer within 10 days after transmission of the hearing notice. In the event of an emergency, however, a postponement may be considered on shorter notice. A postponement may be granted only in writing by the hearing officer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156035" number="50540" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>At the hearing, the parties shall have the right to call and examine witnesses, to introduce exhibits, and to cross-examine opposing witnesses. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156034" number="50541" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>In the discretion of the hearing officer, technical rules of evidence need not be applied. However, the rules of privilege recognized by law shall apply. Objections to evidentiary offers may be made and shall be noted in the record. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156033" number="50542" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Hearings shall be transcribed verbatim or recorded by electronic means determined by the hearing officer. A copy of the transcript or recording shall be provided to all parties within a reasonable time after the hearing is concluded. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156032" number="50543" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>9.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing officer recommendation.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156031" number="50544" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Following a hearing conducted pursuant to either paragraph 7 or 8 of this subdivision, the hearing officer shall make a recommendation to the commissioner regarding whether any documentation or certification was submitted as described in paragraph (1) of subdivision (c) of this section or a division of a residential condominium unit has been made as described in such paragraph and a recommendation regarding the imposition of a penalty pursuant to this section. Such recommendation shall be based on any relevant findings of fact and conclusions of law, upon consideration of the record as a whole and as supported by the evidence entered by the parties. A copy of the determination shall be mailed to the petitioner and to the petitioner’s duly authorized representative, if any. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156030" number="50545" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>If a petitioner fails to appear at a hearing and no written postponement has been granted pursuant to subparagraph (iii) of paragraph 8 of this subdivision or fails to make a submission required by paragraph 7 of this subdivision within a timeframe designated by these rules or an order of the hearing officer, the hearing shall be concluded and the hearing officer shall make a recommendation to the commissioner for final determination based on the record, if any, previously made. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156029" number="50546" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>10.<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0"> Commissioner determination.</CHARFORMAT> The commissioner, upon review of a hearing officer’s recommendation made pursuant to paragraph 9 of this subdivision, shall render a final determination regarding the imposition of a penalty pursuant to this section within 30 days of the receipt of such recommendation, provided that the failure of the commissioner to make a determination within such period shall not result in a waiver of such penalties. Notwithstanding any provision of this chapter to the contrary, the commissioner shall not designate any individual to make such determination who audited or investigated the owner or property subject to such penalties, issued the notice of penalty, or represented the department in a hearing regarding such penalties. A copy of the determination shall be mailed to both the petitioner and the petitioner’s duly authorized representative, if any. Such determination shall constitute a final agency determination and is subject to challenge pursuant to Article 78 of the civil practice law and rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156028" number="50547" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Penalty amounts.</CHARFORMAT> If the commissioner determines that any certification or documentation submitted to the department in connection with the imposition of the surcharge was submitted, or a residential condominium was subdivided as described in paragraph (1) of subdivision (c) of this section, and any such subdivision, certification or documentation, if accepted as accurate by the department, would result in: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156027" number="50548" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>the surcharge not being imposed upon such property, a penalty of 50% of the surcharge applicable to such property for such fiscal year shall be imposed, and the commissioner shall reinstate such surcharge against such property for such fiscal year; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156026" number="50549" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>the valuation of a property pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code at a lower amount than would otherwise have been assigned by the department, a penalty equal to 300% of the amount of the difference in surcharge that would result from such lower valuation shall be imposed, provided that such penalty shall not exceed 50% of the surcharge applicable to such property. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156025" number="50550" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156107" number="50551" version="3073">
+								<HEADING>§ 62-05 Corrections and Refunds.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20089" name="T19C062_62-05"/>§ 62-05 Corrections and Refunds.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-156024" number="50552" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>For any fiscal year beginning on or after July 1, 2027, the market value of a covered property determined pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code may be amended in accordance with the procedures set forth in 19 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C037" destination-id="0-0-0-5533">Chapter 37</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156023" number="50553" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An owner may petition for correction of a clerical error or error in description related to the surcharge in accordance with the provisions of 19 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C053" destination-id="0-0-0-5725">Chapter 53</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156022" number="50554" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The department may make refunds of overpayments and double payments of the surcharge in accordance with the provisions of 19 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T19C024" destination-id="0-0-0-5341">Chapter 24</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156021" number="50555" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156106" number="50556" version="3073">
+								<HEADING>§ 62-06 Primary Residency.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20091" name="T19C062_62-06"/>§ 62-06 Primary Residency.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-156020" number="50557" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Initial determination.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156019" number="50558" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall make, on an annual basis, an initial determination that a covered property, or, in the case of a covered property that is a residential cooperative property, a residential cooperative dwelling unit, that has a market value amount equal to or greater than the applicable phase one or phase two market value thresholds established in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3202" destination-id="0-0-0-0">11-3202</LINK> of the Administrative Code, is not a primary residence. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156018" number="50559" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Unless credible information in the possession of the department, including but not limited to information collected by the department in administering the abatement authorized pursuant to section 467-a of the real property tax law, indicates otherwise, the department will make a determination that a covered property, or, in the case of a covered property that is a residential cooperative property, a residential cooperative dwelling unit, is used as primary residence if: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156017" number="50560" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>an individual that the department has identified as a covered owner indicated in their state or federal personal income tax return for the most recent income tax year for which data is sufficiently available to the department that such covered property, or, in the case of a covered property that is a residential cooperative property, such residential cooperative dwelling unit: (A) was such covered owner’s permanent home address; or (B) received a tax credit pursuant to subsection (eee) of section 606 of the tax law; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156016" number="50561" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>an individual that the department has identified as a covered owner received a tax exemption pursuant to sections 425, 458, 458-a, 458-b, 459-c, 462 or 467 of the real property tax law for such covered property for the fiscal year beginning immediately prior to the date of transmission of a notice of determination pursuant to paragraph (4) of this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156015" number="50562" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>For purposes of a surcharge imposed in a fiscal year beginning on or after July 1, 2027, if the department does not make an initial determination that a property is a primary residence pursuant to paragraph (2) of this subdivision, the department may make a determination whether a property is a primary residence using other information available to such department, and based on factors including whether: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156014" number="50563" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a covered owner occupied such covered property or residential cooperative dwelling unit for a majority of days during the immediately prior calendar year; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156013" number="50564" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a covered owner indicated that such covered property or residential cooperative dwelling unit is such covered owner’s permanent residence in other documents previously submitted to the city. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156012" number="50565" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>4.<TAB tab-count="1"/>The department shall transmit notice of such determination of primary residence to each owner of a covered property, or, in the case of a covered property that is a residential cooperative property, a residential cooperative dwelling unit, in writing no later than February 15 of each year, provided that for the fiscal year beginning on July 1, 2026, such notice shall be transmitted no later than August 30, 2026. Such notice shall include information regarding the manner in which an owner may appeal such initial determination pursuant to subdivision (b) of this section. Such notice will include the surcharge amount based on the phase one or phase two market value of the covered property, as applicable. The department may provide such notice electronically if the department has an email address for an owner of a covered property in records of the department and determines that communicating such notice by email would be practical and feasible, provided that for the fiscal year beginning on July 1, 2026, the department will provide such notice via mail. Failure by the department to provide this notice shall not affect the validity of the imposition of the surcharge authorized by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T11C032" destination-id="0-0-0-0">Chapter 32 of Title 11</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156011" number="50566" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Appeal.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156010" number="50567" version="3080">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>An owner of a covered property, or, in the case of a covered property that is a residential cooperative property, a residential cooperative dwelling unit, or a duly authorized person may file an appeal of any initial determination made pursuant to subdivision (a) of this section no later than 30 days after the date that notice of such initial determination is transmitted pursuant to paragraph (4) of such subdivision, or if no such notice is transmitted by DOF, no later than 30 days after such surcharge appears on the assessment roll, provided, however, that in the fiscal year beginning on July 1, 2026, such owner or duly authorized person may file an appeal of such initial determination no later than: (i) September 18, 2026; or (ii) a date selected by the commissioner of finance, where good cause is shown, whichever is later. Such owner must file such appeal in writing through an electronic portal designated by the department, or may file such appeal in person at a location designated by commissioner. Such appeal must include a certification that such property or dwelling unit is used as a primary residence and one or more of the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-124]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156009" number="50568" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>proof that such covered property or dwelling unit is the primary residence of a covered owner pursuant to subparagraph (i) of paragraph (2) of this subdivision, provided that with respect to a beneficiary of a trust who is a covered owner pursuant to paragraph (iv), or a partner, shareholder or member who is a covered owner pursuant to paragraph (v), of the definition of covered owner in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3201" destination-id="0-0-0-0">11-3201</LINK> of the Administrative Code, such appeal must also include proof set forth in subparagraph (iv) or (v) of paragraph (2) of this subdivision, as applicable; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156008" number="50569" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>proof that such covered property or dwelling unit is the primary residence of an individual pursuant to subparagraph (i) of paragraph (2) this subdivision and proof that such individual is the immediate family member of a covered owner pursuant to subparagraph (ii) of such paragraph, provided that with respect to a beneficiary of a trust who is a covered owner pursuant to paragraph (iv) or a partner, shareholder or member who is a covered owner pursuant to paragraph (v) of the definition of covered owner in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3201" destination-id="0-0-0-0">11-3201</LINK> of the Administrative Code, such appeal must also include proof set forth in subparagraph (iv) or (v) of paragraph (2) of this subdivision, as applicable; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156007" number="50570" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>proof that such covered property or dwelling unit is the primary residence of an individual pursuant to subparagraph (i) of paragraph (2) of this subdivision and proof that such individual is a lessee or sub-lessee of such property or dwelling unit pursuant to subparagraph (iii) of such paragraph. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156006" number="50571" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Unless credible information in the possession of the department indicates otherwise, proof of the primary residence of a person who is a covered owner, an immediate family member of a covered owner, a lessee or a sub-lessee includes documents establishing the location of such person’s home, including: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156005" number="50572" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>proof that a covered property or residential cooperative dwelling unit was listed as the permanent home address of such person on such person’s most recently filed state or federal personal income tax return as of the date the appeal is filed; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156004" number="50573" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>two or more of the following documents, provided that any such documents indicate residency at a covered property on or prior to the taxable status date: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156003" number="50574" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(I)<TAB tab-count="1"/>a photo-copy of the front and back of an unexpired New York state department of motor vehicles driver’s license, learner’s permit or non-driver identification card or other record or United States department of state issued driver’s license or non-driver identification card indicating that the covered property or residential cooperative dwelling unit is such person’s residence; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156002" number="50575" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(II)<TAB tab-count="1"/>a voter identification card issued by the New York city board of elections; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156001" number="50576" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(III)<TAB tab-count="1"/>other proof of primary residency, including proof of occupancy for the 12-month period prior to the applicable taxable status date, that is determined to be acceptable by the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-156000" number="50577" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Unless credible information in the possession of the department indicates otherwise, proof that an individual is an immediate family member of a covered owner includes one or more of the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155999" number="50578" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>one or more birth certificates indicating that such individual is an immediate family member of such covered owner; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155998" number="50579" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>affidavits from both such covered owner and such individual indicating that such persons are immediate family members; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155997" number="50580" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>a marriage certificate. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155996" number="50581" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Unless credible information in the possession of the department indicates otherwise, proof that that an individual is a lessee or sub-lessee of a covered property or residential cooperative dwelling unit includes: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155995" number="50582" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>an unexpired lease or sub-lease for one or more units within such covered property or dwelling unit that is entered into through an arm’s length transaction and at least one additional rental document; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155994" number="50583" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>for a month-to-month lessee or sublessee, an affidavit from both the property owner and the lessee or sublessee confirming such lease or sublessee arrangement has been entered into through an arm’s length transaction and two or more additional rental documents. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155993" number="50584" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Unless credible information in the possession of the department indicates otherwise, proof that that an individual is a partner, member, or shareholder of a partnership, limited liability company, or corporation with a majority interest in such partnership, limited liability company or corporation must include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155992" number="50585" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the operating agreement for such limited liability company, the partnership agreement for such partnership, or the articles of incorporation of such corporation; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155991" number="50586" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>an affidavit from an officer of such partnership, limited liability company or corporation indicating that such individual has a majority interest in such partnership, limited liability company or corporation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155990" number="50587" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Unless credible information in the possession of the department indicates otherwise, proof that that an individual is a sole beneficiary or individuals are sole beneficiaries of a trust includes: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155989" number="50588" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>a copy of the trust agreement indicating that such individual is the sole beneficiary or individuals are sole beneficiaries of such trust; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155988" number="50589" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>an affidavit indicating the same from a trustee of such trust. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155987" number="50590" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>3.<TAB tab-count="1"/>Notwithstanding any provision of this section to the contrary, a covered owner, immediate family member of a covered owner, lessee or sub-lessee of a covered property or, in the case of a residential cooperative property, a residential cooperative dwelling unit, will be deemed to continue to be a primary resident of such covered property or dwelling unit for a period of one year immediately following their death or during a continuous period of hospitalization or a temporary stay in a nursing home or rehabilitation facility if the owner of such covered property or dwelling unit, or the estate of such owner, as applicable, provides: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155986" number="50591" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>proof sufficient to the department of such death, hospitalization or temporary stay in a nursing home or rehabilitation facility; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155985" number="50592" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>proof of primary residency set forth in subparagraph (i) of paragraph 2 of this subdivision for the period immediately preceding such death, hospitalization or temporary stay in a nursing home or rehabilitation facility. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155984" number="50593" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Review of appeals.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155983" number="50594" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner shall review the merits of any appeal submitted within the time period set forth in subdivision (b) and shall transmit to such owner a notice of determination to the email address associated with such appeal. Notwithstanding any provision of this chapter to the contrary, the commissioner shall not designate any individual to make such determination who made the initial determination pursuant to subdivision (a) of this section. Any denial of such appeal shall be a final determination and may be challenged in accordance with the procedures set forth in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3206" destination-id="0-0-0-0">11-3206</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155982" number="50595" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>Where an owner fails to file an appeal or fails to provide proof of primary residence pursuant to subdivision (b) of this section, the initial determination made by the department pursuant to subdivision (a) of this section shall constitute a final determination of such department and shall not be subject to challenge pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3206" destination-id="0-0-0-0">11-3206</LINK> of the Administrative Code, unless such owner has challenged such initial determination of primary residence pursuant to paragraph two of subdivision (b) of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3206" destination-id="0-0-0-0">11-3206</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155981" number="50596" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Effect of an exclusion.</CHARFORMAT> Satisfactory proof of primary residency of one or more dwelling units in a covered property for a fiscal year is sufficient to exclude such property from the surcharge for such fiscal year, except that, in the case of a residential cooperative property, satisfactory proof of primary residency of a residential cooperative dwelling unit in such residential cooperative property for a fiscal year is sufficient to exclude only such residential cooperative dwelling unit from the surcharge for such fiscal year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155980" number="50597" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Effect of filing multiple challenges.</CHARFORMAT> If an owner files a challenge with the tax commission pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-3206" destination-id="0-0-0-0">11-3206</LINK>(b)(2) of the Administrative Code, the department shall not consider any appeal filed pursuant to this section and any determination of the commissioner transmitted to such owner shall have no effect. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155979" number="50598" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Self-disclosure.</CHARFORMAT> An owner may disclose in writing to the department that a covered property, or in the case of a residential cooperative property, a residential cooperative dwelling unit, does not serve as a primary residence. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155978" number="50599" version="3080">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026; amended City Record 8/5/2026, eff. 8/5/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-124]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156105" number="50600" version="3073">
+								<HEADING>§ 62-07 Notice of the surcharge amount.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20093" name="T19C062_62-07"/>§ 62-07 Notice of the surcharge amount.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155977" number="50601" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The statement of account required pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-129" destination-id="0-0-0-0">11-129</LINK> of the Administrative Code and the assessment roll required pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="Chapter 58" destination-id="0-0-0-0">Chapter 58</LINK> of the New York City Charter shall collectively constitute notice of the imposition of the surcharge to an owner, provided that for the fiscal year beginning on July 1, 2026, notice that a payment is due and payable and such assessment roll shall constitute notice of imposition of the surcharge. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155976" number="50602" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For the fiscal year beginning on July 1, 2026, no later than July 25 of such year, the department shall publish an addendum to such assessment roll. Such addendum shall include the phase one market value and information sufficient to identify each covered property or, in the case of a covered property that is a residential cooperative property, each residential cooperative dwelling unit that may be subject to the surcharge. On December 31, the department shall publish a final version of such addendum. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155975" number="50603" version="3073">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Notwithstanding any other provision of this section, residential cooperative dwelling units may be identified on an assessment roll by their street address and unit number. The commissioner may include any additional information on an assessment roll. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155973" number="50604" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-156104" number="50605" version="3073">
+								<HEADING>§ 62-08. Taxable status date.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-20095" name="T19C062_62-08"/>§ 62-08. Taxable status date.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-155974" number="50606" version="3073">
+									<PARA>The department shall evaluate the value and determine the applicability of the surcharge, including but not limited to whether a property is used as a primary residence or constitutes an excluded property, as of the taxable status date for each fiscal year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155971" number="50607" version="3073">
+									<PARA>(Added City Record 7/14/2026, eff. 7/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-123]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

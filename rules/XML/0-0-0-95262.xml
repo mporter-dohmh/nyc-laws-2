@@ -1,0 +1,1796 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-95262" number="113913" version="3">
+			<HEADING>Chapter 9: HRA HOME TBRA Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-13513" name="T68C009"/>Chapter 9: HRA HOME TBRA Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-95263" number="113914" version="3">
+				<PARA style-name="Header-Ch" style-name-escaped="Header-Ch" style-id="0-0-0-21">The HRA HOME Tenant-Based Rental Assistance Program</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95264" number="113915" version="3">
+								<HEADING>§ 9-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13515" name="T68C009_9-01"/>§ 9-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95265" number="113916" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Adjusted income</CHARFORMAT>&quot; means a household&apos;s annual income minus the deductions set forth in Section 5.611 of Title 24 of the Code of Federal Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95266" number="113917" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual income</CHARFORMAT>&quot; means annual income as that term is used in Section 5.609 of Title 24 of the Code of Federal Regulations, subject to the self-sufficiency disallowance for increases in earned income pursuant to Section 5.617 of Title 24 of the Code of Federal Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95267" number="113918" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Area median income</CHARFORMAT>&quot; means the median family income for the area, as determined by the United States Department of Housing and Urban Development with adjustments for smaller and larger families. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95268" number="113919" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>An &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">assisted unit</CHARFORMAT>&quot; is a residential unit to which HRA HOME TBRA rental assistance payments are being applied pursuant to this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95269" number="113920" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">chronically street homeless individual</CHARFORMAT>&quot; means an individual (1) who has been identified by the New York City Department of Homeless Services as not residing in a shelter, residence, or other accommodations for nine of the past twenty-four months at the close of the HRA HOME TBRA application period and who has not secured any other temporary or permanent housing; or (2) who currently resides in a DHS safe haven or uses a DHS stabilization bed as those terms are defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-113" destination-id="0-0-0-0">3-113</LINK> of the Administrative Code of the City of New York as added by local law 37 for the year 2011. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95270" number="113921" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Citizen</CHARFORMAT>&quot; means citizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95271" number="113922" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">coupon</CHARFORMAT>&quot; means a document issued by HRA to a household selected for participation in HRA HOME TBRA that describes the program, program requirements, and the procedures for HRA approval of a unit selected by the household. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95272" number="113923" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHS</CHARFORMAT>&quot; means the New York City Department of Homeless Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95273" number="113924" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DHS Shelter</CHARFORMAT>&quot; means a shelter for families with children or adult families operated by or on behalf of DHS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95274" number="113925" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">guest</CHARFORMAT>&quot; is an individual who was not included in a household&apos;s application for HRA HOME TBRA or added to the household as a member pursuant to subdivision (d) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-14" destination-id="0-0-0-13541">9-14</LINK>, and who is staying in an assisted unit with the consent of a household member. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95275" number="113926" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>The &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">household</CHARFORMAT>&quot; means the individual or individuals who have applied for, have had an application submitted on their behalf for, or are participating in HRA HOME TBRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95276" number="113927" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HRA</CHARFORMAT>&quot; means the New York City Human Resources Administration. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95277" number="113928" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HRA HOME Tenant-Based Rental Assistance Program</CHARFORMAT>&quot; or &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HRA HOME TBRA</CHARFORMAT>&quot; means the rental assistance program described in this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95278" number="113929" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(n)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HRA shelter</CHARFORMAT>&quot; means a shelter operated by or on behalf of HRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95279" number="113930" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(o)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HPD</CHARFORMAT>&quot; means the New York City Department of Housing Preservation and Development. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95280" number="113931" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(p)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HQS</CHARFORMAT>&quot; means the Section 8 Housing Quality Standards set forth in Section 982.401 of Title 24 of the Code of Federal Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95281" number="113932" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(q)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HUD</CHARFORMAT>&quot; means the United States Department of Housing and Urban Development. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95282" number="113933" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(r)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Noncitizen</CHARFORMAT>&quot; means noncitizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95283" number="113934" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(s)<TAB tab-count="1"/>A &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">program participant</CHARFORMAT>&quot; means an individual who has entered into an approved lease for an assisted unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95284" number="113935" version="1467">
+									<PARA>
+										<TAB tab-count="1"/>(t)<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public Assistance</CHARFORMAT>&quot; means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95285" number="113936" version="82">
+									<PARA>(Added City Record 11/30/2015, eff. 12/30/2015) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95286" number="113937" version="3">
+								<HEADING>§ 9-02 Administration of the HOME Tenant-Based Rental Assistance Program.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13517" name="T68C009_9-02"/>§ 9-02 Administration of the HOME Tenant-Based Rental Assistance Program.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95287" number="113938" version="3">
+									<PARA>
+										<TAB tab-count="1"/>HRA shall administer HRA HOME TBRA subject to oversight by the New York City Department of HPD and in accordance with all applicable HUD rules and directives. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95288" number="113939" version="82">
+									<PARA>(Added City Record 11/30/2015, eff. 12/30/2015) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95289" number="113940" version="3">
+								<HEADING>§ 9-03 Eligibility Criteria.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13519" name="T68C009_9-03"/>§ 9-03 Eligibility Criteria.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95290" number="113941" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>To be eligible for HRA HOME TBRA, a household must meet the following eligibility requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95291" number="113942" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The household must: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95292" number="113943" version="1468">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Consist of two or more individuals or a pregnant person, currently reside in a DHS Shelter or HRA Shelter, and have resided in shelter for more than 120 days as of the close of the application period established pursuant to subdivision (a) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-04" destination-id="0-0-0-13521">9-04</LINK>; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95293" number="113944" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Consist of or include at least one chronically street homeless individual; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95294" number="113945" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The household&apos;s adjusted income must not exceed 60 percent of the area median income; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95295" number="113946" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>At least one member of the household must receive social security disability insurance benefits, old-age benefits or survivors insurance benefits under Title II of the federal Social Security Act, or supplemental security income under Title XVI of the federal Social Security Act; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95296" number="113947" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>At least one member of the household must be either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95297" number="113948" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>a citizen; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95298" number="113949" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>a noncitizen with a qualifying immigration status under Section 1436a of Title 42 of the United States Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95299" number="113950" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Eligibility will be determined via an application process. The number of eligible households that can be approved to participate in HRA HOME TBRA will be limited by the amount of available funding. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95300" number="113951" version="82">
+									<PARA>(Added City Record 11/30/2015, eff. 12/30/2015) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95301" number="113952" version="3">
+								<HEADING>§ 9-04 Application Process, Lottery and Waitlist.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13521" name="T68C009_9-04"/>§ 9-04 Application Process, Lottery and Waitlist.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95302" number="113953" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>At HRA&apos;s discretion, when there is funding available to provide HRA HOME TBRA to applicant households, HRA will set an application period of at least 30 days, during which households may submit applications. HRA will disseminate notice of the application period, including on HRA&apos;s website. Applications must be submitted on a form and in a format established by HRA. A household may submit no more than one application per application period. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95303" number="113954" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>After the application period closes, HRA will randomly assign all applications received during the application period a number. HRA will review all applications in order of assigned number. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95304" number="113955" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HRA will provide notice to an applicant household if HRA determines that an application is incomplete, and such household will have ten days from the date the notice is sent to supplement the application. HRA may grant an additional extension of time to supplement the application for good cause. Failure to supplement the application within ten days or any applicable extension period will result in denial of such household&apos;s application for HRA HOME TBRA. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95305" number="113956" version="1468">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Coupons will be issued in order of assigned number to applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-03" destination-id="0-0-0-13519">9-03</LINK> until coupons are no longer available. If HRA determines that an applicant household is ineligible for HRA HOME TBRA, HRA will notify such household that its application has been denied and the reasons for denial. Remaining applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-03" destination-id="0-0-0-13519">9-03</LINK> will be placed on a waitlist in order of assigned number and notified in writing of their placement on the waitlist. Once placed on the waitlist, a household will retain its placement on the waitlist unless it is selected or removed from the waitlist pursuant to subdivision (e) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95306" number="113957" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Selection or Removal of Households from Waitlist.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95307" number="113958" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Subject to available funding and HRA HOME TBRA coupons, households will be selected for participation in HRA HOME TBRA from the waitlist in order of assigned number, provided such households continue to meet the requirements set forth in subdivision (a) of </CHARFORMAT>68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-03" destination-id="0-0-0-13519">9-03<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</LINK>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95308" number="113959" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Households that are unable to establish that they continue to satisfy the requirements set forth in subdivision (a) of </CHARFORMAT>68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-03" destination-id="0-0-0-13519">9-03<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</LINK>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> will be removed from the waitlist and informed that their applications have been denied.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95309" number="113960" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>HRA may request an applicant household on the waitlist to provide additional documentation regarding the household&apos;s income and composition and to establish that the household continues to meet the requirements set forth in subdivision (a) of </CHARFORMAT>68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-03" destination-id="0-0-0-13519">9-03<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</LINK>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95310" number="113961" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>In the event that HRA does not have sufficient funding to select the household at the top of the waitlist for HRA HOME TBRA participation due to such household&apos;s unit size, HRA shall not select a household with a smaller unit size, but shall select the household at the top of the waitlist when sufficient funding is available.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95311" number="113962" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95312" number="113963" version="3">
+								<HEADING>§ 9-05 Coupon.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13523" name="T68C009_9-05"/>§ 9-05 Coupon.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95313" number="113964" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A household shall receive a coupon only after attending a briefing session provided by HRA. The head of household as designated on the application must sign the coupon. Failure to attend the briefing session and sign the coupon will result in denial of the household&apos;s application for HRA HOME TBRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95314" number="113965" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The initial term of a coupon will be 120 calendar days.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95315" number="113966" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HRA may extend a household&apos;s initial coupon term for documented special circumstances, including if such extension is needed as a reasonable accommodation on the basis of disability.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95316" number="113967" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If a household submits a request for unit approval pursuant to subdivision (b) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-06" destination-id="0-0-0-13525">9-06</LINK>, the coupon term will be stayed until HRA approves or denies the request.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95317" number="113968" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>HRA HOME TBRA rental assistance payments shall only be available if a household receives a unit approval pursuant to subdivision (b) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-06" destination-id="0-0-0-13525">9-06</LINK> prior to the expiration of the coupon term. A household that does not obtain a unit approval prior to the expiration of the coupon term may submit a new application for participation in HRA HOME TBRA if HRA re-opens the application period pursuant to subdivision (a) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-04" destination-id="0-0-0-13521">9-04</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95318" number="113969" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>HRA HOME TBRA rental assistance payments shall only be available if a household complies with program obligations as outlined in the coupon.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95319" number="113970" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95320" number="113971" version="3">
+								<HEADING>§ 9-06 Leasing a Unit.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13525" name="T68C009_9-06"/>§ 9-06 Leasing a Unit.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95321" number="113972" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>HRA HOME TBRA rental assistance shall only be provided for units approved by HRA. A household must submit a request for unit approval on a form and in a format established by HRA prior to the expiration of the coupon. A household may not submit more than one request for unit approval at a time.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95322" number="113973" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Request for Unit Approval. </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">HRA will approve a request for unit approval if all of the following requirements are met:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95323" number="113974" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The unit has been inspected and is HQS-compliant;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95324" number="113975" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The lease complies with the requirements in Section 92.253(a)-(b) of Title 24 of the Code of Federal Regulations;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95325" number="113976" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations and, for the household&apos;s first year in the unit, does not exceed the applicable rent standard amount established pursuant to subdivision (b) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95326" number="113977" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The unit is located within the City of New York; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95327" number="113978" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The unit will be the household&apos;s only residence.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95328" number="113979" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lease and Rental Assistance Contract Signing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95329" number="113980" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Upon approval of a unit pursuant to subdivision (b) of this section, two contracts must be executed before HRA HOME TBRA rental assistance payments may be issued:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95330" number="113981" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>An approved lease between the landlord and household; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95331" number="113982" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>A Rental Assistance Contract between HRA and the landlord.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95332" number="113983" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The lease and Rental Assistance Contract shall be executed at a date, time and location to be designated by HRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95333" number="113984" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>HRA HOME TBRA rental assistance payments shall be paid to the landlord in accordance with the terms of the Rental Assistance Contract and may only be paid to the landlord during the lease term and while the household is residing in the assisted unit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95334" number="113985" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The term of the Rental Assistance Contract shall terminate on termination of the lease and may not exceed 24 months, but may be renewed, subject to the availability of funding.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95335" number="113986" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>HRA HOME TBRA rental assistance payments to a landlord terminate when a landlord terminates the lease. However, if the landlord has commenced the process to evict the household but the household continues to reside in the assisted unit, HRA shall continue to make rental assistance payments to the landlord in accordance with the Rental Assistance Contract for the remaining term of the Rental Assistance Contract or until the landlord has obtained a court judgment or other process allowing the landlord to evict the household. HRA may continue such payments until the household moves or is evicted from the assisted unit but no later than the end of the Rental Assistance Contract term.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95336" number="113987" version="748">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(6)<TAB tab-count="1"/>A landlord may not terminate the lease or refuse to renew the lease of a household participating in HRA HOME TBRA, except in accordance with Section 92.253(c) of Title 24 of the Code of Federal Regulations. </CHARFORMAT>
+										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95337" number="113988" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The requirements of subdivision (b) of this section shall apply to renewal leases.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95338" number="113989" version="748">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">) </CHARFORMAT>
+										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95339" number="113990" version="3">
+								<HEADING>§ 9-07 Annual and Interim Recertification and Ongoing Program Participant Obligations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13527" name="T68C009_9-07"/>§ 9-07 Annual and Interim Recertification and Ongoing Program Participant Obligations.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95340" number="113991" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Annual Recertification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95341" number="113992" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Subject to the availability of funding, HRA shall recertify a household for continued participation in HRA HOME TBRA if:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95342" number="113993" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the household&apos;s adjusted income does not exceed 80 percent of the area median income;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95343" number="113994" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>at least one member of the household is a citizen or qualifying noncitizen as set forth in paragraph (4) of subdivision (a) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-03" destination-id="0-0-0-13519">9-03</LINK>; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95344" number="113995" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(C)<TAB tab-count="1"/>the household continues to reside in the assisted unit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95345" number="113996" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>HRA will determine a household&apos;s eligibility for recertification at the end of each year of the household&apos;s participation in HRA HOME TBRA. Prior to annual recertification, HRA will recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>. Except as provided in subdivision (c) of this section or </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-10" destination-id="0-0-0-13533">9-10</LINK>, the total monthly household contribution and HRA HOME TBRA rental assistance amount will not change during the one-year recertification period, regardless of changes in household composition or income.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95346" number="113997" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A household&apos;s eligibility for recertification is conditioned on the household&apos;s timely cooperation with any requests by HRA for household information and documentation.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95347" number="113998" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Changes in Household Composition Prior to Annual Recertification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95348" number="113999" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Program participants must report to HRA any changes in household composition within thirty (30) days of such changes occurring.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95349" number="114000" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>When informed of changes in household composition prior to annual recertification, HRA shall conduct an interim recertification to determine the household&apos;s continued eligibility and whether the change in household composition results or will result in an HQS failure. If an HQS failure has resulted or will result, the household shall be responsible for remedying or avoiding such failure, including requesting prior approval pursuant to paragraph (1) of subdivision (a) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-10" destination-id="0-0-0-13533">9-10</LINK> to move to a new unit. If the household&apos;s change in composition affects the household size, a new unit size will not be assigned pursuant to subdivision (a) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK> until the household&apos;s next annual recertification and the household&apos;s rent standard amount will not change until such recertification. If the household&apos;s change in composition results in a change in household income, the provisions in subdivision (c) of this section shall apply.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95350" number="114001" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Changes in Income Prior to Annual Recertification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95351" number="114002" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Program participants may report changes in household income to HRA at any time prior to annual recertification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95352" number="114003" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>When informed of an increase in household income prior to annual recertification, HRA may conduct an interim recertification to determine the household&apos;s continued eligibility. In the event of an interim recertification pursuant to this subdivision, HRA may recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95353" number="114004" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>When informed of a decrease in household income prior to annual recertification, HRA shall conduct an interim recertification and recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95354" number="114005" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A household&apos;s participation in HRA HOME TBRA will be terminated during the Rental Assistance Contract term if:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95355" number="114006" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>HRA determines that a household member knowingly permitted another individual who is not eligible for HRA HOME TBRA due to immigration status in accordance with Part 5 of Title 24 of the Code of Federal Regulations and Section 1436a of Title 42 of the United States Code to reside on a permanent basis in the assisted unit. In such an event, the household will be barred from submitting a new application for HRA HOME TBRA for not less than 24 months. This provision does not apply to a household if the ineligibility of the ineligible individual was considered in calculating the prorated HRA HOME TBRA rental assistance amount pursuant to subdivision (e) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95356" number="114007" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The household is absent from the assisted unit for more than a total of 180 days in a 12-month period in any circumstance and for any reason.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95357" number="114008" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The household is absent from the assisted unit for 90 consecutive days unless the household establishes:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95358" number="114009" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>That the absence from the unit was due to exceptional circumstances beyond the household&apos;s control, such as hospitalization;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95359" number="114010" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>That the household intends to return to the assisted unit within 180 days of departure; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95360" number="114011" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(C)<TAB tab-count="1"/>That the household is not maintaining an alternative residence.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95361" number="114012" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The household fails to grant access to the assisted unit for an HQS inspection pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-09" destination-id="0-0-0-13531">9-09</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95362" number="114013" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA. Such HQS failure may result from actions or inactions that include but are not limited to the household&apos;s failure to pay for any utilities for which the household is responsible for payment, or damage to the dwelling unit or premises beyond ordinary wear and tear caused by any member or guest of the household.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95363" number="114014" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The household fails to comply with program obligations.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95364" number="114015" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(7)<TAB tab-count="1"/>The rental assistance amount calculated pursuant to subdivision (c) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK> has been zero for six months.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95365" number="114016" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95366" number="114017" version="3">
+								<HEADING>§ 9-08 Calculating HRA HOME TBRA Rental Assistance Amount and Household Share of Rent.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13529" name="T68C009_9-08"/>§ 9-08 Calculating HRA HOME TBRA Rental Assistance Amount and Household Share of Rent.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95367" number="114018" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Unit Size.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95368" number="114019" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A household will be assigned a standard unit size, corresponding to the number of bedrooms needed for the household size, as set forth in the table below. HRA shall assign such unit size at the time of coupon issuance and include it on the coupon issued to the household.<LINEBRK/>
+										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95370" number="114020" version="1468">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">Household Size</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">Unit Size</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">SRO/Studio</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">2</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">3 or 4</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">2</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">5 or 6</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">3</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">7 or 8</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">4</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">9 or 10</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">5</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">11 or 12</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">6</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">13 or 14</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="center">
+															<CELLFORMAT alignment="top">7</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95371" number="114021" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>For purposes of determining unit size:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95372" number="114022" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The household consists of all individuals who intend to reside in the assisted unit;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95373" number="114023" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>In the case of documented pregnancy by a household member, the unborn child is counted as a household member;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95374" number="114024" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Any live-in aide approved by HRA to reside in the assisted unit to care for a household member who is disabled or 62 years of age or over is counted as a household member;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95375" number="114025" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(D)<TAB tab-count="1"/>A child who resides in the assisted unit with his or her parent for at least 183 days of the year pursuant to a joint custody agreement or order is counted as a household member, provided that such parent is a household member;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95376" number="114026" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(E)<TAB tab-count="1"/>A foster child who is placed and resides in the assisted unit for more than 183 days of the year is counted as a household member; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95377" number="114027" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(F)<TAB tab-count="1"/>Except as otherwise provided in this paragraph, an individual who is absent from the assisted unit for more than 90 consecutive days will not be counted as a household member unless such individual is absent due to hospitalization, military deployment, or other good cause as determined by HRA on a case-by-case basis, and is reasonably expected to return within 180 days. A household member who is away at school but intends to live with the household in the assisted unit during school recesses is considered a household member.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95378" number="114028" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>If a household includes a household member with a disability, HRA may assign the household a higher unit size as a reasonable accommodation for such member.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95379" number="114029" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The household may lease an otherwise acceptable unit with fewer bedrooms than the assigned unit size provided the unit meets the applicable HQS space requirements.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95380" number="114030" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The household may lease an otherwise acceptable unit with more bedrooms than the assigned unit size.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95381" number="114031" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Rent Standard Amount.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95382" number="114032" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The HRA HOME TBRA rent standard amount shall be based on unit size. HRA shall set the HRA HOME TBRA rent standard amount for each unit size at an amount that is between 95 and 110 percent of the fair market rent applicable in New York City for the unit size as published annually by HUD pursuant to Part 888 of Title 24 of the Code of Federal Regulations. HRA shall publish current HRA HOME TBRA rent standard amounts on HRA&apos;s website.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95383" number="114033" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A household&apos;s rent standard amount shall be the HRA HOME TBRA rent standard amount established pursuant to paragraph (1) of this subdivision for the household&apos;s assigned unit size.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95384" number="114034" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>For the initial occupancy of an assisted unit, the household&apos;s gross rent, including heat and hot water, shall not exceed the household&apos;s rent standard amount. Following the household&apos;s first year in the unit, the household&apos;s rent may exceed the applicable rent standard amount so long as the rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95385" number="114035" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The HRA HOME TBRA rental assistance amount paid on behalf of a household shall equal the household&apos;s gross rent minus the total household contribution calculated pursuant to subdivision (d) of this section.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95386" number="114036" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Income Contribution and Household Share of Rent.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95387" number="114037" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The household&apos;s total monthly household contribution to rent shall be the sum of the following:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95388" number="114038" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The highest of the following amounts, rounded to the nearest dollar:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95389" number="114039" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The household&apos;s adjusted income multiplied by 30 percent and divided by 12;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95390" number="114040" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The household&apos;s annual income multiplied by 10 percent and divided by 12;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95391" number="114041" version="748">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The amount of the household&apos;s public assistance shelter allowance as calculated and received pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations; or </CHARFORMAT>
+										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95392" number="114042" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Fifty dollars, which may be reduced based on financial hardship at HRA&apos;s discretion;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95393" number="114043" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The amount, if any, by which the rent exceeds the applicable rent standard amount established pursuant to subdivision (b) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>, after the household&apos;s first year in the assisted unit; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95394" number="114044" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The amount, if any, by which the HRA HOME TBRA rental assistance amount has been reduced pursuant to subdivision (e) of this section.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95395" number="114045" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If a household includes a member who is ineligible for HRA HOME TBRA on the basis of immigration status in accordance with Section 1436a of Title 42 of the United States Code, the household&apos;s HRA HOME TBRA rental assistance amount will be prorated by multiplying the HRA HOME TBRA rental assistance amount as calculated in subdivision (c) of this section by a fraction, the denominator of which is the total number of household members and the numerator of which is the total number of household members who are not ineligible for HRA HOME TBRA on the basis of immigration status.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95396" number="114046" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Change in the HRA HOME TBRA Rent Standard Amount during the Coupon Term and Prior to Execution of the Rental Assistance Contract.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95397" number="114047" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>If the HRA HOME TBRA rent standard amount for the household&apos;s assigned unit size is increased or decreased during the term of the coupon and prior to the execution of the Rental Assistance Contract, the new rent standard amount shall be used to calculate the HRA HOME TBRA rental assistance amount for the household.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95398" number="114048" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Change in the HRA HOME TBRA Rent Standard Amount During the Rental Assistance Contract Term.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95399" number="114049" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If the HRA HOME TBRA rent standard amount for the household&apos;s assigned unit size is increased during the term of the Rental Assistance Contract, the increased rent standard amount shall be used to calculate the HRA HOME TBRA rental assistance amount for the household beginning on the effective date of the household&apos;s next annual recertification on or after the effective date of the increase in the rent standard amount.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95400" number="114050" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A decrease in the HRA HOME TBRA rent standard will not be applied to a household during the Rental Assistance Contract term and the household&apos;s rent standard amount will remain the same for purposes of calculating the HRA HOME TBRA rental assistance amount at the household&apos;s next annual recertification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95401" number="114051" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95402" number="114052" version="3">
+								<HEADING>§ 9-09 Inspections.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13531" name="T68C009_9-09"/>§ 9-09 Inspections.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95403" number="114053" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A unit for which a household requests approval pursuant to subdivision (b) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-06" destination-id="0-0-0-13525">9-06</LINK> must pass an HQS inspection and will be subject to inspections in accordance with Section 92.209 of Title 24 of the Code of Federal Regulations, including but not limited to additional inspections to ensure continued compliance with HQS based on complaints from the household, landlord, interested third parties or the general public. Except in emergency situations, HRA will provide reasonable notice of any inspection and a reasonable opportunity for the landlord and household to reschedule an inspection.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95404" number="114054" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The landlord must maintain the assisted unit in accordance with HQS. If the landlord fails to maintain the assisted unit in accordance with HQS and fails to remedy any HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations within the period specified by HRA, HRA shall either abate HRA HOME TBRA rental assistance payments in their entirety until such time as the landlord remedies the HQS failure as determined by HRA, or terminate the Rental Assistance Contract and cease HRA HOME TBRA rental assistance payments. This provision does not apply if the landlord is not responsible for the HQS failure. If HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to this subdivision, HRA shall allow the household to move pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-10" destination-id="0-0-0-13533">9-10</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95405" number="114055" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If the household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA, HRA shall terminate the household&apos;s participation in HRA HOME TBRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95406" number="114056" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95407" number="114057" version="3">
+								<HEADING>§ 9-10 Moves.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13533" name="T68C009_9-10"/>§ 9-10 Moves.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95408" number="114058" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A household participating in HRA HOME TBRA may not move to a new unit and maintain eligibility for HRA HOME TBRA except with the prior approval of HRA. HRA may grant such approval and issue a new coupon to the household on the following grounds:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95409" number="114059" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The household is overcrowded in the assisted unit;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95410" number="114060" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to subdivision (b) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-09" destination-id="0-0-0-13531">9-09</LINK>;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95411" number="114061" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The lease for the assisted unit has terminated by mutual agreement of the household and landlord and the landlord signs a release of the lease and the Rental Assistance Contract;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95412" number="114062" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The landlord has obtained a court judgment or other process allowing the landlord to evict the household; or</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95413" number="114063" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The need for the move is a direct result of a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95414" number="114064" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>All requirements of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-06" destination-id="0-0-0-13525">9-06</LINK> must be met before a household may move to a new assisted unit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95415" number="114065" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If HRA has approved a move to a new unit, HRA shall reassign the household a unit size, re-determine the household&apos;s rent standard amount, and recalculate the HRA HOME TBRA rental assistance amount and the household&apos;s total monthly household contribution pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95416" number="114066" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Upon an approved move to a new unit, the household shall be recertified pursuant to subdivision (a) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-07" destination-id="0-0-0-13527">9-07</LINK>. The household&apos;s annual recertification cycle shall coincide with the new lease term.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95417" number="114067" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>If a household moves from an assisted unit, HRA HOME TBRA rental assistance payments for such unit shall cease as of the month after the month that the household moves from such unit. The landlord may keep the HRA HOME TBRA rental assistance payment for the month during which the household moves from such unit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-97608" number="114068" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95418" number="114069" version="82">
+								<HEADING>§ 9-11 Household Separations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13535" name="T68C009_9-11"/>§ 9-11 Household Separations.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95419" number="114070" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If an applicant household separates into two or more otherwise eligible applicant household units prior to executing a Rental Assistance Contract, HRA will decide on a case-by-case basis which of the household units will be considered the applicant household and remain eligible to receive HRA HOME TBRA rental assistance. If a household receiving HRA HOME TBRA rental assistance separates, HRA will decide on a case-by-case basis which of the household units will continue to receive such assistance. In the event of a household separation, under no circumstances shall more than one of the resulting household units receive HRA HOME TBRA rental assistance.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95420" number="114071" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>In determining pursuant to subdivision (a) of this section which resulting household unit shall remain eligible for or participate in HRA HOME TBRA, consideration will be given to factors including but not limited to:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95421" number="114072" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>which household member was designated as head of household on the application for HRA HOME TBRA rental assistance;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95422" number="114073" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>which household unit retains any children, members with disabilities, or members over 62 years of age;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95423" number="114074" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the role of domestic violence in the household separation;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95424" number="114075" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the role of criminal activity or incarceration in the household separation; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95425" number="114076" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(5)<TAB tab-count="1"/>recommendations of social service agencies, including state and local children&apos;s services agencies, or qualified professionals.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95426" number="114077" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95427" number="114078" version="3">
+								<HEADING>§ 9-12 Right of Review.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13537" name="T68C009_9-12"/>§ 9-12 Right of Review.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95428" number="114079" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>An applicant or program participant may request an agency review conference and/or an HRA administrative hearing pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-13" destination-id="0-0-0-13539">9-13</LINK> to seek review of the following determinations only, but in no event shall an agency review conference or HRA administrative hearing be available to review a determination based solely on a lack of available funding for HRA HOME TBRA:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95429" number="114080" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A denial of a household&apos;s application for HRA HOME TBRA;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95430" number="114081" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A determination of a household&apos;s ineligibility for HRA HOME TBRA at recertification;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95431" number="114082" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A determination of a household member&apos;s ineligibility for HRA HOME TBRA on the grounds of immigration status;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95432" number="114083" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A household&apos;s removal from the waitlist;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95433" number="114084" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>A household&apos;s termination from HRA HOME TBRA pursuant to paragraphs (1) - (6) of subdivision (d) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-07" destination-id="0-0-0-13527">9-07</LINK>;</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95434" number="114085" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The assignment of a household&apos;s unit size and the calculation of a household&apos;s HRA HOME TBRA rental assistance amount and monthly household contribution pursuant to </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-08" destination-id="0-0-0-13529">9-08</LINK>, provided that determinations of or changes to the HRA HOME TBRA rent standard amount shall not be reviewable; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95435" number="114086" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(g)<TAB tab-count="1"/>A denial of a household&apos;s request to move.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95436" number="114087" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95437" number="114088" version="3">
+								<HEADING>§ 9-13 Agency Review Conference and HRA Administrative Appeal Process.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13539" name="T68C009_9-13"/>§ 9-13 Agency Review Conference and HRA Administrative Appeal Process.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95438" number="114089" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency Review Conference.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95439" number="114090" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95440" number="114091" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95441" number="114092" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>An agency review conference must be requested no later than fourteen days after the challenged determination or action.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95442" number="114093" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Request for an HRA Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95443" number="114094" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95444" number="114095" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A request for an administrative hearing must be made by the later of twenty-one days after the challenged determination or action or seven days after the date of the agency review conference.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95445" number="114096" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Authorized Representative.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95446" number="114097" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant&apos;s or program participant&apos;s written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee&apos;s authorization.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95447" number="114098" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95448" number="114099" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Aid Continuing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95449" number="114100" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If a program participant requests an administrative appeal of a determination by HRA that HRA HOME TBRA rental assistance payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of HRA HOME TBRA rental assistance payments at the HRA HOME TBRA rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (k) of this section or the end of the term of the current Rental Assistance Contract, whichever is earlier, provided that:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95450" number="114101" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95451" number="114102" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The appeal is based on a claim of incorrect computation or an incorrect factual determination.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95452" number="114103" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>There is no right to continued HRA HOME TBRA rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95453" number="114104" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Rental assistance payments will not continue pending the issuance of a hearing decision when:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95454" number="114105" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95455" number="114106" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95456" number="114107" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rental assistance payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (m) of this section.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95457" number="114108" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Notice. </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95458" number="114109" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Examination of Case Record. </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her HRA HOME TBRA case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95459" number="114110" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adjournment. </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95460" number="114111" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conduct of Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95461" number="114112" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95462" number="114113" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95463" number="114114" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95464" number="114115" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95465" number="114116" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Abandonment of Request for Administrative Hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95466" number="114117" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95467" number="114118" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95468" number="114119" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95469" number="114120" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95470" number="114121" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(j)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing Record. </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95471" number="114122" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(k)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hearing Decision.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95472" number="114123" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95473" number="114124" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95474" number="114125" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(l)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Effect of Hearing Decision.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95475" number="114126" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>HRA is not bound by a hearing decision:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95476" number="114127" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>concerning a matter for which HRA is not required to provide an opportunity for a hearing under this section, or that otherwise exceeds the authority of the person conducting the hearing under this section; or</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95477" number="114128" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>contrary to HUD regulations or requirements, or otherwise contrary to federal, State, or local law.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95478" number="114129" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If HRA determines that it is not bound by a hearing decision, it shall promptly notify the family of the determination, and of the reasons for the determination.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95479" number="114130" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(m)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional Appeal.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95480" number="114131" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the hearing officer&apos;s decision. The record before the Commissioner shall consist of the hearing record, the hearing officer&apos;s decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95481" number="114132" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95482" number="114133" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95483" number="114134" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95484" number="114135" version="82">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-95485" number="114136" version="3">
+								<HEADING>§ 9-14 Additional Provisions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-13541" name="T68C009_9-14"/>§ 9-14 Additional Provisions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-95486" number="114137" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Applicants and program participants must:</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95487" number="114138" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>provide accurate, complete and current information on household income and household composition; and</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95488" number="114139" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>furnish documentation to verify information needed to determine eligibility and the HRA HOME TBRA rental assistance amount.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95489" number="114140" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Prior to executing a lease, applicant households not currently in receipt of Public Assistance must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95490" number="114141" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Households must report an absence of the household from the assisted unit, as well as the absence of any individual household member, that is expected to last more than 90 days and, where practicable, receive prior approval for the absence.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95491" number="114142" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>A guest shall not reside in an assisted unit for more than 90 days during a year unless such guest is added to the household as a member. To add such guest as a member of the household, the program participant must notify HRA of the change in household composition, and HRA shall conduct an interim recertification pursuant to subdivisions (b) and (c) of </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-07" destination-id="0-0-0-13527">9-07</LINK>. If a household does not seek to add a guest as a member of the household, HRA may ask the household to provide verification that the guest is not residing permanently in the assisted unit.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95492" number="114143" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>An applicant household does not have any right or entitlement to have its application selected for review, to be listed on the HRA HOME TBRA waitlist, to any particular position on such waitlist, or to selection for participation in HRA HOME TBRA. The preceding sentence does not affect or prejudice any right, independent of this chapter, to bring a judicial action challenging a violation of a constitutional or statutory requirement.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95493" number="114144" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Applicants and household members must disclose and verify social security numbers in accordance with Section 5.216 of Title 24 of the Code of Federal Regulations, execute consent forms in accordance with Section 5.230 of such title, and complete and provide all other forms required by law.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95494" number="114145" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Rental assistance provided under the HRA HOME TBRA Program cannot be combined with any other rent subsidies other than a public assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except with the prior approval of HRA on a case-by-case basis. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95495" number="114146" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Applicant households are responsible for identifying potential housing. However, shelter staff may provide assistance to such households in their housing search.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95496" number="114147" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A landlord who signs a lease with a household participating in HRA HOME TBRA is prohibited from demanding, requesting, or receiving any amount above the rent or fees as stipulated in the lease agreement regardless of any changes in household composition, except that a landlord may charge fees customarily charged in rental housing in accordance with Section 92.214(b)(3) of Title 24 of the Code of Federal Regulations subject to prior approval from HRA. Except as provided in the preceding sentence, a landlord who demands, requests or receives any amount above what is set forth in the lease will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95497" number="114148" version="1468">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(j)<TAB tab-count="1"/>If a program participant moves or is evicted from an assisted unit, the landlord must return any over-payment to HRA except as otherwise provided in </CHARFORMAT>68 RCNY §<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C009_9-10" destination-id="0-0-0-13533">9-10</LINK>.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95498" number="114149" version="3">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(k)<TAB tab-count="1"/>In the event of the death of the sole member of a household participating in HRA HOME TBRA, HRA HOME TBRA assistance cannot be transferred and will be terminated.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-95499" number="114150" version="1189">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(</CHARFORMAT>Added City Record 11/30/2015, eff. 12/30/2015<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">)</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

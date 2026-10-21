@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-91350" number="110120" version="3">
+			<HEADING>Chapter 3: Aviation</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-12849" name="T66C003"/>Chapter 3: Aviation</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91351" number="110121" version="3">
+								<HEADING>§ 3-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12851" name="T66C003_3-01"/>§ 3-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91352" number="110122" version="3">
+									<PARA>The following words and phrases when used in this chapter shall for the purpose of this chapter have the meanings respectively ascribed to them as follows:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91353" number="110123" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Aircraft. </CHARFORMAT>&quot;Aircraft&quot; shall mean and include any and all contrivances or devices that are used or intended to be used for the navigation of or flight in air or space, including but not limited to airplanes, helicopters, lighter-than-air craft, gliders, seaplanes and amphibians.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91354" number="110124" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Airport. </CHARFORMAT>&quot;Airport&quot; shall mean any area of land or water, except John F. Kennedy International Airport and LaGuardia Airport which are under the jurisdiction of the Port Authority of New York and New Jersey, that is used or intended to be used for the landing and takeoff of aircraft, and includes any buildings and facilities.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91355" number="110125" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Applicant. </CHARFORMAT>&quot;Applicant&quot; shall mean any individual, entity, party, firm, partnership, co-partnership, corporation, association or company (including any assignee, receiver, trustee or similar representative thereof), society, government agency, public authority, or any state or political subdivision thereof.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91356" number="110126" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Armed Forces. </CHARFORMAT>&quot;Armed Forces&quot; shall mean the Army, Navy, Air Force, Marine Corps, and Coast Guard of the United States of America including their regular and reserve components and members.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91357" number="110127" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Auto-rotation. </CHARFORMAT>&quot;Auto-rotation&quot; shall mean a rotorcraft flight condition in which the lifting rotor is driven entirely by action of the air when the rotorcraft is in motion.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91358" number="110128" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Balloon. </CHARFORMAT>&quot;Balloon&quot; shall mean a lighter-than-air aircraft that is not engine driven.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91359" number="110129" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commissioner. </CHARFORMAT>&quot;Commissioner&quot; shall mean the Commissioner of the New York City Department of Business Services or his duly authorized representative.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91360" number="110130" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Department. </CHARFORMAT>&quot;Department&quot; shall mean the New York City Department of Business Services.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91361" number="110131" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>External load. </CHARFORMAT>&quot;External load&quot; shall mean a load that is carried, or extends outside of, the aircraft fuselage.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91362" number="110132" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Fixed base operation. </CHARFORMAT>&quot;Fixed base operation&quot; shall mean an operation conducted by a person having the right to furnish services including, but not limited to, storage and/or tiedown of aircraft, repair and/or maintenance of aircraft, aircraft charter, rental and/or lease and the sale of aviation fuels and other petroleum products.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91363" number="110133" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Glider. </CHARFORMAT>&quot;Glider&quot; shall mean a heavier-than-air aircraft, that is supported in flight by the dynamic reaction of the air against its lifting surfaces and whose free flight does not depend principally on an engine.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91364" number="110134" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Helicopter. </CHARFORMAT>&quot;Helicopter&quot; shall mean a rotorcraft that, for its horizontal motion, depends principally on its engine-driven rotors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91365" number="110135" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Heliport. </CHARFORMAT>&quot;Heliport&quot; shall mean an area of land, water, or structure used, or intended to be used, for the landing and take off of helicopters.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91366" number="110136" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Jet aircraft. </CHARFORMAT>&quot;Jet aircraft&quot; shall mean and include any and all craft which are not propeller driven and which accomplish motion entirely as a direct reaction of the thrust of any engine.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91367" number="110137" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Kite.</CHARFORMAT> &quot;Kite&quot; shall mean a framework, covered with paper, cloth, metal, or other material, intended to be flown at the end of a rope or cable, and having as its only support the force of the wind moving past its surfaces.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91368" number="110138" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Parachute. </CHARFORMAT>&quot;Parachute&quot; shall mean a device used or intended to be used to retard the fall of a body or object through the air.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91369" number="110139" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Person. </CHARFORMAT>&quot;Person&quot; shall mean any individual, party, trustee, firm, partnership, corporation, joint stock association, company, society, government agency, public authority, or any state or political subdivision thereof.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91370" number="110140" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Rotorcraft. </CHARFORMAT>&quot;Rotorcraft&quot; shall mean a heavier-than-air aircraft that depends principally for its support in flight on the lift generated by one or more rotors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91371" number="110141" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Seaplane. </CHARFORMAT>&quot;Seaplane&quot; shall mean any aircraft designed to maneuver on water, and shall include amphibious aircraft.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91372" number="110142" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Seaplane base. </CHARFORMAT>&quot;Seaplane base&quot; shall mean any waterfront property which provides, or is intended to provide, docking and/or ramp facilities for seaplanes, and shall include any additional appurtenances thereto.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91373" number="110143" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Staging area. </CHARFORMAT>&quot;Staging area&quot; shall mean that geographic location which may be used for the storage, assemblage or gathering of any item of equipment which is intended to be lifted by helicopter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91374" number="110144" version="1436">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Vehicle. </CHARFORMAT>&quot;Vehicle&quot; shall mean and include automobiles, trucks, buses, motorcycles, limited use vehicles, bicycles, horse drawn vehicles and any other device in or upon which any person or property is or may be transported, carried or drawn upon land, except aircraft.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91375" number="110145" version="3">
+								<HEADING>§ 3-02 Use and Occupancy of Airports, Aircraft Landing Sites, Seaplane Bases, Heliports and Marginal Streets.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12853" name="T66C003_3-02"/>§ 3-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Use and Occupancy of Airports, Aircraft Landing Sites, Seaplane Bases, Heliports and Marginal Streets.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91376" number="110146" version="3">
+									<PARA>Use or occupancy, for any purpose, including the conduct, operation or maintenance of any commercial business, soliciting, peddling, selling or offering for sale merchandise or commodities of any kind, or services, or the holding of any public meeting, on any airport, aircraft landing site, seaplane base, heliport, or marginal street, owned by the City of New York is prohibited except by written permission of the Commissioner.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91377" number="110147" version="3">
+								<HEADING>§ 3-03 Smoking.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12855" name="T66C003_3-03"/>§ 3-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Smoking.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91378" number="110148" version="3">
+									<PARA>Smoking, possessing or throwing away lighted material or tobacco is prohibited. No person shall smoke, possess or throw away any lighted material or a lighted match, cigar or cigarette while in or upon any airport, aircraft landing site, seaplane base, or heliport or any building or appurtenance thereto, whether owned by the City of New York or privately owned, or while on board any aircraft berthed, moored or located at any such airport, aircraft landing site, seaplane base or heliport; except that the Commissioner and the Fire Commissioner of the City of New York may designate portions of any of the aforementioned structures or locations where smoking may be permitted and may prescribe the types and locations of containers or receptacles into which lighted material and a lighted match, cigar or cigarette shall be deposited.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91379" number="110149" version="3">
+								<HEADING>§ 3-04 Airports.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12857" name="T66C003_3-04"/>§ 3-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Airports.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91380" number="110150" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>No airport located within the limits of the City of New York, whether for public or private use, shall be maintained or operated unless the owner or operator shall have procured from the Department a license or permit allowing such maintenance and operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91381" number="110151" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Any person seeking to maintain or operate an airport shall file an application with the Department at its office, 110 William Street, 3rd floor, New York, N.Y. 10038. Such application shall be in writing and sworn to by or on behalf of the owner or operator.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91382" number="110152" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The application shall be subject to investigation and report by the Director of Aviation of the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91383" number="110153" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The application for a license or permit must show:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91384" number="110154" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The elevation, location, dimensions and exterior boundaries of the proposed airport, the location, dimensions and height of any and all structures or vertical projections above the general contour of the proposed airport, all as contained in a survey, as of the date of the application, by a licensed City surveyor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91385" number="110155" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The location, nature and height of any structure or vertical projection within two miles from such exterior boundaries, the presence of which would constitute an obstruction to safe aerial ingress to or egress from the airport.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91386" number="110156" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>That the surface of the airport intended for the takeoff, landing and taxiing of aircraft is firm and suitable.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91387" number="110157" version="1337">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The markings, each constructed and painted so as to be readily discernible from the air at a minimum height of 3,000 feet, to be in conformity with Federal Aviation Administration standards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91388" number="110158" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>That the location of the proposed airport, and the volume, character and direction of the traffic thereat will not endanger the lives and property of persons operating aircraft on or near existing airports and of occupants of land in their vicinity, nor tend to destroy or impair the utility of such airports and the investment therein; and that, in relation to existing airports, the proposed airport conforms to all spacing requirements and safety standards of applicable Federal and State laws and regulations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91389" number="110159" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>An application for a license or permit covering night maintenance and operation must show the number, location, type and power of lights in conformity with Federal Aviation Administration standards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91390" number="110160" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The applicant must have in force upon the granting of a license or permit, liability insurance in an amount to be set by the Commissioner with the City of New York as an additional insured.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91391" number="110161" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The Commissioner may issue a license or permit to operate the proposed airport if, in addition to the items specified in subdivision (d) above, such airport will not be detrimental to the public safety and will be in the public interest. Such license may be limited by appropriate conditions as to type of aircraft, time and method of operation, standards of maintenance, keeping of records and safety and security precautions and such other terms and conditions as may be necessary or desirable to insure the public safety and interest and the safety of those engaging in aeronautical activities.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91392" number="110162" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Such license or permit shall be effective for one year from the date of issuance thereof, unless sooner revoked or suspended by the Commissioner for cause shown.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91393" number="110163" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>No license or permit shall be revoked by the Commissioner except after a hearing upon 48 hours notice to the licensee. The Commissioner shall have the power in his discretion, to suspend such license or permit pending such hearing and determination.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91394" number="110164" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Each license or permit issued hereunder may be renewed annually upon application by the licensee or permittee. Such application must set forth that the airport and the operation thereof conforms to the minimum requirements set forth in the original application for the license or permit granted and complies with the regulations promulgated by the Commissioner subsequent to the date of the original license or permit.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91395" number="110165" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>The fee for the issuance of such annual license or permit shall be $250.00, and the fee for the renewal thereof shall be $150.00.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91396" number="110166" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>Any change in the airport or operation thereof which would affect the safe operation thereof, shall be reported immediately by the licensee or permittee in writing to the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91397" number="110167" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>The failure on the part of the licensee or permittee to comply with any of the rules set forth in this chapter or hereafter adopted by the Commissioner, shall constitute sufficient cause for revocation of such license or permit. Licensee or permittee must keep accurate written records of all landings and departures, report of which must be made on a monthly basis to the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91398" number="110168" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>The City, by or through its employees, agents, representatives, or contractors, shall have the right at all times to enter upon the airport for the purpose of inspecting and/or observing the performance by the licensee or permittee of his obligations and duties.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91399" number="110169" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(n)<TAB tab-count="1"/>No heliport in the City of New York shall conduct operations between the hours of 11 p.m. and 7 a.m. unless a waiver has been obtained from the Commissioner or the Commissioner&apos;s designee. In granting such a waiver, the Commissioner shall take into account the health, safety and welfare of the community.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91400" number="110170" version="3">
+								<HEADING>§ 3-05 Seaplane Noise Control.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12859" name="T66C003_3-05"/>§ 3-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Seaplane Noise Control.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91401" number="110171" version="3">
+									<PARA>In order to afford better relief and protection to the public from unnecessary seaplane noise, all seaplanes must taxi to a point at least 700 feet from the nearest shoreline before beginning a takeoff run or applying power in excess of that required for safe taxiing.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91402" number="110172" version="3">
+								<HEADING>§ 3-06 Helicopter External Load Operations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12861" name="T66C003_3-06"/>§ 3-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Helicopter External Load Operations.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91403" number="110173" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>It shall be unlawful for any person, firm, or corporation to use or permit the use of any helicopter or other aircraft within the confines of the City in connection with the construction, alteration, or installation of service equipment or material in or upon any building or structure or to conduct any other external load operation within the City of New York, without first obtaining a permit from the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91404" number="110174" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Before an application for a permit will be approved by the Commissioner, applicant must meet the following requirements:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91405" number="110175" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The staging area must:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91406" number="110176" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Be of sufficient size and location as to permit helicopter landings and takeoffs without unduly creating an annoyance or safety hazard to persons or property in the area.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91407" number="110177" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Permit freedom of movement for cargo, equipment, helicopter, support personnel and vehicles within the confines of that area.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91408" number="110178" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Be capable of being sealed off from spectators, vehicles and pedestrians, without creating an attractive nuisance.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91409" number="110179" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Be free of obstructions to helicopter flight and be capable of providing reasonable control over dust and debris which may be generated by helicopter downwash. All operations and support personnel shall be provided with suitable protective garments, such as hearing protectors, construction helmets and goggles, as required by the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91410" number="110180" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Provide safe approach and departure paths so that in case of an emergency, an autorotational landing may be made without endangering persons or property.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91411" number="110181" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The discharge point must:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91412" number="110182" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Meet all requirements of the Department of Buildings for the installation of service equipment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91413" number="110183" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Comply with all Fire Department rules and regulations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91414" number="110184" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Comply with all Bureau of Highway Operations rules and regulations concerning the closing of streets and highways which border the operation area.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91415" number="110185" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>The top floors of the building structure intended as the discharge point must be evacuated of all non-essential personnel, except operations personnel, by order of the Commissioner, and all entrances and exits to the building or structure must be blocked or guarded in such a manner as to prevent their use by unauthorized personnel when the rotorcraft load combination is overhead.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91416" number="110186" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The flight path of the rotorcraft with the external load combination may not pass over any structures, buildings or vehicles which are occupied by any persons not connected with the operation, except that the Commissioner shall in all instances, have the power to determine all safety requirements.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91417" number="110187" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Applicant shall conduct test flights with the various loads to be carried to determine:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91418" number="110188" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>That the weight of the rotorcraft load combination and location of center of gravity are within approved limits.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91419" number="110189" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>That the load is securely fastened and does not interfere with any emergency release devices.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91420" number="110190" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>That while hovering or on forward flight the load does not oscillate and is controllable during all phases of the operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91421" number="110191" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Each flight operation must be conducted in such a manner that in an emergency, will allow the external load to be released and the aircraft landed without hazard to persons or property.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91422" number="110192" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permit requirements:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91423" number="110193" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The Commissioner shall in all instances be the final authority on all matters relating to the issuance of permits. Any permits granted under this subdivision (d) may be ordered modified, suspended or revoked by the Commissioner at his discretion for any good cause.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91424" number="110194" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>All provisions of laws and rules or regulations of any government agency may be deemed applicable by the Commissioner to insure the safety of persons or property in the air or on the ground in which case they must be complied with.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91425" number="110195" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>All applicable labor laws, rules and regulations shall be complied with for any operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91426" number="110196" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Operations shall only be conducted during VFR conditions in the daytime. No operation will be approved during adverse or inclement weather, or if the wind exceeds 30 miles per hour or with a gust spread of no more than 15 miles per hour.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91427" number="110197" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Each applicant must hold a valid Rotorcraft External Load Operator Certificate, or equivalent, issued by the FAA under Part 133, as amended or superseded by applicable Federal Aviation Regulations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91428" number="110198" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>A violation of any rule or regulation of the FAA or any other Federal or State agency having jurisdiction over the subject matter of the operation shall be a violation of this chapter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91429" number="110199" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Each applicant must file his request on a form and in such manner as may be prescribed by the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91430" number="110200" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Upon satisfactory fulfillment of all requirements, the Commissioner may issue a permit together with any restrictions or conditions he deems necessary.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91431" number="110201" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Each applicant must have in force liability insurance in an amount to be determined by the Commissioner with the City of New York included as an additional insured.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91432" number="110202" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Applicant must permit any authorized representative of the Commissioner to conduct inspections or examinations in order to determine whether there has been sufficient compliance with applicable laws, rules and regulations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91433" number="110203" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Each applicant shall prepare for the Commissioner&apos;s approval a detailed diagram of the operations area and depict thereon</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91434" number="110204" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Optimum route of flight to the staging area for the purpose of noise abatement and avoidance of obstruction hazards.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91435" number="110205" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Emergency landing area within autorotational range of any and approximate point of descent to landing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91436" number="110206" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Staging areas, pick-up and discharge points.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91437" number="110207" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Streets, highways, and building exits and entrances which must be closed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91438" number="110208" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>No helicopter having fewer than two engines shall be permitted to conduct external load operations in the City.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91439" number="110209" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Safety. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91440" number="110210" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Each applicant shall provide adequate fire protection during the operation which complies with Fire Department regulations and such other requirements as are set forth herein.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91441" number="110211" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Each applicant shall provide adequate control communications and procedures for the operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91442" number="110212" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Each applicant shall obtain all necessary approvals and permits as required by law.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91443" number="110213" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Permit fee. </CHARFORMAT>The fee for the issuance of a permit for the takeoff and landing of aircraft used for the external transportation of material or equipment at a non airport location shall be $300.00.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91444" number="110214" version="3">
+								<HEADING>§ 3-07 Helicopter Noise and Safety.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12863" name="T66C003_3-07"/>§ 3-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Helicopter Noise and Safety.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91445" number="110215" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>To prevent unnecessary noise all takeoffs and landings at public use heliports in the City shall be made over water.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91446" number="110216" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Except where necessary for takeoff or landing or under Air Traffic Control clearance while operating in the New York Terminal Control Area, no person may operate a helicopter in the City of New York below the following altitudes:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91447" number="110217" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An altitude allowing, if a power unit fails, an emergency landing in the waterways of the City.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91448" number="110218" version="1334">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>An altitude of 1,000 feet above the highest obstacle or within a horizontal radius of 1,000 feet of the aircraft, except over open water.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91449" number="110219" version="3">
+								<HEADING>§ 3-08 Landing and Takeoff at Other Than Licensed Heliports, Airports and Seaplane Bases.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12865" name="T66C003_3-08"/>§ 3-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Landing and Takeoff at Other Than Licensed Heliports, Airports and Seaplane Bases.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91450" number="110220" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>No aircraft shall land or takeoff within the limits of the City of New York except at licensed airports unless a permit allowing such operation has been obtained from the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91451" number="110221" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Any person may file an application in writing with the Department at its office, 110 William Street, 3rd floor, New York, New York, 10038.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91452" number="110222" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The application shall be subject to investigation and report by the Commissioner or his duly authorized representative.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91453" number="110223" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The application for a permit must show:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91454" number="110224" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A plot map showing the location of the proposed operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91455" number="110225" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Make, model and registration numbers of aircraft.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91456" number="110226" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Name and qualifications of the pilot-in-command.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91457" number="110227" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Permission of the property owner for the proposed operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91458" number="110228" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Purpose of the operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91459" number="110229" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The applicant must have in force upon the granting of the permit, liability insurance in such amounts and upon such terms as deemed appropriate by the Commissioner and with the City of New York as additional insured.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91460" number="110230" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>No materials or equipment shall be transported outside of the aircraft.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91461" number="110231" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The Commissioner may issue a permit for the proposed operation if, in the Commissioner&apos;s judgment, the conduct of such operation will be in the public interest and not detrimental to public safety.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91462" number="110232" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>The fee for the issuance of such permit shall be $200.00 and the fee for the renewal thereof shall be $135.00.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91463" number="110233" version="3">
+								<HEADING>§ 3-09 Lighter-Than-Air and Glider Operation.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12867" name="T66C003_3-09"/>§ 3-09 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lighter-Than-Air and Glider Operation.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91464" number="110234" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>No airship, balloon in free flight, or tethered balloon flight shall land or takeoff within the limits of the City unless a permit allowing such operation has been obtained from the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91465" number="110235" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No glider shall takeoff or land within the limits of the City unless a permit allowing such operation has been obtained from the Commissioner. No engine powered aircraft shall tow a glider into the air within the limits of the City unless such a permit allowing such operation has been obtained from the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91466" number="110236" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Any person seeking such a permit shall file an application with the Department at its office, 110 William Street, 3rd floor, New York, N.Y. 10038. Such application shall be in writing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91467" number="110237" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The application shall be subject to investigation and report by the Director of Aviation of the Department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91468" number="110238" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The application for a permit must show:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91469" number="110239" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A plot map showing the location for the proposed operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91470" number="110240" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Make, model and registration number of aircraft.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91471" number="110241" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Name and qualifications of the pilot-in-command.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91472" number="110242" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Permission of the property owner for the proposed operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91473" number="110243" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Purpose of the operation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91474" number="110244" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The applicant must have in force upon granting of the permit liability insurance in an amount to be set by the Commissioner with the City of New York included as an additional insured.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91475" number="110245" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The Commissioner may issue a permit for the proposed operation if, in such Commissioner&apos;s judgment, the conduct of such operation will not be detrimental to the public safety and will be in the public interest.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91476" number="110246" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>The fee for the issuance of such permit shall be $200.00, and the fee for the renewal thereof shall be $135.00.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91477" number="110247" version="3">
+								<HEADING>§ 3-10 Unauthorized Takeoffs and/or Landings.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12869" name="T66C003_3-10"/>§ 3-10 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Unauthorized Takeoffs and/or Landings.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91478" number="110248" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>It shall be unlawful for any person navigating an aircraft to take-off or land at any place within the limits of the City other than at places designated for this purpose by the Commissioner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-91479" number="110249" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The provisions provided for herein shall not apply to any aircraft which is operated under emergency conditions, nor are they intended to supplant the decisions of the pilot-in-command when such decisions relate directly to acts intended to safeguard the pilot, aircraft, or its passengers.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91480" number="110250" version="3">
+								<HEADING>§ 3-11 Reports.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12871" name="T66C003_3-11"/>§ 3-11 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reports.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91481" number="110251" version="3">
+									<PARA>The owner or operator of any aircraft involved in an accident or incident within the limits of the City must, in addition to any Federal or State reporting requirements, file a report with the Commissioner within 24 hours of such occurrence.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-91482" number="110252" version="3">
+								<HEADING>§ 3-12 Penalties.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12873" name="T66C003_3-12"/>§ 3-12 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Penalties.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-91483" number="110253" version="3">
+									<PARA>The failure on the part of the licensee or permittee to comply with any of the rules set forth in this chapter or hereafter adopted by the Commissioner, shall constitute sufficient cause for revocation of such license or permit.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

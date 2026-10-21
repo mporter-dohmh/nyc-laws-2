@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-15636" number="19088" version="3">
+			<HEADING>Chapter 27: Annual Vault Charge</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-2773" name="T11C027"/>Chapter 27: Annual Vault Charge</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15637" number="19089" version="3">
+										<HEADING>§ 11-2701 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4439" name="11-2701"/>§ 11-2701 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15638" number="19090" version="3">
+											<PARA>When used in this chapter, the following terms shall mean or include:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15639" number="19091" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>&quot;Person.&quot; An individual, partnership, society, association, joint-stock company, corporation, estate, receiver, lessee, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15640" number="19092" version="3">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>&quot;Vault.&quot; Any subsurface opening, structure or erection, whether or not wholly or partly covered over, to the extent that it extends from the building line into any street of the city, for the erection of which a license fee is required pursuant to the charter or code of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15641" number="19093" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>&quot;Street.&quot; Every public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk and viaduct, and every other class of public highway, road, square and place within or belonging to the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15642" number="19094" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>&quot;Using, occupying or maintaining.&quot; Any right or authority to install, store or maintain property of any kind in a vault, or otherwise to use, occupy or maintain such vault for any purpose whatsoever. Such right or authority shall be deemed to exist wherever a vault has not been filled in or closed by the licensee or abutting property owner and the street restored to its original condition pursuant to the requirements of the charter or code of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15643" number="19095" version="3">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>&quot;City surveyor.&quot; Any person appointed a surveyor of the city of New York pursuant to the code of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15644" number="19096" version="3">
+											<PARA>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>&quot;Owner of the premises immediately adjoining the vault.&quot; Any person who is the owner of record of real property located in whole or in part within the city, from which a vault has been extended.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15645" number="19097" version="3">
+											<PARA>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>&quot;Depth.&quot; The vertical distance from the ceiling, roof or top of a vault to the floor, bottom or lowest point thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15646" number="19098" version="3">
+											<PARA>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>&quot;City.&quot; The city of New York.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15647" number="19099" version="3">
+											<PARA>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>&quot;Comptroller.&quot; The comptroller of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15648" number="19100" version="3">
+											<PARA>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>&quot;Commissioner of finance.&quot; The commissioner of finance of the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15649" number="19101" version="3">
+											<PARA>
+												<TAB tab-count="1"/>11.<TAB tab-count="1"/>&quot;Return.&quot; Any return required to be filed as herein provided.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15650" number="19102" version="679">
+											<PARA>
+												<TAB tab-count="1"/>12.<TAB tab-count="1"/>&quot;Tax appeals tribunal.&quot; The tax appeals tribunal established by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="168" destination-id="0-0-0-0">one hundred sixty-eight</LINK> of the charter. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15651" number="19103" version="3">
+										<HEADING>§ 11-2702 Imposition of charge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4441" name="11-2702"/>§ 11-2702 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Imposition of charge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15652" number="19104" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In addition to any and all other license fees, charges and taxes, there is hereby imposed and there shall be paid an annual vault charge, beginning as of July first, nineteen hundred sixty-two, for the privilege of occupying, using or maintaining a vault in the streets of the city, to be paid by the owner of the premises immediately adjoining the vault. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15653" number="19105" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(A)<TAB tab-count="1"/>For periods prior to July first, nineteen hundred seventy-one such annual vault charges shall be at the following rates:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15654" number="19106" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>On any vault occupying up to two hundred and fifty square feet in plane or surface area but no more than twelve feet in depth, thirty-five cents per square foot but not less than five dollars for the total occupancy;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15655" number="19107" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>On any vault occupying more than two hundred fifty square feet in plane or surface area but not more than twelve feet in depth, thirty-five cents per square foot for the first two hundred fifty square feet of an area and sixty cents per square foot for that portion of the area in excess of two hundred fifty square feet;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15656" number="19108" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>On any vault more than twelve feet in depth, an additional charge for each additional ten feet in depth or fraction thereof calculated by adding the plane or surface area for each such additional depth to the area calculated pursuant to subparagraphs one and two and by applying to such total area the same rates as provided in subparagraphs one and two. The additional area for any additional depth of ten feet or fraction thereof shall however, be reduced by ten per cent for each foot of depth less than ten feet.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15657" number="19109" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(B)<TAB tab-count="1"/>For periods beginning on or after July first, nineteen hundred seventy-one and ending on or before May thirty-first, nineteen hundred eighty, such annual vault charges shall be at the following rates:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15658" number="19110" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>On any vault occupying no more than twelve feet in depth, one dollar per square foot of plane or surface area but not less than five dollars for the total occupancy;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15659" number="19111" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>On any vault more than twelve feet in depth, an additional charge for each additional ten feet in depth, or fraction thereof calculated by adding the plane or surface area for each such additional depth to the area calculated pursuant to subparagraph one and by applying to such total area the same rate as provided in subparagraph one. The additional area for any additional depth of ten feet or fraction thereof shall however, be reduced by ten percent for each foot of depth less than ten feet.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15660" number="19112" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(C)<TAB tab-count="1"/>For periods beginning on or after June first, nineteen hundred eighty such annual vault charge shall be at the following rates:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15661" number="19113" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>On any vault occupying no more than twelve feet in depth, two dollars per square foot of plane or surface area;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15662" number="19114" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>On any vault more than twelve feet in depth, an additional charge for each additional ten feet in depth, or fraction thereof calculated by adding the plane or surface area for each such additional depth to the area calculated pursuant to subparagraph one and by applying to such total area the same rate as provided in subparagraph one. The additional area for any additional depth of ten feet or fraction thereof shall however, be reduced by ten percent for each foot of depth less than ten feet.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15663" number="19115" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(D)<TAB tab-count="1"/>Notwithstanding any provision of law to the contrary, no annual vault charge or additional charge shall be imposed pursuant to this chapter on or after June first, nineteen hundred ninety-eight.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15664" number="19116" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Where the owner of the premises immediately adjoining the vault is exempt from or otherwise not liable for the annual vault charge, the tenant, lessee or any other person using, occupying or maintaining such vault shall be liable therefor.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15665" number="19117" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The annual vault charge imposed by this section shall be due from, and shall be paid by, the person who is the owner of the premises immediately adjoining the vault on the first day of July of the year for which such charge is imposed except that, on and after June first, nineteen hundred seventy-two, such charge shall be due from, and shall be paid by the person who is the owner of the premises immediately adjoining the vault on the first day of June of the year for which such charge is imposed. Where the annual vault charge is imposed pursuant to subdivision (b) of this section, such annual vault charge shall be due from and paid by, the tenant, lessee or any other person using, occupying or maintaining the vault on the first day of July of the year for which such charge is imposed, except that for years beginning on or after June first, nineteen hundred seventy-two, such charge shall be due from, and paid by, the tenant, lessee or any other person using, occupying or maintaining the vault on the first day of June of the year for which such charge is imposed.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15666" number="19118" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>In the event that the annual vault charge as imposed by this chapter shall be held invalid, then such annual vault charge shall be deemed a tax on the same basis and at the same rates as provided in this chapter and all other provisions of this chapter shall be equally applicable.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15667" number="19119" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Where, prior to the first day of August in any year in which the annual vault charge imposed hereunder shall be due and payable, if a vault or part thereof is made unavailable for use or occupancy, the annual vault charge paid for such year, pursuant to the provisions of this chapter, shall be refunded in full upon application to and furnishing of such proof as the commissioner of finance may require. Where such closing of a vault occurs prior to the last day of December in any such year, fifty percent of the annual vault charge due and actually paid for such year shall be refunded to the payor upon application to and furnishing of such proof as the commissioner of finance may require. Where such closing is limited to a part of a vault, such a refund shall be granted only to the extent that the closing reduces the area of the vault and thereby the amount of the charge for the vault. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15668" number="19120" version="3">
+										<HEADING>§ 11-2703 Exemptions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4443" name="11-2703"/>§ 11-2703 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exemptions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15669" number="19121" version="3">
+											<PARA>The charges imposed by this chapter shall not apply to the following:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15670" number="19122" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The state of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the state;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15671" number="19123" version="3">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The United States of America, in so far as it is immune from taxation;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15672" number="19124" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The United Nations or other world-wide international organizations of which the United States of America is a member;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15673" number="19125" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this paragraph shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15674" number="19126" version="3">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Any vault constituting property defined as a special franchise in section one hundred two of the real property tax law or assessed as such pursuant to article six of such law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15675" number="19127" version="679">
+											<PARA>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Any vault to the extent that it is used, occupied or maintained pursuant to a revocable consent granted pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="374" destination-id="0-0-0-0">three hundred seventy-four</LINK> of the charter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15676" number="19128" version="3">
+											<PARA>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Any vault immediately adjoining a building or structure designed for and used exclusively as a single-family or a two-family dwelling house or any other real property which is classified as class one real property pursuant to section eighteen hundred two of the real property tax law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15677" number="19129" version="3">
+											<PARA>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Any street occupancy usable solely and exclusively for the melting of snow and ice, or for delivery into the immediately adjoining premises, of coal, oil or other fuel for the heating thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15678" number="19130" version="3">
+											<PARA>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>Any vault occupying no more than thirty-six square feet in plane or surface area, irrespective of the depth of such vault. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15679" number="19131" version="3">
+										<HEADING>§ 11-2704 Filing of returns. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4445" name="11-2704"/>§ 11-2704 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Filing of returns. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15680" number="19132" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Every person subject to the annual vault charge under this chapter shall, on or before the first day of August, nineteen hundred sixty-two, and on or before the fifteenth day of July of every year thereafter, file with the commissioner of finance a return showing the dimensions of the vault as to length, width and depth, except that the return required to be filed on or before July fifteenth, nineteen hundred seventy-two shall be filed on or before June fifteenth, nineteen hundred seventy-two and those due in later years shall be required to be filed on or before June fifteenth of such years. The commissioner of finance, if he or she deems it necessary to insure adequate information with regard to the proper charge to be imposed, may require information returns from other persons, including the owners of real property regardless of whether a vault has been extended therefrom, the users or lessees of the vault or lessees or tenants of the property adjoining the vault.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15681" number="19133" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The forms of returns shall be prescribed by the commissioner of finance and shall contain such information as he or she may deem necessary for the proper administration of this chapter; and the commissioner of finance or his or her duly authorized agents or employees shall be empowered to require supplemental returns. If a return required by this chapter is not filed or if the return when filed is incorrect or insufficient on its face, the commissioner of finance shall take the necessary steps to enforce the filing of such a return or of a corrected return. Upon failure to comply with a notice to furnish a return or a sufficient return, the commissioner of finance may require the filing of a certificate signed by a city surveyor specifying the dimensions of the vault.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15682" number="19134" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>For each annual vault charge year beginning on or after June first, nineteen hundred eighty-nine, the commissioner of finance shall, at least thirty days prior to the commencement of such year, mail to each person who has filed an annual vault charge return for the immediately preceding year an annual vault charge return form on which shall be shown the amount of the charge for such immediately preceding year. Such return form shall be accompanied by instructions which explain in clear and simple terms how to determine the dimensions and extent of street occupancy of a vault, how to calculate the amount of the charge, and such other matters as the commissioner considers necessary or helpful to an understanding of the requirements of this chapter. Notwithstanding the foregoing, neither the failure of the commissioner to mail such return form and instructions nor the failure of any person to receive the same shall relieve any person of the obligation to file any return required under this section or of liability for the charge, interest or penalties imposed by this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15683" number="19135" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>If no form or other notice has previously been sent to a person subject to the annual vault charge with respect to the amount of vault charge owed for any year, the commissioner of finance shall notify such person of the amount owed as soon as practicable after discovering that such amount is owed. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15684" number="19136" version="3">
+										<HEADING>§ 11-2704 Annual notice of charge.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4445" name="11-2704"/>§ 11-2704 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual notice of charge.</CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15685" number="19137" version="3">
+											<PARA>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15686" number="19138" version="3">
+										<HEADING>§ 11-2705 Payment of vault charges. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4447" name="11-2705"/>§ 11-2705 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Payment of vault charges. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15687" number="19139" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>At the time of filing a return as required by this chapter the person subject to the annual vault charge shall pay to the commissioner of finance the charge imposed by this chapter. Such charge shall be due and payable on the last day on which such return is required to be filed, without regard to whether a return is filed or whether the return which is filed correctly shows the amount due.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15688" number="19140" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The charge otherwise required to be paid with the return due on or before June fifteenth, nineteen hundred eighty shall be paid in two equal installments as follows: one-half of the charge shall be paid with the return on or before June fifteenth, nineteen hundred eighty, and one-half of the charge shall be paid on or before September fifteenth, nineteen hundred eighty. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15689" number="19141" version="3">
+										<HEADING>§ 11-2706 Presumption and burden of proof. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4449" name="11-2706"/>§ 11-2706 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Presumption and burden of proof. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15690" number="19142" version="3">
+											<PARA>For the purpose of the proper administration of this chapter and to prevent evasion of the annual vault charge hereby imposed, it shall be presumed, except where the depth of a vault exceeds twelve feet, that the size of the vault as indicated upon the license therefor originally issued by the borough president up to and including December thirty-first, nineteen hundred sixty-two, and the commissioner of transportation thereafter is a proper measure of the charge until the contrary is established, and the burden of proving that the size of the vault is not accurately stated upon the license shall be upon the person so claiming. In cases where no license of record has been issued for a vault or where the depth of a vault exceeds twelve feet, the burden of proving the actual size of the vault shall be upon the person liable for the vault charge.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15691" number="19143" version="3">
+										<HEADING>§ 11-2707 Determination of vault charge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4451" name="11-2707"/>§ 11-2707 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Determination of vault charge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15692" number="19144" version="3">
+											<PARA>If a return required by this chapter is not filed or if a return when filed is incorrect or insufficient, the amount of the vault charge due shall be determined by the commissioner of finance from such information as may be obtainable and, if necessary, the charge may be estimated on the basis of external indices, including but not limited to the records of the department of transportation, the reports of tax assessors, the reports of inspectors and investigators in the offices of the commissioner of finance and commissioner of transportation, and/or other information or factors. Notice of such determination shall be given to the person liable for the payment thereof. Such determination shall finally and irrevocably fix the vault charge unless the person against whom it is assessed shall, within ninety days after the giving of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-124" destination-id="0-0-0-2745">11-124</LINK> of the code and such person has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner&apos;s confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal, or unless the commissioner of finance of his or her own motion shall redetermine the same. Upon such hearing the tax appeals tribunal may require the filing of a certificate signed by a city surveyor specifying the dimensions of the vault. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the vault charge is assessed. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the vault charge was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a person against whom the vault charge is assessed unless (a) the amount of any vault charge sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the vault charge confirmed the person against whom the vault charge is assessed will pay all costs and charges which may accrue in the prosecution of the proceeding, or (b) at the option of such person, such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the vault charge, penalties and interest thereon stated in such decision plus the costs and charges which may accrue against him or her in the prosecution of the proceeding, in which event such person shall not be required to deposit such vault charge, penalties and interest as a condition precedent to the application.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15693" number="19145" version="3">
+										<HEADING>§ 11-2708 Refunds. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4453" name="11-2708"/>§ 11-2708 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Refunds. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15694" number="19146" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>In the manner provided in this section, the commissioner of finance shall refund or credit, without interest, any vault charge, penalty or interest erroneously, illegally or unconstitutionally collected or paid if application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund is made or denied by the commissioner of finance, he or she shall state his or her reason therefor and give notice thereof to the applicant in writing. Such application may be made by the owner of the premises, or other person, who has actually paid the vault charge. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15695" number="19147" version="679">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any determination of the commissioner of finance denying a refund or credit pursuant to subdivision a of this section shall be final and irrevocable unless the applicant for such refund or credit, within ninety days from the mailing of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-124" destination-id="0-0-0-2745">11-124</LINK> of the administrative code and the applicant has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner&apos;s confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing. Such petition for a refund or credit, made as herein provided, shall be deemed an application for a revision of any vault charge, penalty or interest complained of. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="168" destination-id="0-0-0-0">one hundred sixty-eight</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="172" destination-id="0-0-0-0">one hundred seventy-two</LINK> of the charter. After such hearing, the tax appeals tribunal shall give notice of its decision to the applicant and to the commissioner of finance. The applicant shall be entitled to review such decision of the tax appeals tribunal sitting en banc by a proceeding pursuant to article seventy-eight of the civil practice law and rules, provided such proceeding is instituted within four months after the giving of the notice of such decision, and provided, in the case of an application by a person against whom the vault charge is assessed, that a final determination of the vault charge due was not previously made. Such a proceeding shall not be instituted by a person against whom the vault charge is assessed unless an undertaking is filed with the commissioner of finance in such amount and with such sureties as a justice of the supreme court shall approve to the effect that if such proceeding be dismissed or the vault charge confirmed, such person will pay all costs and charges which may accrue in the prosecution of such proceeding.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15696" number="19148" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A person shall not be entitled to a revision, refund or credit under this section of a vault charge, interest or penalty which had been determined to be due pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2707" destination-id="0-0-0-4451">11-2707</LINK> of this chapter where he or she has had a hearing or an opportunity for a hearing, as provided in said section, or has failed to avail himself or herself of the remedies therein provided. No refund or credit shall be made of annual vault charge, interest or penalty paid after a determination by the commissioner of finance made pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2707" destination-id="0-0-0-4451">11-2707</LINK> of this chapter unless it be found that such determination was erroneous, illegal or unconstitutional or otherwise improper, by the tax appeals tribunal after a hearing or on the commissioner&apos;s own motion, or, if such tax appeals tribunal affirms in whole or in part the determination of the commissioner of finance, in a proceeding under article seventy-eight of the civil practice law and rules, pursuant to the provisions of said section, in which event refund or credit without interest shall be made of the vault charge, interest or penalty found to have been overpaid. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15697" number="19149" version="3">
+										<HEADING>§ 11-2709 Reserves. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4455" name="11-2709"/>§ 11-2709 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reserves. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15698" number="19150" version="3">
+											<PARA>In cases where the person or persons liable for the vault charge imposed by this chapter has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to him or her on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15699" number="19151" version="3">
+										<HEADING>§ 11-2710 Remedies exclusive. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4457" name="11-2710"/>§ 11-2710 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Remedies exclusive. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15700" number="19152" version="3">
+											<PARA>The remedies provided by sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2707" destination-id="0-0-0-4451">11-2707</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2708" destination-id="0-0-0-4453">11-2708</LINK> of this chapter shall be the exclusive remedies available to any person for the review of the liability imposed hereunder, and no determination or proposed determination of an annual vault charge or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a person liable for the annual vault charge may proceed by declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2707" destination-id="0-0-0-4451">11-2707</LINK> of this chapter.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15701" number="19153" version="3">
+										<HEADING>§ 11-2711 Proceedings to recover annual vault charge. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4459" name="11-2711"/>§ 11-2711 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Proceedings to recover annual vault charge. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15702" number="19154" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Whenever any person shall fail to pay any vault charge, penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance bring, or cause to be brought, an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15703" number="19155" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>As an additional remedy or as an alternate remedy, the commissioner of finance may issue a warrant, directed to the city sheriff, commanding him or her to levy upon and sell the real and personal property of the person liable for vault charges which may be found within the city for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the commissioner of finance and to pay to him or her the money collected by virtue thereof within sixty days after the receipt of such warrant. The city sheriff shall within five days after the receipt of the warrant file with the county clerk a copy thereof, and thereupon such clerk shall enter in the judgment docket the name of the person mentioned in the warrant and the amount of the vault charge, penalty and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The city sheriff shall then proceed upon the warrant in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record and for services in executing the warrant he or she shall be entitled to the same fees, which he or she may collect in the same manner. In the discretion of the commissioner of finance a warrant of like terms, force and effect may be issued and directed to an officer or employee of the department of finance, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the commissioner of finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the city had recovered judgment therefor and execution thereon had been returned unsatisfied.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15704" number="19156" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>In addition to any other lien provided for in this section, the annual vault charge imposed by this chapter shall become a lien, binding upon the premises immediately adjoining such vault, on the date such charge is required to be paid until the same is paid in full.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15705" number="19157" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The commissioner of finance, if he or she finds that the interests of the city will not thereby be jeopardized, and upon such conditions as the commissioner of finance may require, may release any property from the lien of any warrant or vacate such warrant for unpaid vault charges, additions to vault charges, penalties and interest filed pursuant to subdivision b of this section, and such release or vacating of the warrant may be recorded in the office of any recording officer in which such warrant has been filed. The clerk shall thereupon cancel and discharge as of the original date of docketing the vacated warrant. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15706" number="19158" version="3">
+										<HEADING>§ 11-2712 General powers of the commissioner of finance. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4461" name="11-2712"/>§ 11-2712 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General powers of the commissioner of finance. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15707" number="19159" version="3">
+											<PARA>In addition to all other powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15708" number="19160" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>To make, adopt and amend rules and regulations appropriate to the carrying out of this chapter and the purpose thereof;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15709" number="19161" version="3">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>To extend, for cause shown, the time for filing any return for a period not exceeding sixty days; and to compromise disputed claims in connection with the vault charges hereby imposed;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15710" number="19162" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>To delegate his or her functions hereunder to a deputy commissioner of finance or any employee or employees of the department of finance;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15711" number="19163" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>To prescribe methods for determining the size, dimensions, depth and extent of street occupancy of a vault; to set forth the manner of computing the vault charges hereunder; to prescribe standards or methods, by regulation or otherwise, for determining whether a vault has been made unavailable for use or occupancy; and the commissioner of finance or his or her designated employees or agents shall have power to inspect premises for the purpose of determining the extent, if any, of liability imposed by this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15712" number="19164" version="3">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>To require any owner of premises or licensee or other person using, occupying or maintaining a vault to obtain from the commissioner of finance a certificate stating the dimensions and depth of the vault and that the vault charge thereon has been paid and to exhibit the same to duly authorized employees at the premises or real property adjoining the said vault, and to keep such records, and for such length of time, as may be required for the proper administration of this chapter, and to furnish such records to the commissioner of finance upon request;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15713" number="19165" version="3">
+											<PARA>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>To assess, reassess, determine, revise and readjust the vault charges imposed under this chapter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15714" number="19166" version="3">
+											<PARA>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Where he or she has exercised his or her authorized power to require the filing of a certificate signed by a city surveyor specifying the dimensions of a vault and the owner of the premises has failed to comply, he or she may obtain such certificate and, in such situation, the necessary expense of obtaining such certificate shall constitute a lien against such premises until paid.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15715" number="19167" version="3">
+											<PARA>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>The commissioner of finance or his or her designated employees or agents shall have power to inspect premises for the purpose of determining the extent, if any, of liability imposed by this chapter. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15716" number="19168" version="3">
+										<HEADING>§ 11-2713 Administration of oaths and compelling testimony. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4463" name="11-2713"/>§ 11-2713 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administration of oaths and compelling testimony. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15717" number="19169" version="1772">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner of finance, his or her employees duly designated and authorized by the commissioner, the tax appeals tribunal and any of its duly designated and authorized employees shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before such commissioner or the tax appeals tribunal or excused from attendance.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15718" number="19170" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>A justice of the supreme court either in court or at chambers shall have power summarily to enforce by proper proceedings the attendance and testimony of witnesses and the production and examination of books, papers and documents called for by the subpoena of the commissioner of finance or the tax appeals tribunal under this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15719" number="19171" version="1772">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cross-reference; criminal penalties.</CHARFORMAT> For failure to obey subpoenas or for testifying falsely, see section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-4007" destination-id="0-0-0-3599">11-4007</LINK> of this title; for supplying false or fraudulent information, see section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-4009" destination-id="0-0-0-3647">11-4009</LINK> of this title.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15720" number="19172" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The officers who serve the summons or subpoena of the commissioner of finance or the tax appeals tribunal hereunder and witnesses attending in response thereto shall be entitled to the same fees as are allowed to officers and witnesses in civil cases in courts of record, except as herein otherwise provided. Such officers shall be the city sheriff and his or her duly appointed deputies or any officers or employees of the department of finance or the tax appeals tribunal, designated to serve such process. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15721" number="19173" version="3">
+										<HEADING>§ 11-2714 Interest and penalties. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4465" name="11-2714"/>§ 11-2714 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interest and penalties. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15722" number="19174" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Interest on underpayments.</CHARFORMAT> If any annual vault charge is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15723" number="19175" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to file return. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15724" number="19176" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(A)<TAB tab-count="1"/>In case of failure to file a return under this chapter on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as vault charge on such return five percent of the amount of such charge if the failure is for not more than one month, with an additional five percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15725" number="19177" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(B)<TAB tab-count="1"/>In the case of a failure to file a vault charge return within sixty days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to the vault charge under subparagraph (A) of this paragraph shall not be less than the lesser of one hundred dollars or one hundred percent of the amount required to be shown as vault charge on such return.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15726" number="19178" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(C)<TAB tab-count="1"/>For purposes of this paragraph, the amount of vault charge required to be shown on the return shall be reduced by the amount of any part of the charge which is paid on or before the date prescribed for payment of the charge and by the amount of any credit against the charge which may be claimed upon the return.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15727" number="19179" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to pay vault charge shown on return.</CHARFORMAT> In case of failure to pay the amount shown as vault charge on a return required to be filed under this chapter on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as vault charge on such return one-half of one percent of the amount of such charge if the failure is not for more than one month, with an additional one-half of one percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month the amount of vault charge shown on the return shall be reduced by the amount of any part of the charge which is paid on or before the beginning of such month and by the amount of any credit against the charge which may be claimed upon the return. If the amount of vault charge required to be shown on a return is less than the amount shown as such charge on such return, this paragraph shall be applied by substituting such lower amount.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15728" number="19180" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to pay vault charge required to be shown on return.</CHARFORMAT> In case of failure to pay any amount in respect of any vault charge required to be shown on a return required to be filed under this chapter which is not so shown (including a determination made pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-1106" destination-id="0-0-0-3733">11-1106</LINK> of this chapter) within ten days of the date of a notice and demand therefor, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of vault charge stated in such notice and demand one-half of one percent of such charge if the failure is not for more than one month, with an additional one-half of one percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month, the amount of vault charge stated in the notice and demand shall be reduced by the amount of any part of the charge which is paid before the beginning of such month.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15729" number="19181" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Limitations on additions.</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15730" number="19182" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(A)<TAB tab-count="1"/>With respect to any return, the amount of the addition under paragraph one of this subdivision shall be reduced by the amount of the addition under paragraph two of this subdivision for any month to which an addition applies under both paragraphs one and two. In any case described in subparagraph (B) of paragraph (1) of this subdivision, the amount of the addition under such paragraph (1) shall not be reduced below the amount provided in such subparagraph.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15731" number="19183" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(B)<TAB tab-count="1"/>With respect to any return, the maximum amount of the addition permitted under paragraph three of this subdivision shall be reduced by the amount of the addition under paragraph (1) of this subdivision (determined without regard to subparagraph (B) of such paragraph (1)) which is attributable to the charge for which the notice and demand is made and which is not paid within ten days of such notice and demand.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15732" number="19184" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Underpayment due to negligence. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15733" number="19185" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If any part of an underpayment of a vault charge is due to negligence or intentional disregard of this chapter or any rules or regulations hereunder (but without intent to defraud), there shall be added to the charge a penalty equal to five percent of the underpayment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15734" number="19186" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>There shall be added to the charge (in addition to the amount determined under paragraph (1) of this subdivision) an amount equal to fifty percent of the interest payable under subdivision (a) of this section with respect to the portion of the underpayment described in such paragraph (1) which is attributable to the negligence or intentional disregard referred to in such paragraph (1), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the charge (or, if earlier, the date of the payment of the charge).</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15735" number="19187" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Underpayment due to fraud. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15736" number="19188" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If any part of an underpayment of a vault charge is due to fraud, there shall be added to the charge a penalty equal to fifty percent of the underpayment.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15737" number="19189" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>There shall be added to the charge (in addition to the penalty determined under paragraph (1) of this subdivision) an amount equal to fifty percent of the interest payable under subdivision (a) of this section with respect to the portion of the underpayment described in such paragraph (1) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the charge (or, if earlier, the date of the payment of the charge).</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15738" number="19190" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The penalty under this subdivision shall be in lieu of any other addition to the vault charge imposed by subdivision (b) or (c) of this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15739" number="19191" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional penalty. </CHARFORMAT>Any person who, with fraudulent intent, shall fail to pay any vault charge imposed by this chapter, or to make, render, sign or certify any return, or to supply any information within the time required by or under this chapter, shall be liable for a penalty of not more than one thousand dollars, in addition to any other amounts required under this chapter to be imposed, assessed and collected by the commissioner of finance. The commissioner of finance shall have the power, in his or her discretion, to waive, reduce or compromise any penalty under this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15740" number="19192" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The interest and penalties imposed by this section shall be paid and disposed of in the same manner as other revenues from this chapter. Unpaid interest and penalties may be enforced in the same manner as the vault charge imposed by this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15741" number="19193" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Authority to set interest rates.</CHARFORMAT> The commissioner of finance, shall set the rate of interest to be paid pursuant to subdivision (a) of this section, but if no such rate of interest is set, such rate shall be deemed to be set at seven and one-half percent per annum. Such rate shall be the rate prescribed in paragraph two of this subdivision but shall not be less than seven and one-half percent per annum. Any such rate set by the commissioner of finance shall apply to vault charges, or any portion thereof, which remain or become due on or after the date on which such rate becomes effective and shall apply only with respect to interest computed or computable for periods or portions of periods occurring in the period in which such rate is in effect.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15742" number="19194" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General rule.</CHARFORMAT> The rate of interest set under this subdivision shall be the sum of (i) the federal short-term rate as provided under paragraph three of this subdivision, plus (ii) seven percentage points.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15743" number="19195" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Federal short-term rate.</CHARFORMAT> For purposes of this subdivision:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15744" number="19196" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The federal short-term rate for any month shall be the federal short-term rate determined by the United States secretary of the treasury during such month in accordance with subsection (d) of section twelve hundred seventy-four of the internal revenue code for use in connection with section six thousand six hundred twenty-one of the internal revenue code. Any such rate shall be rounded to the nearest full percent (or, if a multiple of one-half of one percent, such rate shall be increased to the next highest full percent).</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15745" number="19197" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(B)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Period during which rate applies.</CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15746" number="19198" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">In general.</CHARFORMAT> Except as provided in clause (ii) of this subparagraph, the federal short-term rate for the first month in each calendar quarter shall apply during the first calendar quarter beginning after such month.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15747" number="19199" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Special rule for the month of September, nineteen hundred eighty-nine.</CHARFORMAT> The federal short-term rate for the month of April, nineteen hundred eighty-nine shall apply with respect to setting the rate of interest for the month of September, nineteen hundred eighty-nine.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15748" number="19200" version="679">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Publication of interest rate.</CHARFORMAT> The commissioner of finance shall cause to be published in the city record, and give other appropriate general notice of, the interest rate to be set under this subdivision no later than twenty days preceding the first day of the calendar quarter during which such interest rate applies. The setting and publication of such interest rate shall not be included within paragraph (a) of subdivision five of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1041" destination-id="0-0-0-0">one thousand forty-one</LINK> of the city charter relating to the definition of a rule.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15749" number="19201" version="3">
+											<PARA>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Miscellaneous. </CHARFORMAT>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15750" number="19202" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The certificate of the commissioner of finance to the effect that a vault charge has not been paid, that a vault has not been licensed, that a return has not been filed, that access has not been allowed, or that information has not been supplied pursuant to the provisions of this chapter, shall be presumptive evidence thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15751" number="19203" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT> For criminal penalties, see chapter <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T11C040" destination-id="0-0-0-2809">forty</LINK> of this title. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15752" number="19204" version="3">
+										<HEADING>§ 11-2715 Notices and limitations of time. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4467" name="11-2715"/>§ 11-2715 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notices and limitations of time. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15753" number="19205" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any notice authorized or required under the provisions of this chapter may be given to the person for whom it is intended by mailing it in a postpaid envelope addressed to such person at the address given in the return filed by him or her pursuant to the provisions of this chapter or in any application made by him or her or, if no such return has been filed or application made, then to the address of the premises immediately adjoining the vault. The mailing of a notice as in this subdivision provided, shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice as in this subdivision provided.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15754" number="19206" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The provisions of the civil practice law and rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the city to appraise, assess, determine, levy or enforce the collection of any vault charge or penalty provided by this chapter. However, except in the case of a wilfully false or fraudulent return with intent to evade the vault charge, no assessment shall be made after the expiration of more than three years from the date of such return; provided, however, that where no return has been filed as provided by law, the annual vault charge may be assessed at any time.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15755" number="19207" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Where, before the expiration of the period prescribed herein for the assessment of an additional vault charge, a person has consented in writing that such period be extended, the amount of such additional vault charge due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15756" number="19208" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>If any return, claim, statement, notice, application, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of this chapter is, after such period or such date, delivered by United States mail to the commissioner of finance, the tax appeals tribunal, bureau, office, officer or person with which or with whom such document is required to be filed, or to which or to whom such payment is required to be made, the date of the United States postmark stamped on the envelope shall be deemed to be the date of delivery. This subdivision shall apply only if the postmark date falls within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment, including any extension granted for such filing or payment, and only if such document or payment was deposited in the mail, postage prepaid, properly addressed to the commissioner of finance, the tax appeals tribunal, bureau, office, officer or person with which or with whom the document is required to be filed or to which or to whom such payment is required to be made. If any document is sent by United States registered mail, such registration shall be prima facie evidence that such document was delivered to the commissioner of finance, the tax appeals tribunal, bureau, office, officer or person to which or to whom addressed, and the date of registration shall be deemed the postmark date. The commissioner of finance and, where relevant, the tax appeals tribunal are authorized to provide by regulation the extent to which the provisions of the preceding sentence with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail. This subdivision shall apply in the case of postmarks not made by the United States postal service only if and to the extent provided by regulation of the commissioner of finance or, where relevant, the tax appeals tribunal.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15757" number="19209" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>When the last day prescribed under authority of this chapter (including any extension of time) for performing any act falls on a Saturday, Sunday or legal holiday in the state, the performance of such act shall be considered timely if it is performed on the next succeeding day which is not a Saturday, Sunday or legal holiday. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15758" number="19210" version="3">
+										<HEADING>§ 11-2715.1 Vault charge amnesty program. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4469" name="11-2715.1"/>§ 11-2715.1 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Vault charge amnesty program. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15759" number="19211" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Notwithstanding any other provision of law to the contrary, there is hereby established a nine-month amnesty program, beginning January first, nineteen hundred eighty-nine and ending September thirtieth, nineteen hundred eighty-nine (hereinafter referred to as the &quot;amnesty period&quot;), for all persons owing the annual vault charge imposed by this chapter. Such amnesty program shall be administered by the commissioner of finance and shall apply to liabilities for annual vault charge years ending prior to June first, nineteen hundred eighty-nine. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15760" number="19212" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A person seeking amnesty pursuant to this section must, during the amnesty period, file a written application therefor with the commissioner of finance, on a form prescribed by the commissioner, and must provide such information as the commissioner may require. In order to qualify for amnesty, such person must pay all annual vault charges for which he or she is liable. Upon payment by such person to the commissioner of all such charges as provided in this subdivision, the commissioner shall waive any applicable penalties and interest, and no civil, administrative or criminal action or proceeding shall be brought against such person with respect to the charges so paid. In addition, the commissioner shall release the lien binding upon the premises immediately adjoining the vault pursuant to subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2711" destination-id="0-0-0-4459">11-2711</LINK> of this chapter for charges which became payable prior to the time such person acquired title to the premises. Failure to pay all charges as provided in this subdivision shall invalidate any amnesty granted pursuant to this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15761" number="19213" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>In the case of any vault adjoining premises owned by a person who (A) prior to January first, nineteen hundred eighty-nine, paid all annual vault charges and interest and penalties for which he or she was liable, and (B) is otherwise in full compliance with this chapter, the commissioner of finance shall release the lien binding upon the premises immediately adjoining the vault pursuant to subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="11-2711" destination-id="0-0-0-4459">11-2711</LINK> of this chapter for charges which became payable prior to the time such person acquired title to the premises.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15762" number="19214" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Amnesty shall not be granted to any person subject to the annual vault charge who is a party to any civil litigation which is pending on the date of such person&apos;s application in any court of this state or the United States for nonpayment or other delinquency in relation to the annual vault charge. A civil litigation shall not be deemed to be pending if such person withdraws from such litigation prior to the granting of amnesty.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15763" number="19215" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>No refund or credit shall be granted of any penalty or interest paid prior to the time the person subject to the annual vault charge makes a request for amnesty pursuant to subdivision b of this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15764" number="19216" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Unless the commissioner of finance on his or her own motion redetermines the amount of the annual vault charge, no refund or credit shall be granted of any charges paid under this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-15765" number="19217" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The commissioner of finance shall formulate such regulations as are necessary, issue forms and instructions, and take any and all other actions necessary to implement the provisions of this section. Furthermore, prior to and throughout the duration of the amnesty period, the commissioner of finance shall implement a plan for prominently announcing and explaining the amnesty program. Such plan shall be reasonably calculated to inform all property owners who may be liable for vault charges and may include written announcements sent in tax bills and other mailings done by the city of New York to property owners, public service announcements, advertisements in newspapers of general circulation and notification of community boards. The plan shall include, but not be limited to, information which explains the determination of vault size and charge. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15766" number="19218" version="3">
+										<HEADING>§ 11-2715.2 Refunds of vault charges. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4471" name="11-2715.2"/>§ 11-2715.2 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Refunds of vault charges. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15767" number="19219" version="3">
+										<HEADING>§ 11-2715.3 Severability. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4473" name="11-2715.3"/>§ 11-2715.3 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Severability. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15768" number="19220" version="3">
+											<PARA>If any clause, sentence, paragraph, section or part of this chapter or the application thereof to any person or circumstance shall for any reason be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this chapter or the application thereof to other persons or circumstances, but shall be confined in its operation to the clause, sentence, paragraph, section or part thereof directly involved in the controversy in which such judgment shall have been rendered and to the person or circumstance involved.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15769" number="19221" version="3">
+										<HEADING>§ 11-2716 Construction and enforcement. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4475" name="11-2716"/>§ 11-2716 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Construction and enforcement. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15770" number="19222" version="3">
+											<PARA>This chapter shall be construed and enforced in conformity with chapter nine hundred forty-nine of the laws of nineteen hundred sixty-two, pursuant to which it is enacted.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-15771" number="19223" version="3">
+										<HEADING>§ 11-2717 Effective date. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-4477" name="11-2717"/>§ 11-2717 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Effective date. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-15772" number="19224" version="3">
+											<PARA>This chapter shall take effect July first, nineteen hundred sixty-two and shall remain in effect so long as the power of the city to adopt such laws for revenue purposes shall exist.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

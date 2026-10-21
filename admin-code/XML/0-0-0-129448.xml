@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-129448" number="35581" version="553">
+			<HEADING>Chapter 8: Animal Shelters and Sterilization Act</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-6909" name="T17C008"/>Chapter 8: Animal Shelters and Sterilization Act</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-29280" number="35582" version="616">
+				<PARA>
+					<PARAFORMAT justify="center">(Title amended by L.L. 2015/007, 1/17/2015, eff. 6/1/2015)</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-130174" number="35583" version="616">
+										<HEADING>§ 17-801 Legislative findings. [Repealed] </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7073" name="17-801"/>§ 17-801 Legislative findings. [Repealed] </PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29281" number="35584" version="1373">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204700" number="35585" version="1373">
+										<HEADING>§ 17-802 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-6907" name="17-802"/>§ 17-802 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29282" number="35586" version="3">
+											<PARA>For the purposes of this chapter, the following terms shall be defined as follows: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29283" number="35587" version="238">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Adoption</CHARFORMAT>&quot; means the delivery of a dog or cat deemed appropriate and suitable by an animal shelter to an individual at least eighteen years of age who has been approved to own, care and provide for the animal by the animal shelter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29284" number="35588" version="238">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Animal rescue group</CHARFORMAT>&quot; means a duly incorporated not-for-profit organization that accepts homeless, lost, stray, abandoned, seized, surrendered or unwanted animals from an animal shelter or other place and attempts to find homes for, and promote adoption of, such animals by the general public.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29285" number="35589" version="610">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Animal shelter</CHARFORMAT>&quot; means a not-for-profit facility holding a permit in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_161.09" destination-id="0-0-0-0">161.09</LINK> of the New York city health code where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29286" number="35590" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>c-1.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Companion animal</CHARFORMAT>&quot; means any dog or cat, and also means any other domesticated animal normally maintained in or near the household of the owner or person who cares for such other domesticated animal. &quot;Companion animal&quot; does not include a farm animal as defined in section 350 of the agriculture and markets law or a wild animal as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_161.01" destination-id="0-0-0-0">161.01</LINK> of the New York city health code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114122" number="35591" version="238">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Consumer</CHARFORMAT>&quot; means any individual purchasing an animal from a pet shop. A pet shop shall not be considered a consumer.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29287" number="35592" version="238">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Feral cat</CHARFORMAT>&quot; means an animal of the species felis catus who has no owner, is unsocialized to humans and has a temperament of extreme fear of and resistance to contact with humans.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29288" number="35593" version="610">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Full-service shelter</CHARFORMAT>&quot; means a person required to have a permit issued pursuant to subdivision (b) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_161.09" destination-id="0-0-0-0">161.09</LINK> of the New York city health code that houses lost, stray or homeless animals and:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29289" number="35594" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>accepts dogs and cats twelve hours per day, seven days per week;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29290" number="35595" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>has an adoption program available seven days per week; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29291" number="35596" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>provides sterilization services for dogs and cats and any other veterinary services deemed necessary by a licensed veterinarian at such shelter or at a veterinary facility.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29292" number="35597" version="238">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Person</CHARFORMAT>&quot; means any individual, corporation, partnership, association, municipality, or other legal entity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29293" number="35598" version="238">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Pet shop</CHARFORMAT>&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-371" destination-id="0-0-0-6905">17-371</LINK> of this title.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29294" number="35599" version="238">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sterilization</CHARFORMAT>&quot; means rendering a dog or cat that is at least eight weeks of age and that weighs at least two pounds unable to reproduce, by surgically altering such animal&apos;s reproductive organs as set forth in the rules of the department or by non-surgical methods or technologies approved by the United States food and drug administration or the United States department of agriculture and acceptable to the department. Such definition shall include the spaying of a female dog or cat or the neutering of a male dog or cat.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29295" number="35600" version="238">
+											<PARA>
+												<TAB tab-count="1"/>j.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Trap-neuter-return</CHARFORMAT>&quot; means a program to trap, vaccinate for rabies, sterilize and identify feral cats and return them to the locations where they were found.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29297" number="35601" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>k.<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Adoptable animal</CHARFORMAT>&quot; means any companion animal subject to adoption as defined in subdivision a of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-043]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-113990" number="35602" version="616">
+											<PARA>(Am. L.L. 2015/007, 1/17/2015, eff. 6/1/2015; Am. L.L. 2015/053, 6/2/2015, eff. 6/1/2015; Am. L.L. 2019/200, 11/25/2019, eff. 12/25/2019; Am. L.L. 2019/222, 12/15/2019, eff. 1/14/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-113989" number="35603" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/012" destination-id="0-0-0-25414">L.L. 2002/012</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204701" number="35604" version="1373">
+										<HEADING>§ 17-803 Animal shelters.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7075" name="17-803"/>§ 17-803 Animal shelters.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29299" number="35605" version="2058">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A full-service shelter shall be maintained and operated in each borough of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-099]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29301" number="35606" version="2058">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Field services having the capacity to pick up and bring to a shelter lost, stray, homeless or injured dogs and cats from all five boroughs shall be maintained and operated seven days per week, twelve hours per day. Where public health and safety is threatened, they shall have the capacity to pick up such animals twenty-four hours per day. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-099]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227873" number="35607" version="2058">
+											<PARA>(Am. L.L. 2018/123, 6/26/2018, eff. 7/1/2024) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-099]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-128896" number="35608" version="2058">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2018/123" destination-id="0-0-0-20421">L.L. 2018/123</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-099]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204702" number="35609" version="1373">
+										<HEADING>§ 17-804 Sterilization required.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7077" name="17-804"/>§ 17-804 Sterilization required.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29303" number="35610" version="610">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_161.09" destination-id="0-0-0-0">161.09</LINK> of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29304" number="35611" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>if a licensed veterinarian certifies to such shelter that he or she has examined such dog or cat and found that because of a medical reason, the life of such dog or cat would be endangered by sterilization; provided, however, that such reason shall not consist solely of the youth of such dog or cat, if such dog or cat is at least eight weeks of age;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29305" number="35612" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog has a breed ring show record from the American Kennel Club or United Kennel Club or other similar, registry association, dated no more than twelve months prior to the date such dog entered such shelter, or such person claiming ownership is able to provide proof that such dog has successfully completed the requirements of the American Kennel Club or United Kennel Club or other similar, registry association, for the title Champion or its equivalent, at any time prior to the arrival of the dog at the shelter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29306" number="35613" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog is a guide dog, hearing dog, service dog or police work dog; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29307" number="35614" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>in the case of a cat, if such cat within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of such shelter that such cat has a breed show record from the Cat Fancier Association or other similar, registry association dated no more than twelve months prior to the date such cat entered such shelter or such person claiming ownership is able to provide proof that such cat has successfully completed the requirements of the Cat Fancier Association or other similar, registry association for the title Champion, Grand Champion or its equivalent, at any time prior to the arrival of the cat at the shelter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29308" number="35615" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No pet shop shall release to a consumer a dog or cat that has not been sterilized by a licensed veterinarian. Such veterinarian shall provide to the pet shop a certificate, in such form and manner as determined by rules promulgated by the department, stating the date on which such sterilization was performed.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29309" number="35616" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Every pet shop, in accordance with rules promulgated by the department, shall maintain records of all sales of dogs and cats, sterilization procedures performed at the request of the pet shop, and veterinarian letters and certificates received, and shall retain such records, letters and certificates for a period of five years. Such records, letters, and certificates shall be made available to the department according to rules promulgated by the department. The department may require that such documents be submitted by electronic means.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29310" number="35617" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Every owner of a cat who permits such cat to roam outside the interior of the owner&apos;s dwelling shall have such cat sterilized. At the request of employees or authorized agents of the department, owners shall provide proof satisfactory to the department that a cat found roaming has been sterilized. The Department shall not seize a cat solely on the ground that the cat has not been sterilized.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29311" number="35618" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The department shall post and maintain on its website a regularly updated list of organizations in New York city that offer trap-neuter-return information and conduct trap-neuter-return activities.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29312" number="35619" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>A pet shop that allows an animal shelter or animal rescue group to use such pet shop&apos;s premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions b and c of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29313" number="35620" version="616">
+											<PARA>(Am. L.L. 2015/007, 1/17/2015, eff. 6/1/2015; Am. L.L. 2015/053, 6/2/2015, eff. 6/1/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-016]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29314" number="35621" version="1373">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/043" destination-id="0-0-0-24748">L.L. 2012/043</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204290" number="35622" version="1364">
+										<HEADING>§ 17-805 Reporting requirements.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7079" name="17-805"/>§ 17-805 Reporting requirements.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29315" number="35623" version="3">
+											<PARA>The department shall provide the mayor and the city council with a report by February twenty-eight of each year which shall set forth information regarding the management and operation of all full-service shelters performing services pursuant to a contract with the city of New York, including but not limited to:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29316" number="35624" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The following information with respect to the previous calendar year:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29317" number="35625" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the total number of animals accepted by each full-service shelter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29318" number="35626" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the total number of animals that were sterilized at each full-service shelter; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29319" number="35627" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the total number of animals that were humanely euthanized at each full-service shelter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29320" number="35628" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the total number of healthy animals that were humanely euthanized at each full-service shelter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29321" number="35629" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the total number of animals that were adopted at each full-service shelter; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29322" number="35630" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the total number of animals at each full-service shelter that were returned to their owner; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29323" number="35631" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>the number of animals at each full-service shelter that were provided to other shelters for adoption.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29324" number="35632" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The following information for each month of the previous calendar year:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29325" number="35633" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the total number of animals, disaggregated by borough, picked up by field services during regular business hours and delivered to (A) receiving facilities and (B) full-service shelters;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29326" number="35634" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the total number of animals, disaggregated by borough, picked up by field services during off hours and delivered to (A) receiving facilities and (B) full-service shelters;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29327" number="35635" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the total number of animals taken in and transferred to a full-service shelter from each receiving facility; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29328" number="35636" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the staffing levels at all full-service shelters and receiving facilities.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29329" number="35637" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall report to the mayor and the council each month the total number of healthy animals that were humanely euthanized at each full-service shelter during the previous month.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29330" number="35638" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>No later than twenty-four months after the effective date of the local law that added this subdivision, the department shall provide to the mayor and the council a report that summarizes and describes trends in the reporting requirements provided annually in accordance with this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29331" number="35639" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/012" destination-id="0-0-0-25414">L.L. 2002/012</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204703" number="35640" version="1373">
+										<HEADING>§ 17-806 Violations.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7081" name="17-806"/>§ 17-806 Violations.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29332" number="35641" version="3">
+											<PARA>Any person found to be in violation of subdivision (b), (c) or (d) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-804" destination-id="0-0-0-7077">17-804</LINK>, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-814" destination-id="0-0-0-7083">17-814</LINK>, or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-815" destination-id="0-0-0-7085">17-815</LINK> of this chapter or any of the rules promulgated thereunder shall be liable for a civil penalty of five hundred dollars for each violation. A proceeding to recover any civil penalty authorized pursuant to the provisions of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal authorized to adjudicate violations of the health code or the administrative code.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29333" number="35642" version="616">
+											<PARA>(Am. L.L. 2015/007, 1/17/2015, eff. 6/1/2015)</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-130175" number="35643" version="1373">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204704" number="35644" version="1373">
+										<HEADING>§ 17-807 Rules.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7087" name="17-807"/>§ 17-807 Rules.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29334" number="35645" version="3">
+											<PARA>The commissioner may promulgate such rules as are necessary for the purposes of implementing and carrying out the provisions of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29335" number="35646" version="1373">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2012/043" destination-id="0-0-0-24748">L.L. 2012/043</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-082]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-204291" number="35647" version="1364">
+										<HEADING>§ 17-808 Severability.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7089" name="17-808"/>§ 17-808 Severability.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29336" number="35648" version="3">
+											<PARA>If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29337" number="35649" version="3">
+										<HEADING>§ 17-809 No limitation on additional services.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7091" name="17-809"/>§ 17-809 No limitation on additional services.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29338" number="35650" version="3">
+											<PARA>Nothing contained in this chapter shall be deemed to limit the department&apos;s authority to offer additional services or facilities to facilitate the decline in numbers of unwanted and uncared for animals in New York city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-204705" number="35651" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/012" destination-id="0-0-0-25414">L.L. 2002/012</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212470" number="35652" version="1509">
+										<HEADING>§ 17-810 Euthanizing animals; time frame for making such determination.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7093" name="17-810"/>§ 17-810 Euthanizing animals; time frame for making such determination.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29340" number="35653" version="3">
+											<PARA>In determining when a full-service shelter may euthanize a lost, stray or homeless animal held by it, such shelter shall exclude from the calculation of the number of hours that such shelter is required by law to hold such animal before euthanizing such animal those hours when such shelter is not required to accept dogs and cats pursuant to paragraph one of subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-802" destination-id="0-0-0-6907">17-802</LINK> of this chapter. Such calculation of the number of hours shall not take into consideration the full-service shelter required to accept dogs and cats twenty-four hours per day pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-803" destination-id="0-0-0-7075">17-803</LINK> of this chapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-204706" number="35654" version="1509">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2002/012" destination-id="0-0-0-25414">L.L. 2002/012</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2011/059" destination-id="0-0-0-24796">L.L. 2011/059</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-212471" number="35655" version="1509">
+										<HEADING>§ 17-811 Animal population control program.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7095" name="17-811"/>§ 17-811 Animal population control program.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29342" number="35656" version="3">
+											<PARA>The department shall promulgate rules and regulations to establish and implement an animal population control program within one hundred eighty days from the effective date of this section. The purpose of this program shall be to reduce the population of unwanted stray dogs and cats thereby reducing potential threats to public health and safety and reducing the costs of caring for these animals. This program shall seek to accomplish its purpose by encouraging residents of the city of New York who are the owners of dogs and cats to have them spayed or neutered by providing no or low-cost spaying and neutering services to such owners. The department shall promulgate rules and regulations necessary to establish an animal population control program including, but not limited, to creating clinics or mobile units where such services shall be performed and establishing criteria for pet owner eligibility to use such services. Indicia of eligibility for pet owners seeking no or low-cost spay and neuter services shall include but not be limited to any criteria deemed acceptable by the agencies performing the services. The commissioner may solicit and accept funds from the animal population control fund established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-812" destination-id="0-0-0-7097">17-812</LINK> of this chapter and any other public or private source to help carry out the provisions of this section.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29343" number="35657" version="3">
+										<HEADING>§ 17-812 Animal population control fund. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7097" name="17-812"/>§ 17-812 Animal population control fund. </PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29344" number="35658" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the &quot;animal population control fund&quot; which shall be used by the department to subsidize the city&apos;s animal population control program as established by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-811" destination-id="0-0-0-7095">17-811</LINK> of this chapter. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29345" number="35659" version="3">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such fund shall consist of all moneys collected from the animal population control program established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-811" destination-id="0-0-0-7095">17-811</LINK> of this chapter, all moneys collected for the additional fee charged for a license to be issued or renewed for an unsterilized dog pursuant to subdivision three of section two of chapter one hundred fifteen of the laws of eighteen hundred ninety-four, that portion of any penalties assessed under section three of such chapter due to be paid to such fund, and all other moneys credited or transferred thereto from any other fund or source pursuant to law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29346" number="35660" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Moneys of the fund shall be made available to the department and shall be expended for the purposes of carrying out animal population control programs pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-811" destination-id="0-0-0-7095">17-811</LINK> of this chapter. Moneys shall be paid out of the fund on the audit and warrant of the city comptroller and approved by the commissioner. Any interest received by the city comptroller on moneys on deposit in the animal population control fund shall be retained in and become part of such fund.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29347" number="35661" version="3">
+										<HEADING>§ 17-813 Dog license fee.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7099" name="17-813"/>§ 17-813 Dog license fee.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29348" number="35662" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29349" number="35663" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Fees collected pursuant to the provisions of this section shall be directed to the animal population control fund established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-812" destination-id="0-0-0-7097">17-812</LINK>.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29350" number="35664" version="3">
+										<HEADING>§ 17-814 Licensing of dogs required.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7083" name="17-814"/>§ 17-814 Licensing of dogs required.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29351" number="35665" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop&apos;s permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29352" number="35666" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>A pet shop or animal rescue group shall be exempt from the requirements of subdivision a of this section for any sale or adoption of a dog to a purchaser or adopter who executes and submits to such pet shop or animal rescue group a written statement that the dog to be purchased or adopted is to be harbored outside of the city and proof in a form determined by the department that the purchaser or adopter resides outside the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29353" number="35667" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Every pet shop shall, on at least a monthly basis, report to the department on a form furnished by the department all dogs which have been sold and adopted, indicating for each such dog whether or not the pet shop submitted to the department a license application. Such form shall include the name and address of each such dog&apos;s purchaser or adopter, the license or license application number if known, as well as any other descriptive information regarding such dog as may be required by the department.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29354" number="35668" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A pet shop that allows an animal shelter or animal rescue group to use such pet shop&apos;s premises for the purpose of making animals available for adoption shall be exempt from the requirements of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29355" number="35669" version="616">
+											<PARA>(L.L. 2015/007, 1/17/2015, eff. 6/1/2015; Am. L.L. 2015/053, 6/2/2015, eff. 6/1/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-016]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29356" number="35670" version="3">
+										<HEADING>§ 17-815 Microchipping required.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7085" name="17-815"/>§ 17-815 Microchipping required.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29357" number="35671" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29358" number="35672" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>such animal has been implanted with a microchip as a permanent identification;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29359" number="35673" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>such pet shop or animal rescue group has registered such animal&apos;s microchip with such purchaser&apos;s contact information with a bona fide pet microchip registration company; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29360" number="35674" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>such pet shop or animal rescue group has provided such purchaser with (i) usage instructions for such microchip provided by the manufacturer of such microchip or the company with which such microchip is registered and (ii) written certification of compliance with paragraphs one and two of this subdivision, signed by such purchaser as acknowledgement of receipt, in a form and manner set forth in rules promulgated by the department.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29361" number="35675" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Every pet shop and animal rescue group shall retain for a period of ten years from the date of sale of any dog or cat, a copy of the certification signed by the purchaser required by paragraph three of subdivision a of this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29362" number="35676" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>A pet shop that allows an animal shelter or animal rescue group to use such pet shop&apos;s premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29363" number="35677" version="617">
+											<PARA>(L.L. 2015/008, 1/17/2015, eff. 6/1/2015; Am. L.L. 2015/055, 6/2/2015, eff. 6/1/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-016]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-113986" number="35678" version="227">
+										<HEADING>§ 17-816 Promotion of adoptable animals.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19393" name="17-816"/>§ 17-816 Promotion of adoptable animals.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-113988" number="35679" version="610">
+											<PARA>Any full-service animal shelter operated by New York city shall post photographs of, and relevant information about, each adoptable animal in its possession, including but not limited to age and sex, within three days of receiving such animal, provided that such animal is not affected by a medical or behavioral condition that makes it unsafe or unsuitable for photographing. The department shall encourage any other animal shelter that holds a permit under section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_161.09" destination-id="0-0-0-0">161.09</LINK> of the New York City health code to make its best efforts to promote the placement of adoptable animals. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-043]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-113987" number="35680" version="227">
+											<PARA>(L.L. 2019/200, 11/25/2019, eff. 12/25/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-043]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29364" number="35681" version="241">
+										<HEADING>§ 17-817 Disposal of deceased animals.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19439" name="17-817"/>§ 17-817 Disposal of deceased animals.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114261" number="35682" version="241">
+											<PARA>The department shall provide information regarding city services that are available for proper disposal of deceased animals and shall post such information to its website.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114260" number="35683" version="241">
+											<PARA>(L.L. 2019/227, 12/15/2019, eff. 3/14/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-114259" number="35684" version="241">
+										<HEADING>§ 17-818 Animals discovered during eviction or action taken pursuant to any order or judgment granting legal possession.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19429" name="17-818"/>§ 17-818 Animals discovered during eviction or action taken pursuant to any order or judgment granting legal possession.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114140" number="35685" version="238">
+											<PARA>An animal shelter directed by a sheriff or city marshal executing a warrant of eviction or any order or judgment granting legal possession to retrieve a companion animal from such premises shall retrieve such companion animal as expeditiously as possible after receiving such direction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114141" number="35686" version="241">
+											<PARA>(L.L. 2019/222, 12/15/2019, eff. 1/14/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-114258" number="35687" version="241">
+										<HEADING>§ 17-819 Civil cause of action for persons denied possession of companion animals.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19431" name="17-819"/>§ 17-819 Civil cause of action for persons denied possession of companion animals.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114142" number="35688" version="238">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Except as provided in this section or as otherwise provided by law, any person claiming to be denied possession of their companion animal by a landlord still in possession of such companion animal after the execution of a warrant of eviction or action taken pursuant to any order or judgment granting legal possession shall have a cause of action against such landlord in any court of competent jurisdiction for any or all of the following relief: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114143" number="35689" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Compensatory and punitive damages; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114144" number="35690" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Injunctive and declaratory relief; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114145" number="35691" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>An order of seizure pursuant to article 71 of the civil practice law and rules; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114146" number="35692" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Attorney&apos;s fees and costs. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114147" number="35693" version="238">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No person shall be liable under this section if a companion animal is received by its owner or by an animal shelter, animal rescue group or any animal care and control organization approved or designated by or acting on behalf of the department within three days of the warrant of eviction or action taken pursuant to any order or judgment granting legal possession. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114148" number="35694" version="238">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Nothing in this section shall be construed to create a cause of action against: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114149" number="35695" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The city of New York, or any agency, officer, employee, or agent thereof, including, but not limited to, any city marshal; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114150" number="35696" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The state or any county or any municipality of New York or any agency, officer, employee or agent thereof; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114151" number="35697" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The United States, or any other officer, employee or agent thereof; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114152" number="35698" version="238">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Any animal shelter, animal rescue group, or animal care and control organization approved or designated by or acting on behalf of the department, or any officer, employee or agent thereof. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-114153" number="35699" version="238">
+											<PARA>(L.L. 2019/222, 12/15/2019, eff. 1/14/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

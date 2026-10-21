@@ -1,0 +1,887 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-86443" number="100983" version="1565">
+			<HEADING>Chapter 1: Definitions and General Provisions</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-16379" name="T52C001"/>Chapter 1: Definitions and General Provisions</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-121464" number="100984" version="1567">
+								<HEADING>§ 1-01 Scope of Rules.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16415" name="T52C001_1-01"/>§ 1-01 Scope of Rules.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-121465" number="100985" version="1566">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C001" destination-id="0-0-0-16379">Chapters 1</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C008" destination-id="0-0-0-16393">8</LINK> contain requirements applicable to candidates seeking nomination or election to the office of mayor, comptroller, public advocate, borough president, or member of the City Council (&quot;Council member&quot;) during the pre-election period.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121466" number="100986" version="1566">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C009" destination-id="0-0-0-16395">Chapters 9</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C011" destination-id="0-0-0-16399">11</LINK> pertain to post-election audit and enforcement of candidates seeking nomination or election to the office of mayor, comptroller, public advocate, borough president, or Council member, as well as independent spenders.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121467" number="100987" version="1566">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C012" destination-id="0-0-0-16401">Chapter 12</LINK> pertains to investigations conducted by, and complaints filed with, the Board.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121468" number="100988" version="1566">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C013" destination-id="0-0-0-16403">Chapter 13</LINK> contains requirements for transition and inauguration entities (&quot;TIEs&quot;), which apply to all candidates elected to the office of mayor, comptroller, public advocate, borough president, or Council member, regardless of whether the elected candidate is a participant in the voluntary Campaign Finance Program.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121469" number="100989" version="1566">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C014" destination-id="0-0-0-16405">Chapter 14</LINK> contains requirements for disclosure of independent expenditures related to candidates seeking nomination or election to the office of mayor, comptroller, public advocate, borough president, or Council member, as well as ballot proposals.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121470" number="100990" version="1566">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C015" destination-id="0-0-0-16407">Chapter 15</LINK> contains requirements for special elections for the office of mayor, comptroller, public advocate, borough president, or Council member.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121472" number="100991" version="1929">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C016" destination-id="0-0-0-16411">Chapter 16</LINK> pertains to the Voter Guide and voter engagement and applies to candidates seeking nomination or election to the office of mayor, comptroller, public advocate, borough president, or Council member, as well as city ballot proposals or referenda. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-058]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121473" number="100992" version="1929">
+									<PARA>52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C017" destination-id="0-0-0-16413">Chapter 17</LINK> contains requirements for public access to information as provided by the Freedom of Information Law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-058]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121474" number="100993" version="1565">
+									<PARA>Except as otherwise specified, the requirements of these rules related to authorized committees do not apply to an authorized committee that does not, at any time, aid or otherwise take part in an election in which the candidate is a participant or non-participant. Aiding or otherwise taking part in an election includes accepting contributions, loans, or other receipts, and making expenditures, including expenditures of surplus funds, for such election.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121475" number="100994" version="1929">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/19/2021, eff. 2/18/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-058]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-121476" number="100995" version="1567">
+								<HEADING>§ 1-02 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16417" name="T52C001_1-02"/>§ 1-02 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-121477" number="100996" version="2305">
+									<PARA>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Act</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the New York City Campaign Finance Act, codified in<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T03C007" destination-id="0-0-0-0"> Chapter 7 of Title 3</LINK> of the Code (</CHARFORMAT>§§<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-701" destination-id="0-0-0-0">3-701</LINK>, et seq.).</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121478" number="100997" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administrative law judge</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the hearing officer assigned to preside over a case that is referred to the Office of Administrative Trials and Hearings.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121479" number="100998" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Advance</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a payment for goods or services on behalf of a candidate made with the expectation that the payment will be reimbursed by the candidate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121480" number="100999" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Authorized committee</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an authorized committee as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121481" number="101000" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Board</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the Campaign Finance Board.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121482" number="101001" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Board of Elections</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the New York City Board of Elections, unless otherwise specified as the New York State (&quot;State&quot;) Board of Elections.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121483" number="101002" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Business dealings with the city</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means business dealings with the City of New York as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121484" number="101003" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Candidate</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a candidate as defined in Article 14 of the New York State Election Law. Except as otherwise provided in these rules, a &quot;candidate&quot; includes every authorized committee of the candidate, the treasurer of each such committee, and any other agent of the candidate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121485" number="101004" version="1747">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">CAPA</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the City Administrative Procedure Act, Sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1041" destination-id="0-0-0-0">1041</LINK> to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1047" destination-id="0-0-0-0">1047</LINK> of the Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121486" number="101005" version="1571">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certification</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the submission of the information required pursuant to 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C002_2-02" destination-id="0-0-0-16429">2-02</LINK> in order to join the Program.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121487" number="101006" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Charter</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the New York City Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121488" number="101007" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Code</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the Administrative Code of the City of New York.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121489" number="101008" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contribution</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a contribution as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121490" number="101009" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered election</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any election for the office of mayor, public advocate, comptroller, borough president, or Council member.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121491" number="101010" version="1566">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disclosure statement</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the campaign finance disclosure statement filed with the Board under 52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C004" destination-id="0-0-0-16385">Chapter 4</LINK>.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121492" number="101011" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Doing business database</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the computerized database containing the names of individuals and entities engaged in business dealings with the city as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121493" number="101012" version="1885">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Domestic partner</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a domestic partner as defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="1-112" destination-id="0-0-0-0">1-112</LINK>(21) of the Code.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121494" number="101013" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Donation</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a gift, subscription, advance, payment, or deposit of money or any thing of value, made by an individual or entity, in connection with the transition or inauguration expenses of an elected candidate, including but not limited to compensation for the personal services rendered in connection with such transition or inauguration expenses without charge. A loan is deemed to be a donation, subject to the limits and restrictions of the Act, to the extent the loan is not repaid by the date that the elected candidate is sworn into office. The term &quot;donation&quot; shall not include:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121495" number="101014" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The value of personal services provided without compensation by individuals volunteering a portion or all of their time on behalf of a TIE, provided that such an individual may not provide any paid services to a TIE at the same time as such individual serves as a volunteer for that TIE;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121496" number="101015" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The use of real or personal property and the cost of invitations, food, and beverages voluntarily provided by an individual to a TIE on the individual&apos;s residential premises for TIE-related activities to the extent such services do not exceed $500 in value; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121497" number="101016" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The travel expenses of any individual who, on the individual&apos;s own behalf, volunteers personal services to any TIE to the extent such expenses are unreimbursed and do not exceed $500 in value.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121498" number="101017" version="1694">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Election</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any primary, special, or general election for nomination or election.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121499" number="101018" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Election cycle</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the period beginning on the first January 12 following the most recent general election for the specific office to which a candidate is seeking nomination or election and ending on the first January 11 following the next general election for that office.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121500" number="101019" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Electronic means</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means facsimile transmission, email, or any other electronic manner of communication that shall be prescribed by the Board.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121501" number="101020" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Entity</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any organization of one or more individuals, and includes any parent, subsidiary, branch, division, department, or local unit thereof.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121502" number="101021" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Expenditure</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an expenditure as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121503" number="101022" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fair market value</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means: (1) for goods, the price of those goods when received in the market in which they ordinarily would have been purchased; and (2) for services, other than those provided by an unpaid volunteer, the hourly or piecework charge for the services at a commercially reasonable rate prevailing when the services were rendered.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121505" number="101023" version="3021">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fund</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the New York City Election Campaign Finance Fund established by the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121506" number="101024" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fundraising agent</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any of the following individuals or entities that have accepted or may accept contributions on behalf of the candidate: (1) paid or volunteer full-time campaign workers; or (2) commercial fundraising firms retained by the candidate and the agents thereof.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121507" number="101025" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Hearing officer</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the person assigned to preside over a case before OATH.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121508" number="101026" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Inauguration expenses</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means expenses for an inaugural event held within seven days before or 30 days after the elected candidate is officially sworn into office. Factors used by the Board in determining whether an event is an inaugural event include but are not limited to: (1) the celebratory or commemorative nature of the event; (2) the location of the event in relation to the geography of the elected official&apos;s district; and (3) the inclusion of non-celebratory and/or commemorative functions, including but not limited to constituent outreach or services. The burden of proving that an event is an inaugural event rests with the TIE.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121509" number="101027" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">In-kind contribution</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means: (1) a gift, subscription, loan, advance of, or payment for, any thing of value (other than money) made to or for any candidate; or (2) the payment by any individual or entity other than an authorized committee of compensation for the personal services of another individual or entity which are rendered to the candidate without charge. &quot;In-kind contribution&quot; does not include personal services provided without compensation by individuals volunteering a portion or all of their time on behalf of a candidate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121510" number="101028" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Intermediary</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an intermediary as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121511" number="101029" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Labor organization</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a labor organization as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121512" number="101030" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Loan</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a monetary payment made to an authorized committee with the expectation that the funds will be repaid by such committee.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121513" number="101031" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Matchable contribution</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a matchable contribution as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121514" number="101032" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Mobile fundraising vendor</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any persons or entities that provided services to a candidate related to the processing or receipt of any text message contribution.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121515" number="101033" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-participant</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a candidate for nomination or election to a covered office who has not filed a Certification as a participant. Except as otherwise provided in these rules, a &quot;non-participant&quot; includes the candidate, every political committee authorized by the candidate for the covered election, the treasurer of each such committee, and any other agent of the candidate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121516" number="101034" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">OATH</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the Office of Administrative Trials and Hearings.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121517" number="101035" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">On the ballot</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means on the ballot as provided in Article 6 of the New York State Election Law and as recorded on the Board of Elections nomination or designation ledgers or contest lists.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121518" number="101036" version="1694">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Optional early public funds payment</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a disbursement of optional public financing occurring prior to two weeks after the last day to file designating petitions for a primary election.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121519" number="101037" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Other receipts</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means payments received by a candidate that are not contributions or loans, such as interest, dividends, proceeds from sales or leases of assets, and any other sources of income.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121520" number="101038" version="1886">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Participant</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a candidate for nomination or election to a covered office who has chosen to join the Program for an election by submitting a Certification pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-703" destination-id="0-0-0-0">3-703</LINK>(1)(c) of the Code. Except as otherwise provided in these rules, a &quot;participant&quot; includes the candidate, the principal committee authorized by the candidate pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-703" destination-id="0-0-0-0">3-703</LINK>(1)(e) of the Code, the treasurer of such committee, and any other agent of the candidate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121521" number="101039" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Political committee</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a political committee as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121522" number="101040" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Principal committee</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the principal committee as defined in the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121523" number="101041" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the New York City Campaign Finance Program established by the Act.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121524" number="101042" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public funds</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means monies disbursed from the Fund.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121525" number="101043" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Receipts</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means monetary and in-kind contributions, loans, and any other payment received by a candidate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121526" number="101044" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registered user</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the individual registered with the wireless carrier to use the specific mobile device from which a contribution made via text message was initiated.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121527" number="101045" version="3021">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">“</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registration</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">” means the submission of the information required pursuant to 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C002_2-01" destination-id="0-0-0-16427">2-01</LINK> prior to the filing of disclosure statements.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-155070" number="101046" version="3021">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reporting period</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a time period covered by a disclosure statement, as described in 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C004_4-05" destination-id="0-0-0-16457">4-05</LINK>.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121528" number="101047" version="1571">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Segregated account</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a bank account that may be established by a participating candidate in accordance with 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C007_7-07" destination-id="0-0-0-16521">7-07</LINK>(b).</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121529" number="101048" version="1929">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Single source</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any individual, individuals in combination, entity, or entities in combination that establish, maintain, or control another entity and every entity so established, maintained, or controlled, including every political committee established, maintained, or controlled by the same individual, individuals in combination, entity, or entities in combination.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-058]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121531" number="101049" version="1929">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Text message contribution</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a text message contribution as defined in the Act.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-058]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121532" number="101050" version="1694">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transfer</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any exchange of funds or any other thing of value between political committees, other than multi-candidate committees, authorized by the same candidate pursuant to § 14-112 of the New York State Election Law.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121533" number="101051" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transition and inauguration entity</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; or &quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">TIE</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an entity established by an elected candidate to raise and spend private funds for transition or inauguration expenses.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121534" number="101052" version="2497">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transition expenses</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means expenses relating to an elected candidate&apos;s transition into office for goods and services received, used, or rendered before the elected candidate&apos;s date of inauguration. Transition expenses shall be limited to those incurred solely for the purpose of preparing to take office, such as those listed in 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C013_13-03" destination-id="0-0-0-16619">13-03</LINK>(b)(i). Incumbent elected candidates shall not incur transition expenses, except for expenditures made for the purpose of furthering the elected candidate&apos;s selection as Speaker of the City Council.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121535" number="101053" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Treasurer</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means the treasurer of any authorized committee involved in a covered election, except as otherwise provided in these rules.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121536" number="101054" version="3021">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 5/22/2020, eff. 6/21/2020; amended City Record 1/19/2021, eff. 2/18/2021; amended City Record 2/15/2023, eff. 3/17/2023; amended City Record 1/23/2026, eff. 2/22/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-121537" number="101055" version="1567">
+								<HEADING>§ 1-03 The Board.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16419" name="T52C001_1-03"/>§ 1-03 The Board.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-121538" number="101056" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The Board is nonpartisan.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121539" number="101057" version="1886">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-708" destination-id="0-0-0-0">3-708</LINK> of the Code, the Board consists of five members.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121540" number="101058" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Two Board members are appointed by the Speaker of the City Council (&quot;Speaker&quot;). No more than one of them shall be enrolled in any one political party.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121541" number="101059" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Two Board members are appointed by the Mayor. No more than one of them shall be enrolled in any one political party.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121542" number="101060" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The chair of the Board is appointed by the Mayor in consultation with the Speaker.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121543" number="101061" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The Board shall conduct all its activities in a strictly nonpartisan manner.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121544" number="101062" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Board members and staff are governed by ethical standards.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121545" number="101063" version="1747">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">The Act and the Charter.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Board members and staff are subject to the standards set forth in the Act and in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="Chapter 46" destination-id="0-0-0-0">Chapter 46</LINK> of the Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121546" number="101064" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Ethical guidelines.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> The Board shall establish and publish ethical guidelines governing the conduct of its members and staff.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121547" number="101065" version="1747">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Additional city ethical guidelines.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Board members and staff are subject to the standards set forth in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="Chapter 68" destination-id="0-0-0-0">Chapter 68</LINK> of the Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121548" number="101066" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Board administration of the Fund.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> To safeguard the administration of the Fund and assure candidates that sufficient public funds will be available to make all payments required by the Act in upcoming elections, the Board shall:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121549" number="101067" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>make budget requests for the Fund sufficient to cover all anticipated Fund obligations in the upcoming fiscal year and to maintain a reserve for contingencies;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121550" number="101068" version="1747">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>when it has determined that monies in the Fund are insufficient or likely to be insufficient for payments to candidates, report this determination to the Commissioner of Finance and provide its estimate of the additional amount which will be necessary to make such payments pursuant to the Act (together with a detailed statement of the assumptions and methodologies on which the estimate is based), as required by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>(a)(10) of the Charter, not more than four days after which the Commissioner of Finance is required by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>(a)(10) of the Charter to transfer an amount equal to the Board&apos;s estimate from the city&apos;s general fund to the Fund;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121551" number="101069" version="1747">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>take steps to ensure that the Fund is maintained in a separate account, credited with all sums appropriated therefor and all earnings accruing thereon, in the custody of the comptroller on behalf of the Board, as required by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>(a)(10) of the Charter;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121552" number="101070" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>take steps to ensure that the Fund and its administration are insulated from the risk of improper action by any city official or agency or any agent or contractor thereof;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121553" number="101071" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>subject the Fund to periodic audits by independent outside auditors; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121554" number="101072" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>take such other actions as are necessary and proper to ensure the integrity of the Fund.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121555" number="101073" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Advisory opinions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Upon the written request of a candidate or any other individual or entity, the Board shall issue an advisory opinion interpreting the Act and these rules, or otherwise respond in writing to the request, within 30 days of receipt of such request, or within 10 business days of receipt if such request is received less than 30 days before a covered election, to the extent practicable. At its discretion, the Board may issue advisory opinions in the absence of a request. The Board shall make public its advisory opinions and the questions of interpretation for which advisory opinions will be considered by the Board, including by publication on its website.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121556" number="101074" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Public petitions for rulemaking.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121557" number="101075" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Procedures for submitting petitions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121558" number="101076" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Any individual or entity may petition the Board to consider the adoption of a rule. The request must be sent to the Executive Director and contain the following information:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121559" number="101077" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the rule to be considered, with proposed language for adoption;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121560" number="101078" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>a statement of the Board&apos;s authority to promulgate the rule and its purpose;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121561" number="101079" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>arguments in support of adoption of the rule;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121562" number="101080" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the period of time the rule should be in effect; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121563" number="101081" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the name, address, telephone number, and signature of the petitioner or the petitioner&apos;s authorized representative.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121564" number="101082" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Any change in the information provided pursuant to clause (5) of subparagraph (A) must be communicated promptly in writing to the Executive Director.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121565" number="101083" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>All requests should be typewritten or submitted electronically, if possible, but handwritten petitions will be accepted, provided they are legible.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121566" number="101084" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Responses to petitions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Within 60 days from the date the petition was received, the Board shall either deny such petition in a written statement containing the reasons for denial, or shall state in writing the Board&apos;s intention to grant the petition and to initiate rulemaking by a specified date. In proceeding with such rulemaking, the Board shall not be bound by the language proposed by petitioner, but may amend or modify such proposed language at the Board&apos;s discretion. The Board&apos;s decision to grant or deny a petition is final.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121567" number="101085" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-121568" number="101086" version="1567">
+								<HEADING>§ 1-04 Deadlines.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16421" name="T52C001_1-04"/>§ 1-04 Deadlines.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-121569" number="101087" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Computation of days.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121570" number="101088" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Counting calendar days.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Where a number of days is specified as a period from a certain day, the days will be counted as the number of calendar days except for the first day of the counting period.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121571" number="101089" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Where holiday falls within two-day counting period.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> If the counting period is two days in duration, then Saturday, Sunday, or a legal holiday must be excluded if it falls on the first or last day of the counting period.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121572" number="101090" version="1694">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Weekends and holidays.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> If the scheduled date of a public funds payment, or the deadline for submitting a Certification or for filing a disclosure statement, other than a daily pre-election disclosure statement, falls on a Saturday, Sunday, or legal holiday, the next business day becomes the deadline or scheduled payment date.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121573" number="101091" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Meeting Board deadlines.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121574" number="101092" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submission in person.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Submissions filed in person on weekdays between the hours of 9:00 a.m. and 5:00 p.m. at the offices of the Board, unless otherwise provided, are deemed submitted upon receipt, subject to review and acceptance.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121575" number="101093" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submission by electronic means, non-electronic mail or common carrier.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121576" number="101094" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Electronic submissions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> A submission sent electronically shall be deemed filed when received by the Board, subject to review and acceptance.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121577" number="101095" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-electronic submissions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121578" number="101096" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">With postmark.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> A submission sent by non-electronic mail or common carrier shall be deemed to have been received, subject to review and acceptance, on the date it was postmarked or date stamped by the carrier.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121579" number="101097" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Without postmark.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Submissions sent by non-electronic mail in an envelope without a postmark will be presumed to have been sent three days prior to receipt, subject to review and acceptance, unless evidence presented to the Board, such as a post office receipt with a date stamp indicating when the submission was sent, demonstrates otherwise.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121580" number="101098" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Board evaluation of submissions that arrive after the deadline.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Submissions of disclosure statement documentation that arrive after 5:00 p.m. on the date of the deadline, even if submitted on or before 11:59 p.m. on such date, may prevent the Board from making a timely determination regarding payment of public funds. The Board shall make such a determination at such time as is practicable.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121581" number="101099" version="1694">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 5/22/2020, eff. 6/21/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-121582" number="101100" version="1569">
+								<HEADING>§ 1-05 Legibility of Submissions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16423" name="T52C001_1-05"/>§ 1-05 Legibility of Submissions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-121583" number="101101" version="1565">
+									<PARA>The Board will not accept any electronic disclosure statement or other document, or any part thereof, that is infected with a virus, damaged, blank, improperly formatted, or otherwise unreadable or illegible.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121584" number="101102" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-121585" number="101103" version="1567">
+								<HEADING>§ 1-06 Severability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16425" name="T52C001_1-06"/>§ 1-06 Severability.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-121586" number="101104" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>If any provision of these rules or portion thereof is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the remainder of these rules.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121587" number="101105" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If the application of any provision of these rules or portion thereof to any individual, entity, or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the application thereof to other individuals, entities, and circumstances.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-121588" number="101106" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

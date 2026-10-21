@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-29538" number="35972" version="803">
+			<HEADING>Chapter 13: Availability of Information Regarding Day Care Services</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7169" name="T17C013"/>Chapter 13: Availability of Information Regarding Day Care Services</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-29539" number="35973" version="1473">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/013" destination-id="0-0-0-25232">L.L. 2005/013</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210019" number="35974" version="1473">
+										<HEADING>§ 17-1301 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7171" name="17-1301"/>§ 17-1301 Definitions. </PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29540" number="35975" version="610">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>&quot;Child care service&quot; means any service which is permitted as a child care service in accordance with <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">article 47</LINK> of the New York city health code.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29541" number="35976" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>&quot;Child care service permittee&quot; means the person to whom a permit to operate a child care service is issued by the commissioner.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29542" number="35977" version="610">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>&quot;Permit&quot; means an authorization to operate a child care service issued by the commissioner in accordance with <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">article 47</LINK> of the New York city health code.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29543" number="35978" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>&quot;Serious injury&quot; means a serious impairment of physical condition, including, but not limited to, the following: loss of consciousness; concussion; bone fracture; protracted loss or impairment of function of any bodily member or organ; a wound requiring extensive suturing; and serious disfigurement.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29544" number="35979" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>&quot;Summary child care service inspection report&quot; is a report that includes, at a minimum, the following information:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29545" number="35980" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the name of the child care service;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29546" number="35981" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the name of the child care service permittee;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29547" number="35982" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the child care service permit number and expiration date;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29548" number="35983" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the address of the child care service;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29549" number="35984" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the date of the most recent inspection;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29550" number="35985" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the maximum number of children authorized to be present at any one time as specified in the child care service permit;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29551" number="35986" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>any violations identified by the department during inspections conducted over the past three years; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29552" number="35987" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>whether a permit has been ordered suspended or revoked in the past twelve months; whether a child care service has, during the past three years, been ordered closed because its continued operation represented a danger to the health or safety of children; and the terms and conditions, if any, under which such child care service has been allowed to reopen and is authorized to operate.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29553" number="35988" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>&quot;Violation&quot; means a citation issued by the department which alleges that a child care service has failed to comply with a provision of applicable law, rule or regulation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29554" number="35989" version="1473">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/013" destination-id="0-0-0-25232">L.L. 2005/013</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210018" number="35990" version="1473">
+										<HEADING>§ 17-1302 Access to summary child care service inspection reports.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7173" name="17-1302"/>§ 17-1302 Access to summary child care service inspection reports.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29555" number="35991" version="3">
+											<PARA>Following each inspection of a child care service, the department shall post a summary child care service inspection report on the department&apos;s website and shall make summary child care service inspection reports available by calling 311.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29556" number="35992" version="1473">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/013" destination-id="0-0-0-25232">L.L. 2005/013</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210017" number="35993" version="1473">
+										<HEADING>§ 17-1303 Posting of information on-site.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7175" name="17-1303"/>§ 17-1303 Posting of information on-site.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29557" number="35994" version="3">
+											<PARA>Every child care service must post a sign in a conspicuous place near its public entrance or entrances stating that the most recent summary child care service inspection report may be accessed through the website of the department or by calling 311. The sign, whose form and content shall be provided or approved by the department, shall be printed in clear and legible type, in such a manner as to be readily visible to parents or other persons entering the child care service and shall provide instructions on how to gain access to the summary child care service inspection reports through the department&apos;s website.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29558" number="35995" version="1473">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/013" destination-id="0-0-0-25232">L.L. 2005/013</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210016" number="35996" version="1473">
+										<HEADING>§ 17-1304 Denial of permit.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7177" name="17-1304"/>§ 17-1304 Denial of permit.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29559" number="35997" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Every applicant for a new or renewal permit to operate a child care service shall disclose whether a serious injury or the death of a child in its care, or the care of any of its owners, directors, employees, volunteers or agents, has occurred. Every such permit applicant shall further disclose any civil or criminal court verdicts holding that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, or administrative agency decisions holding or finding that there is credible evidence that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, and whether any legal proceeding involving the serious injury or death of a child is pending against the applicant, or any of its owners, directors, employees, volunteers or agents. The department shall deny such a permit unless, on the basis of the application and other papers submitted, including the information provided pursuant to this section, and on the basis of department or city investigation, if any, it is satisfied that the provisions of the New York city health code and other applicable law will be met. The death of a child or the occurrence of more than one incident resulting in a serious injury to a child or children in the care of an applicant or permittee shall create a presumption in any proceeding brought by the department to deny or revoke such a permit of the inability of the applicant or permittee to comply with the provisions of said code or other applicable law. Nothing herein shall otherwise limit the department&apos;s authority to deny the issuance or renewal of a permit or to revoke a permit.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29560" number="35998" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>To the extent permissible by law, where the department has received written notification that a person with responsibility for oversight and direction of a child care service has a felony conviction at any time for a sex offense, crime against a child, or a crime involving violence, or a felony conviction within the past five years for a drug-related offense, the department shall, when consistent with article twenty-three-A of the correction law, deny the application for a permit to operate such child care service.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29561" number="35999" version="1473">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/013" destination-id="0-0-0-25232">L.L. 2005/013</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210015" number="36000" version="1473">
+										<HEADING>§ 17-1305 Notification of authorities.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7179" name="17-1305"/>§ 17-1305 Notification of authorities.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29562" number="36001" version="3">
+											<PARA>The department shall report to an appropriate state agency any serious injury or death of a child in child care services which has been reported to the department in accordance with applicable law, rules and regulations. Such report shall include the name of the child care service and the child care service permittee of any child care service in which a serious injury or death of a child has occurred.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29563" number="36002" version="1473">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/013" destination-id="0-0-0-25232">L.L. 2005/013</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210014" number="36003" version="1473">
+										<HEADING>§ 17-1306 Distribution of information to referral agencies.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7181" name="17-1306"/>§ 17-1306 Distribution of information to referral agencies.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29564" number="36004" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Definitions. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29565" number="36005" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>&quot;Child care program&quot; means any program that provides child day care as defined in section 390 of the New York state social services law, including family day care home, group family day care home and school age child care as defined in section 390 of the New York state social services law, or child care services. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29566" number="36006" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>&quot;Referral agency&quot; means the administration for children&apos;s services, the department of social services/human resources administration or any state-funded child care resource and referral agency operating in New York city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29567" number="36007" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>To the extent permissible under law, the department shall promptly make available to referral agencies information regarding any child care program for which the department is aware of a current suspension of its license, registration or permit or that it has had its license, registration or permit terminated.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29568" number="36008" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall request that referral agencies advise parents to seek additional information regarding any program to which a referral is made by consulting the department&apos;s website or by calling 311.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29569" number="36009" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The department shall publish an informational pamphlet which shall, at a minimum, do the following:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29570" number="36010" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Describe the government authorities responsible for regulating child care programs, along with contact information for persons to use if they have questions or complaints about child care programs.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29571" number="36011" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Describe key rules or regulations relating to child care programs, including mandated staff and adult/child ratios, maximum capacity and health and safety standards.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29572" number="36012" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Describe the inspection process and the registration, licensing and permitting processes for child care programs.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29573" number="36013" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Advise parents seeking child care programs to ask child care program providers to see the program&apos;s current license, registration or permit and not to enroll a child in any program that does not have a current registration, license or permit or has a current suspension of its registration, license or permit. The informational pamphlet required by this section shall be translated into all covered languages as defined in § 8-1002* of the administrative code of the city of New York. Copies of the pamphlet shall be provided to all referral agencies.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29574" number="36014" version="3">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">* Editor&apos;s note:</CHARFORMAT> Repealed. For current provisions, see <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T21C001S01" destination-id="0-0-0-2169">Title 21, Chapter 1, Subchapter 1</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-032]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29575" number="36015" version="1473">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2005/012" destination-id="0-0-0-25234">L.L. 2005/012</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-210031" number="36016" version="1473">
+										<HEADING>§ 17-1307 Penalties.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-7183" name="17-1307"/>§ 17-1307 Penalties.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-29595" number="36017" version="967">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any child care service found in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1303" destination-id="0-0-0-7175">17-1303</LINK> or any provision of any rule promulgated thereunder shall be subject to a civil penalty of $500 for each such violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-063]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134042" number="36018" version="967">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any applicant for a new or renewal permit to operate a child care service found in violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1304" destination-id="0-0-0-7177">17-1304</LINK>, or of any provision of any rule promulgated thereunder, for failing to disclose whether a serious injury or the death of a child in its care shall be subject to a civil penalty of $1,000 for each such violation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-063]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134041" number="36019" version="967">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any child care service that violates section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1303" destination-id="0-0-0-7175">17-1303</LINK> or any rule promulgated thereunder shall not be subject to a civil penalty for a first-time violation if such child care service proves to the satisfaction of the department, within seven days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure, if accepted by the department as proof that the violation has been cured, shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a child care service that has received, for the first time, a notice of violation of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1303" destination-id="0-0-0-7175">17-1303</LINK> or any rules promulgated pursuant thereto. The department shall permit such proof to be submitted electronically or in person. A child care service may seek review, in the office of administrative trials and hearings, of the determination that the child care service has not submitted proof of a cure within 15 days of receiving written notification of such determination. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-063]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134039" number="36020" version="969">
+											<PARA>(L.L. 2021/080, 7/18/2021, eff. 1/14/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-063]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134037" number="36021" version="1384">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2010/022" destination-id="0-0-0-24854">L.L. 2010/022</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2021/080" destination-id="0-0-0-21122">L.L. 2021/080</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-083]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-134038" number="36022" version="1267">
+										<HEADING>§ 17-1308 Guidance for owners of real property to create space for child care programs.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-24462" name="17-1308"/>§ 17-1308 Guidance for owners of real property to create space for child care programs.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-201748" number="36023" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definition.</CHARFORMAT> As used in this section, the term &quot;child care program&quot; means any program that meets the definition provided in subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.01" destination-id="0-0-0-0">47.01</LINK> of the health code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201747" number="36024" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall develop guidance for owners of real property regarding facility requirements for a child care program. Such guidance shall describe the facility requirements that must be satisfied in order to obtain a permit from the department as set forth in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">article 47</LINK> of the health code. Such guidance shall include, but not be limited to, requirements regarding (i) minimum area, (ii) egress, (iii) plumbing installation, (iv) ventilation and lighting and (v) fire safety. Such guidance shall assist owners of real property in determining the extent to which such property complies with applicable requirements described in such guidance. Such guidance shall indicate that such real property may be eligible for a tax abatement, provided that the requirements set forth in section 499-bbbbb of the real property tax law, and in all applicable rules, have been satisfied. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201746" number="36025" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Nothing in the guidance or in the owner&apos;s determination of the extent to which its property complies with applicable requirements shall provide any assurance that a child care program will receive a permit from the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201745" number="36026" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The department shall maintain, and update as necessary, such guidance on the department&apos;s website. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201743" number="36027" version="1267">
+											<PARA>(L.L. 2022/105, 11/9/2022, eff. 5/8/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-201742" number="36028" version="1267">
+										<HEADING>§ 17-1309 Child care directory.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-24460" name="17-1309"/>§ 17-1309 Child care directory.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-201741" number="36029" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> As used in this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201740" number="36030" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Child care program.</CHARFORMAT> The term &quot;child care program&quot; means any program that meets the definition provided in subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.01" destination-id="0-0-0-0">47.01</LINK> of the health code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201739" number="36031" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Child day care.</CHARFORMAT> The term &quot;child day care&quot; means any program that meets the definition provided in paragraph (a), (d), (e) or (f) of subdivision 1 of section 390 of the social services law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201738" number="36032" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated citywide language.</CHARFORMAT> The term &quot;designated citywide language&quot; has the same meaning ascribed to such term in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201737" number="36033" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Directory requirements.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201736" number="36034" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>By July 1, 2023, the department shall coordinate, as necessary, with the department of information technology and telecommunications and any other relevant agency or office to create and maintain a directory of all child care programs located within the city. Such directory shall be publicly accessible on a website or online portal. The directory shall be available in the designated citywide languages and include, but not be limited to, the following features: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201735" number="36035" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>For each child care program: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201734" number="36036" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The name, address, telephone number and program type; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201733" number="36037" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The age groups served by such child care program; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201732" number="36038" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The status of any permit or license required to operate such child care program; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201731" number="36039" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>A search function that allows a search of child care programs by key words, name or location, including by borough and zip code; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201730" number="36040" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A clear and conspicuous link to a webpage that provides information on the child day cares located within the city, and a description of the types of child day cares. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201729" number="36041" version="1267">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Notwithstanding the requirements of this section, the directory shall not include the address or telephone number of a child care program located in a domestic violence shelter as designated by the department of social services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201727" number="36042" version="2243">
+											<PARA>(L.L. 2022/101, 11/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-079]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-234714" number="36043" version="2243">
+										<HEADING>§ 17-1310 Report on child care inspector training.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28392" name="17-1310"/>§ 17-1310 Report on child care inspector training.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-234740" number="36044" version="2243">
+											<PARA>No later than September 30, 2026, and by September 30 annually thereafter, the commissioner shall submit to the mayor and the speaker of the council, and post on the department’s website, a report on training provided during the prior fiscal year to employees of the department who conduct inspections of child care services and child day cares licensed or regulated pursuant to section 390 of the social services law. The report shall include, but need not be limited to, the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234739" number="36045" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The types of child care-related training required for employees of the department who conduct inspections of child care services and child day cares licensed or regulated pursuant to section 390 of the social services law, including the subject matter and specific information covered, and the entity that provided each type of training; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234738" number="36046" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>How often each type of training is required; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234737" number="36047" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The percentage of child care inspectors who took the required trainings during the reporting period; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234736" number="36048" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>A description of any additional training topics the department provided during the reporting period, including any such topics that were based on recommendations from child care inspectors and any other relevant sources; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234735" number="36049" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Any other information the commissioner deems relevant. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234733" number="36050" version="2243">
+											<PARA>(L.L. 2025/130, 9/13/2025, eff. 9/13/2025) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-234732" number="36051" version="2243">
+										<HEADING>§ 17-1311 Child care rights outreach campaign.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-28390" name="17-1311"/>§ 17-1311 Child care rights outreach campaign.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-234731" number="36052" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234730" number="36053" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designated citywide languages</CHARFORMAT>. The term “designated citywide languages” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234729" number="36054" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Epinephrine auto-injector device.</CHARFORMAT> The term “epinephrine auto-injector device” has the same meaning as set forth in section 3000-c of the public health law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234728" number="36055" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Home-based child care program.</CHARFORMAT> The term “home-based child care program” means any child day care licensed or regulated pursuant to section 390 of the social services law. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234727" number="36056" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Opioid antagonist.</CHARFORMAT> The term “opioid antagonist” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-2101" destination-id="0-0-0-22672">17-2101</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234726" number="36057" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Outreach campaign.</CHARFORMAT> Beginning November 1, 2026, the commissioner shall conduct an annual outreach campaign to inform parents and legal guardians about their rights in relation to the care of their children in a child care service or home-based child care program. The campaign shall be designed to reach parents and legal guardians with children enrolled in a child care service or home-based child care program across the city. The commissioner shall make campaign outreach materials available to child care services, home-based child care programs, schools, libraries, recreation centers, facilities operated by the New York city health and hospitals corporation that provide pediatric care, community board offices, council member district offices, pediatric healthcare providers in the city, and any other locations as determined by the commissioner. Such campaign outreach materials shall be made available in all designated citywide languages, and shall include, but need not be limited to, the following: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234725" number="36058" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Information on how to make complaints to the department and relevant state agencies regarding a child care service or home-based child care program, including relevant phone numbers and websites; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234724" number="36059" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A statement of the right of a parent or legal guardian to have unrestricted access to their child at all times and to inspect on demand during hours of operation any area of a child care service or home-based child care program where such child has access, unless such right is otherwise limited by law or an order of protection; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234723" number="36060" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>A description of the information or notices that child care services must post and display pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T17" destination-id="0-0-0-6505">title 17</LINK> of the administrative code, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">article 47</LINK> of the health code, or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24C003" destination-id="0-0-0-0">chapter 3 of title 24</LINK> of the rules of the city of New York, including information regarding their permit or license, how to access the most recent inspection report, and the most recent child care performance summary card; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234722" number="36061" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>A description of the information or notices that home-based child care programs must post and display, as known by the department based on department services provided pursuant to contract with the New York state office of children and family services; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234721" number="36062" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>A description of the information that child care services must provide to parents and legal guardians and information that must be provided upon request, pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="T17" destination-id="0-0-0-6505">title 17</LINK> of the administrative code and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">article 47</LINK> of the health code, including policies and procedures relating to supervision, attendance, admission, discharge, emergency and illness management, and a written policy regarding behavior management of children; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234720" number="36063" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>A description of the information that home-based child care programs must post and display, as known by the department based on department services provided pursuant to contract with the New York state office of children and family services; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234719" number="36064" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Information regarding how to ascertain whether a child care service or home-based child care program has opioid antagonists and epinephrine auto-injectors on site, and whether staff are trained to administer such. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234718" number="36065" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall require a child care service to distribute the information provided in the outreach campaign pursuant to subdivision b of this section to the parent or legal guardian of each child upon enrollment in the child care service. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234717" number="36066" version="2243">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The department shall make the materials required pursuant to subdivision b of this section available electronically on the child care directory required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-1309" destination-id="0-0-0-24460">17-1309</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234715" number="36067" version="2462">
+											<PARA>(L.L. 2025/129, 9/13/2025, eff. 1/13/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-113]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-245004" number="36068" version="2462">
+										<HEADING>§ 17-1312 Guidance relating to the child care program permitting process.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30039" name="17-1312"/>§ 17-1312 Guidance relating to the child care program permitting process.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-245007" number="36069" version="2462">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall, in coordination with any other agency as it deems necessary, provide guidance to an applicant for a permit for a child care program pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">article 47</LINK> of the health code on the requirements for obtaining such permit. Such guidance shall include a visual representation of the process and include the following information: any required license, approval, or permit from the department or any other agency and the order in which each such license, approval, or permit must be obtained. The inadvertent failure to include any such license, approval, or permit in guidance provided pursuant to this subdivision shall not invalidate the requirement to obtain such license, approval, or permit. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245006" number="36070" version="2462">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner shall post on the department’s website, and update as necessary, the guidance required pursuant to subdivision a of this section and, as relevant, include a description of any such update or other change made to such guidance. Such guidance and updates shall be provided in the designated citywide languages defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="23-1101" destination-id="0-0-0-2113">23-1101</LINK> and also be posted on any other city website where the department makes permitting information available. The department shall submit such guidance and any subsequent updates to the mayor and the speaker of the council. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245005" number="36071" version="2462">
+											<PARA>(L.L. 2026/069, 3/14/2025, eff. 6/12/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

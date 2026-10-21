@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-122723" number="102289" version="1565">
+			<HEADING>Chapter 14: Disclosure of Independent Expenditures</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-16405" name="T52C014"/>Chapter 14: Disclosure of Independent Expenditures</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122724" number="102290" version="1567">
+								<HEADING>§ 14-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16625" name="T52C014_14-01"/>§ 14-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122725" number="102291" version="1571">
+									<PARA>Except as otherwise provided, the definitions set forth in 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C001_1-02" destination-id="0-0-0-16417">1-02</LINK> apply in this chapter. In addition, the following terms mean:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122726" number="102292" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Authorized representative</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an officer or owner of an independent spender who is authorized to submit, and is jointly responsible with the spender for, independent expenditure reports.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122727" number="102293" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Ballot proposal</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a municipal ballot proposal, initiative, measure, or referendum. Activities associated with ballot proposals initiated by petition include the circulation of petitions to place the proposal on the ballot. Activities associated with ballot proposals not initiated by petition include those conducted after the measure or language is filed with the City Clerk.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122728" number="102294" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Clearly identified</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means: (1) the name of the candidate or ballot proposal appears; (2) a photograph or drawing of the candidate appears; or (3) the identity of the candidate or ballot proposal is otherwise apparent by unambiguous reference.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122729" number="102295" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contribution</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means any monetary gift made to an entity. Contributions do not include membership dues paid by an individual or revenue from goods and services.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122730" number="102296" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered communication</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an express advocacy communication or electioneering communication.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122731" number="102297" version="1748">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered election</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a covered election as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>(a)(15)(a)(iii) of the Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122732" number="102298" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered expenditure</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an expenditure directly related to the design, production, or distribution of a covered communication. An expenditure made during the ordinary conduct of business in connection with covering or carrying a news story, commentary, or editorial by any broadcasting station (including a cable television operator, programmer, or producer), website, newspaper, magazine, or other periodical publication, including any internet or electronic publication, is not a covered expenditure.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122733" number="102299" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Electioneering communication</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a communication that: (1) is disseminated by radio, television, cable, internet, or satellite transmission; or is a paid advertisement; or is a communication that is delivered or served in any medium to specific individuals if 500 or more messages of a substantially similar nature are transmitted within any 30-day period; (2) is disseminated within 60 days of a covered primary, general, or special election; and (3) refers to one or more clearly identified ballot proposals or candidates for a covered election. Electioneering communication does not include a candidate-related communication made by an organization operating and remaining in good standing under § 501(c)(3) of the Internal Revenue Code of 1986.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122734" number="102300" version="1748">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Entity</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an entity as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>(a)(15)(a)(ii) of the Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122735" number="102301" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Express advocacy communication</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means a communication disseminated in any written, audio, or video format that contains a phrase including, but not limited to, “vote for,” “re-elect,” “support,” “cast your ballot for,” “(Candidate) for (elected office),” “vote against,” “defeat,” “reject,” or “sign the petition for,” or a campaign slogan or words that in context and with limited reference to external events, such as the proximity to the election, can have no reasonable meaning other than to advocate the election, passage, or defeat of one or more clearly identified ballot proposals or candidates in a covered election and is (1) distributed to the general public in any medium or (2) delivered or served to individuals if 500 or more messages of a substantially similar nature are transmitted within any 30-day period.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122736" number="102302" version="1748">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Independent expenditure</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an independent expenditure as defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>(a)(15)(a)(i) of the Charter.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122737" number="102303" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Independent spender</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an individual or entity that makes an independent expenditure, or an agent of such individual or entity.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122739" number="102304" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>&quot;</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Principal owner</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&quot; means an individual or entity that owns or controls 10% or more of an entity, including stockholders and partners.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127488" number="102305" version="2807">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 5/22/2020, eff. 6/21/2020; amended City Record 1/19/2021, eff. 2/18/2021; amended City Record 11/19/2024, eff. 12/19/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122742" number="102306" version="1568">
+								<HEADING>§ 14-02 Disclosure Statements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16627" name="T52C014_14-02"/>§ 14-02 Disclosure Statements.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122743" number="102307" version="1565">
+									<PARA>Each disclosure statement must include the following information:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122744" number="102308" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Filer information.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122745" number="102309" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>All independent spenders must provide their:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122746" number="102310" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>name, mailing address, telephone number, email address, and employer information;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122747" number="102311" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>contact person&apos;s name, mailing address, email address, telephone number, and employer information; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122748" number="102312" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>other similar information that may be required by the Board.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122749" number="102313" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Independent spenders that are entities must also provide their:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122750" number="102314" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>website URL;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122751" number="102315" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>authorized representative&apos;s name, mailing address, email address, telephone number, and employer information;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122752" number="102316" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>type of organization;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122753" number="102317" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>name(s) of principal owners, and employer information for any such owners who are individuals; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122754" number="102318" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>name and employer information of board members and officers or their equivalents.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122755" number="102319" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Independent spenders that are individuals must also provide their occupation and employer information.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122756" number="102320" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Communications.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122757" number="102321" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>When an independent spender makes covered expenditures aggregating $1,000 or more during an election cycle for communications that refer to a specific candidate or ballot proposal, it must report these communications and each future communication associated with an expenditure of $100 or more that refers to that candidate or ballot proposal. Aggregate expenditures to a single vendor of less than $100 shall not be covered expenditures for the purposes of this subdivision. Each communication must be disclosed in the reporting period in which it is first published, aired, or otherwise distributed, except that no communication is required to be disclosed before the $1,000 threshold has been reached. For each communication, the independent spender must provide: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122758" number="102322" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The type of communication;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122759" number="102323" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Its distribution date;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122760" number="102324" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The names of the candidates and/or ballot proposals referred to in the communication;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122761" number="102325" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>For a visual communication, an electronic or paper copy of the communication as it was distributed to the public; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122763" number="102326" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>For an audio or video communication, a copy of the communication as it was distributed to the public, except that for a live telephone call or an audio communication of which a recording is not available, a script will be accepted; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148328" number="102327" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>For any communication containing a website link, the URL and an image of the link destination; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148327" number="102328" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(G)<TAB tab-count="1"/>Such other similar information as the Board may require. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122764" number="102329" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>A mass mailing shall be considered to have been distributed on the date on which it was postmarked, or accepted by a common carrier.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122765" number="102330" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Expenditures.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122766" number="102331" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>When a covered communication has been reported, each covered expenditure of $100 or more associated with that communication must be reported. If the communication refers to more than one candidate or ballot proposal, only those expenditures for candidates or ballot proposals that have met the $1,000 threshold need be reported. Each expenditure must be disclosed in the reporting period in which the expenditure is incurred, except that no expenditure is required to be disclosed prior to the reporting of its associated communication. For each expenditure, the independent spender must provide:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122767" number="102332" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The names of the candidates or ballot proposals referred to by the associated communication;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122768" number="102333" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The name of the vendor;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122769" number="102334" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The date, amount, and purpose;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122770" number="102335" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The names of the individuals or entities paying for the expenditure, if not the independent spender;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122771" number="102336" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>The itemized invoice detailing the expenditure, when it becomes available; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122772" number="102337" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>Such other similar information as the Board may require.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122773" number="102338" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Valuation.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> All expenditures must be reported at their fair market value. If it is not practicable to obtain an invoice, the independent spender must use a reasonable estimate of fair market value and must provide a written record supporting the estimate.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122774" number="102339" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Apportionment.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> For reporting purposes, an expenditure associated with a communication that refers to more than one candidate or ballot proposal shall be apportioned among the candidates or ballot proposals based on the following factors:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122775" number="102340" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The focus of the communication;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122776" number="102341" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The geographic distribution or location of the communication;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122777" number="102342" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>The subject matter of the communication;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122778" number="102343" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The relative prominence of references to or the appearance of a candidate or ballot proposal in the communication, including the size and location of references to the candidate or ballot proposal and any photographs of the candidate;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122779" number="102344" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>The timing of the communication; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122780" number="102345" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>Other circumstances of the communication.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122781" number="102346" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Contributions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122782" number="102347" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>When an independent spender that is an entity makes covered expenditures of $100 or more aggregating $5,000 or more in the 12 months preceding the election for communications that refer to any single candidate, it is required to report:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122783" number="102348" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>All contributions accepted from other entities since the first day of the calendar year preceding the year of the covered election; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122784" number="102349" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>All contributions aggregating $1,000 or more accepted from an individual during the 12 months preceding the election.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122785" number="102350" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Each contribution must be disclosed in the reporting period in which it was received. For each contribution, the independent spender must provide:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122786" number="102351" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>For each contribution accepted from another entity, the entity&apos;s name, address, and type of organization and the names of the entity&apos;s principal owners, partners, board members and officers, or their equivalents, or, if no natural persons exist in any such role, the name of at least one natural person who exercises control over the activities of such entity;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122787" number="102352" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>For each entity from which contributions aggregating $50,000 or more have been accepted in the 12 months preceding the election (the &quot;major contributor&quot;), (A) the name, address, and type of each entity that contributed $25,000 or more to the major contributor in the 12 months preceding the election; and (B) the name, residential address, occupation, and employer of each individual who contributed $25,000 or more to the major contributor in the 12 months preceding the election;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122788" number="102353" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>For each contribution accepted from an individual, the individual&apos;s name, residential address, occupation, and employer;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122789" number="102354" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>The date of receipt and amount of each such contribution accepted by the independent spender or the major contributor; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122790" number="102355" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>Such other similar information as the Board may require.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122791" number="102356" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Exemption for earmarked contributions.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Contributions to independent spenders or major contributors that are earmarked for an election that is not a covered election, or for an explicitly stated non-electoral purpose, are not required to be reported; provided, however that records of such contributions to independent spenders must be maintained and may be requested by the Board to verify their qualification for this exemption.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122792" number="102357" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Verification.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Each independent spender filing a disclosure statement must verify that each reported expenditure referring to a candidate was not authorized, requested, suggested, fostered, or cooperated in by such candidate, an agent of such candidate, an opponent of such candidate, or an agent of such opponent. The independent spender must verify that the disclosure statement is true and complete to the best of the filer&apos;s knowledge, information, and belief. The disclosure statement must contain such signatures or notarizations and other verifications as may be required by the Board.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122793" number="102358" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Format.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> All disclosure statements must be submitted electronically as specified by the Board. Supporting documents must be submitted electronically, by hand, or by common carrier.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122794" number="102359" version="2807">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 11/19/2024, eff. 12/19/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122795" number="102360" version="1568">
+								<HEADING>§ 14-03 Disclosure Dates.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16629" name="T52C014_14-03"/>§ 14-03 Disclosure Dates.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122810" number="102361" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Filing dates.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136937" number="102362" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Disclosure statements are due every Monday of the election year until and including the fourth Monday after the general election.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136936" number="102363" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>During the 14 days before a primary or general election, an independent spender must submit a disclosure statement to the Board within 24 hours of distributing any reportable communication, making any reportable expenditure, or receiving any reportable contribution.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136935" number="102364" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>An independent spender that has not distributed any reportable communications, made any reportable expenditures, or received any reportable contributions within a reporting period is not required to file a disclosure statement for that period.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136934" number="102365" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting periods.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136938" number="102366" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">First disclosure statement.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136933" number="102367" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The reporting period for the first disclosure statement containing communications or expenditures related to candidates in a primary or general election begins on the first day of the election cycle.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136932" number="102368" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The reporting period for the first disclosure statement for communications or expenditures related to ballot proposals begins on the first day of January in the year in which the proposal appears on the ballot.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136931" number="102369" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Each subsequent disclosure statement.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> The reporting period for each subsequent disclosure statement begins on the preceding Monday.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-136930" number="102370" version="2406">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conclusion of reporting period.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> The reporting period for all disclosure statements concludes on and includes the day before the filing due date.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122811" number="102371" version="2406">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 5/22/2020, eff. 6/21/2020; amended City Record 2/15/2023, eff. 3/17/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-083]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122812" number="102372" version="1568">
+								<HEADING>§ 14-04 Identification of Communications.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16631" name="T52C014_14-04"/>§ 14-04 Identification of Communications.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122813" number="102373" version="1565">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Independent spender identification.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> When an independent spender makes covered expenditures of $100 or more aggregating $1,000 or more during an election cycle, the communication associated with the expenditure that meets the $1,000 threshold and all subsequent communications, regardless of dollar value, must include:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122816" number="102374" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Visual communications.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> For a visual, non-video communication in any medium, the words “Paid for by” must appear, followed by (A) the name of the independent spender; (B) if the spender is an entity: (1) the name of any individual or entity that owns or controls more than 50% of the independent spender, (2) the name of the independent spender’s chief executive officer or equivalent, if any, and (3) the independent spender’s top donors as described in subdivision (b) of this section; and (C) the words “Not expressly or otherwise authorized or requested by any candidate or the candidate’s committee or agent. More information at <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="nyc.gov/FollowTheMoney">nyc.gov/FollowTheMoney</LINK>”. Such words must appear in a conspicuous size and style and must be enclosed in a box within the borders of the communication.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148330" number="102375" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Video communications.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> For a video communication in any medium, the words “Paid for by” followed by the name of the independent spender must be clearly spoken at the beginning or end of the communication in a pitch and tone substantially similar to the rest of the communication. Additionally, simultaneous with the spoken disclosure, in a conspicuous size and style and enclosed in a box, the words “Paid for by” must appear followed by (A) the name of the independent spender; (B) if the spender is an entity, the spender’s top donors as described in subdivision (b) of this section; and (C) the words “Not expressly or otherwise authorized or requested by any candidate or the candidate’s committee or agent. More information at <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="nyc.gov/FollowTheMoney">nyc.gov/FollowTheMoney</LINK>”.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-148329" number="102376" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Audio communications.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> For an audio communication in any medium, including automated telephone calls, the words “Paid for by” followed by (A) the name of the independent spender; (B) if the spender is an entity, the spender’s top donors as described in subdivision (b) of this section; and (C) the words “Not expressly or otherwise authorized or requested by any candidate or the candidate’s committee or agent. More information at <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="nyc.gov/FollowTheMoney">nyc.gov/FollowTheMoney</LINK>”, must be clearly spoken at the end of the communication in a pitch and tone substantially similar to the rest of the communication. For audio communications of 30 seconds in duration or shorter, except for telephone calls, subparagraph (B) of this paragraph may be omitted.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122817" number="102377" version="1572">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-automated telephone calls longer than 10 seconds.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> For non-automated telephone calls lasting longer than 10 seconds, the words &quot;This call is paid for by&quot; followed by the name of the independent spender and the words &quot;Not expressly or otherwise authorized or requested by any candidate or the candidate&apos;s committee or agent. More information is available at <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="nyc.gov/FollowTheMoney">nyc.gov/FollowTheMoney</LINK>&quot; must be clearly spoken during the call in a pitch and tone substantially similar to the rest of the call.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122818" number="102378" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>(v)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Impracticability.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> If it is impracticable to display a clearly readable notice in an online communication that contains a link to a location controlled by the independent spender, the communication may contain the words “Paid for by” followed by the name of the independent spender, provided that the full text of the required notice must appear at the redirected location.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127489" number="102379" version="1929">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">&quot;Top donor(s)&quot; identification.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Identification of an independent spender&apos;s top donors in a communication shall be as follows:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122819" number="102380" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A spender&apos;s top donors are its largest aggregate contributors during the 12 months preceding the election, in descending order by aggregate amount, who have contributed at least $5,000.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122820" number="102381" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>If there are at least three such donors:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122821" number="102382" version="2807">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Written identification shall be the words &quot;Top Three Donors&quot; followed by the names of such donors; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122822" number="102383" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Video identification shall be the words &quot;The top three donors to the organization responsible for this advertisement are&quot; followed by the names of such donors;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122823" number="102384" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Audio identification shall be the words &quot;with funding provided by&quot; followed by the names of such donors;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122824" number="102385" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>If the third largest donor has donated the same amount as the fourth largest donor, the independent spender may choose which three donors to include, so long as no donor is included that has donated less than any other donor that is not included.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122825" number="102386" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>If there are only two such donors, the words &quot;Top Donors&quot; must replace &quot;Top Three Donors.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122826" number="102387" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>If there is only one such donor, the words &quot;Top Donor&quot; must replace &quot;Top Three Donors.&quot;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122827" number="102388" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>If there are no such donors, all references to donors must be removed from the identification.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122828" number="102389" version="1572">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Languages other than English.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> All written or spoken identification required by this section must be in the primary language of the communication, except that the web address <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-32" type="Web" url="nyc.gov/FollowTheMoney">nyc.gov/FollowTheMoney</LINK>, if required to be written or spoken in the identification, must be in English.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122829" number="102390" version="2807">
+									<PARA>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Modification.</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> The requirements of this section may be modified by the Board concerning items upon which identification would be impracticable, pursuant to </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(a)(15)(c)(i) of the Charter or any other items whose disclosures are not otherwise provided for in </CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="1052" destination-id="0-0-0-0">1052</LINK>
+										</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(a)(15)(c) of the Charter.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122830" number="102391" version="1887">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>This section shall not apply to communications required to include a disclosure pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-703" destination-id="0-0-0-0">3-703</LINK>(16) of the Code.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122831" number="102392" version="2807">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 1/19/2021, eff. 2/18/2021; amended City Record 11/19/2024, eff. 12/19/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-104]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122832" number="102393" version="1568">
+								<HEADING>§ 14-05 Non-Independent Expenditures.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16633" name="T52C014_14-05"/>§ 14-05 Non-Independent Expenditures.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122833" number="102394" version="1571">
+									<PARA>An expenditure by an individual or entity referring to a candidate, that was authorized, requested, suggested, fostered by, or cooperated in by such candidate or the opponent of such candidate, or their agents, is not an independent expenditure and is not governed by this chapter. Factors used by the Board to determine whether an expenditure is independent or non-independent are referenced in 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C006_6-04" destination-id="0-0-0-16501">6-04</LINK>(a).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122834" number="102395" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122835" number="102396" version="1568">
+								<HEADING>§ 14-06 Guidance for Independent Spenders.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16635" name="T52C014_14-06"/>§ 14-06 Guidance for Independent Spenders.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122836" number="102397" version="1565">
+									<PARA>Prior to dissemination of a communication, an individual or entity may seek guidance regarding whether the communication would be subject to these rules by submitting a written request in the form and manner prescribed by the Board, including a description or sample of the proposed communication and a description of its proposed dissemination. If the request is received more than 14 days before the election, guidance shall be provided within seven days, and if such request is received during the 14 days prior to the election, guidance shall be provided within 24 hours. Such guidance applies only to the communication exactly as submitted and disseminated exactly as described, and constitutes neither approval nor disapproval of the content, appropriateness, or accuracy of the communication.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122837" number="102398" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122838" number="102399" version="1568">
+								<HEADING>§ 14-07 Document Retention.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16637" name="T52C014_14-07"/>§ 14-07 Document Retention.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122839" number="102400" version="1565">
+									<PARA>Independent spenders must provide documentation to the Board upon request, and must maintain for three years after the date of the election to which they apply:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122840" number="102401" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>records that enable the Board to verify the accuracy of disclosure statements, including bills for goods or services used to produce and disseminate a communication, as well as records of all contributions received by independent spenders that are entities; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122841" number="102402" version="1565">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>copies of all advertisements, pamphlets, circulars, flyers, brochures, and other printed communications disseminated, and a schedule of all radio or television time purchased, and scripts used therein or the audio or video source files. Documents previously provided to and received by the Board do not need to be maintained by the independent spender.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122842" number="102403" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122843" number="102404" version="1568">
+								<HEADING>§ 14-08 Penalties.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16639" name="T52C014_14-08"/>§ 14-08 Penalties.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122844" number="102405" version="1565">
+									<PARA>Any independent spender who violates any provision of this chapter, and any agent of an independent spender who commits such a violation, shall be subject to a civil penalty in an amount not in excess of $10,000.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122845" number="102406" version="1566">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-041]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-122846" number="102407" version="1568">
+								<HEADING>§ 14-09 Other Provisions Concerning Independent Expenditures.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16641" name="T52C014_14-09"/>§ 14-09 Other Provisions Concerning Independent Expenditures.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-122847" number="102408" version="1696">
+									<PARA>See 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C015_15-06" destination-id="0-0-0-16653">15-06</LINK> (Special elections); 52 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C010_10-03" destination-id="0-0-0-16547">10-03</LINK> (Enforcement); 52 RCNY <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T52C012" destination-id="0-0-0-16401">Chapter 12</LINK> (Complaints). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-122848" number="102409" version="1696">
+									<PARA>(Added City Record 8/16/2019, eff. 9/15/2019; amended City Record 5/22/2020, eff. 6/21/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-050]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

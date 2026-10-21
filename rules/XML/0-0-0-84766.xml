@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-84766" number="100342" version="1961">
+			<HEADING>Chapter 2: Sale of Alcoholic Beverages at Events Authorized by a Street Activity Permit</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-11639" name="T50C002"/>Chapter 2: Sale of Alcoholic Beverages at Events Authorized by a Street Activity Permit</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-84767" number="100343" version="3">
+								<HEADING>§ 2-01 Sale of Alcoholic Beverages Prohibited.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-11641" name="T50C002-01"/>§ 2-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Sale of Alcoholic Beverages Prohibited.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-84768" number="100344" version="3">
+									<PARA>No sponsor who has received a permit to conduct a street activity from the Street Activity Permit Office (SAPO) shall sell or otherwise distribute alcoholic beverages to any person during the course of such street activity, nor shall such sponsor allow any vendor or any other person or entity that participates in such street activity to sell or otherwise distribute alcoholic beverages to any person during the course of such street activity.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-84769" number="100345" version="3">
+								<HEADING>§ 2-02 Enforcement.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-11643" name="T50C002-02"/>§ 2-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Enforcement.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-84770" number="100346" version="3">
+									<PARA>The director of SAPO shall have the authority to deny an application for a street activity permit, to condition the approval of an application for a street activity permit, or to revoke a street activity permit, based on the past or present failure of the applicant or sponsor to comply with the provisions of this chapter.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-84771" number="100347" version="3">
+								<HEADING>§ 2-03 Exception.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-11645" name="T50C002-03"/>§ 2-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exception.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-84772" number="100348" version="1593">
+									<PARA>This prohibition shall not apply to entities or persons licensed by the New York state liquor authority to sell alcoholic beverages at retail to be consumed on the premises where sold, including those licensees who operate a sidewalk caf<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">é</CHARFORMAT> pursuant to a license issued by the commissioner of consumer affairs.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

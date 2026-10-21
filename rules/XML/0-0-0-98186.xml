@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-98186" number="68433" version="1757">
+			<HEADING>Chapter 56: Internet Capable Temperature Reporting Devices</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-16952" name="T28C056"/>Chapter 56: Internet Capable Temperature Reporting Devices</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-127063" number="68434" version="1757">
+								<HEADING>§ 56-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16966" name="T28C056_56-01"/>§ 56-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127095" number="68435" version="1757">
+									<PARA>For purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127114" number="68436" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heat Season.</CHARFORMAT> Heat season means the period of time beginning on October first of one year, and ending on May 31st of the following year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127113" number="68437" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Internet Capable Temperature Reporting Device.</CHARFORMAT> Internet Capable Temperature Reporting Device means a device that is capable of measuring the indoor air temperature not less than once per hour and recording such temperature, along with the date and time of such reading, for a period of time not less than the immediately preceding 90 days. Such device must be capable of making such information available through an ordinary internet connection or through other means when no such connection is present. Such information must be accessible to property owners and any tenant of the unit in which such device is placed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127112" number="68438" version="1757">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-127069" number="68439" version="1757">
+								<HEADING>§ 56-02 Criteria.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16964" name="T28C056_56-02"/>§ 56-02 Criteria.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127094" number="68440" version="2713">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than July 1, 2024, and every year thereafter, the department will select 50 class A multiple dwellings for installation by the owner of one Internet Capable Temperature Reporting Device in each dwelling unit in the selected multiple dwelling. The department will select such buildings using criteria, including, but not limited to the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127111" number="68441" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the multiple dwelling was issued violations of Administrative code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2029" destination-id="0-0-0-0">27-2029</LINK>(a) or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2028" destination-id="0-0-0-0">27-2028</LINK> for each of the past two Heat Seasons as set forth in these rules; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127110" number="68442" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the multiple dwelling has been the subject of a heat-related complaint from two or more distinct dwelling units in each of the last two heat seasons as set forth in these rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127109" number="68443" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding the criteria set forth in subdivision a of this section, a multiple dwelling that is participating in the Alternative Enforcement Program pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2153" destination-id="0-0-0-0">27-2153</LINK>, or that has an Article 7A administrator appointed pursuant to real property actions and proceedings law article 7A, or that has been the subject of an in rem foreclosure judgment in favor of the city and was transferred by the city to a third party pursuant to Administrative Code § 11-421.1 within the prior five years, shall not be included among the multiple dwellings selected pursuant to subdivision a of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127108" number="68444" version="2306">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>For purposes of selecting 50 class A multiple dwellings for installation of Internet Capable Temperature Reporting Devices, such multiple dwellings having the greatest number of violations of §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2029" destination-id="0-0-0-0">27-2029</LINK>(a) and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2028" destination-id="0-0-0-0">27-2028</LINK> of the Administrative Code, and at least four violations of such sections for the past two Heat Seasons shall be selected. Where more than one multiple dwelling has the same number of violations and would result in more than 50 multiple dwellings being selected, the multiple dwellings with the highest percentage of dwelling units with heat-related complaints in the last two Heat Seasons shall be selected first. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127107" number="68445" version="2713">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020; amended City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-127068" number="68446" version="1757">
+								<HEADING>§ 56-03 Notices.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16962" name="T28C056_56-03"/>§ 56-03 Notices.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127093" number="68447" version="2713">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>The owner of a multiple dwelling that is selected pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-02" destination-id="0-0-0-16964">56-02</LINK> shall provide a notice to each dwelling unit as provided in <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_AppA" destination-id="0-0-0-16954">Appendix A</LINK> of these rules by mail or email regarding the requirements of this chapter and Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>, including installation of such devices, instructions on how to access the information collected by such devices, the tenant’s right of refusal, and the tenant’s right to request that such device be installed in a living room of the tenant’s choice within the dwelling in accordance with subparagraph (b) of paragraph 3 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> and 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-04" destination-id="0-0-0-16960">56-04</LINK>. Such notice shall be provided by such owner before August first following notification by the department of selection of the multiple dwelling. Such notice shall also be posted in the common area of the multiple dwelling within 15 days of notification to the owner by the department of selection for required installation of Internet Capable Temperature Reporting Devices. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127106" number="68448" version="2713">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Upon selection of a multiple dwelling pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-02" destination-id="0-0-0-16964">56-02</LINK>, the department will post a notice in each of the designated citywide languages in Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="23-1101" destination-id="0-0-0-0">23-1101</LINK> in a prominent place of such multiple dwelling, notifying tenants of the requirements of this section, a tenant’s option to refuse the installation of such device in their dwelling unit, the requirement of twice monthly inspections by the department, and a tenant’s option to call 311 to file a complaint relating to inadequate heat and to check the department’s website for the issuance of heat violations. The department will monitor that such notice is posted throughout the time period that such multiple dwelling is subject to inspection by the department pursuant to paragraph 2 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127067" number="68449" version="3014">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>For the notice that is required to be posted in the common area of a multiple dwelling by subdivision a of this section, an owner may, in lieu of posting a physical notice, install a digital sign that otherwise complies with such subdivision and with the requirements of 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C012_12-01" destination-id="0-0-0-7607">12-01</LINK>(f), provided that, if the digital sign becomes inoperable, the owner must forthwith display physical notices as described in this section until such time as the digital sign is made operable. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154917" number="68450" version="3016">
+									<PARA>
+										<TAB tab-count="1"/>d.<TAB tab-count="1"/>If an owner installs a digital sign as allowed pursuant to subdivision c of this section, such owner must also install a digital sign as described in 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C012_12-01" destination-id="0-0-0-7607">12-01</LINK>(e) (notice regarding smoke detecting devices), 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C012_12-06" destination-id="0-0-0-7617">12-06</LINK>(c) (notice regarding carbon monoxide alarm requirements), 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C012_12-09.1" destination-id="0-0-0-19967">12-09.1</LINK>(f) (notice regarding natural gas detecting devices), 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C025_25-101" destination-id="0-0-0-7827">25-101</LINK>(f) (notice regarding owner’s right of access and requirements for notification), 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C025_25-201" destination-id="0-0-0-7857">25-201</LINK>(c) (notice regarding collection and disposal of garbage), 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C046_46-01" destination-id="0-0-0-8219">46-01</LINK>(b) (notice regarding housing information guide), and 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C059_59-01" destination-id="0-0-0-17632">59-01</LINK>(c) (notice regarding bedbug infestation). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-154916" number="68451" version="3014">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020; amended City Record 5/2/2024, eff. 6/1/2024; amended City Record 1/2/2026, eff. 2/1/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-118]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-154915" number="68452" version="3014">
+								<HEADING>§ 56-04 Installation.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16960" name="T28C056_56-04"/>§ 56-04 Installation.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127092" number="68453" version="2713">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Upon notification by the department of selection of a multiple dwelling for required installation of Internet Capable Temperature Reporting Devices, an owner must install one device in one living room of the tenant’s choice in each dwelling unit in such multiple dwelling, except those units in which a tenant provides written refusal of installation of such device, or those units to which the owner is unable, after documented reasonable efforts, to obtain access to install such device. The Internet Capable Temperature Reporting Devices must be installed in accordance with the manufacturer&apos;s recommendation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127105" number="68454" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such owner must complete such installation on or before October first of the year in which the notification from the department is received, and provide an affidavit of installation in a form required by the department on or before October first. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127104" number="68455" version="2713">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020; amended City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-127066" number="68456" version="1757">
+								<HEADING>§ 56-05 Record Keeping.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16958" name="T28C056_56-05"/>§ 56-05 Record Keeping.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127091" number="68457" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>An owner of a multiple dwelling selected for installation of Internet Capable Temperature Reporting Devices must maintain the following records while such dwelling is required to provide and maintain such devices, and for one additional year after the multiple dwelling is no longer subject to the installation requirement, and make such records available to the department upon request, consistent with applicable law: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127103" number="68458" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>identification of each dwelling unit in which a device was installed; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127102" number="68459" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>identification of each dwelling unit in which a device was not installed, including the reason for failure of installation; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127101" number="68460" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the date of each installation, identification of manufacturer of the device installed; and the individual serial number for each device installed including any device that is installed as a replacement; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127100" number="68461" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>written refusal of installation of a device if the tenant refused such installation in writing; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127099" number="68462" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>record of refusal or no response, if the tenant did not provide access or respond to the notification in writing required by 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-03" destination-id="0-0-0-16962">56-03</LINK>, and, in the case of no response, a record of the reasonable efforts made to gain access to the unit to install the device; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127098" number="68463" version="1757">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>temperature readings for each dwelling unit in which a device was installed, including hourly temperature, date, and time, for the entire time period that the multiple dwelling is participating in the program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127097" number="68464" version="2714">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>An owner of a multiple dwelling selected pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-02" destination-id="0-0-0-16964">56-02</LINK> must submit to the department, at least once during each 30-day period during the heat season for the time period that the multiple dwelling is subject to the requirements of this chapter and of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>, data collected from the Internet Capable Temperature Reporting Devices installed in such multiple dwelling pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-04" destination-id="0-0-0-16960">56-04</LINK>. This requirement does not apply where the tenant has opted out of installation of such Internet Capable Temperature Reporting Device pursuant to paragraph 7 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> and the property owner has submitted an affidavit indicating that all reasonable efforts were made to obtain approval from the tenant for installation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127096" number="68465" version="2713">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020; amended City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-127065" number="68466" version="2714">
+								<HEADING>§ 56-06 Inspection.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19184" name="T28C056_56-06"/>§ 56-06 Inspection.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-146518" number="68467" version="2714">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>Annually, for the duration of heat season, the department will conduct inspections of each class A multiple dwelling selected pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-02" destination-id="0-0-0-16964">56-02</LINK> at least twice each month, without receipt of complaints, for compliance with the requirements of §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2028" destination-id="0-0-0-0">27-2028</LINK> and subdivision a of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2029" destination-id="0-0-0-0">27-2029</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146519" number="68468" version="2714">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>In the course of such inspections, the department will also inspect to ensure the device is installed in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-04" destination-id="0-0-0-16960">56-04</LINK> and subparagraph (b) of paragraph 3 of subdivision b of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146520" number="68469" version="2714">
+									<PARA>
+										<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department may discontinue such inspections in such class A multiple dwelling, provided that there are no open violations of paragraph 3 of subdivision b of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> of the Administrative Code as of January 31 in such heat season and no violations of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2028" destination-id="0-0-0-0">27-2028</LINK> or subdivision a of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2029" destination-id="0-0-0-0">27-2029</LINK> of the Administrative Code were issued since October 1 of such heat season. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146517" number="68470" version="2714">
+									<PARA>(Added City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-146521" number="68471" version="2714">
+								<HEADING>§ 56-07 Fees.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19186" name="T28C056_56-07"/>§ 56-07 Fees.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-146523" number="68472" version="2714">
+									<PARA>An owner of a multiple dwelling selected for installation of Internet Capable Temperature Reporting Devices shall be subject to a fee of $200 for each inspection conducted pursuant to subdivision a of 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-06" destination-id="0-0-0-19184">56-06</LINK> after January 31 for the remainder of such heat season for any year that such multiple dwelling is subject to requirements of this chapter and of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146522" number="68473" version="2714">
+									<PARA>(Added City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-146516" number="68474" version="2714">
+								<HEADING>§ 56-08 Discharge.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16956" name="T28C056_56-08"/>§ 56-08 Discharge.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127089" number="68475" version="2714">
+									<PARA>An owner may apply to the department to have a multiple dwelling discharged from the requirement to install and maintain Internet Capable Temperature Reporting Devices in less than four years as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127090" number="68476" version="2715">
+									<PARA>
+										<TAB tab-count="1"/>a.<TAB tab-count="1"/>A class A multiple dwelling will be discharged from the requirements of this chapter and Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> at the end of the heat season, provided that the owner of such multiple dwelling (i) has complied with the requirements of this chapter and of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> to install and, as appropriate, replace, an Internet Capable Temperature Reporting Device in each dwelling unit, (ii) has not been issued a notice of violation of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2028" destination-id="0-0-0-0">27-2028</LINK> or subdivision a of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2029" destination-id="0-0-0-0">27-2029</LINK> during such heat season, (iii) has supplied all requested records required to be maintained pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-05" destination-id="0-0-0-16958">56-05</LINK>, and (iv) is currently registered with the department in accordance with Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2097" destination-id="0-0-0-0">27-2097</LINK>; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146527" number="68477" version="2714">
+									<PARA>
+										<TAB tab-count="1"/>b.<TAB tab-count="1"/>An owner of a multiple dwelling selected pursuant to 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-02" destination-id="0-0-0-16964">56-02</LINK> who has not complied with the requirements of paragraph 3 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> but is otherwise eligible for discharge pursuant to subparagraph (a) of paragraph 8 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> and subdivision a of this section may be discharged from the requirements of this chapter and of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> upon payment of a penalty of $500 for each violation of this chapter or Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK> issued by the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146526" number="68478" version="2714">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020; amended City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-127064" number="68479" version="2714">
+								<HEADING>§ 56-09 Post-Discharge Resolution of Violations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19188" name="T28C056_56-09"/>§ 56-09 Post-Discharge Resolution of Violations.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-146528" number="68480" version="2714">
+									<PARA>Where violations remain pending after a multiple dwelling is no longer subject to the requirements of paragraph 3 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>, an owner may resolve such violations by paying $500 for each such pending violation, provided that the owner can demonstrate either that no heat violations were issued during at least one complete heat season or that Internet Capable Temperature Reporting Devices were installed in accordance with 28 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T28C056_56-04" destination-id="0-0-0-16960">56-04</LINK> and subparagraph b of paragraph 3 of subdivision b of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-146525" number="68481" version="2714">
+									<PARA>(Added City Record 5/2/2024, eff. 6/1/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-097]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-146524" number="68482" version="2714">
+								<HEADING>Appendix A: Installation of Internet Capable Temperature Reporting Devices</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-16954" name="T28C056_AppA"/>Appendix A: Installation of Internet Capable Temperature Reporting Devices</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-127087" number="68483" version="2306">
+									<PARA>Please be advised that __________________________________ (address) has been selected by the City of New York Department of Housing Preservation and Development for participation in a program which requires installation of internet capable temperature reporting devices (heat sensors) in dwelling units in this building, under Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2033.1" destination-id="0-0-0-0">27-2033.1</LINK>. The owner is required to install one heat sensor in each dwelling unit. The heat sensor will measure indoor air temperature and record the temperature, date, and time of the reading. This information will be available to tenants and to the owner through an internet connection. If you do not have an internet connection, and a heat sensor is installed in your unit, the owner will make the information from your unit available to you upon request.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127088" number="68484" version="1757">
+									<PARA>You may refuse, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">in writing</CHARFORMAT>, to have a heat sensor installed in your unit (see form below). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127086" number="68485" version="1757">
+									<PARA>You will not be charged for original installation of the heat sensor, or for replacement due to wear or malfunction. You will not be charged for a replacement if a prior tenant removed or damaged the heat sensor, or if the heat sensor becomes inoperable due to a manufacturing defect or improper installation. You should inform the owner within 30 days if the heat sensor becomes inoperable. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127085" number="68486" version="1757">
+									<PARA>If the heat sensor is installed in your dwelling unit, you must not damage it, turn it off, or otherwise make it inoperable. If the heat sensor is stolen, removed, found missing, or is made inoperable by you during your lease term, the owner may replace the heat sensor and charge you a maximum of $50.00 for its replacement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127084" number="68487" version="1757">
+									<PARA>Please complete the form below, and return it to the owner within ten days of receipt of this notice. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127083" number="68488" version="1757">
+									<PARA>--------------------------------------------------------------------------------------------------- <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127082" number="68489" version="1757">
+									<PARA>PLEASE CHECK <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ONE</CHARFORMAT>, SIGN, AND FILL IN THE INFORMATION REQUESTED BELOW. PLEASE RETURN THIS PART OF THE FORM WITHIN <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">TEN DAYS</CHARFORMAT> TO THE OWNER/MANAGING AGENT AS DIRECTED BELOW, AND KEEP A COPY FOR YOUR RECORDS. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>°</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127081" number="68490" version="1757">
+									<PARA>
+										<PARAFORMAT left-indent="36">___ I DO NOT want an internet capable temperature reporting device installed in my unit; OR <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+										</PARAFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127080" number="68491" version="1757">
+									<PARA>
+										<PARAFORMAT left-indent="36">___ I DO want an internet capable temperature reporting device installed in my unit. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+										</PARAFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127079" number="68492" version="1757">
+									<PARA>TENANT SIGNATURE: __________________________Date:____________ <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127075" number="68493" version="2497">
+									<PARA>PRINT TENANT&apos;S NAME, ADDRESS, AND APARTMENT NUMBER:<LINEBRK/>______________________________________________________________ <LINEBRK/>______________________________________________________________ <LINEBRK/>______________________________________________________________ <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127072" number="68494" version="1757">
+									<PARA>RETURN THIS FORM TO:<LINEBRK/>OWNER/MANAGING AGENT NAME:______________________________ <LINEBRK/>ADDRESS:____________________________________________________ <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-127062" number="68495" version="1757">
+									<PARA>(Added City Record 8/26/2020, eff. 9/25/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-053]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

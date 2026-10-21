@@ -1,0 +1,872 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-98195" number="38629" version="1960">
+			<HEADING>Chapter 5: Specifications for Trucks and Vehicles Conveying Rubbish Through the Streets and the Impoundment of Vehicles</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-4235" name="T16C005"/>Chapter 5: Specifications for Trucks and Vehicles Conveying Rubbish Through the Streets and the Impoundment of Vehicles</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32187" number="38630" version="3">
+								<HEADING>§ 5-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4237" name="T16C005_5-01"/>§ 5-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32188" number="38631" version="748">
+									<PARA>When used in these Rules and Regulations and in any and all orders and directions issued under these Rules and Regulations, each of the following words, terms, or phrases shall have the sense or meaning prescribed by its definition: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32189" number="38632" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Active customer. </CHARFORMAT>&quot;Active customer&quot; means an applicant who is in the process of establishing an APS account, or a permittee or licensee who has maintained an APS account in good standing with the department during the previous twelve months and has used such account to dispose of material at a department facility at least once within the preceding twelve month period. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32190" number="38633" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Applicant</CHARFORMAT>. &quot;Applicant&quot; means a person requesting a permit or license required by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="20-332" destination-id="0-0-0-0">20-332</LINK> of the Administrative Code. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32191" number="38634" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Ashes</CHARFORMAT>. &quot;Ashes&quot; means cinders, coal and every other such substance which is left unconsumed by fire in stoves, furnaces, ranges, firepots, fireplaces, and other such places. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32192" number="38635" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Automated payment system account or APS account.</CHARFORMAT> &quot;Automated payment system account&quot; or &quot;APS account&quot; means an account established by an applicant, permittee or licensee with the department in accordance with the procedures established in 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C002_2-06" destination-id="0-0-0-4129">2-06</LINK>, wherein monies are deposited by such applicant, permittee or licensee to allow such person to dispose of materials at a department facility. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32193" number="38636" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commissioner</CHARFORMAT>. &quot;Commissioner&quot; means Commissioner of Sanitation. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32194" number="38637" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commissioner&apos;s representative</CHARFORMAT>. &quot;Commissioner&apos;s representative&quot; means any officer or employee of the Department designated by the Commissioner to act in the premises from time to time who, as well as the Commissioner may act directly or through assistants designated by him limited to the particular duties entrusted to them. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32195" number="38638" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Department, DS or D.S.</CHARFORMAT> &quot;Department, DS or D.S.&quot; means Department of Sanitation. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32196" number="38639" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>DS registered capacity.</CHARFORMAT> &quot;DS registered capacity&quot; means the volume in cubic yards assigned to the vehicle body of each permit or license vehicle. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32197" number="38640" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Facility. </CHARFORMAT>&quot;Facility&quot; means any solid waste management facility owned or operated by the department. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32198" number="38641" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Garbage.</CHARFORMAT> &quot;Garbage&quot; means every accumulation of both animal and vegetable matter that attends the preparation, decay, and dealing in, or storage of meat, fish, fowl, birds or vegetables, except swill. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32199" number="38642" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Material.</CHARFORMAT> &quot;Material&quot; means in the generic sense, those materials defined in these Rules and Regulations or listed in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="20-332" destination-id="0-0-0-0">20-332</LINK>, Administrative Code, i.e., ashes or garbage, etc.; and, as the context indicates, a particular material of those defined or listed.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32200" number="38643" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Operator.</CHARFORMAT> &quot;Operator&quot; means the person operating a permit or license vehicle who may also at times load or assist in loading it; and also all persons loading or dumping or emptying a permit or license vehicle. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32201" number="38644" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Permit or license. </CHARFORMAT>&quot;Permit or license&quot; means the permission in writing of the Commissioner of Consumer Affairs required to be obtained under § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="20-332" destination-id="0-0-0-0">20-332</LINK> of the Administrative Code and which applies only to vehicle it describes and is not transferable to any other person or to any other vehicle. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32202" number="38645" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Permit or license document.</CHARFORMAT> &quot;Permit or license document&quot; means the official writing issued by the Commissioner of Consumer Affairs evidencing the granting of a permit or license. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32203" number="38646" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Permittee or licensee.</CHARFORMAT> &quot;Permittee or licensee&quot; means each person holding a permit or license issued by the Commissioner of Consumer Affairs under § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="20-332" destination-id="0-0-0-0">20-332</LINK>, Administrative Code. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32204" number="38647" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Person</CHARFORMAT>. &quot;Person&quot; means every and any individual, corporation, firm, joint stock association, unincorporated association, or partnership and each partner of a partnership. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32205" number="38648" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Rubbish</CHARFORMAT>. &quot;Rubbish&quot; means solid waste material, accumulating or resulting from the use or occupancy of building or premises, such as paper, straw, excelsior, rags, bottles, old clothes, old shoes, tin cans, and other materials of a similar character; and waste material, other than ashes or garbage, which attends use or decay and accumulation from the occupancy of buildings or premises. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32206" number="38649" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Swill.</CHARFORMAT> &quot;Swill&quot; means every accumulation of either or both animal or vegetable matter, liquid to any extent so that any of it runs when stirred or emptied in any manner from any container or receptacle (even though the accumulation may include also other materials whether herein defined or not or parts of other materials) that attends the preparation, decay and dealing in, or storage of meat, fish, fowls, birds or vegetables or fruit. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32207" number="38650" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>UNL VEH WT</CHARFORMAT>. &quot;UNL VEH WT&quot; means unladen vehicle weight. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32208" number="38651" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Vehicle</CHARFORMAT>. &quot;Vehicle&quot; means the particular vehicle described in a license or permit, being the vehicle for which the permit or license was issued. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32209" number="38652" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Water level. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32210" number="38653" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>For open top box type vehicle bodies, &quot;Water level&quot; shall be the plane, parallel to a horizontal surface upon which the vehicle stands, passing through the lowest in height of the upper permanent edges of any of the sides or ends of the vehicle body, except that for Class 6 open top tank type vehicle bodies transporting swill water level shall be a plane four inches lower than that set under the foregoing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32211" number="38654" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>For permanently totally enclosed type vehicle bodies of Class 6 transporting swill &quot;water level&quot; shall be the plane, parallel to a horizontal surface upon which the vehicle stands, passing through a point four inches below the loading door sill lowest in height, except that if the vehicle body has been permanently totally enclosed by placing a superstructure upon an otherwise open top tank type body, water level shall be determined as defined above under paragraph (1) for Class 6 vehicle bodies.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32212" number="38655" version="3">
+								<HEADING>§ 5-02 Rules of General Applicability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4239" name="T16C005_5-02"/>§ 5-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rules of General Applicability.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32213" number="38656" version="3">
+									<PARA>The following provisions apply to all applicants and permittees or licensees, excepting only when otherwise indicated:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32214" number="38657" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Each applicant who is an active customer shall produce each vehicle for which a permit or license is requested for inspection and/or measurement and/or weighing at a time and place to be named by the Commissioner&apos;s representative. Failure of an applicant to produce any vehicle at the time and place fixed by the Commissioner&apos;s representative shall be deemed an abandonment of the application for permit or license for the vehicle or vehicles not produced at the time fixed, unless and until the vehicle or vehicles are produced at such subsequent time as the Commissioner&apos;s representative shall fix and no application will be advanced by the Department for issuance of permit or license until the vehicle or vehicles have been produced for the above purposes at the time and place fixed by the Commissioner&apos;s representative.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32215" number="38658" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>After issuance of a permit or license, each permittee or licensee who is an active customer shall produce each vehicle for re-inspection and/or re-measurement and/or re-weighing at a place and time designated by the Commissioner&apos;s representative. Any vehicle that is not produced by such permittee or licensee for re-inspection and/or re-measurement and/or re-weighing shall not be allowed to dispose of materials at any facility.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32216" number="38659" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>When upon re-inspection and/or re-measurement and/or re-weighing a vehicle that is owned by a permittee or licensee who is an active customer is found then by the Commissioner&apos;s representative not to be in compliance with these Rules and Regulations the permit or license for such vehicles may be suspended until remedial action by the permittee or licensee places the vehicle again in full compliance with these Rules and Regulations, or the Commissioner&apos;s representative may fix a time within which the permittee or licensee may place the vehicle in compliance with these Regulations. In the latter case, the permittee or licensee shall produce the vehicle for re-inspection and/or re-measurement and/or re-weighing at the expiration of the time allowed at the place designated by the Commissioner&apos;s representative. If the permit or license was suspended pending compliance, the permittee or licensee shall notify the Commissioner&apos;s representative when he deems the vehicle in compliance with these Rules and Regulations and thereupon the permittee or licensee shall produce the vehicle at the time and place designated by the Commissioner&apos;s representative for re-inspection and/or re-measurement and/or re-weighing. During any such time that a permit or license for a vehicle is suspended, such vehicle shall not be allowed to dispose of material at any facility.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32217" number="38660" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>All vehicle wheels shall be equipped with pneumatic tires, but this provision shall not apply to Class 3 vehicles.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32218" number="38661" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Each vehicle of all classes shall have the name and business address of the permittee or licensee lettered legibly in letters and figures not less than eight inches in height on each side of the vehicle body or upon each door of the vehicle cab at all times.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32219" number="38662" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Each vehicle (except Class 3) shall have painted upon each side of the vehicle body well forward, in letters and figures not less than two inches in height, the following: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32220" number="38663" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>UNL VEH WT <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>DS REG CAP <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>POUNDS <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>CU YDS </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32221" number="38664" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Each Class 3 vehicle shall be supplied at all times with a neatly lettered sign not less than 18 inches square bearing these legends arranged in three lines as follows: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32222" number="38665" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>UNL VEH WT <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>NOT TO EXCEED <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>TOTAL CU YDS <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>POUNDS <LINEBRK/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>CONTAINERS </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32223" number="38666" version="1084">
+									<PARA>which sign shall be displayed as required by 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C005_5-07" destination-id="0-0-0-4249">5-07</LINK>(q).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32224" number="38667" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>All legends painted on the sides of the vehicle body shall be so placed to be visible at all times and not obscured by lowered hinged sideboards, or tarpaulin covers secured in place down the sides.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32225" number="38668" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Each operator of a vehicle shall have in his possession at all times the Department of Consumer Affairs permit or license document, State Motor Vehicle Registration Certificate for the vehicle, and chauffeur&apos;s license.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32226" number="38669" version="3">
+								<HEADING>§ 5-03 Recording of Prepayment with Special Stamping Plate.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4241" name="T16C005_5-03"/>§ 5-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Recording of Prepayment with Special Stamping Plate.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32227" number="38670" version="3">
+									<PARA>Permittees or licensees desiring to use Department of Sanitation disposal points in accordance with rules and regulations applicable to such use will be supplied for each permit or license vehicle an addressograph stamping plate for use in connection with recording of prepayments for reception and disposal upon a cubic yard basis and, when the Department has in operation at certain of these points scales to record net weights of loads for payment purposes, a different plate for use in such scales.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32228" number="38671" version="3">
+								<HEADING>§ 5-04 Weighing of Vehicle.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4243" name="T16C005_5-04"/>§ 5-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Weighing of Vehicle.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32229" number="38672" version="3">
+									<PARA>If an applicant desires to use Department disposal facilities at which material will be received only on a weight basis, he shall pay the cost or fees for weighing the vehicle in the presence of the Commissioner&apos;s representatives whenever the Commissioner determines that Department scales are not available for this purpose.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32230" number="38673" version="3">
+								<HEADING>§ 5-05 Standards for Measuring Vehicle Capacity.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4245" name="T16C005_5-05"/>§ 5-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Standards for Measuring Vehicle Capacity.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32231" number="38674" version="3">
+									<PARA>Cubic capacity of vehicle bodies and/or containers shall be determined by measurement by the Commissioner&apos;s representative, or in some cases such as standard totally enclosed bodies or standard containers the manufacturer&apos;s rated capacity may be accepted and adopted, but the Commissioner reserves the right to measure and calculate the cubic capacity of every body and container. Calculations shall be made to the hundredth of a cubic yard. When the calculated capacity contains a fraction not exceeding fifty one-hundredths (50/100) of a cubic yard, capacity shall be fixed at the whole number of cubic yards less the fraction. (When the fraction exceeds fifty one-hundredths of a cubic yard, capacity shall be fixed at the next higher whole number of cubic yards.) Calculations shall be made to the hundredth of a cubic yard. (When the fraction exceeds fifty one-hundredths of a cubic yard, capacity shall be fixed at the next higher whole number of cubic yards.) Class 4 and Class 5 vehicles however, will not be measured and therefore will not have cubic capacity determined and assigned.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32232" number="38675" version="3">
+								<HEADING>§ 5-06 Classification of Vehicle Bodies.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4247" name="T16C005_5-06"/>§ 5-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Classification of Vehicle Bodies.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32233" number="38676" version="748">
+									<PARA>To preserve and protect and promote public health and prevent the soiling and littering of the streets, the following classifications of vehicle bodies by the types of materials carried therein are made as the bases for prescribing, describing, and specifying the vehicle body of each class required to achieve the basic objectives of public health and clean, unlittered streets, to wit: </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32234" number="38677" version="748">
+									<PARA>Class 1: Transportation of garbage or rubbish or garbage and rubbish; </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32235" number="38678" version="748">
+									<PARA>Class 2: Transportation of ashes or manure; </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32236" number="38679" version="748">
+									<PARA>Class 3: Transportation of materials (other than manure and those comprehended in Class 4, 5 or 6) originated and produced solely in the business operations of the owner of the vehicle; </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32237" number="38680" version="748">
+									<PARA>Class 4: Transportation of dead animals, non-edible fats, bones, grease, offal, entrails, hoofs, and other refuse parts of animals, raw hides or uncured skins; </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32238" number="38681" version="748">
+									<PARA>Class 5: Transportation of night soil, contents of cesspools, septic tanks, sinks, privies or vaults, and of other noxious or contaminated or polluted liquids; </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32239" number="38682" version="3">
+									<PARA>Class 6: Transportation of swill.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32240" number="38683" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Class 1 – Vehicle body specifications.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32241" number="38684" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Bodies of vehicles of Class 1 licensee shall be:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32242" number="38685" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>totally permanently enclosed,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32243" number="38686" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>of welded steel construction,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32244" number="38687" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>rear dumping,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32245" number="38688" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>loaded only from and through the rear end or the top of the totally permanently enclosed body (except as permitted by subparagraph (viii) below),</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32246" number="38689" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>so constructed that once garbage or rubbish or garbage and rubbish has been loaded none of such may be re-worked, sorted, handled, or removed from the body other than by dumping the load or partial load,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32247" number="38690" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>without any bulkhead or similar construction between the body and the vehicle cab,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32248" number="38691" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>without any provision whatsoever upon body or cab or other portions of the vehicle to provide for or permit the loading and carrying of any material otherwise than within the totally permanently enclosed vehicle body,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32249" number="38692" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>except that vehicle bodies may have side doors at the forward end of the body not larger than 36 inches by 36 inches for loading bulky materials which cannot be loaded through the rear or top loading openings,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32250" number="38693" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>constructed without doors or openings other than as permitted under subparagraphs (iv) and (viii) above, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32251" number="38694" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(x)<TAB tab-count="1"/>having all loading openings of the vehicle body supplied with adequate doors or covers tightly fitted against rubber or other suitable gaskets and provided with latches or clamps to keep all doors and covers tightly closed when not in use for loading, leakproof, spillproof and dustproof.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32252" number="38695" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If a loading hopper is provided to load garbage or rubbish or garbage and rubbish through the top of the totally permanently enclosed body, such hopper and the mechanism and controls by which it is operated to deposit its contents within the totally enclosed body shall be so constructed, maintained, and operated to prevent any of the contents of such a loading hopper from being discharged in any manner, to any extent, at any time, other than into and within the totally permanently enclosed body.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32253" number="38696" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The body, cab and motor or engine hood of vehicles of Class 1 licensees may be painted any color other than white, beige or any shade thereof which resembles the color of collection vehicles owned or operated by the department.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32254" number="38697" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Class 2 – Vehicle body specifications: Bodies of vehicles of Class 2 licensees shall be either:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32255" number="38698" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>totally enclosed, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32256" number="38699" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>box type open top with both sides and forward end built up solidly to the full water level loading height,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32257" number="38700" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>constructed either of wood or steel or partly of wood and partly of steel,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32258" number="38701" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>excepting that the forward end of a box type open top body may extend upward above the height of the two sides but only for a sufficient height to protect the cab, and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32259" number="38702" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>provided, however, that whether the vehicle body be totally enclosed or box type open top, each shall be without any provision whatsoever upon the body or cab or other portions of the vehicle to provide for or permit the loading and carrying of any material otherwise than within the totally enclosed body or within the box type open body up to the height of the permanent sides or hinged or stake (removable) sideboards and tailgate; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32260" number="38703" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>provided further, however, that the tailgate of every box type open top vehicle body shall be always of a height of not less than that of the two long sides including in the height of the sides the height of hinged side boards, if any and of stake (removable) sideboards while in use; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32261" number="38704" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>provided further, however, that each box type open top vehicle body shall be provided at all times with a heavy tarpaulin cover permanently attached at the front end of the vehicle body, long enough and wide enough to completely cover the vehicle body when fully loaded and extended three-quarters of the way down each side and the rear end or tailgate, having heavy rope or leather or canvas ties at not more than two foot intervals along the bottom of each of the three sides and along the parts of the front end not permanently attached to the vehicle body, and the vehicle body shall have suitable attachments to which to secure the ties of the tarpaulin cover.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32262" number="38705" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Class 3 – Vehicle body specifications: Bodies of vehicles of Class 3 permittees may be either:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32263" number="38706" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>panel type closed, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32264" number="38707" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>box type open top, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32265" number="38708" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>platform, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32266" number="38709" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>stake, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32267" number="38710" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>rack types,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32268" number="38711" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>provided:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32269" number="38712" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>no material shall be carried on a platform or stake or rack vehicle body excepting when and while it is contained entirely in and within metal or wood or corrugated containers;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32270" number="38713" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>garbage or rubbish or garbage and rubbish shall be carried in any type vehicle body only when and while all such is contained entirely in and within metal containers; (iii) only materials originated and produced in the business operations of the permittee shall be transported at any time in the vehicles of Class 3 permittees;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32271" number="38714" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>when containers of materials are carried and transported upon or in box type open top or platform or stake or rack type bodies each and every container shall be tightly covered at all times to prevent any spillage or overflow, or such type body shall be provided at all times with a heavy tarpaulin cover permanently attached at the front end of the vehicle body, long enough and wide enough to completely cover the vehicle body when fully loaded and extend three-quarters of the way down each side and the rear end or tailgate of open top box type or long enough and wide enough to entirely cover the load on platform, stake, or rack types and be fastened to the sides and rear of the platform of any of these latter three types, having heavy rope or leather or canvas ties at not more than two foot intervals along the bottom of each of the three sides and along the parts of the front end not permanently attached to the vehicle body, and the vehicle body shall have suitable attachments to which to secure the ties of the tarpaulin cover; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32272" number="38715" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>provided further, however, ashes, manure, swill, fats, bones, grease, or uncured hides, or night soil, contents of sinks, privies, vaults, or cesspools, or liquids shall not be carried or transported in the vehicles of Class 3 permittees at any time.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32273" number="38716" version="748">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Class 4 – Vehicle body specifications: Bodies of vehicles of Class 4 licensees shall be either:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32274" number="38717" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>totally permanently enclosed of welded steel construction, or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32275" number="38718" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>totally permanently enclosed of wood construction,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32276" number="38719" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>supplied with doors for loading or unloading fitted tightly against rubber or other suitable gaskets and supplied with adequate clamps or latches to keep each door tightly closed at all times when not open for actual loading,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32277" number="38720" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>with body floor constructed to prevent any leakage from materials loaded, handled or thrown upon the floor, and if sump pit be provided, it shall be so constructed and maintained as to prevent leakage or spillage to the streets and to be readily emptied, cleaned and sterilized, provided, however</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32278" number="38721" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>that grease shall be carried only within the body and only in metal containers with individual tight fitting metal covers or in built-in leak proof covered metal containers or bins, both types of containers so constructed and maintained as to be readily emptied and thoroughly cleaned and sterilized,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32279" number="38722" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>provided further, however, that Class 4 licensees may use a platform type vehicle body of steel construction upon which are set and carried welded steel containers supplied with either metal covers fitting tightly against rubber or other suitable gaskets with latches or similar locking devices so constructed and maintained to keep the covers tight when container is not being loaded or a heavy tarpaulin cover long enough and wide enough to completely cover the fully loaded containers, tarpaulin to extend down each of the four sides of containers at least one foot, having heavy rope or leather or canvas ties at not more than eight-inch intervals along the lower edges of the cover, and each container having suitable attachments to secure the ties of the tarpaulin cover,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32280" number="38723" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>provided further, however, that Class 4 licensees may use only for chute loading from slaughter houses a box type open top body, having a heavy tarpaulin cover long enough and wide enough to completely cover the top of the vehicle body when fully loaded and extend at least one foot down each side and front and rear end or tailgate, having heavy rope or leather or canvas ties at not more than two-foot intervals along the bottom edges and the body having suitable attachments to secure the ties of the tarpaulin cover,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32281" number="38724" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>provided further, however, that large dead animals may be carried in a box type open top body, having a heavy tarpaulin cover long enough and wide enough to completely cover the vehicle body when fully loaded and extend at least one foot down each side and front and rear end or tailgate, having heavy rope or leather or canvas ties at not more than two-foot intervals along the bottom edges and the body having suitable attachments to secure the ties of the tarpaulin cover,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32282" number="38725" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>provided further, however, that small dead animals shall be carried only entirely within the vehicle body of one of the enclosed types described above in paragraphs (1), (2), (3) and (4) of this subdivision (d),</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32283" number="38726" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>and provided further, however, that each and every vehicle body of each Class 4 licensee, in addition to all of the above requirements and descriptions shall be so constructed and maintained at all times so that all materials carried may be readily removed and the entire interior or platform cleaned and sterilized and so as to prevent at all times while on the streets any and all leakage or spillage from or of the material carried.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32284" number="38727" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Class 5 – Vehicle body specifications: </CHARFORMAT>Bodies of vehicles of Class 5 licensees shall be either:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32285" number="38728" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>(i) totally enclosed tank type of welded steel construction,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32286" number="38729" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>having a loading opening in the top and discharge opening in the bottom of the tank,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32287" number="38730" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>each opening supplied with a welded steel cover or closure with rubber or other suitable gasket making a seal to prevent all spillage or overflow while on the streets,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32288" number="38731" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>each cover or closure having an opening within it to take the loading or discharge hose,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32289" number="38732" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>each such opening or closure having rubber or other suitable gasket fitted tightly for the full circumference of each hose opening and against each hose to firmly grasp and hold each hose tightly in place when in use,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32290" number="38733" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>each hose opening provided with cover fitting tightly against the gasket to seal entirely each hose opening when not in use; or</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32291" number="38734" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>(i) platform, rack stake, or steel dump trucks upon which is suitably mounted a welded steel tank,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32292" number="38735" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>having a loading opening in the top and discharge opening at the lower rear,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32293" number="38736" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the tank so mounted on the truck body to prevent soiling of the truck body or of the streets,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32294" number="38737" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>each loading and discharge opening supplied with a welded steel cover or closure tightly fitted against rubber or other suitable gasket making a seal to prevent all spillage or overflow while on the streets,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32295" number="38738" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>each cover or closure having an opening within it to take the loading or discharge hose,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32296" number="38739" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>each such opening having rubber or other suitable gasket fitted tightly for the full circumference of each hose opening and against each hose to firmly grasp and hold each hose tightly in place when in use,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32297" number="38740" version="2309">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>each hose opening provided with cover fitting tightly against the gasket to seal entirely each hose opening when not in use; Provided, however, either type [(1) or (2)] above may have in lieu of the covers prescribed for loading and discharge openings suitable valves for these openings which while permitting the insertion of attachment of loading or discharge hose shall be so constructed, maintained, and operated as to make both openings and hose connections tight and leak proof at all times.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32298" number="38741" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Class 6 – Vehicle body specifications.</CHARFORMAT> Bodies of vehicles of Class 6 licensees shall be:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32299" number="38742" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>totally permanently enclosed of one of the types prescribed and described,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32300" number="38743" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>each type of welded steel construction,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32301" number="38744" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>entirely leak proof,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32302" number="38745" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>if of the type loaded through the top without using a loading hopper first filled at the lower rear:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32303" number="38746" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>all sides and ends including the rear shall be built up solidly to the full water level height of the box body,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32304" number="38747" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>loading openings placed in any arrangements or positions as desired, but only in the superstructure of the body above water level of the box body, the door or covers of all openings to be fitted tightly against rubber or other suitable gaskets and having latches or clamps to lock them securely at all times except during loading,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32305" number="38748" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the superstructure so constructed above the box body that when the loading openings in it are closed, the superstructure shall entirely enclose and cover the vehicle body above water level,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32306" number="38749" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>if of the type loaded through the top using a loading hopper first fill at the lower rear, such hopper and the mechanism and controls by which it is operated to deposit its contents within the totally enclosed body shall be so constructed, maintained, and operated to prevent any of the contents of such a loading hopper from being discharged in any manner, to any extent, at any time, other than into and within the totally permanently enclosed body,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32307" number="38750" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>if of a type loaded through the sides of the totally enclosed body, the lower level or sill of the side loading door or opening shall be above water level of the entire body,</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32308" number="38751" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>if provided with any tailgate or other opening for discharge or unloading, the tailgate or other closure of such discharge or unloading opening shall be fitted tightly against rubber or other suitable gaskets and have not less than four approved type locking devices, manually operated, all to hold the tailgate or other closure fast to the body and keep the discharge or unloading opening water tight and entirely leak proof at all times while the vehicle is on the streets.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32309" number="38752" version="3">
+								<HEADING>§ 5-07 Operations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4249" name="T16C005_5-07"/>§ 5-07 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Operations.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32310" number="38753" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Every vehicle shall be maintained, operated, and used at all times only in full compliance with all applicable provisions of law, Federal, State, and local of the Sanitary Code and with all applicable rules and regulations and orders of all authorities, Federal, State and City having jurisdiction in the premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32311" number="38754" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Every vehicle shall be loaded at all times in such a manner and by such methods as to prevent the release or discharge of dust and to prevent spilling of materials upon sidewalks or roadways of streets and every operator of a vehicle shall remove immediately from sidewalks or roadways of streets all material spilled, littered, or thrown thereon in loading operations or in the handling and return of receptacles or while traveling.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32312" number="38755" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Materials loaded into vehicles shall be dumped or unloaded and disposed of only at points where disposal of the particular material may be made lawfully.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32313" number="38756" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The open top box type body of vehicle and containers on or in platform or panel type body vehicles shall be filled or loaded only to the limit of the cubic capacity assigned each and in no case above water level of box body or container; and no more than the number of containers called for by the permit or license shall be transported on or in the body of a vehicle transporting materials in containers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32314" number="38757" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Operators of all types of vehicles shall exercise care at all times to prevent the making of unnecessary or avoidable noise in their operations.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32315" number="38758" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Each open top box type vehicle body shall be loaded only from front to rear and the partial load kept securely and fully covered at all times.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32316" number="38759" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Materials loaded in or upon vehicles shall not be re-worked, re-sorted, picked over, or rehandled while vehicle is on the streets and material shall not be transferred nor re-loaded from a vehicle while on the streets to or into any other vehicle, except that operators of Class 4 vehicles of the totally enclosed walk-in door type may sort materials only within and inside the body, during which periods the door or doors may be kept open. Operators of every class of vehicle shall not work, sort, pick over, or re-handle any materials after removal from the inside of premises served and before loading into vehicle body.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32317" number="38760" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Material shall not be carried at any time upon any vehicle other than solely within the vehicle body or solely within containers on or in the vehicle body when the permit or license applied for and issued is to carry materials in containers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32318" number="38761" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>After materials are dumped for disposal the vehicle body, whatever the type, and each container used, if the permit or license calls for containers,shall be emptied thoroughly and cleared of all loose materials.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32319" number="38762" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>Each permittee or licensee shall clean and wash each vehicle and each container thoroughly inside and outside frequently so that each shall present a good appearance and be maintained free of dirt and offensive odors at all times.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32320" number="38763" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>Ashes may be transported in Class 1 vehicles, but loads containing ashes will not be accepted for disposal at Department Destructors (incinerators). Except for ashes, Class 1 licensees shall not transport any materials specifically listed in any of the other five classes.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32321" number="38764" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>Class 2, Class 4, Class 5, and Class 6 licensees shall each transport only the materials listed for the class for which a license was applied for and issued and no other materials.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32322" number="38765" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(m)<TAB tab-count="1"/>Class 3 permittees shall transport only materials originated and produced solely in the business operation of the permittee for which permit was issued and no other materials.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32323" number="38766" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(n)<TAB tab-count="1"/>If and when the Department has installed and in use scales at its disposal points and appropriate provision has been made for payment for reception and disposal of materials on a weight basis, the Commissioner reserves the right to require permittees and licensees desiring to use Department disposal points which must be used on a weight basis to pay the costs or fees for weighing each vehicle in the presence of the Commissioner&apos;s representative when the Commissioner determines that Department scales are not available for this purpose.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32324" number="38767" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(o)<TAB tab-count="1"/>Bodies of dead animals shall not be dissected outside of the premises from which removed, in the loading process, nor in the vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32325" number="38768" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(p)<TAB tab-count="1"/>All loading hoppers, doors, covers, or other closures of loading openings of all vehicles shall be kept closed and secured at all times excepting during actual loading through the particular opening.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32326" number="38769" version="1084">
+									<PARA>
+										<TAB tab-count="1"/>(q)<TAB tab-count="1"/>The two plates supplied for each vehicle by the Department of Consumer Affairs shall be kept securely affixed at the lower forward end of the body of the vehicle, one on each side of body, so placed to be visible at all times immediately above the required painted legend as to unladen vehicle weight and cubic capacity. The foregoing shall not apply to Class 3 vehicles nor to platform bodies of Class 4 and Class 5 vehicles. Class 3 vehicles shall affix the plates to sign required by 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C005_5-02" destination-id="0-0-0-4239">5-02</LINK>(g) below the legend required by that section. Class 4 and Class 5 vehicles may display the plates either on the chassis or on the cab in a position and manner to make each readily visible.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32327" number="38770" version="1084">
+									<PARA>
+										<TAB tab-count="1"/>(r)<TAB tab-count="1"/>Each operator of a Class 3 vehicle shall display attached to the vehicle body the sign required by 16 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T16C005_5-02" destination-id="0-0-0-4239">5-02</LINK>(g) at all times when the vehicle is transporting materials for which the permit was issued.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32328" number="38771" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(s)<TAB tab-count="1"/>Class 6 vehicle bodies shall not be loaded and shall not attempt to carry any material at any time above water level.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-32329" number="38772" version="3">
+								<HEADING>§ 5-08 Impoundment of Trucks or Vehicles.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-4251" name="T16C005_5-08"/>§ 5-08 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Impoundment of Trucks or Vehicles.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-32330" number="38773" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT>&#160;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32331" number="38774" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Commissioner</CHARFORMAT>. &quot;Commissioner&quot; shall mean the Commissioner of Sanitation or his authorized representative, the Chief Clerk of the Department. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32332" number="38775" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Departmen</CHARFORMAT>t. &quot;Department&quot; shall mean the Department of Sanitation. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32333" number="38776" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>ECB. </CHARFORMAT>&quot;ECB&quot; shall mean the Environmental Control Board of the City of New York. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32334" number="38777" version="1824">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Operator</CHARFORMAT>. &quot;Operator&quot; shall mean the person operating the vehicle at the time of the dumping in violation of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK> of the Administrative Code of the City of New York. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32335" number="38778" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Owner</CHARFORMAT>. &quot;Owner&quot; shall mean &quot;owner&quot; as defined in Section one hundred twenty-eight and in Subdivision three of Section three hundred eighty-eight of the Vehicle and Traffic Law. </PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32336" number="38779" version="1084">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>
+											<TAB tab-count="1"/>Person</CHARFORMAT>. &quot;Person&quot; shall mean any natural person, firm, copartnership, association or corporation.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32337" number="38780" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Redemption Procedure:</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32338" number="38781" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Upon impoundment of any vehicle by the Department, the Commissioner shall notify the owner of such vehicle by certified mail that such vehicle is being held by the Commissioner. Such notification shall contain a brief description of the vehicle, the office at which an application to redeem the vehicle may be made, and a statement as to the applicable charges, fees, and penalties due.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32339" number="38782" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Except as specifically provided otherwise by law, whenever the Department impounds any vehicle, such vehicle shall not be released until the vehicle owner has complied with the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32340" number="38783" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>submitted proof to the Commissioner, including but not limited to the registration for such vehicle issued by the appropriate agency, establishing to the Commissioner&apos;s satisfaction his or her identity as owner of the vehicle;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32341" number="38784" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>paid the prevailing removal charge and storage charge as specified in the notification set forth in paragraph (1) of this subdivision for each day or fraction thereof of the impoundment of such vehicle. The storage charge shall be fifteen dollars ($15.00) for each of the first two days, and ten dollars ($10.00) for each additional day thereafter;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32342" number="38785" version="1824">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>where the vehicle is impounded pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK>(e) of the Administrative Code, paid a fee of two hundred dollars, or posted a bond or letter of credit in such amount, as payment or partial payment of cleaning costs for the illegally dumped material. If the Department estimates that its cleaning costs will be more than two hundred dollars, the Department may require as a condition of releasing the vehicle that such estimated costs be paid, or that a bond or letter of credit in the amount of such estimated costs be posted, as a condition of releasing the vehicle, provided the owner of the vehicle is notified of the estimated cleaning costs and the basis for such costs in the notification set forth in paragraph (1) of this subdivision. If the Department incurs no cleaning costs, or its actual costs are less than the amount collected by the Department pursuant to this subparagraph, the Department shall reimburse the owner and/or operator any amount collected in excess of the Department&apos;s actual costs. If the Department&apos;s actual cleaning costs are more than the amount paid pursuant to this subparagraph, the owner and/or operator shall be liable for such additional costs as provided for in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK>(e) of the Administrative Code. Such cleaning costs shall be determined by the total of the following charges: (A) hourly wages paid to those employees of the Department, including supervisory personnel, for the time actually expended in cleaning, and removing and disposing of the illegally dumped material from the property; (B) costs for the disposal of the illegally dumped material actually removed from the property by Department employees and that is delivered to and received at a Department disposal facility, or another facility that accepts solid waste for the purpose of subsequent transfer to another location for disposal, including the cost incurred by the Department to export the illegally dumped material for disposal out of the City at the time such material was removed from the property, as such cost is fixed contractually between the Department and a vendor providing export services to the Department; and (C) vehicle and equipment charge for any Department vehicle and equipment used to clean and remove the illegally dumped material determined by the fair market rental value of a comparable vehicle or equipment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32343" number="38786" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>exhibited proof to the Commissioner that the ECB proceedings against the owner and operator, if the operator does not also own the vehicle, have been disposed of and that applicable penalties, if any, have been paid, or that a bond in the amount of Seven Thousand Five Hundred Dollars ($7,500) has been deposited with the ECB as security for the payment of any penalty prior to the final disposition of the ECB proceedings.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32344" number="38787" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Notwithstanding the provisions of this paragraph, the Commissioner may, in his or her discretion, waive requirements for payment of the removal charge, storage fee and/or cleaning costs prior to release of the vehicle where such vehicle is owned by a rental or leasing company and no violation was issued to such company or, if a violation was issued, the company has submitted proof that the violation was disposed of in the company&apos;s favor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32345" number="38788" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Upon compliance with all of the provisions of paragraph (2) of this subdivision, the Commissioner shall issue a redemption form authorizing the person in whose name it has been issued to redeem his or her vehicle.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32346" number="38789" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Procedure for Refund of Charges and Fees.</CHARFORMAT> In the event that any underlying notices of violation issued to the owner or operator leading to the impoundment of the vehicle are dismissed by the ECB, then such owner shall be entitled to a refund of any fees paid to the Department or any agent of the Department under these rules upon written demand to the Department or agent of the Department, setting forth the amount claimed, the dates upon which such amounts were paid and furnishing a copy of the ECB decision, provided however, that in the event that the owner has been found not liable for the underlying violation leading to the impoundment of the vehicle but the operator has been found liable for such violation, the owner shall not be entitled to a refund of such fees.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-32347" number="38790" version="1824">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to Redeem Impounded Vehicles.</CHARFORMAT> Any vehicle (other than a vehicle for which a forfeiture proceeding has been commenced pursuant to paragraph (2) of subdivision (e) of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-119" destination-id="0-0-0-0">16-119</LINK> or paragraph (4) of subdivision (d) of § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="16-464" destination-id="0-0-0-0">16-464</LINK> of the Administrative Code) which is not redeemed and removed from City property pursuant to paragraphs (1), (2) and (3) of this subdivision within 10 days following the making of a request by the Commissioner&apos;s representative to remove it shall be deemed to be an abandoned vehicle pursuant to § 1224 of the Vehicle and Traffic Law and shall be disposed of by the Commissioner pursuant to such Law. Such request shall be sent by certified or registered mail, return receipt requested, to the registered owner of the vehicle, at the address contained on the registration of such vehicle.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

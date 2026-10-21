@@ -1,0 +1,927 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-87559" number="103809" version="1429">
+			<HEADING>Chapter 14: Security Guards at Nonpublic Schools</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-12183" name="T55C014"/>Chapter 14: Security Guards at Nonpublic Schools</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-87560" number="103810" version="3">
+								<HEADING>§ 14-01 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12185" name="T55C014_14-01"/>§ 14-01 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87561" number="103811" version="2492">
+									<PARA>As used in this chapter, the following terms have the following meanings. Capitalized terms used in this chapter that are not specifically defined in this section have the same meanings set forth in Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="10-172" destination-id="0-0-0-0">10-172</LINK>(a). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87562" number="103812" version="563">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Commissioner. </CHARFORMAT>The term &quot;Commissioner&quot; means the Commissioner of the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87563" number="103813" version="563">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;Department&quot; means the Department of Citywide Administrative Services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87565" number="103814" version="2902">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Invoice Submission Portal.</CHARFORMAT> The term “Invoice Submission Portal” means the system that facilitates, on behalf of the Department, the invoice submission and reimbursement process for participating Qualified Nonpublic Schools. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151317" number="103815" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">PASSPort.</CHARFORMAT> The term “PASSPort” means the system that facilitates, on behalf of the Department, the application process for nonpublic schools that seek to participate in the Reimbursement Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151316" number="103816" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualifying Nonpublic School.</CHARFORMAT> The term “Qualifying Nonpublic School” means any nonprofit elementary or secondary school in the city that (a) is other than (1) a school of the city school district of the city of New York, or (2) a school that shares space with a school of the city school district of the city of New York, (b) is providing instruction in accordance with the education law, (c) has been assigned a Basic Educational Data System (BEDS) code by the New York state department of education, or a similar successor identifier, and (d) is serving students in any combination of grades pre-kindergarten through twelve. Such definition shall not include any elementary or secondary school that is (1) eligible for rental assistance from the City of New York and (2) utilizes such City assistance pursuant to subparagraph (5) of paragraph (e) of subdivision 3 of section 2853 of the education law for the purpose of contracting for the provision of security services during the same school year for which the school receives reimbursements from the Reimbursement Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151315" number="103817" version="2902">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>Reasonable Costs.</CHARFORMAT> The term &quot;Reasonable Costs&quot; means administrative expenses of a Security Guard Company, including overhead, profit, equipment, supplies and uniform expenses, which are deemed reasonable by the Department. Such reasonable expenses may not exceed twenty-five percent (25%) of the wages earned by the Security Guard Company&apos;s Security Guards at any given school in any given quarter pursuant to the Reimbursement Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87566" number="103818" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reimbursement Period.</CHARFORMAT> The term “Reimbursement Period” means a twenty-four (24) month period that commences on July 1 of each fiscal year, during which a Qualifying Nonpublic School must submit its invoices for the respective fiscal year. Invoices submitted after the Reimbursement Period has passed shall not be reimbursed. For example, a Qualifying Nonpublic School must submit its invoices for Fiscal Year 2026 between July 1, 2025 and June 30, 2027, and any invoices submitted after June 30, 2027 shall not be reimbursed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151318" number="103819" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reimbursement Program.</CHARFORMAT> The term &quot;Reimbursement Program&quot; means the nonpublic school security guard reimbursement program authorized by the Mayor pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="10-172" destination-id="0-0-0-0">10-172</LINK>(b). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87567" number="103820" version="2902">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<TAB tab-count="1"/>School Security Administrator. T</CHARFORMAT>he term “School Security Administrator” means a person, appointed by the Dean, Principal, Administrator or governing body of a Qualifying Nonpublic School that participates in the Reimbursement Program, who provides on-campus supervision to the Security services (as such term is defined in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="10-172" destination-id="0-0-0-0">10-172</LINK> of the Administrative Code) provided pursuant to the Reimbursement Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87568" number="103821" version="2902">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 7/28/2025, eff. 7/28/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-87569" number="103822" version="3">
+								<HEADING>§ 14-02 Security Guard Companies; Application for Inclusion on the Qualified Provider List.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12187" name="T55C014_14-02"/>§ 14-02 Security Guard Companies; Application for Inclusion on the Qualified Provider List.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87570" number="103823" version="1889">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Application.</CHARFORMAT> Pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="10-172" destination-id="0-0-0-0">10-172</LINK>(d), the Department will seek to develop a Qualified Provider List of Security Guard Companies. A Security Guard Company that seeks inclusion on the Qualified Provider List must apply by completing an application on a form prescribed by the Department and must satisfy all provisions of this section. A Security Guard Company must answer all questions set forth in the application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87571" number="103824" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The application for inclusion on the Qualified Provider List shall be made continuously available on the Department&apos;s website. A Security Guard Company may apply for inclusion on the Qualified Provider List at any time. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87572" number="103825" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>In addition, the Department will publish invitations to apply for inclusion on the Qualified Provider List periodically in the City Record, but not less than twice per year. Upon each such publication, the Department will publish the invitation in five consecutive editions of the City Record and shall post the invitation on the Department&apos;s website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87573" number="103826" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Once created, the Qualified Provider List shall be made continuously available on the Department&apos;s website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87574" number="103827" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Qualifications.</CHARFORMAT> A Security Guard Company that seeks inclusion on the Qualified Provider List must meet the following requirements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87575" number="103828" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>be fully licensed pursuant to Article 7-A of the New York State General Business Law and rules and regulations promulgated thereunder by the New York Secretary of State; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87576" number="103829" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>be a responsible company as set forth in 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C014_14-02" destination-id="0-0-0-12187">14-02</LINK>(e)(1); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87577" number="103830" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>demonstrate a minimum of two (2) years prior experience as a Security Guard Company; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87578" number="103831" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>demonstrate that it has exercised due diligence and has conducted a background investigation, including a criminal history check, to verify the credentials of each Security Guard that it employs, pursuant to the requirements set forth in Article 7-A of the General Business Law; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87579" number="103832" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>ensure that each of its Security Guards holds a valid registration card, which has not expired or been revoked or suspended, pursuant to Article 7-A of the General Business Law; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87580" number="103833" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>be incorporated, a limited liability company, a person or firm at the time of its application for inclusion on the Qualified Provider List; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87581" number="103834" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>be enrolled in the Procurement and Sourcing Solutions Portal (&quot;PASSPort&quot;); and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-125712" number="103835" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>the Security Guard Company must demonstrate that each of its guards have undergone training as set forth in 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C014_14-06" destination-id="0-0-0-12195">14-06</LINK>(a). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-125711" number="103836" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The Department shall review all applications for compliance with the requirements set forth in these Rules. The Agency Chief Contracting Officer (&quot;ACCO&quot;) shall determine whether the application is responsive. A responsive application is one that complies with all material terms and conditions of the application, including providing required documentation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87582" number="103837" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If the ACCO determines the application is not responsive, the ACCO will notify the Security Guard Company by electronic mail within 30 days of receipt of the application. If the Security Guard Company fails to respond with all material terms and conditions, including supplying required documentation, within 60 days of receipt of its application, the application may be denied as nonresponsive. A denial for non-responsiveness does not preclude the Security Guard Company from reapplying to the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87583" number="103838" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The Qualified Provider List shall be comprised of responsible Security Guard Companies only. A Security Guard Company must affirmatively demonstrate its responsibility. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87584" number="103839" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A responsible Security Guard Company is one which can perform fully the program requirements and also has the business integrity to justify the award of public tax dollars. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87585" number="103840" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Factors affecting a Security Guard Company&apos;s responsibility may include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87586" number="103841" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>financial resources; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87587" number="103842" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>technical qualifications; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87588" number="103843" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>experience; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87589" number="103844" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>D.<TAB tab-count="1"/>a satisfactory record of performance; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87590" number="103845" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>E.<TAB tab-count="1"/>a satisfactory record of business integrity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87591" number="103846" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Failure of a firm to provide relevant information regarding the Security Guard Company&apos;s responsibility specifically requested by the ACCO may be grounds for a determination of non-responsibility. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87592" number="103847" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A Security Guard Company that has performed unsatisfactorily in the provision of services to the City shall be presumed to be non-responsible, unless the ACCO determines that the circumstances were beyond the company&apos;s control or that the company has taken appropriate corrective action. Past failure to apply sufficient tenacity and perseverance to perform acceptably is strong evidence of non-responsibility. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87593" number="103848" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Making the Responsibility Determination.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87594" number="103849" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The ACCO shall use the following sources of information to support determinations of responsibility or non-responsibility: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87595" number="103850" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>the VENDEX database of debarred, suspended, and ineligible contractors; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87596" number="103851" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>VENDEX and other records of evaluations of performance, as well as verifiable knowledge of contracting and audit personnel; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87597" number="103852" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>determinations of violations of employment-related federal, state, or local law or executive order, including but not limited to those relating to equal employment opportunity, prevailing wage, workplace health and safety, employee benefits, and employee wages and hours; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87598" number="103853" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>D.<TAB tab-count="1"/>information supplied by the Security Guard Company, including application information, financial data, and personnel information; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87599" number="103854" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>E.<TAB tab-count="1"/>other sources, such as publications, suppliers, subcontractors and customers of the prospective contractor, financial institutions, other government agencies, and business and trade associations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87600" number="103855" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The ACCO may notify a Security Guard Company of unfavorable responsibility information and provide the Security Guard Company an opportunity to submit additional information or explain its actions before denying the Security Guard Company inclusion on the Qualified Provider List. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87601" number="103856" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Determination of Non-Responsibility Required.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87602" number="103857" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If a Security Guard Company who otherwise would have been placed on the Qualified Provider List is found non-responsible, a determination of non-responsibility setting forth in detail and with specificity the reasons for the finding of non-responsibility shall be prepared by the ACCO. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87603" number="103858" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A copy of the determination of non-responsibility shall be immediately sent to the Security Guard Company. Notice to the non-responsible Security Guard Company must be mailed no later than two business days after the determination of non-responsibility is made and must inform the Security Guard Company of the right to appeal the determination pursuant to subdivision h of this section. A copy of the determination of non-responsibility shall also be sent to the City Chief Procurement Officer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87604" number="103859" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The determination of non-responsibility shall be included in the VENDEX database. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87605" number="103860" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Upon the determination by the ACCO that an application meets the requirements set forth herein, the Department shall notify the applicant of its inclusion on the Qualified Provider List by regular and electronic mail within 90 days of receipt of its application. The Qualified Provider List will be reviewed periodically to ensure that providers continue to meet the necessary qualifications. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87606" number="103861" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>At least once every two years, each Security Guard Company on the Qualified Provider List must affirm that there has been no change in the information included in its original application. In the event that there has been a change in the information submitted on its application before two years has elapsed, the Security Guard Company must immediately submit such changed information to the Department. Failure to supply such affirmation of no change will result in the Security Guard Company&apos;s removal from the Qualified Provider List until the affirmation of no change or the updated information has been supplied to the Department. Any Security Guard Company that is removed from the Qualified Provider List and re-applies must also provide an affirmation of no change or updated information. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87607" number="103862" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>A Security Guard Company must retain all certified payroll records, which verify that its Security Guards were paid at least the prevailing wages and supplements for unarmed security guards as determined by the Comptroller of the City of New York pursuant to New York State Labor Law § 234. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87608" number="103863" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Determination of Non-responsibility or Denial or Revocation of Qualification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87609" number="103864" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If the Department determines that a Security Guard Company is non-responsible or otherwise not qualified as a provider or the Department revokes such qualification, the Security Guard Company may appeal in writing to the Commissioner or the Commissioner&apos;s designee within 10 days of receipt of the Department&apos;s determination, denial, or revocation. Receipt of notice by the Security Guard Company shall be deemed to be no later than five days from the date of mailing or upon delivery, if delivered. Filing of the appeal shall be accomplished by actual delivery of the appeal document to the office of the Commissioner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87610" number="103865" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The written appeal by the Security Guard Company must briefly state all the facts or other basis upon which the Security Guard Company contests the Department&apos;s determination, denial, or revocation. Supporting documentation must be included. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87611" number="103866" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The Commissioner or the Commissioner&apos;s designee shall consider the Security Guard Company&apos;s appeal and shall make a prompt written decision no later than 60 days after receipt with respect to the merits of the Security Guard Company&apos;s appeal. The determination of the Commissioner or the Commissioner&apos;s designee shall be a final agency determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87613" number="103867" version="1667">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 2/14/2020, eff. 3/15/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98022" number="103868" version="142">
+								<HEADING>§ 14-03 Nonpublic Schools; Qualification for the Reimbursement Program. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12189" name="T55C014_14-03"/>§ 14-03 Nonpublic Schools; Qualification for the Reimbursement Program. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-125713" number="103869" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">PASSPort.</CHARFORMAT> Any nonpublic school in the City of New York (hereinafter “school”) that seeks to participate in the Reimbursement Program must first create an account with PASSPort and complete the HHS Accelerator Prequalification. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151332" number="103870" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Application.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151331" number="103871" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>After creating an account in PASSPort and completing the HHS Accelerator Prequalification, a school may access the application to participate in the Reimbursement Program. The application will be on a form prescribed by the Department and will be accessed through PASSPort. For the 2025-2026 school year, and for any subsequent school year in which the Reimbursement Program is authorized, the deadline to submit a completed application is May 15, unless the agency determines that due to an event that impacts public safety, which was not foreseen in advance of the May 15 deadline and which compromises the safety of one or more non-public schools, it is appropriate for the application to be due at a later date for one or more nonparticipating schools. This deadline applies to both new and existing schools that wish to participate in the Reimbursement Program. The Department shall use such application to determine whether a school is qualified to participate in the Reimbursement Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151330" number="103872" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The application will require the school to provide the number of students enrolled at the school, which may include pre-kindergarten students who will be four years of age on or before December 1, or who will otherwise be eligible to attend kindergarten in the following school year. To participate in the Reimbursement Program a school must be a Qualifying Nonpublic School pursuant to Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="10-172" destination-id="0-0-0-0">10-172</LINK>(a) and must enroll at least 150 students. The Department will verify all enrollment information with the New York State Education Department as reported by the school on the prior year’s Basic Educational Data Systems (“BEDS”) or Student Information Repository System (“SIRS”) Nonpublic and Public Schools Report for the current school year for which the qualified nonpublic school is seeking reimbursement. A separate application is required from each school instructional site with its own individual BEDS code. A school’s prior year’s BEDS or SIRS enrollment number is considered final for the current school year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151329" number="103873" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>All questions regarding the submission, uploading, or retention of documents in connection with the application must be submitted to PASSPort. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151328" number="103874" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A complete application for the Reimbursement Program must include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151327" number="103875" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>an organizational chart, which identifies the names and roles of the school’s administrators and the hierarchy of the School; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151326" number="103876" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the school’s BEDS form for the prior year, or if the school does not have the prior year’s BEDS form, the letter from NYSED assigning the school its BEDS code; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151325" number="103877" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a workscope document, which depicts the daily schedule of the school, as well as school closures; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151324" number="103878" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>proof of the School’s non-profit, non-public status in the form of either a School Charter, Board of Regent’s Certificate, or Certificate of Incorporation; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151323" number="103879" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>IRS 501(c)(3) Determination Letter which includes the school’s tax identification number; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151322" number="103880" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Attachment B, to be provided by the Department, wherein the school lists all of its locations under the same BEDS code and the enrollment count for each location; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151321" number="103881" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>a certification from the School stating that the School does not use funding from the City of New York pursuant to subparagraph (5) of paragraph (e) of subdivision (3) of section 2853 of the Education Law for the provision of security services during the same school year that the School receives reimbursements from the NPS Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151319" number="103882" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Denial or Revocation of Qualification.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87621" number="103883" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>If the Department determines that a school is not qualified to participate in the Reimbursement Program or revokes such qualification, the school may appeal in writing to the Commissioner or the Commissioner&apos;s designee within 10 days of receipt of the Department&apos;s denial or revocation. Receipt of notice by the nonpublic school shall be deemed to be no later than five days from the date of mailing or upon delivery, if delivered. Filing of the appeal shall be accomplished by actual delivery of the appeal document to the office of the Commissioner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87622" number="103884" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The written appeal by the school must briefly state all the facts or other basis upon which the school contests the Department&apos;s denial or revocation. Supporting documentation must be included. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87623" number="103885" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The Commissioner or the Commissioner&apos;s designee shall consider the school&apos;s appeal and shall make a prompt written decision no later than 60 days after receipt with respect to the merits of the appeal. The determination of the Commissioner or the Commissioner&apos;s designee shall be a final agency determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87625" number="103886" version="2902">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 4/13/2017, eff. 5/13/2017; amended City Record 2/14/2020, eff. 3/15/2020; amended City Record 7/28/2025, eff. 7/28/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98023" number="103887" version="2902">
+								<HEADING>§ 14-04 Memorandum of Understanding.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12191" name="T55C014_14-04"/>§ 14-04 Memorandum of Understanding.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87626" number="103888" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>If the Department notifies a school that it qualifies to participate in the Reimbursement Program, the Department shall also provide a Memorandum of Understanding (“MOU”) regarding the school’s participation in the Reimbursement Program. Each school must enter into a MOU with the City of New York, acting by and through the Department, before the school may receive funds through the Reimbursement Program. The MOU must be returned by the School to the Department no later than November 15 of the corresponding year. Failure to timely return the MOU to the Department shall result in the forfeiture of the School’s acceptance into the Program for the school year at issue, and the school will need to reapply the following year if it seeks to participate in the Reimbursement Program. Any security expenses incurred by a school from the date of acceptance, but prior to the timely return of the MOU will not be eligible for reimbursement. Upon execution of the MOU, such MOU shall take effect in accordance with applicable law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87628" number="103889" version="2902">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 2/14/2020, eff. 3/15/2020; amended City Record 7/28/2025, eff. 7/28/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98024" number="103890" version="142">
+								<HEADING>§ 14-05 Nonpublic Schools and Security Guard Companies; Program Administration.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12193" name="T55C014_14-05"/>§ 14-05 Nonpublic Schools and Security Guard Companies; Program Administration.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87629" number="103891" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Start Date.</CHARFORMAT> A school may seek reimbursement from the Department for the cost of Security Services beginning on the first day of classes in the school year for which the Reimbursement Program has been authorized or the date the Department determines that the School is qualified to participate in the reimbursement program, whichever is later. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87630" number="103892" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Qualified Providers.</CHARFORMAT> If the Qualified Provider List contains three (3) or more Security Guard Companies on the date of the execution of the MOU between the Department and a school, the school must retain a Security Guard Company from the Qualified Provider List in order for the cost of its Security Services to be eligible for reimbursement. If the Qualified Provider List contains fewer than three (3) Security Guard Companies at such time, the school may retain any Security Guard Company that is licensed pursuant to Article 7-A of the General Business Law and complies with all applicable labor and employment laws. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87631" number="103893" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Insurance Requirements.</CHARFORMAT> Upon retention by the school of a Security Guard Company from the Qualified Provider List or a Security Guard Company licensed pursuant to Article 7-A of the General Business Law, the Security Guard Company must maintain throughout the term of its agreement with the school commercial general liability (&quot;CGL&quot;) insurance, which shall: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87632" number="103894" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>be issued by a company that may lawfully issue the CGL policy. The company must have an A.M. Best rating of at least A-/VII or a Standard &amp; Poor&apos;s rating of at least A; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87633" number="103895" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>insure the Security Guard Company, the school, and the City of New York and protect them from any claims for injury (including death) or property damage that may arise from or allegedly arise from operations under the agreement with the school <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87634" number="103896" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>provide coverage of at least one million dollars ($1,000,000) per occurrence and two million dollars ($2,000,000) aggregate; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87635" number="103897" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>provide coverage at least as broad as that provided in the most recently issued edition of Insurance Services Office (&quot;ISO&quot;) Form CG 00 01 and be &quot;occurrence&quot; based rather than &quot;claims-made&quot;; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87636" number="103898" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>name the school and the City of New York as an Additional Insured with coverage at least as broad as the most recent edition ISO Form CG 2026. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87637" number="103899" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The Security Guard Company shall provide the endorsement(s) naming the school and the City as an Additional Insured and proof of CGL insurance by submission of a certificate of insurance that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87638" number="103900" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>satisfies the requirements of this rule; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87639" number="103901" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>identifies the insurance company that issued such insurance policy, the policy number, limit(s) of insurance, and expiration date; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87640" number="103902" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>is accompanied by a sworn statement in a form prescribed by the Department from a licensed insurance broker or agent certifying that the certificate of insurance is accurate in all material respects. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87641" number="103903" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A Security Guard Company must ensure that its policies are current and is required to submit an updated certificate of insurance and certification by broker or agent within five days of the expiration date of the current policy. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87642" number="103904" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A Security Guard Company shall maintain workers&apos; compensation insurance, disability benefits insurance and employer&apos;s liability insurance in accordance with the laws of the State of New York on behalf of, or with regard to, all employees providing services to a school, and must produce proof of workers&apos; compensation insurance and disability benefits insurance coverage within 10 days of its retention by the school, or upon demand by the Department. Satisfactory proof shall mean: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87643" number="103905" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>A.<TAB tab-count="1"/>C-105.2 Certificate of Workers&apos; Compensation Insurance; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87644" number="103906" version="2505">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>B.<TAB tab-count="1"/>U-26.3 – State Insurance Fund Certificate of Workers&apos; Compensation Insurance; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87645" number="103907" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>C.<TAB tab-count="1"/>Request for WC/DB Exemption (Form CE-200); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87646" number="103908" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>D.<TAB tab-count="1"/>Equivalent or successor forms used by the New York State Workers&apos; Compensation Board; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87647" number="103909" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>E.<TAB tab-count="1"/>Other proof of insurance in a form acceptable to the City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87648" number="103910" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">School Security Administrator. </CHARFORMAT>The School Security Administrator shall be responsible for the daily administration of Security Services provided at the school, including decisions regarding the selection, retention, and replacement of Security Guards. The School Security Administrator must report the misconduct of a Security Guard to the administration of the school. The School Security Administrator may report any concerns regarding a Security Guard Company to the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87649" number="103911" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Requirements of Security Guard Companies. A Security Guard Company that is retained to provide Security Services must: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87650" number="103912" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>furnish distinctive, appropriate, and complete uniforms to each Security Guard assigned to such school. All Security Guards must report for duty wearing a complete uniform; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87651" number="103913" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>ensure that each Security Guard assigned to the school has satisfactorily completed training programs in compliance with Section 89-n of Article 7-A of the General Business Law and 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C014_14-06" destination-id="0-0-0-12195">14-06</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87652" number="103914" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>ensure that each Security Guard assigned to the school has no physical conditions that would hamper the performance of assigned duties; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87653" number="103915" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>ensure that each Security Guard assigned to the school is physically able to wear and use any equipment furnished to them to conduct their duties; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87655" number="103916" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(v)<TAB tab-count="1"/>ensure that each Security Guard assigned to the school wears and displays a Company-issued identification card and New York State Guard License prominently while on duty; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87656" number="103917" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>ensure that each Security Guard assigned to the school has the ability to understand, speak, write and be understood in English; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-125718" number="103918" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>furnish communication systems and accessories for use at each school. Such systems and accessories must be provided in sufficient quantities to ensure that there is at least one operable, fully charged radio and case, or other Security Guard Company issued communication device, for each guard on each shift. All security personnel assigned to a school must report for duty bearing all assigned equipment. The School Security Administrator must approve all equipment prior to use. Such systems and accessories must: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87657" number="103919" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>permit each guard to communicate with the School Security Administrator and any other guards assigned to the school; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87658" number="103920" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>be licensed by the Federal Communication Commission on a business or public safety band. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87659" number="103921" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Incident Reporting.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87660" number="103922" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Each Security Guard assigned to the school must document criminal activity and other significant incidents related to public safety that occur while the Security Guard is on duty. Each school is responsible for maintaining such documentation and for promptly reporting criminal activity to the New York City Police Department and other significant incidents related to public safety to any other government agency, where appropriate. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87661" number="103923" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>The School Security Administrator must submit an annual report to the Department that summarizes all criminal activity and other significant incidents related to public safety that are documented by its Security Guards. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87663" number="103924" version="1667">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 2/14/2020, eff. 3/15/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98025" number="103925" version="142">
+								<HEADING>§ 14-06 Security Guard Companies; Training.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12195" name="T55C014_14-06"/>§ 14-06 Security Guard Companies; Training.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87664" number="103926" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Security Guard Companies must ensure that all Security Guards receive training pursuant to the Article 7-A, Section 89-n of the General Business Law. Consistent with such requirements, a Security Guard must receive: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87665" number="103927" version="2497">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">On-the-Job Training:</CHARFORMAT> A minimum of 16 hours of training generally relating to the security guard&apos;s specific duties, the nature of the work place and the requirements of the Security Guard Company. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87666" number="103928" version="1667">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Refresher Training:</CHARFORMAT> During each year that a Security Guard takes part in the Reimbursement Program, such Security Guard must complete at a minimum an eight hour annual in-service training course. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87667" number="103929" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Security Guard Companies must maintain current records for each Security Guard regarding the training that such guard has completed. The school may request a copy of such records at any time. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87668" number="103930" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Nothing contained in this section shall preclude a school from requiring additional training suited to its particular needs. However, such additional training will not be eligible for reimbursement to the schools. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87670" number="103931" version="1667">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 2/14/2020, eff. 3/15/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-047]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98026" number="103932" version="142">
+								<HEADING>§ 14-07 Nonpublic Schools; Allowable Costs and Reimbursements. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12197" name="T55C014_14-07"/>§ 14-07 Nonpublic Schools; Allowable Costs and Reimbursements. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87671" number="103933" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Number of Guards.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87674" number="103934" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A school that enrolls between 150 and 499 students may be reimbursed for Allowable Costs with regard to one (1) Security Guard; a school that enrolls between 500 and 999 students may be reimbursed for Allowable Costs with regard to two (2) Security Guards; and a school may be reimbursed for Allowable Costs with regard to an additional Security Guard for each additional 500 students enrolled in such school. Reimbursement for the Security Services provided by each Security Guard during periods of school-related instruction or school-related events may include the cost of different individuals providing Security Services at different times. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151335" number="103935" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>When calculating the number of students enrolled at a school, each school that has been assigned a BEDS code by the New York State Education Department will be considered distinct. The number of students at schools with distinct codes, even if such schools are contractually or otherwise related, will not be combined for the purposes of determining the number of guards pursuant to this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151334" number="103936" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The Department will adjust payments, including recoupment, based on verification of the school’s enrollment information by the New York State Education Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-151333" number="103937" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>A school that operates at more than one address under a single BEDS code will be eligible for reimbursement for the allowable costs of a security guard at each such address, provided that student enrollment at each such address satisfies the minimum student enrollment requirements of 150 students as set forth in subdivision (a) of 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C014_14-07" destination-id="0-0-0-12197">14-07</LINK>, and provided that the location does not share space with a school of the city school district of the city of New York. If no single location under a single BEDS code satisfies the minimum student enrollment requirements of 150 students, the school is ineligible for reimbursement for the allowable costs of a security guard. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87675" number="103938" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Wages.</CHARFORMAT> The Department shall reimburse for Security Services only if each Security Guard is paid on an hourly basis no less than the prevailing wage and supplements in the City for unarmed guards as determined by the Comptroller of the City of New York pursuant to New York State Labor Law § 234. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87676" number="103939" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">School-Related Instruction and Events.</CHARFORMAT> The Department shall reimburse for Security Services provided during school-related instruction or school-related events. School-related events shall not include private functions or activities that are not primarily directed to students. Schools are required to maintain records containing a description of school-related events for which reimbursement is requested. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87677" number="103940" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Overtime. </CHARFORMAT>The Department shall reimburse for overtime costs for Security Services provided during school-related instruction and school-related events that do not exceed fifteen percent of the non-overtime wages of Security Guards reimbursed to the school during any given quarter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87678" number="103941" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reasonable Costs. </CHARFORMAT>Each Security Guard Company may charge Reasonable Costs to each school for administrative expenses. The Department shall reimburse the school for such costs. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87679" number="103942" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Payments.</CHARFORMAT> The Department shall provide reimbursements on a quarterly basis after receiving satisfactory proof from the school of compliance with the requirements set forth in these Rules. Satisfactory proof must be submitted through the Invoice Submission Portal, and must include, but shall not be limited to, certified invoices, payroll records, timesheets and, when applicable, an annual report of incidents as required by 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C014_14-05" destination-id="0-0-0-12193">14-05</LINK>(f). Invoices must be submitted to the Department during the Reimbursement Period for the respective fiscal year. All invoices must be signed by an authorized signatory, or their successor, identified in the application submitted by each school. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87680" number="103943" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Budget.</CHARFORMAT> If the Department anticipates that schools will submit reimbursement claims in excess of available funds for a given school year, the Department shall reimburse each school on an equitable basis until such funds are exhausted. The Department will notify each school promptly if such a determination is made. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87682" number="103944" version="2902">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 2/14/2020, eff. 3/15/2020; amended City Record 7/28/2025, eff. 7/28/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-98027" number="103945" version="142">
+								<HEADING>§ 14-08 Nonpublic Schools; Compliance and Auditing.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12199" name="T55C014_14-08"/>§ 14-08 Nonpublic Schools; Compliance and Auditing.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-87683" number="103946" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Records Retention.</CHARFORMAT> Each school must retain all records supporting its reimbursement claims for seven (7) years. Such records include, but not are not limited to, invoices, payroll records, timesheets, and work assignment data from Security Guard Companies and annual reports of incidents as required by 55 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T55C014_14-05" destination-id="0-0-0-12193">14-05</LINK>(f). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87684" number="103947" version="2902">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Submission of Records.</CHARFORMAT> Each school must submit all records supporting its reimbursement claims through the Invoice Submission Portal including, but not limited to, certified payroll records, invoices, and time sheets, which include the name, address, and unique employee identification number of each Security Guard. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87685" number="103948" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Audit.</CHARFORMAT> Each school must make available all records supporting its reimbursement claims for auditing and inspection by DCAS Internal Audit and Compliance Unit (&quot;IA&quot;) and/or its contractors upon demand with five (5) days prior written notice. The school must produce any and all original books, reports, financial statements, vouchers, records, payroll records, time sheets, and work assignment data pertaining to the reimbursement claims, whether those documents are maintained in hard copy or electronically. Such records must be made available for inspection at the offices of the Department or on the premises of the school. The school must gather any and all documents pertaining to its reimbursement claims, including, but not limited to, documents describing school-related activities at which Security Services were provided. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87686" number="103949" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Visits to Schools.</CHARFORMAT> IA may visit the school to review records and interview staff, contractors, and subcontractors in furtherance of IA&apos;s audit of the reimbursement claims. The school must cooperate with IA during such visits. These visits may be unannounced. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87687" number="103950" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Records Review.</CHARFORMAT> IA may review documents on the premises of the school and may make and remove copies of records for auditing purposes. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87688" number="103951" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Findings.</CHARFORMAT> IA shall report the findings of its audit and recommendations to the Department for any action it deems appropriate. A school&apos;s failure to comply with these Rules may result in disqualification from the Reimbursement Program. The Department may, in its sole discretion, share the findings of the audit with the school or other government entities. Nothing set forth herein shall limit the ability of the Comptroller of the City of New York or the New York City Department of Investigation to obtain and review a school&apos;s records. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-003]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-87689" number="103952" version="2902">
+									<PARA>(Added City Record 7/19/2016, eff. 7/19/2016; amended City Record 7/28/2025, eff. 7/28/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-111]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

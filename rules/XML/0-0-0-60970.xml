@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-60970" number="71532" version="3">
+			<HEADING>Chapter 2: Single Adult Homeless Shelter</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-8329" name="T31C002"/>Chapter 2: Single Adult Homeless Shelter</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-60971" number="71533" version="3">
+								<HEADING>§ 2-01 Single Adult Permanent Housing Referral Criteria.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-8331" name="T31C002_2-01"/>§ 2-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Single Adult Permanent Housing Referral Criteria.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-60972" number="71534" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Homeless shelters for single adults may not refer clients to permanent housing in buildings that meet one or more of the following criteria:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60973" number="71535" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Buildings that appear on the New York State Department of Health (DOH) Referral Suspension List or on the DOH Uncertified Facilities List, as posted on the DOH website, when a client&apos;s exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60974" number="71536" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Buildings that have active vacate orders listed by the NYC Department of Buildings (DOB), Department of Housing Preservation and Development (HPD) and/or the Fire Department (FDNY) on their respective websites when a client&apos;s exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60975" number="71537" version="1870">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Buildings against which HPD has pending litigation, or with one or more Hazard Class &quot;I&quot; violations as reflected in the HPD &quot;Complaint, Violations and Registration Information&quot; database, when a client&apos;s exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address, or buildings that at such time are identified on the HPD website as enrolled in the HPD Alternative Enforcement Program (AEP) established by the New York Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-2153" destination-id="0-0-0-0">27-2153</LINK>.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60976" number="71538" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Buildings with one or more complaints posted on the DOB website (Buildings Information System or BIS) within the four years preceding the time when a client&apos;s exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address, that meet both criteria (i) and (ii) below:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60977" number="71539" version="1170">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Coded as one or more of the following Complaint Categories: <LINEBRK/>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60978" number="71540" version="2482">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="2" left-border-space="0" left-border-width="14" left-border-color="#000000" right-border-space="0" right-border-width="14" right-border-color="#000000" top-border-space="0" top-border-width="14" top-border-color="#000000" bottom-border-space="0" bottom-border-width="14" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="14" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="14" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="5" percentage="yes"/>
+												<COLUMNFORMAT column-width="30" percentage="yes"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Code</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Complaint Category Description </CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>31</PARA>
+												</COL>
+												<COL>
+													<PARA>Certificate of occupancy (CO) – None / Illegal / Contrary to CO</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>45</PARA>
+												</COL>
+												<COL>
+													<PARA>Illegal conversion</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>71</PARA>
+												</COL>
+												<COL>
+													<PARA>Single Room Occupancy (SRO) – Illegal work / No permit / Change in occupancy – use</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60979" number="71541" version="2482">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Complaint Disposition Codes that are blank in BIS or are A1 through A9 (violations or summons served) or are C1 through C4 (failure to gain access / access denied).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60980" number="71542" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Referrals by shelters to housing that meets one or more of the criteria set forth in subdivision (a) of this section will be penalized through the Performance Incentive Program, as set forth in the provider&apos;s contract with DHS.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60981" number="71543" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A shelter provider may not stop a client from choosing to exit shelter to housing that meets one or more of the criteria set forth in subdivision (a) of this section. Should a client make such a choice, the shelter staff must inform the client that the housing option he or she has chosen fails to meet the minimum standards outlined by DHS. Shelter staff must document this conversation in the client&apos;s case record.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60982" number="71544" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Using the criteria set forth in subdivision (a) of this section, shelter providers must evaluate a housing option provided by a potential landlord or agent before that landlord or agent presents that housing option to clients within a homeless shelter for single adults. If a shelter provider discovers that a housing option is found to meet one or more of the criteria set forth in subdivision (a) of this section, the shelter provider must prohibit the landlord or agent from presenting this housing option to clients in the shelter.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60983" number="71545" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Should a client view a housing option provided by a potential landlord or agent and believe that it meets one or more of the criteria set forth in subdivision (a) of this section, the shelter provider must offer to assist the client in making a complaint to the 311 citizen service center. The shelter provider must provide the client with access to a telephone if the client does not have one available. If the client refuses to accept the housing option based on his/her report of a condition that would make the housing option inappropriate under such criteria, the shelter provider must not make the referral. If an inspection conducted by the Department of Buildings and/or Department of Housing Preservation and Development subsequent to a 311 complaint determines that the housing option does not meet any of the criteria set forth in subdivision (a) of this section, the shelter provider may make the referral. In the event a client refuses the referred housing option, the reason(s) for the refusal must be documented in the client&apos;s case record.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-60984" number="71546" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Shelter providers must distribute to all clients in shelter a plain language document that describes the conditions that preclude a referral to a housing option meeting one or more of the criteria set forth in subdivision (a) of this section and contains information about how to contact the Department of Buildings and the 311 citizen service center.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

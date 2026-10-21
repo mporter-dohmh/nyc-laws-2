@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-113968" number="53319" version="1374">
+			<HEADING>Chapter 33: Operation of Body Scanners in Correctional Facilities</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-15767" name="T24C033"/>Chapter 33: Operation of Body Scanners in Correctional Facilities</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114046" number="53320" version="1943">
+								<HEADING>§ 33-01 Applicability and Communications.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15769" name="T24C033_33-01"/>§ 33-01 Applicability and Communications.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114090" number="53321" version="1375">
+									<PARA>This chapter applies to body scanners used by the New York City Department of Correction at any correctional facility and must be read in conjunction with New York State Public Health Law section 3502(6) and 24 RCNY Health Code <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.00" destination-id="0-0-0-15025">Article 175</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114089" number="53322" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114097" number="53323" version="1374">
+								<HEADING>§ 33-02 Definitions.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15771" name="T24C033_33-02"/>§ 33-02 Definitions.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114088" number="53324" version="1375">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Terms that are defined in 24 RCNY Health Code <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.00" destination-id="0-0-0-15025">Article 175</LINK> have the same meaning when used in this Chapter unless defined otherwise. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114087" number="53325" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>In addition, the following definitions apply: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114085" number="53326" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ANSI Standard 42.47</CHARFORMAT>&quot; means the American National Standards Institute American National Standard for Measuring the Imaging Performance of X-ray and Gamma Ray Systems for Security Screening of Humans N42.47-2010 or any successor to such standard. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114084" number="53327" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ANSI Standard 43.17</CHARFORMAT>&quot; means the American National Standards Institute American National Standard Radiation Safety for Personnel Security Screening Systems Using X-Ray or Gamma Radiation, ANSI/HSP N43.17-2009 or any successor to such standard. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114100" number="53328" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Body scanner</CHARFORMAT>&quot; means a limited-use system or equipment that utilizes a low dose of ionizing radiation to create an anatomical image capable of detecting objects placed on, attached to, or secreted within a person&apos;s body. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114083" number="53329" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department</CHARFORMAT>&quot; means the New York City Department of Health and Mental Hygiene. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114082" number="53330" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Detainee</CHARFORMAT>&quot; means an individual in the custody of the New York City Department of Correction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114081" number="53331" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">DOC</CHARFORMAT>&quot; means the New York City Department of Correction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114080" number="53332" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Health Code</CHARFORMAT>&quot; means the New York City Health Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114079" number="53333" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Minor</CHARFORMAT>&quot; means an individual under the age of 18. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114077" number="53334" version="1375">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Occupational dose</CHARFORMAT>&quot; means the dose received by an individual in the course of employment in which the individual&apos;s assigned duties involve exposure to radiation or to radioactive material from licensed and unlicensed sources of radiation, whether in the possession of the licensee, registrant, or another person. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">&quot;</CHARFORMAT>Occupational dose&quot; does not include a dose received from background radiation, from any medical administration the individual has received, from exposure to individuals administered radioactive material as part of medical treatment, from voluntary participation in medical research programs, or as a member of the public. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114076" number="53335" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public</CHARFORMAT>&quot; means any person other than a worker or a subject. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114075" number="53336" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualified Physicist</CHARFORMAT>&quot; means a medical physicist certified by the American Board of Radiology, a New York State-licensed Medical Physicist, or a health physicist certified by the American Board of Health Physics and/or licensed by New York State in medical health physics, all with demonstrated relevant experience in diagnostic subspecialties involving human imaging equipment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114074" number="53337" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Radiation safety manual</CHARFORMAT>&quot; means a manual for each body scanner maintained by DOC and available to the Department at any time that contains all documents related to the administration and operational aspects of DOC&apos;s radiation safety program, including the documents submitted to register each piece of scanning equipment and any mandated reports and test results. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114099" number="53338" version="1375">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Radiation Safety Officer</CHARFORMAT>&quot; means the individual responsible for administrating the radiation protection program for the body scanner described in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C033_33-04" destination-id="0-0-0-15775">33-04</LINK>, the qualifications for which position are the same as for the Qualified Physicist. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114071" number="53339" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reference effective dose</CHARFORMAT>&quot; means a quantity based on measureable parameters used by ANSI Standard 43.17 for setting dose limits. It is obtained from air kerma (or exposure) and HVL measurements as described in Section 6.1.3 of ANSI Standard 43.17. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114098" number="53340" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Scan</CHARFORMAT>&quot; means the operation necessary to produce one image (e.g., front view) from one radiation source. One radiation source simultaneously producing multiple images also constitutes one scan. Two sources simultaneously producing two images constitute two scans. In some cases, several scans may be required for a single screening of a subject. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114070" number="53341" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Screening</CHARFORMAT>&quot; means the sum of radiation exposures or scans necessary to image objects concealed on all sides of the body as intended by the system design under normal conditions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114069" number="53342" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Subject</CHARFORMAT>&quot; means a person being scanned by a body scanner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114068" number="53343" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Technique factors</CHARFORMAT>&quot; means the conditions of operating radiation equipment, including the following: (1) the peak kilovoltage applied to the x-ray tube, (2) the electric current passing through the x-ray tube, and (3) the scan time. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114067" number="53344" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Worker</CHARFORMAT>&quot; means any DOC employee or contracted person whose responsibilities include at least one of the following: initiating or stopping a scan; verifying that body scanner equipment is operating correctly; providing information and instructions to individuals being screened; controlling access to the inspection zone; and interpreting results of scans. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114066" number="53345" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114096" number="53346" version="1943">
+								<HEADING>§ 33-03 Registration and Inspections.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15773" name="T24C033_33-03"/>§ 33-03 Registration and Inspections.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114065" number="53347" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Registration.</CHARFORMAT> Prior to being maintained or operated in a correctional facility, a body scanner must be registered with the Department. A body scanner may be installed at a correctional facility prior to registration solely for the purpose of conducting the testing required for registration. Registrations are valid for two years and may be renewed upon expiration. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114064" number="53348" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Application for registration or renewal.</CHARFORMAT> An application to register or renew any body scanner must be made to, and in a manner prescribed by, the Department and must include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114063" number="53349" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The name, model number, body scanner technique factors and any other identifying information about the particular piece of body imaging scanning equipment; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114062" number="53350" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The building and location where the body scanner will be used; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114061" number="53351" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The security conditions under which the body scanner will be used to ensure that individuals other than the subject are not exposed to radiation; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114060" number="53352" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Submission of results of the following tests performed by a qualified physicist: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114059" number="53353" version="1491">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>A protection survey to demonstrate the radiation level in the immediate surrounding areas including the operators&apos; position. These measurements along with the projected maximum workload, occupancy and other factors must be used to demonstrate compliance with 24 RCNY Health Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.03" destination-id="0-0-0-15950">175.03</LINK>(c), (d), and (f) standards for protection against ionizing radiation, or any successor regulation. The radiation protection survey must be conducted from different locations in all directions from the body scanner to a location of the point where the radiation level rate is equal or greater than 0.05 mrem in any hour under maximum workload conditions. The radiation protection survey report must be signed by the Qualified Physicist and the individual conducting the survey, and must have an attached calibration report for all instruments used to conduct the radiation survey. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114058" number="53354" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The estimate of the reference effective dose must be determined according to the relevant sections of Section 6.1.3 of ANSI Standard 43.17 and must demonstrate that during a single scan, an individual will not receive a total reference effective dose greater than 10 uSv. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114057" number="53355" version="1375">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>All imaging tests conducted by a Qualified Physicist as mandated in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C033_33-04" destination-id="0-0-0-15775">33-04</LINK> and, if such tests indicate compliance limits are exceeded, then service reports indicating any corrective action conducted on the body scanner and the results of retesting conducted by a Qualified Physicist must be also submitted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114056" number="53356" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>Any additional documentation requested by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114055" number="53357" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Inspections.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114054" number="53358" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any body scanner subject to the registration requirements of this Chapter will be inspected by the Department to monitor compliance with the provisions of this Chapter. Inspections will be conducted at least annually. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114053" number="53359" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Re-inspections or other appropriate follow-up activities will be conducted at a frequency determined by the Department to monitor correction of any violation found during an initial inspection and remaining uncorrected at the conclusion thereof. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114052" number="53360" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Orders.</CHARFORMAT> The Department may order that a body scanner be immediately shutdown if its operation threatens public health or puts anyone&apos;s safety at risk. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114051" number="53361" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114095" number="53362" version="1943">
+								<HEADING>§ 33-04 Radiation Protection Program.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15775" name="T24C033_33-04"/>§ 33-04 Radiation Protection Program.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114050" number="53363" version="1375">
+									<PARA>DOC must develop, document and implement a radiation protection program commensurate with the scope and extent of operations and sufficient to ensure compliance with the provisions of this Chapter and applicable sections of 24 RCNY Health Code <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.00" destination-id="0-0-0-15025">Article 175</LINK>, or any successor regulation. DOC must follow ANSI Standard 43.17, ANSI Standard 42.47, and the requirements of this section to develop and implement an appropriate safety program for the use of body scanners in a correctional environment. DOC&apos;s radiation safety program must address and document each of the following aspects of such program: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114049" number="53364" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Designate a Radiation Safety Officer (RSO) who must be a Qualified Physicist and who has the authority to ensure the implementation of the radiation protection program. The Radiation Safety Officer must report directly to the Radiation Safety Committee as defined in section (b) below. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114048" number="53365" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Provide for a Radiation Safety Committee to administer the radiation protection program. The radiation safety committee must include the DOC facility commander or a person with the authority to act on behalf of the facility commander, the Radiation Safety Officer, representation from all relevant DOC personnel within the facility where radiation sources are used, and a representative of the Qualified Physicist. The committee shall oversee all uses of body scanning equipment within the facility, review the activities of the Radiation Safety Officer, and review the radiation safety program at least annually and the administration of the required quality control testing described in subdivision (e) of this section. The report of DOC&apos;s annual review of the radiation safety program shall be retained in DOC&apos;s radiation safety manual. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114047" number="53366" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>All documents pertaining to the Radiation Protection Program must be placed in the radiation safety manual, which must be made available for the Department to inspect at any time. Information in the radiation safety manual must include but not be limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114045" number="53367" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The radiation safety committee names along with all minutes of the meetings of this committee; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114044" number="53368" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Name and contact information for the RSO, including appropriate information to contact the RSO immediately in case of an emergency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114043" number="53369" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Copies of all documents that were submitted to obtain a certificate of registration including all technical documents such as acceptance testing and commissioning report prepared by the Qualified Physicist; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114042" number="53370" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>All information as supplied by the body scanner manufacturer and all documents relating to either routine preventive maintenance and repair of the body scanner; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114041" number="53371" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Documents pertaining to training of DOC personnel who operate the body scanners including the outline of the training, attendance sheet with date and signatures of attendees; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114040" number="53372" version="1491">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The results of the decision to address individual monitoring needs for operators of body scanners pursuant to 24 RCNY Health Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.03" destination-id="0-0-0-15950">175.03</LINK>, or any successor regulation. If DOC decides not to procure individual monitoring badges for body scanner operators, DOC must obtain a report from DOC&apos;s qualified physicist to provide evidence that the requirements of 24 RCNY Health Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.03" destination-id="0-0-0-15950">175.03</LINK>, or any successor regulation, are satisfied and this report must be maintained in the radiation safety manual. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114039" number="53373" version="1375">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Copies of all relevant ANSI standards and location of 24 RCNY Health Code <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24HC_175.00" destination-id="0-0-0-15025">Article 175</LINK>, or any successor regulation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114038" number="53374" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>DOC must utilize ANSI Standard 42.47 to establish imaging tests to measure and assess the image resolution of the body scanner over time, which scanners are defined by ANSI Standard 42.47 as &quot;whole body field of view&quot;. To do this, DOC must: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114037" number="53375" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Utilize a phantom, as described in Section 5.4 et seq. of ANSI Standard 42.47, or an alternate imaging device approved by the Department, to conduct the following imaging tests as described in the following sections of that Standard: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114036" number="53376" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the spatial resolution test as described in Section 5.5; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114035" number="53377" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>the wire detection test as described in Section 5.6; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114034" number="53378" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>the material detection on body test as described in Section 5.7; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114033" number="53379" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>the penetration tests as described in Section 5.9. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114032" number="53380" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>DOC must adopt the tolerances for the imaging tests described in paragraph (1) above as stated in ANSI Standard 42.47 Table 4 under the heading for &quot;whole body field of view.&quot; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114031" number="53381" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The imaging tests as described in paragraph (1) above must be conducted with the following frequency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114030" number="53382" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>To assess image degradation with body mass, the penetration tests must be conducted quarterly for each body scanner; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114029" number="53383" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The spatial resolution test, wire detection test, and material detection on body test must be conducted semiannually; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114028" number="53384" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>All imaging tests must be evaluated after any software upgrade to the body scanner and after any repairs on the imaging chain, e.g., repairs done on the detector. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114027" number="53385" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The following documents must be maintained in the radiation safety manual: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114026" number="53386" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>The imaging tests, the frequency of such tests, and the title of the individual who will conduct the imaging tests; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114025" number="53387" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>The results of all imaging tests conducted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114024" number="53388" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>A Qualified Physicist must conduct an annual evaluation and prepare a report on the body scanners to determine the reference effective dose for a typical scan. Any significant variations from manufacturer&apos;s specification or from previous reports must be investigated and a report of the discrepancy must be documented within 30 days. All reports created pursuant to this subdivision must be placed in the radiation safety manual. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114023" number="53389" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Radiation surveys must be conducted by a Qualified Physicist to determine radiation levels to workers, subjects, and the public in all areas around the body scanner to any location that the radiation level rate is equal or greater than 0.05 mrem in any hour under maximum workload conditions as defined in the radiation protection manual. A radiation protection survey must be conducted prior to initiating scanning of any individuals in the areas around a body scanner and: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114022" number="53390" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>After any maintenance that affects the radiation shielding, shutter mechanism, or x-ray production components; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114021" number="53391" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>After any incident that may have damaged the system in such a way that unintended radiation emission occurs; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114020" number="53392" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Upon installation of any new body scanner. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114019" number="53393" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>DOC must follow the manufacturer&apos;s recommended preventive maintenance schedule and all service records of preventive maintenance must be documented and maintained in the radiation safety manual. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114018" number="53394" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114094" number="53395" version="1943">
+								<HEADING>§ 33-05 Annual Scanning Limitations.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15777" name="T24C033_33-05"/>§ 33-05 Annual Scanning Limitations.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114017" number="53396" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>For males and non-pregnant women age 18 and over: A maximum annual exposure must be half the limit set by ANSI Standard 43.17. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114016" number="53397" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For males and non-pregnant women under the age of 18: DOC must engage a medical physicist to conduct an analysis to determine the effective dose for this non-adult population and, using the results of that analysis, the annual exposure may not be more than five percent of ANSI Standard 43.17. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114015" number="53398" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Pregnant women must not be scanned. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114014" number="53399" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Reduced annual dose limits must be established on a case-by-case basis when scanning conducted pursuant to this Chapter is contraindicated for a particular individual for any medical or mental health reason. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114013" number="53400" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114093" number="53401" version="1943">
+								<HEADING>§ 33-06 Training and Instruction of Personnel.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15779" name="T24C033_33-06"/>§ 33-06 Training and Instruction of Personnel.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114012" number="53402" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>In accordance with Public Health Law section 3502(6), DOC must develop and implement a documented in-service training program for workers operating a body scanning system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114011" number="53403" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The training must be provided before any DOC employee, subcontractor, or agent begins to act as a worker, as defined in this Chapter, and must receive additional training annually thereafter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114010" number="53404" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The training must be designed by a Qualified Physicist and may be presented through lectures or any presentation media. The training must address quality of imaging and radiation safety procedures, including but not limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114009" number="53405" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The basics on the types and sources of radiation, units of measurement, biological effects of radiation, measurement of radiation, radiation protection principles including methods of radiation dose reduction with time, distance and shielding, and using survey instruments. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114008" number="53406" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The operation of the body scan system and emergency procedures to demonstrate familiarity with precautions and procedures to minimize exposure. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114007" number="53407" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Relevant regulatory requirements on dose limits, rights of pregnant women and minors. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114006" number="53408" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>DOC must instruct workers to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114005" number="53409" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Observe all safety rules pertaining to radiation and other hazards; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114004" number="53410" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Promptly report any condition which may lead to the violation of this rule or any unnecessary exposure to radiation; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114003" number="53411" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Appropriately respond to warnings or malfunctions; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114002" number="53412" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Obtain radiation exposure reports compiled by DOC when requested. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-114001" number="53413" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114092" number="53414" version="1943">
+								<HEADING>§ 33-07 Recordkeeping and Reporting.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15781" name="T24C033_33-07"/>§ 33-07 Recordkeeping and Reporting.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-114000" number="53415" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Any complaint made to DOC pertaining to the performance and operation of the system must be reported to the Department within seven (7) days. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113999" number="53416" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>DOC must maintain the following records electronically, if possible, or in hard copy: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113998" number="53417" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The name, date of birth, and New York State Identification (NYSID) number of the person scanned; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113997" number="53418" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The time and date that each individual is scanned; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113996" number="53419" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The reason each scan is conducted if not upon intake; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113995" number="53420" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Documentation of the number of scans of each individual subjected to scanning that allows the tracking of inmates across different periods of incarceration during a 365-day period in order to certify compliance with annual scanning limits for each individual; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113994" number="53421" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Any investigation into complaints about body scanner operations; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113993" number="53422" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The daily number of scans conducted by each piece of equipment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113992" number="53423" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>DOC must maintain records of training and make available the records to the Department during inspection including training materials, syllabus, attendance list and other documented information. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113991" number="53424" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>DOC must maintain records of safety instructions including but not limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113990" number="53425" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Pertinent regulations, written radiation safety program, and any other relevant non-radiological safety instructions; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113989" number="53426" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Radiation monitoring reports of workers obtained through methods chosen by DOC and approved by the Department; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113988" number="53427" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Documents related to installation, maintenance, adjustment, testing, repair and preventive maintenance of the body scan system; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113987" number="53428" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Periodic area radiation surveys; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113986" number="53429" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Calibration of radiation survey instruments; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113985" number="53430" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Periodic image quality tests described in this Chapter; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113984" number="53431" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Any other information required by NYS Public Health Law Section 3602(6). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113983" number="53432" version="2512">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>All records must be maintained for at least seven (7) years. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113982" number="53433" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>All records must be available for the Department when requested or for review during inspections by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113981" number="53434" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Information obtained from body scanners and records maintained under this Chapter in relation to the identities of detainees scanned shall only be used for the purposes of this Chapter and as permitted and authorized by applicable law, regulation, and policy. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113980" number="53435" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-114091" number="53436" version="1943">
+								<HEADING>§ 33-08 Signage and Information to Be Provided to Screened Individuals.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15783" name="T24C033_33-08"/>§ 33-08 Signage and Information to Be Provided to Screened Individuals.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-113979" number="53437" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Signage.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113978" number="53438" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Signs indicating that radiation is being applied must be conspicuously posted and must indicate that all members of the public must stand behind designated locations during scanning operation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113977" number="53439" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>DOC must post conspicuous signage indicating where individuals should stand in areas adjacent to body scanner usage, e.g., signs indicating that detainees should not proceed beyond &quot;this point&quot; while scanners are in use. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113976" number="53440" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A sign must be posted in an area visible to an individual immediately prior to being screened that compares the dose of a commonly known source of radiation to the dose to be delivered. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113975" number="53441" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A sign must be posted that advises pregnant and potentially pregnant females that they should not be screened and that they should inform DOC personnel of such status. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113974" number="53442" version="1375">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Signs required by paragraphs (2) - (4) must be in English and Spanish, and any other languages deemed by DOC to be appropriate or necessary. For all detainees unable to read these languages, a written copy in their native language must be made available to them and/or explained to them by persons who speak their native language. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113973" number="53443" version="1374">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Information to be provided to screened individuals.</CHARFORMAT> Each detainee upon release from a DOC facility has the right to be provided by DOC on request the total accumulated radiation exposure from all body scans so conducted during that individual&apos;s incarceration. DOC must apprise each detainee of this right. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113970" number="53444" version="1374">
+									<PARA>(Added City Record 1/16/2019, eff. 2/15/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-034]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

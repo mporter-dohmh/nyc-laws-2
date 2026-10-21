@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-42626" number="54799" version="755">
+			<HEADING>Chapter 12: Biometric Identifier Information</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-20756" name="T22C012"/>Chapter 12: Biometric Identifier Information</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131254" number="54800" version="755">
+										<HEADING>§ 22-1201 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20758" name="22-1201"/>§ 22-1201 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131281" number="54801" version="755">
+											<PARA>As used in this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131280" number="54802" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Biometric identifier information.</CHARFORMAT> The term &quot;biometric identifier information&quot; means a physiological or biological characteristic that is used by or on behalf of a commercial establishment, singly or in combination, to identify, or assist in identifying, an individual, including, but not limited to: (i) a retina or iris scan, (ii) a fingerprint or voiceprint, (iii) a scan of hand or face geometry, or any other identifying characteristic. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131279" number="54803" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial establishment.</CHARFORMAT> The term &quot;commercial establishment&quot; means a place of entertainment, a retail store, or a food and drink establishment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131278" number="54804" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Consumer commodity.</CHARFORMAT> The term &quot;consumer commodity&quot; means any article, good, merchandise, product or commodity of any kind or class produced, distributed or offered for retail sale for consumption by individuals, or for personal, household or family purposes. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131277" number="54805" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Customer.</CHARFORMAT> The term &quot;customer&quot; means a purchaser or lessee, or a prospective purchaser or lessee, of goods or services from a commercial establishment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131276" number="54806" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Financial institution.</CHARFORMAT> The term &quot;financial institution&quot; means a bank, trust company, national bank, savings bank, federal mutual savings bank, savings and loan association, federal savings and loan association, federal mutual savings and loan association, credit union, federal credit union, branch of a foreign banking corporation, public pension fund, retirement system, securities broker, securities dealer or securities firm, but does not include a commercial establishment whose primary business is the retail sale of goods and services to customers and provides limited financial services such as the issuance of credit cards or in-store financing to customers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131275" number="54807" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Food and drink establishment.</CHARFORMAT> The term &quot;food and drink establishment&quot; means an establishment that gives or offers for sale food or beverages to the public for consumption or use on or off the premises, or on or off a pushcart, stand or vehicle. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131274" number="54808" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Place of entertainment.</CHARFORMAT> The term &quot;place of entertainment&quot; means any privately or publicly owned and operated entertainment facility, such as a theater, stadium, arena, racetrack, museum, amusement park, observatory, or other place where attractions, performances, concerts, exhibits, athletic games or contests are held. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131273" number="54809" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Retail store.</CHARFORMAT> The term &quot;retail store&quot; means an establishment wherein consumer commodities are sold, displayed or offered for sale, or where services are provided to consumers at retail. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131272" number="54810" version="756">
+											<PARA>(L.L. 2021/003, 1/10/2021, eff. 7/9/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131285" number="54811" version="755">
+										<HEADING>§ 22-1202 Collection, use, and retention of biometric identifier information.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20760" name="22-1202"/>§ 22-1202 Collection, use, and retention of biometric identifier information.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131271" number="54812" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any commercial establishment that collects, retains, converts, stores or shares biometric identifier information of customers must disclose such collection, retention, conversion, storage or sharing, as applicable, by placing a clear and conspicuous sign near all of the commercial establishment&apos;s customer entrances notifying customers in plain, simple language, in a form and manner prescribed by the commissioner of consumer and worker protection by rule, that customers&apos; biometric identifier information is being collected, retained, converted, stored or shared, as applicable. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131270" number="54813" version="755">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>It shall be unlawful to sell, lease, trade, share in exchange for anything of value or otherwise profit from the transaction of biometric identifier information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131269" number="54814" version="756">
+											<PARA>(L.L. 2021/003, 1/10/2021, eff. 7/9/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131284" number="54815" version="755">
+										<HEADING>§ 22-1203 Private right of action.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20762" name="22-1203"/>§ 22-1203 Private right of action.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131268" number="54816" version="1762">
+											<PARA>A person who is aggrieved by a violation of this chapter may commence an action in a court of competent jurisdiction on his or her own behalf against an offending party. At least 30 days prior to initiating any action against a commercial establishment for a violation of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK>, the aggrieved person shall provide written notice to the commercial establishment setting forth such person&apos;s allegation. If, within 30 days, the commercial establishment cures the violation and provides the aggrieved person an express written statement that the violation has been cured and that no further violations shall occur, no action may be initiated against the commercial establishment for such violation. If a commercial establishment continues to violate subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK>, the aggrieved person may initiate an action against such establishment. No prior written notice is required for actions alleging a violation of subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK>. A prevailing party may recover: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131267" number="54817" version="755">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>For each violation of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK>, damages of $500; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131266" number="54818" version="755">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>For each negligent violation of subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK>, damages of $500; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131265" number="54819" version="755">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>For each intentional or reckless violation of subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK>, damages of $5,000; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131264" number="54820" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Reasonable attorneys&apos; fees and costs, including expert witness fees and other litigation expenses; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131263" number="54821" version="755">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Other relief, including an injunction, as the court may deem appropriate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131262" number="54822" version="756">
+											<PARA>(L.L. 2021/003, 1/10/2021, eff. 7/9/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131283" number="54823" version="755">
+										<HEADING>§ 22-1204 Applicability.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20764" name="22-1204"/>§ 22-1204 Applicability.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131261" number="54824" version="755">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Nothing in this chapter shall apply to the collection, storage, sharing or use of biometric identifier information by government agencies, employees or agents. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131260" number="54825" version="755">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The disclosure required by subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="22-1202" destination-id="0-0-0-20760">22-1202</LINK> shall not apply to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131259" number="54826" version="755">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Financial institutions. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131258" number="54827" version="755">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Biometric identifier information collected through photographs or video recordings, if: (i) the images or videos collected are not analyzed by software or applications that identify, or that assist with the identification of, individuals based on physiological or biological characteristics, and (ii) the images or video are not shared with, sold or leased to third-parties other than law enforcement agencies. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131257" number="54828" version="756">
+											<PARA>(L.L. 2021/003, 1/10/2021, eff. 7/9/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131282" number="54829" version="755">
+										<HEADING>§ 22-1205 Outreach and education.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-20766" name="22-1205"/>§ 22-1205 Outreach and education.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-131255" number="54830" version="755">
+											<PARA>The chief privacy officer shall conduct or facilitate, with any other relevant agency or office, outreach and education efforts, through guidance posted on city websites or through such other means as may be feasible, to inform commercial establishments likely to be affected by this chapter about its requirements. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131253" number="54831" version="756">
+											<PARA>(L.L. 2021/003, 1/10/2021, eff. 7/9/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-057]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

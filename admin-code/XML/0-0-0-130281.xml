@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-130281" number="60200" version="641">
+			<HEADING>Chapter 8: Deed Restrictions</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-855" name="T25C008"/>Chapter 8: Deed Restrictions</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-46833" number="60201" version="3">
+										<HEADING>§ 25-801 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11469" name="25-801"/>§ 25-801 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-46834" number="60202" version="3">
+											<PARA>For the purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46835" number="60203" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term &quot;commissioner&quot; means the commissioner of citywide administrative services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46836" number="60204" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deed restriction.</CHARFORMAT> The term &quot;deed restriction&quot; means a covenant set forth in a deed, lease that is for a term of 49 years or longer, or easement that limits the use of property located in the city and is imposed by the city when such property is sold or otherwise disposed of by the city. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46837" number="60205" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of citywide administrative services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46838" number="60206" version="701">
+											<PARA>(L.L. 2016/176, 12/22/2016, eff. 12/22/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-46839" number="60207" version="3">
+										<HEADING>§ 25-802 Standard.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-849" name="25-802"/>§ 25-802 Standard.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-46840" number="60208" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>A request for modification or removal of a deed restriction submitted to the department shall be reviewed in accordance with the procedures set forth in this chapter. Such request shall only be approved upon a determination that the proposed modification or removal is appropriate and furthers the best interests of the city. In reaching such a determination, the following factors, at a minimum, shall be considered: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46841" number="60209" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>the potential effect of a requested removal or modification of a deed restriction on the community in which the property is located and the city generally; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46842" number="60210" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>whether modifying or removing such deed restriction could allow the property to serve alternate purposes beneficial to the community or city as a whole; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46843" number="60211" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>if such modification or removal could result in the closing of a facility providing services in the community or a reduction in such services and the impact of any such closure or reduction; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46844" number="60212" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iv.<TAB tab-count="1"/>the potential impact of such modification or removal on, at a minimum, the following: the provision of open spaces; the character of certain designated areas of historic and architectural interests; the availability of space for educational, religious, recreational, health, and similar community-based facilities that serve community residents; the availability of local retail businesses; the availability of affordable housing in the community; economic development; and investments in infrastructure. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46845" number="60213" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Changes.</CHARFORMAT> The department shall not modify or remove any deed restriction without the approval of the mayor, or the mayor&apos;s designee, pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-119" destination-id="0-0-0-847">3-119</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46846" number="60214" version="701">
+											<PARA>(L.L. 2016/176, 12/22/2016, eff. 12/22/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-46847" number="60215" version="3">
+										<HEADING>§ 25-803 Process.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11471" name="25-803"/>§ 25-803 Process.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-46848" number="60216" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Intake package.</CHARFORMAT> A property owner requesting that the department modify or remove a deed restriction must submit to the department an intake package consisting of: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46849" number="60217" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A request form provided by the department, which must include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46850" number="60218" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>the property owner&apos;s name; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46851" number="60219" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>the address and any commonly known name of the property; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46852" number="60220" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>the reason for the request; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46853" number="60221" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iv.<TAB tab-count="1"/>a description of any proposed development or sale of the property to a third party; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46854" number="60222" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>v.<TAB tab-count="1"/>a description of the use of the property since the property owner&apos;s purchase; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46855" number="60223" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>vi.<TAB tab-count="1"/>the date by which the property owner seeks to have the requested modification or removal take effect; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46856" number="60224" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>vii.<TAB tab-count="1"/>any other federal, state, or local governmental actions taken, pending, or necessary for such modification or removal; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46857" number="60225" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>viii.<TAB tab-count="1"/>any other information required by the commissioner. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46858" number="60226" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>A copy of the current deed of ownership and any other document containing the deed restriction <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46859" number="60227" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Verified statement and tax affidavit (VSTA) forms, provided by the department, disclosing real property owned and any outstanding real property taxes, water and sewer charges, assessments, and/or other municipal charges, including interest on any of the aforementioned amounts; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46860" number="60228" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>If the property owner is a corporation, limited liability company, or partnership: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46861" number="60229" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>a list identifying the names of any individuals whose share of ownership in the corporation, limited liability company, or partnership is 20 percent or more; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46862" number="60230" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>a certificate of good standing issued by the state or the equivalent of such certificate issued by another state; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46863" number="60231" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>A federal or state tax identification number. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46864" number="60232" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The property owner shall promptly report to the department any changes in the information provided in the intake package that occur after the intake package is submitted and while the request is pending. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46865" number="60233" version="701">
+											<PARA>(L.L. 2016/176, 12/22/2016, eff. 12/22/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-46866" number="60234" version="3">
+										<HEADING>§ 25-804 Review of requests.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-851" name="25-804"/>§ 25-804 Review of requests.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-46867" number="60235" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Preliminary review.</CHARFORMAT> Following the submission of an intake package pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-803" destination-id="0-0-0-11471">25-803</LINK>, the department shall conduct a preliminary review of a request that the department modify or remove a deed restriction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46868" number="60236" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Upon receipt of the intake package required pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-803" destination-id="0-0-0-11471">25-803</LINK>, the department shall notify the property owner in writing that the request for modification or removal is under review. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46869" number="60237" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>At the time the property owner is notified in writing that the request for modification or removal is under review pursuant to paragraph 1 of this subdivision, the department shall send notice of such review, along with the intake package for such request submitted pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-803" destination-id="0-0-0-11471">25-803</LINK>, by mail and electronic mail to the community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46870" number="60238" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department shall perform a land use analysis, which shall include a description of the history of the use of the property, the deed restriction that is the subject of the request, the land use implications of such deed restriction, and an analysis of whether such modification or removal furthers the best interests of the city pursuant to the factors set forth in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-802" destination-id="0-0-0-849">25-802</LINK>. The department of city planning shall assist the department in such analysis by providing information concerning the zoning and land use of the property and surrounding area, including urban design characteristics, public transit access, any existing and planned land use policies and initiatives, and any prior land use actions affecting the property. Notwithstanding any provision of this chapter to the contrary, if the department determines that such modification or removal does not further the best interests of the city, the department shall take no further action on such request and shall inform the property owner, community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located of such determination. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46871" number="60239" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The department shall conduct a due diligence review to determine whether there are outstanding obligations owed to the city in connection with the properties identified in the VSTA forms, or by the current property owner or any proposed property owner, which shall include but not be limited to review of the following information related to such properties, current property owner, or any proposed property owner: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46872" number="60240" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>the intake package; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46873" number="60241" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>information requested from other city agencies, including, but not limited to, the department of buildings and the department of finance; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46874" number="60242" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>information obtained through a search of public databases. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46875" number="60243" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Appraisal.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46876" number="60244" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall appraise the market value of the property with and without the deed restriction based on two appraisals, at least one of which must be performed by an independent real estate appraiser licensed in the state who is not an employee of the department. The appraisals shall be performed within 60 days prior to the date the department submits its preliminary recommendation to the committee established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-119" destination-id="0-0-0-847">3-119</LINK> and within 180 days prior to the date the department submits its final written recommendation to the mayor pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-119" destination-id="0-0-0-847">3-119</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46877" number="60245" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The property owner shall pay an appraisal fee equivalent to the cost of the independent appraisal. The department may waive or modify such fee if it determines, based on a showing made by the property owner, that the payment of such fee would impose an unreasonable hardship on the property owner. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46878" number="60246" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The method of calculation of any consideration to be proposed in connection with the modification or removal of the deed restriction shall be determined by the department in consultation with relevant city agencies and experts, including, but not limited to, the law department. Such method shall take into account the market value of the property with and without the deed restriction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46879" number="60247" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Based on the appraisals and in accordance with the calculation method determined pursuant to paragraph 3 of this subdivision, the department shall propose a consideration amount, if any, that would be required for the modification or removal of the deed restriction, and shall include the department&apos;s reasoning for proposing such consideration amount. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46880" number="60248" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Notwithstanding paragraph 1 of this subdivision, appraisals shall not be required if: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46881" number="60249" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>a deed restriction would be imposed in lieu of the deed restriction that is the subject of the request for removal or modification, and the department determines that the deed restriction to be imposed is of substantially equivalent value to the deed restriction to be removed or modified; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46882" number="60250" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>the consideration amount for the modification or removal of the deed restriction is set forth in a legally binding written agreement between the city and the property owner executed at the time the deed restriction was imposed; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46883" number="60251" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>the department determines that appraisals are not necessary as an environmental restriction that was imposed on a property by a regulatory agency is removed upon a subsequent determination by such agency that such restriction is no longer necessary, or when a deed restriction has become detrimental to the city&apos;s interest. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46884" number="60252" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>If the department determines that an appraisal is not required pursuant to paragraph 5 of this subdivision, the department shall prepare a written summary of its reasons for reaching such determination. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46885" number="60253" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Consultation and notice.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46886" number="60254" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Following the preliminary review and performance of any appraisals, the department shall consult with other city, state, or federal agencies as appropriate, including, but not limited to, the department of housing preservation and development, the department of city planning, the department of small business services, and any agency involved in providing services at the property, to obtain information about the public benefit related to the deed restriction, assess possible alternative uses of the property, and identify potential issues of concern with the proposed modification or removal. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46887" number="60255" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Following such consultation, the department shall prepare a summary of findings based on the land use analysis, due diligence review, consultation conducted pursuant to this section, and, if applicable, its determination pursuant to paragraph 4 or 6 of subdivision b of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46888" number="60256" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>No later than three business days after such summary is completed and at least 60 days prior to any modification or removal of such deed restriction, the department shall post online and send notice of the proposed modification or removal as set forth in this paragraph. Such notice shall identify the property by its address and any commonly known name and include the summary prepared pursuant to paragraph 2 of this subdivision and shall be sent by mail and electronic mail to the community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located. Such notice shall be titled in large bold letters &quot;Notice of Removal or Modification of Deed Restriction on Real Property.&quot; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46889" number="60257" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Uniform land use review procedure.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46890" number="60258" version="682">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department, in consultation with the law department, shall establish a process for determining whether a proposed modification or removal is subject to the uniform land use review procedure set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-c" destination-id="0-0-0-0">197-c</LINK> of the charter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46891" number="60259" version="682">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>If, pursuant to such process, the department determines that a proposed modification or removal is subject to the uniform land use review procedure set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-c" destination-id="0-0-0-0">197-c</LINK> of the charter, the department shall prepare an application for such modification or removal to be reviewed pursuant to such procedure. Any request for modification or removal that is subject to the uniform land use review procedure shall not be approved unless the application for such modification or removal submitted in accordance with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-c" destination-id="0-0-0-0">197-c</LINK> of the charter is approved pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="chapter 8" destination-id="0-0-0-0">chapter 8</LINK> of the charter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46892" number="60260" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Public hearing.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46893" number="60261" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The department shall conduct at least one public hearing on such requested modification or removal pursuant to the procedures set forth in this subdivision. A public hearing shall occur at least 45 days but no more than 120 days prior to such removal or modification. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46894" number="60262" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The department shall publish a public notice of any hearing online and in the city record for at least seven consecutive business days commencing at least 30 days and no more than 40 days before any such hearing. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46895" number="60263" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department shall send notice of any hearing by mail and electronic mail to the community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46896" number="60264" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Any public hearing shall be held in the community district in which the property is located. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46897" number="60265" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>A public file containing copies of the calendar document and other public documents, including the summary prepared pursuant to paragraph 2 of subdivision c of this section, shall be posted online and sent to the community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located no later than 20 days before any hearing. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46898" number="60266" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>The department shall prepare and post online a summary of public comments received at any such hearing, along with responses to such comments, on the request for modification or removal of the deed restriction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46899" number="60267" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Committee review.</CHARFORMAT>&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46900" number="60268" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>If, based on the information obtained pursuant to this section, the department finds that the requested modification or removal of a deed restriction is appropriate and furthers the best interests of the city, the department shall submit a preliminary recommendation to approve the request to the committee established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-119" destination-id="0-0-0-847">3-119</LINK>. Such preliminary recommendation shall include any proposed consideration amount and shall be accompanied by the materials required pursuant to pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-119" destination-id="0-0-0-847">3-119</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46901" number="60269" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>If the committee approves the department&apos;s preliminary recommendation, within three business days of such approval, the department shall issue a letter to the property owner setting forth such recommendation; any required consideration, as approved or modified by the committee; and any further actions the property owner must take to obtain the requested modification or removal of the deed restriction, which shall include, but not be limited to, the property owner&apos;s agreement in writing to take the steps necessary to obtain the requested modification or removal. If the property owner does not respond to such letter within 30 calendar days after the receipt of such letter, the department shall cease any further action with regard to the requested modification or removal until a response is received; provided, however, if a property owner fails to respond or fails to request more time to respond within 60 days following receipt of such letter, the department shall treat such response as a new request. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46902" number="60270" version="701">
+											<PARA>(L.L. 2016/176, 12/22/2016, eff. 12/22/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-46903" number="60271" version="3">
+										<HEADING>§ 25-805 Mayoral approval.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-853" name="25-805"/>§ 25-805 Mayoral approval.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-46904" number="60272" version="682">
+											<PARA>
+												<TAB tab-count="1"/>Following the receipt of the committee&apos;s determination pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="3-119" destination-id="0-0-0-847">3-119</LINK> and any approval required pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="chapter 8" destination-id="0-0-0-0">chapter 8</LINK> of the charter, the department shall determine whether the requested modification or removal of a deed restriction is appropriate and furthers the best interests of the city. If the department determines that such modification or removal is appropriate and furthers the best interests of the city, it shall submit to the mayor a final written recommendation for approval of such request. Such written recommendation shall include the intake package submitted pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-803" destination-id="0-0-0-11471">25-803</LINK>, any appraisals conducted pursuant to subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-804" destination-id="0-0-0-851">25-804</LINK>, the summary prepared pursuant to paragraph 2 of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-804" destination-id="0-0-0-851">25-804</LINK>, the summary of public comments prepared pursuant to paragraph 6 of subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-804" destination-id="0-0-0-851">25-804</LINK>, any and all agreements with the property owner pursuant to paragraph 2 of subdivision f of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="25-804" destination-id="0-0-0-851">25-804</LINK>, and any other documents or information the department deems relevant. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-46905" number="60273" version="701">
+											<PARA>(L.L. 2016/176, 12/22/2016, eff. 12/22/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-008]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

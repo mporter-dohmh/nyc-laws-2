@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-128933" number="61716" version="521">
+			<HEADING>Chapter 22: Expiring Affordable Housing</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-11771" name="T26C022"/>Chapter 22: Expiring Affordable Housing</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-48133" number="61717" version="3">
+										<HEADING>§ 26-2201 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11773" name="26-2201"/>§ 26-2201 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-48134" number="61718" version="3">
+											<PARA>For the purposes of this chapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48135" number="61719" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable housing unit.</CHARFORMAT> The term &quot;affordable housing unit&quot; means a dwelling unit that is (i) required, pursuant to a federal, state or local law, rule or program administered by the city or an agreement with the city or a person acting on the city&apos;s behalf, to be affordable for an extremely low income household, a very low income household, a low income household, a moderate income household or a middle income household and (ii) operates pursuant to an agreement administered by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48136" number="61720" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Area median income.</CHARFORMAT> The term &quot;area median income&quot; means the Income Limits as defined annually by the U.S. Department of Housing and Urban Development (HUD) for the New York, NY HUD Metro FMR Area (HMFA), as established in Section 3 of the Housing Act of 1937, as amended. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48137" number="61721" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term &quot;department&quot; means the department of housing preservation and development. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48138" number="61722" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dwelling unit.</CHARFORMAT> The term &quot;dwelling unit&quot; has the meaning ascribed to such term in the housing maintenance code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48139" number="61723" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Expiring affordable housing unit.</CHARFORMAT> The term &quot;expiring affordable housing unit&quot; means, with respect to the report required by sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-2204" destination-id="0-0-0-11775">26-2204</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-2205" destination-id="0-0-0-11777">26-2205</LINK>, an affordable housing unit that, without a change in a federal, state or local law, rule or program or an agreement with the city or a person acting on the city&apos;s behalf, will cease to be an affordable housing unit in or before the end of the second calendar year that commences after the due date of such report. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48140" number="61724" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Extremely low income household.</CHARFORMAT> The term &quot;extremely low income household&quot; means a household that has an income of no more than 30 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48141" number="61725" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Extremely low income affordable housing (ELI-AH) unit.</CHARFORMAT> The term &quot;extremely low income affordable housing (ELI-AH) unit&quot; means an affordable housing unit that is required to be occupied upon initial occupancy by an extremely low income household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48142" number="61726" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Low income household.</CHARFORMAT> The term &quot;low income household&quot; means a household that has an income of more than 50 percent of the area median income but no more than 80 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48143" number="61727" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Low income affordable housing (LI-AH) unit.</CHARFORMAT> The term &quot;low income affordable housing (LI-AH) unit&quot; means an affordable housing unit that is required to be occupied upon initial occupancy by a low income household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48144" number="61728" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Moderate income household.</CHARFORMAT> The term &quot;moderate income household&quot; means a household that has an income of more than 80 percent of the area median income but no more than 120 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48145" number="61729" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Moderate income affordable housing (MI-AH) unit.</CHARFORMAT> The term &quot;moderate income affordable housing (MI-AH) unit&quot; means an affordable housing unit that is required to be occupied upon initial occupancy by a moderate income household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48146" number="61730" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Middle income household.</CHARFORMAT> The term &quot;middle income household&quot; means a household that has an income of more than 120 percent of the area median income but no more than 165 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48147" number="61731" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Middle income affordable housing (MIDI-AH) unit.</CHARFORMAT> The term &quot;middle income affordable housing (MIDI-AH) unit&quot; means an affordable housing unit that is required to be occupied upon initial occupancy by a middle income household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48148" number="61732" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Very low income household.</CHARFORMAT> The term &quot;very low income household&quot; means a household that has an income of more than 30 percent of the area median income but no more than 50 percent of the area median income, adjusted for the size of the household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48149" number="61733" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Very low income affordable housing (VLI-AH) unit.</CHARFORMAT> The term &quot;very low income affordable housing (VLI-AH) unit&quot; means an affordable housing unit that is required to be occupied upon initial occupancy by a very low income household. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48150" number="61734" version="713">
+											<PARA>(L.L. 2018/136, 7/29/2018, eff. 7/29/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-48151" number="61735" version="3">
+										<HEADING>§ 26-2202 Tracking system plan.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11779" name="26-2202"/>§ 26-2202 Tracking system plan.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-48152" number="61736" version="3">
+											<PARA>By no later than April 30, 2019, the department shall submit to the mayor and the speaker of the council, and post publicly on the city&apos;s website, a report providing details of a plan for the development of an integrated data tracking system for (i) start dates and expiration dates for all department regulatory agreements containing requirements for affordable housing units to the extent such information is available in the regulatory agreements or department records, (ii) the affordability requirements contained in such regulatory agreements to the extent such information is available in the regulatory agreements or department records, and (iii) a target date for implementation of the plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48153" number="61737" version="713">
+											<PARA>(L.L. 2018/136, 7/29/2018, eff. 7/29/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-48154" number="61738" version="3">
+										<HEADING>§ 26-2203 Reporting.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11781" name="26-2203"/>§ 26-2203 Reporting.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-48155" number="61739" version="3">
+											<PARA>By no later than April 30, 2020, and annually thereafter, the department shall submit to the mayor and to the council a report on the progress of the tracking system plan required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-2202" destination-id="0-0-0-11779">26-2202</LINK>, until the completion of the implementation of the plan. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48156" number="61740" version="713">
+											<PARA>(L.L. 2018/136, 7/29/2018, eff. 7/29/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-48157" number="61741" version="3">
+										<HEADING>§ 26-2204 Annual review.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11775" name="26-2204"/>§ 26-2204 Annual review.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-48158" number="61742" version="3">
+											<PARA>By no later than December 31 in each year following the implementation of the tracking system required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-2202" destination-id="0-0-0-11779">26-2202</LINK>, the department shall conduct a review of affordable housing units citywide to determine: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48159" number="61743" version="3">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of ELI-AH units that are expiring affordable housing units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48160" number="61744" version="3">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The number of VLI-AH units that are expiring affordable housing units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48161" number="61745" version="3">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The number of LI-AH units that are expiring affordable housing units; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48162" number="61746" version="3">
+											<PARA>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The number of MI-AH units that are expiring affordable housing units; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48163" number="61747" version="3">
+											<PARA>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The number of MIDI-AH units that are expiring affordable housing units. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48164" number="61748" version="713">
+											<PARA>(L.L. 2018/136, 7/29/2018, eff. 7/29/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-48165" number="61749" version="3">
+										<HEADING>§ 26-2205 Review of expiring affordable housing units.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-11777" name="26-2205"/>§ 26-2205 Review of expiring affordable housing units.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-48166" number="61750" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall submit to the mayor, the speaker of the council and each council member by no later than December 31 in each year following implementation of the tracking system required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="26-2202" destination-id="0-0-0-11779">26-2202</LINK>: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48167" number="61751" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of ELI-AH units that are expiring affordable housing units in the council district that such member represents; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48168" number="61752" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The number of VLI-AH units that are expiring affordable housing units in the council district that such member represents; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48169" number="61753" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The number of LI-AH units that are expiring affordable housing units in the council district that such member represents; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48170" number="61754" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The number of MI-AH units that are expiring affordable housing units in the council district that such member represents; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48171" number="61755" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The number of MIDI-AH units that are expiring affordable housing units in the council district that such member represents; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48172" number="61756" version="3">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>A description of department preservation efforts and the tools available to the department for the purpose of preservation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48173" number="61757" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall conduct outreach to council members representing expiring affordable housing units to discuss preservation efforts. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-48174" number="61758" version="713">
+											<PARA>(L.L. 2018/136, 7/29/2018, eff. 7/29/2018) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-027]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-114154" number="35700" version="238">
+			<HEADING>Chapter 9: Lead</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-7101" name="T17C009"/>Chapter 9: Lead</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-111679" number="35701" version="1483">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this chapter was amended in its entirety by L.L. 2019/064, 4/14/2019, eff. 8/12/2019. For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2004/001" destination-id="0-0-0-25286">L.L. 2004/001</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-084]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-128357" number="35702" version="484">
+				<HEADING>Subchapter 1: Lead Testing Requirements and Standards</HEADING>
+				<PARA>Subchapter 1: Lead Testing Requirements and Standards</PARA>
+			</RECORD>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-29379" number="35703" version="155">
+										<HEADING>§ 17-910 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19253" name="17-910"/>§ 17-910 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112934" number="35704" version="155">
+											<PARA>As used in this subchapter:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112933" number="35705" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Child of applicable age.</CHARFORMAT> The term &quot;child of applicable age&quot; has the same meaning as the term &quot;applicable age&quot; as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.18" destination-id="0-0-0-13789">27-2056.18</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112932" number="35706" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered agency.</CHARFORMAT> The term &quot;covered agency&quot; means the following agencies that provide services for or relating to children of applicable age: the department, the department of social services/human resources administration, the department of education, the administration for children&apos;s services, the department of youth and community development, the department of homeless services, the department of parks and recreation and any other agencies the mayor may designate that provide services for or relating to children. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112931" number="35707" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lead-based paint hazard.</CHARFORMAT> The term &quot;lead-based paint hazard&quot; shall have the meaning ascribed to such term by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112930" number="35708" version="155">
+											<PARA>(L.L. 2019/064, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112929" number="35709" version="484">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128358" number="35710" version="484">
+										<HEADING>§ 17-911 Required investigation.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19255" name="17-911"/>§ 17-911 Required investigation.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-132703" number="35711" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>In addition to or as part of any investigation required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.14" destination-id="0-0-0-13781">27-2056.14</LINK>, whenever a report has been made to the department of a person under 18 years of age with an elevated blood lead level that is at or above the blood lead reference level established pursuant to this subchapter, the department shall conduct such investigation as may be necessary to identify potential sources of such elevated blood lead level, including, but not limited to, inspecting the following areas: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155299" number="35712" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Any dwelling unit in which the department determines such person is routinely present for 10 or more hours per week; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155298" number="35713" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Where a lead-based paint hazard is found in such a dwelling unit, any other dwelling unit in the same building in which a child under the age of one year resides, except that the department shall not be required to inspect any such dwelling unit that is required to be inspected by another agency or governmental entity; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155297" number="35714" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Any covered facility, as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-920" destination-id="0-0-0-19257">17-920</LINK>, where the department determines the person with such elevated blood lead level is routinely present for 10 or more hours per week; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155296" number="35715" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Any park, playground or other area that is covered in bare soil where a risk assessment conducted by the department indicates that such bare soil presents a potential source of lead exposure contributing to such person&apos;s elevated blood lead level, except that the department of parks and recreation shall inspect any such park, playground or other area under its jurisdiction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112926" number="35716" version="774">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Whenever a report has been made to the department of a pregnant person with an elevated blood lead level, the department shall (i) conduct such investigation as may be necessary to identify potential sources of such elevated blood lead level, and (ii) after the birth of a child by such pregnant person, screen such child for elevated blood lead levels and assess whether the dwelling unit where such child resides contains a lead-based paint hazard or unsafe lead paint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131645" number="35717" version="774">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall conduct outreach to any new parent or person imminently expecting to become a parent regarding the availability of inspections conducted pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.9" destination-id="0-0-0-6665">27-2056.9</LINK>. Such outreach shall include information about blood lead testing for children, unsafe construction or renovation work practices and the availability of inspections for such practices. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131644" number="35718" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Wherever the department is required to conduct an inspection pursuant to subdivision a of this section, such inspection shall include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155306" number="35719" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An inspection of the dwelling unit for lead-based paint hazards or unsafe lead paint, as applicable, including analysis by an x-ray fluorescence analyzer, in accordance with subdivision (7) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>, of all friction surfaces, chewable surfaces, peeling paint, deteriorated subsurfaces and impact surfaces as such terms are defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155305" number="35720" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>For a dwelling unit described in paragraph 1 of subdivision a of this section, assisting with the ordering of a free test kit supplied by the department of environmental protection to enable testing of drinking or cooking water for lead and conducting outreach, as needed, to promote the return of such test kit for testing; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155304" number="35721" version="1762">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Lead testing of soil from any area on the property that (i) is covered in bare soil and (ii) presents a potential source of lead exposure contributing to the person&apos;s elevated blood lead level, as determined by the department&apos;s investigation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155303" number="35722" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>In the event an inspection by the department pursuant to paragraph 1 of subdivision d of this section finds any lead-based paint hazards or unsafe lead paint on any surfaces, it shall order the correction of such conditions pursuant to the requirements of the New York city health code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155302" number="35723" version="1242">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Nothing in this section shall require the department to analyze any area with an x-ray fluorescence analyzer more than once in any three-month period where no visual evidence of peeling paint or any deteriorated subsurface is observed. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-155300" number="35724" version="1242">
+											<PARA>(L.L. 2019/064, 4/14/2019, eff. 8/12/2019; Am. L.L. 2020/030, 2/11/2020, eff. 2/11/2021; Am. L.L. 2021/039, 4/18/2021, eff. 10/18/2022) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-078]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112967" number="35725" version="484">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128359" number="35726" version="484">
+										<HEADING>§ 17-912 Lead reference levels and action levels.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19265" name="17-912"/>§ 17-912 Lead reference levels and action levels.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112971" number="35727" version="155">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this subchapter, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.14" destination-id="0-0-0-13781">27-2056.14</LINK> and any local law referring to a blood lead reference level except as otherwise provided by such local law, the blood lead reference level shall be five micrograms per deciliter, except that, if the federal centers for disease control and prevention or a successor agency defines a lower blood lead reference level the department shall (i) by rule define such lower level as the blood lead reference level for the purposes of this subchapter, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.14" destination-id="0-0-0-13781">27-2056.14</LINK> and any local law referring to a blood lead reference level except as otherwise provided by such local law or (ii) submit a report to the mayor and the speaker of the council detailing the reasons why such lower blood lead reference level should not be adopted for the city or should result in alternative public health actions other than those provided for in this subchapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112970" number="35728" version="155">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding subdivision a of this section, for the purposes of this subchapter, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.14" destination-id="0-0-0-13781">27-2056.14</LINK> and any local law referring to a blood lead reference level except as otherwise provided by such local law, the board of health may define in the health code a lower blood lead reference level than that defined by the federal centers for disease control and prevention or a successor agency that shall apply to this subchapter, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.14" destination-id="0-0-0-13781">27-2056.14</LINK>, and any local law referring to a blood lead reference level except as otherwise provided by such local law, if the board determines that defining such a lower blood lead reference level is in the interest of public health. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112968" number="35729" version="156">
+											<PARA>(L.L. 2019/066, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112975" number="35730" version="156">
+										<HEADING>§ 17-913 Testing water for lead.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19267" name="17-913"/>§ 17-913 Testing water for lead.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112980" number="35731" version="1765">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Whenever testing water for lead from a fixture or other source is required by law or rule, or an order issued by a court or agency of appropriate jurisdiction, such testing shall include (i) taking a first-draw sample from such source, (ii) taking at least one additional sample, when practicable, from such source, except that the department may by rule determine specific circumstances in which a first-draw sample is sufficient, and (iii) analysis of such samples by a laboratory certified to analyze water samples for lead by the federal environmental protection agency or a state agency having appropriate jurisdiction, unless otherwise provided for by federal, state, or local law or rule. For the purposes of this section, the term &quot;first-draw sample&quot; means a first draw tap sample for lead and copper, as such term is defined in section 5-1.1 of title 10 of the New York codes, rules and regulations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112979" number="35732" version="156">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Nothing in this section shall prohibit the department from requiring an additional sample from such source. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112978" number="35733" version="159">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Notwithstanding subdivisions a and b of this section: (i) if the federal environmental protection agency or a successor agency provides any guidance on testing standards that differs from the requirements of this section, the department may by rule adopt such guidance in lieu of the testing standards requirements of this section; and (ii) if a water lead action level is established by federal, state, or local law or rule that requires new sampling requirements, the department may by rule adopt such sampling requirements in lieu of the sampling requirements of this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112976" number="35734" version="156">
+											<PARA>(L.L. 2019/067, 4/14/2019, eff. 4/14/2020) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112981" number="35735" version="156">
+										<HEADING>§ 17-914 Lead screening referrals by agencies.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19269" name="17-914"/>§ 17-914 Lead screening referrals by agencies.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112984" number="35736" version="159">
+											<PARA>When the parent or guardian of a child of applicable age seeks a service from a covered agency for such child, such agency shall provide a pamphlet developed by the department or other materials approved by the department that include information on how to obtain a blood lead screening.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112983" number="35737" version="158">
+											<PARA>(L.L. 2019/068, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-112988" number="35738" version="158">
+										<HEADING>§ 17-915 Lead hazard inspection and testing.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19273" name="17-915"/>§ 17-915 Lead hazard inspection and testing.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112993" number="35739" version="158">
+											<PARA>When the parent or guardian of a child of applicable age seeks a service from a covered agency for such child, such agency shall provide a parent or guardian of such child with a pamphlet developed by the department of health and mental hygiene pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-179" destination-id="0-0-0-6659">17-179</LINK> of this code, and inform a parent or guardian of such child that they may, without cost or payment: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112992" number="35740" version="158">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>obtain an inspection conducted by the department of housing preservation and development or its successor agency for peeling paint, a deteriorated subsurface, or an underlying defect in their multiple dwelling rental unit by calling 311; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112991" number="35741" version="158">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>obtain a lead testing kit for drinking water from the department of environmental protection, have a sample of their drinking water sent to a laboratory for analysis, and receive the results of such analysis within 30 days of such sample being tested. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112989" number="35742" version="158">
+											<PARA>(L.L. 2019/073, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-114123" number="35743" version="1909">
+										<HEADING>§ 17-916 Report regarding objections to department orders.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-27508" name="17-916"/>§ 17-916 Report regarding objections to department orders.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-225555" number="35744" version="1909">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall submit to the mayor and the speaker of the council, and make publicly available on the department’s website, a report on the number of objections to department orders for lead abatement or remediation received by the department pursuant to paragraph 3 of subdivision d of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_173.13" destination-id="0-0-0-0">173.13</LINK> of the health code, or successor provision. Such report shall specify the number of such objections received from a housing development operated by the New York city housing authority. The department shall issue such report twice a year no later than August 30 for the period covering January through June of the same year, and no later than February 28 for the period covering July through December of the prior year. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-088]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-225554" number="35745" version="1909">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The report required pursuant to subdivision a of this section shall include the number of orders withdrawn in full by the department, disaggregated by the reasons such orders were withdrawn, including, but not limited to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-088]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-225553" number="35746" version="1909">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Faulty paint sampling or testing by the department; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-088]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-225552" number="35747" version="1909">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Inconclusive or contradicting test results; or <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-088]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-225551" number="35748" version="1909">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Exemptions due to the date a tested dwelling was erected. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-088]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-225549" number="35749" version="1909">
+											<PARA>(L.L. 2023/112, 8/13/2023, eff. 8/13/2023) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-088]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-225548" number="35750" version="1909">
+				<HEADING>Subchapter 2: Remediation of Lead-Based Paint Hazards in Schools and Facilities Providing Day Care Services</HEADING>
+				<PARA>Subchapter 2: Remediation of Lead-Based Paint Hazards in Schools and Facilities Providing Day Care Services</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-114850" number="35751" version="2281">
+					<PARA>
+						<PARAFORMAT justify="center">(Title amended by L.L. 2020/028, 2/11/2020, eff. 2/11/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+						</PARAFORMAT>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-131646" number="35752" version="775">
+										<HEADING>§ 17-920 Definitions.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19257" name="17-920"/>§ 17-920 Definitions.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114852" number="35753" version="775">
+											<PARA>As used in this subchapter, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112958" number="35754" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chewable surface.</CHARFORMAT> The term &quot;chewable surface&quot; means a protruding interior window sill in a dwelling unit in a multiple dwelling where a child of applicable age resides, or a covered facility where services for or relating to a child of applicable age are provided, and which is readily accessible to such child. &quot;Chewable surface&quot; also means any other type of interior edge or protrusion in a dwelling unit in a multiple dwelling, such as a rail or stair, where there is evidence that such other edge or protrusion has been chewed or where an occupant has notified the owner that a child of applicable age who resides in that dwelling unit has mouthed or chewed such edge or protrusion. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112957" number="35755" version="775">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered facility.</CHARFORMAT> The term &quot;covered facility&quot; means the rooms, areas and other spaces regulated by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_43.00" destination-id="0-0-0-0">articles 43</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">47</LINK> of the New York city health code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112956" number="35756" version="610">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Day care service.</CHARFORMAT> The term &quot;day care service&quot; means a program or service regulated by <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_43.00" destination-id="0-0-0-0">articles 43</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_47.00" destination-id="0-0-0-0">47</LINK> of the New York city health code. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112955" number="35757" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deteriorated subsurface.</CHARFORMAT> The term &quot;deteriorated subsurface&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112954" number="35758" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Friction surface.</CHARFORMAT> The term &quot;friction surface&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112953" number="35759" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Impact surface.</CHARFORMAT> The term &quot;impact surface&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112952" number="35760" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lead-based paint.</CHARFORMAT> The term &quot;lead-based paint&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112951" number="35761" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lead-based paint hazard.</CHARFORMAT> The term &quot;lead-based paint hazard&quot; means any condition in a dwelling or dwelling unit, or in a covered facility, that causes exposure to lead from lead-contaminated dust, from lead-based paint that is peeling, or from lead-based paint that is present on chewable surfaces, deteriorated subsurfaces, friction surfaces or impact surfaces that would result in adverse human health effects. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112950" number="35762" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Lead-contaminated dust.</CHARFORMAT> The term &quot;lead-contaminated dust&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112949" number="35763" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Peeling.</CHARFORMAT> The term &quot;peeling&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112948" number="35764" version="155">
+											<PARA>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Remediation.</CHARFORMAT> The term &quot;remediation&quot; has the same meaning as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="27-2056.2" destination-id="0-0-0-13763">27-2056.2</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112947" number="35765" version="775">
+											<PARA>(L.L. 2019/064, 4/14/2019, eff. 8/12/2019; Am. L.L. 2020/028, 2/11/2020, eff. 2/11/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112960" number="35766" version="484">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128360" number="35767" version="484">
+										<HEADING>§ 17-921 Lead-based paint presumption.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19259" name="17-921"/>§ 17-921 Lead-based paint presumption.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112946" number="35768" version="155">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>All paint or similar surface-coating material on the interior of any covered facility in a structure erected before January 1, 1978, shall be presumed to be lead-based paint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112945" number="35769" version="155">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The presumption established by this section may be rebutted by the operator of the covered facility or by the owner of the premises where such facility is located by submitting to the department a sworn written statement by such operator or owner supported by lead-based paint testing or sampling results, a sworn written statement by the person who performed the testing if performed by an employee or agent of such operator or owner and such other proof as the department may require. Testing performed to rebut the presumption may only be performed by a person who has been certified as an inspector or risk assessor in accordance with subparts L and Q of part 745 of title 40 of the code of federal regulations or successor regulations. The determination as to whether such proof is adequate to rebut the presumption established by this section shall be made by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112944" number="35770" version="155">
+											<PARA>(Am. L.L. 2019/064, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112961" number="35771" version="484">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128361" number="35772" version="484">
+										<HEADING>§ 17-922 Remediation of lead-based paint hazards.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19261" name="17-922"/>§ 17-922 Remediation of lead-based paint hazards.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112943" number="35773" version="155">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be no peeling lead-based paint in any portion of any covered facility. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112942" number="35774" version="155">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Lead-based paint or paint of unknown lead content that is peeling, or which is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces shall be immediately remediated in a manner authorized by the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112941" number="35775" version="155">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any equipment that is painted shall be painted with lead-free paint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112940" number="35776" version="155">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>Whenever a condition prohibited by this section is found to exist, the department shall immediately serve an order on the operator of such facility to remediate the condition. After such order has been served, the operator shall post such notices near the entrance of such facility as required by the rules provided for in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-923" destination-id="0-0-0-19263">17-923</LINK> of this subchapter. In the event such order is not complied with within 21 days after service thereof, the department shall immediately request an agency of the city of New York to execute such order pursuant to the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-147" destination-id="0-0-0-6593">17-147</LINK> of this code. The agency shall execute the order within 21 days of the department&apos;s request. Where compliance with the time requirements of this subdivision would cause undue hardship, and where the operator demonstrates a good faith effort to comply timely and shows that it is maintaining interim controls to protect children from a lead-based paint hazard, the department may extend the time for compliance for an additional 24 days. The department may extend the time for compliance beyond such additional 24 days, in accordance with rules promulgated by the department. The city of New York shall be entitled to enforce its rights for reimbursement of expenses incurred thereby, including as credits toward lease payments. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112939" number="35777" version="155">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>When lead-based paint hazards are remediated pursuant to this section such work shall be performed in compliance with work practices established by the department pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="17-923" destination-id="0-0-0-19263">17-923</LINK> of this subchapter. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112938" number="35778" version="155">
+											<PARA>(Am. L.L. 2019/064, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112962" number="35779" version="484">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128362" number="35780" version="484">
+										<HEADING>§ 17-923 Department rules.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19263" name="17-923"/>§ 17-923 Department rules.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-112937" number="35781" version="610">
+											<PARA>The department shall promulgate such rules as may be necessary for the implementation of this subchapter. Such rules shall incorporate work practices that are no less protective of public health than those set forth in subdivisions d and e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Inter Infobase Jump" destination-infobase-id="381572687-333571626-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Rules.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="T24HC_173.14" destination-id="0-0-0-0">173.14</LINK> of the health code and those parts of subdivision b of such section of the health code applicable thereto or a successor rule, and shall include a requirement that lead-contaminated dust clearance testing be performed at the completion of such work. Such rules shall require that such work be performed by a person who has, at a minimum, successfully completed a course on lead-safe work practices given by or on behalf of the department or, by the United States environmental protection agency or an entity authorized by it to give such course, or by the United States department of housing and urban development or an entity authorized by it to gives such course. Such rules shall not apply where such work disturbs surfaces of less than (i) two square feet of peeling lead-based paint per room or (ii) ten percent of the total surface area of peeling paint on a type of component with a small surface area, such as a window sill or door frame. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-29394" number="35782" version="157">
+											<PARA>(Am. L.L. 2019/064, 4/14/2019, eff. 8/12/2019) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-040]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112985" number="35783" version="484">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2019/064" destination-id="0-0-0-20351">L.L. 2019/064</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-053]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-128363" number="35784" version="484">
+										<HEADING>§ 17-924 Annual survey for lead-based paint hazards.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-19271" name="17-924"/>§ 17-924 Annual survey for lead-based paint hazards.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-114851" number="35785" version="775">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The operator of a covered facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results (i) to the department, which will make the information publicly available online, and (ii) to the parent or guardian of each child that attends such facility, as required by rules of the department. The department may require by rule that such annual survey be submitted electronically. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-112986" number="35786" version="775">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>In a covered facility located in a school operated by the department of education, the survey required by subdivision a of this section shall include rooms and areas where children of an applicable age are located, including classrooms, libraries, cafeterias, and gymnasiums designated for use by such children of an applicable age. A room or area of a school operated by the department of education may not be designated for use as a covered facility unless such room or area has, within the prior year, been included in a survey conducted in accordance with this section. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131648" number="35787" version="775">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>In addition to the requirements of this section, department of education shall conduct a survey of classrooms in a covered facility located in a school operated by the department at least three times a year to determine the physical condition of surface-coating material in classrooms and shall provide a copy of the survey results (i) to the department, which will make the information publicly available online, and (ii) to the parent or guardian of each child that attends such facility, as required by rules of the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-131647" number="35788" version="775">
+											<PARA>(Am. L.L. 2019/071, 4/14/2019, eff. 8/12/2019; Am. L.L. 2020/028, 2/11/2020, eff. 2/11/2021) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-058]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

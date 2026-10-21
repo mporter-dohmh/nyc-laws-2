@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XDUMXGYSXYLRIFWP\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-42778" number="55206" version="3">
+			<HEADING>Chapter 6: City Issued Permits, Licenses, and Registrations</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-10243" name="T23C006"/>Chapter 6: City Issued Permits, Licenses, and Registrations</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-42779" number="55207" version="3">
+										<HEADING>§ 23-601 Mobile access to additional information. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-10245" name="23-601"/>§ 23-601 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Mobile access to additional information. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-42780" number="55208" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any permit, license, or registration that is issued by any city agency, and which is required by any law or rule to be conspicuously posted or otherwise visible to the public, shall include technology or technologies, such as a quick response code or a near field communication tag, by which an individual with a properly equipped mobile device may directly access publicly available information maintained online by the agency relating specifically to such permit, license, or registration. &quot;Scan for more info,&quot; or other similarly descriptive text describing the purpose or use of the technology, shall be printed near the technology or technologies on the permit, license, or registration.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42781" number="55209" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The requirements of subdivision a of this section shall not apply to any permit, license, or registration about which no publicly available information beyond that which is printed on such permit, license, or registration is maintained online by the agency issuing such permit, license, or registration. If publicly available information maintained by the agency beyond that which is printed on such permit, license, or registration is made available by the agency online subsequent to the issuance of such permit, license, or registration, the requirements of subdivision a of this section shall apply to the next issuance of such permit, license, or registration.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-42782" number="55210" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department of information technology and telecommunications, or any successor agency, shall prepare and publish a technical manual specifying the appropriate technology or technologies for inclusion on such permits, licenses, and registrations, taking into account, at a minimum, the cost, accessibility, and potential usefulness of the technology or technologies, and shall review, and update as necessary, such manual at least once every two years.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>
