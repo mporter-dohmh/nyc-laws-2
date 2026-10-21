@@ -1,0 +1,35 @@
+name: Convert XML to Markdown
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Convert
+        run: |
+          # Rebuild from scratch so files removed upstream disappear from md/
+          rm -rf md
+          python scripts/xml_to_md.py md admin-code rules
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add -A md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Regenerate Markdown from XML ($(date -u +%Y-%m-%d))"
+            git push
+          fi
