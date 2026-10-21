@@ -1,0 +1,53 @@
+name: Update NYC laws from AmLegal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1" # Mondays 09:17 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and extract
+        run: |
+          set -euo pipefail
+          fetch() {
+            local url=$1 dest=$2 tmp
+            tmp=$(mktemp -d)
+            curl -fsSL --retry 3 -o "$tmp/xml.zip" "$url"
+            unzip -tq "$tmp/xml.zip"
+            rm -rf "$dest"
+            mkdir -p "$dest"
+            unzip -q -o "$tmp/xml.zip" -d "$dest"
+            rm -rf "$tmp"
+          }
+          fetch http://files.amlegal.com/pdffiles/NewYorkCity/Admin/XML.zip admin-code
+          fetch http://files.amlegal.com/pdffiles/NewYorkCity/Rules/XML.zip rules
+
+      - name: Check file sizes
+        run: |
+          # GitHub rejects files over 100 MB
+          big=$(find admin-code rules -type f -size +95M)
+          if [ -n "$big" ]; then
+            echo "Files too large for GitHub (need Git LFS or splitting):"
+            ls -lh $big
+            exit 1
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add -A admin-code rules
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update Admin Code and Rules XML from AmLegal ($(date -u +%Y-%m-%d))"
+            git push
+          fi
