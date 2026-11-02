@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-94433" number="113646" version="270">
+		<RECORD id="0-0-0-94433" number="113931" version="270">
 			<HEADING>Chapter 6: IDNYC Program</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-13403" name="T68C006"/>Chapter 6: IDNYC Program</PARA>
@@ -13,252 +13,252 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94434" number="113647" version="270">
+							<RECORD id="0-0-0-94434" number="113932" version="270">
 								<HEADING>§ 6-01 Definitions.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13405" name="T68C006_6-01"/>§ 6-01 Definitions.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99578" number="113648" version="270">
+								<RECORD id="0-0-0-99578" number="113933" version="270">
 									<PARA>
 										<TAB tab-count="1"/>For the purposes of this chapter: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99592" number="113649" version="2502">
+								<RECORD id="0-0-0-99592" number="113934" version="2502">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>&quot;Caretaker&quot; means a birth parent; adoptive parent; step parent; court-appointed guardian, custodian, or conservator; foster care parent; a sponsor of a minor appointed by the United States Department of Health and Human Services, Office of Refugee Resettlement (ORR); an employee from the New York City Administration for Children&apos;s Services (ACS), New York State Office for People with Developmental Disabilities (OPWDD), New York State Department of Health (NYS DOH), New York State Office of Mental Health (NYS OMH), New York City Department of Health and Mental Hygiene (NYC DOHMH), a designated ACS foster care agency, or an agency or facility, including a residential care facility, that is operated, licensed, certified or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH; a cohabitant of an applicant who has been determined by OPWDD to be a person with a developmental disability; an applicant&apos;s Social Security representative payee; or such other categories of individuals that HRA may designate as caretakers in the future pursuant to subdivision (f) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124267" number="113650" version="1893">
+								<RECORD id="0-0-0-124267" number="113935" version="1893">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>&quot;IDNYC Card&quot; has the same meaning as &quot;New York City identity card,&quot; as provided in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-115" destination-id="0-0-0-0">3-115</LINK>(a) of the Administrative Code of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99593" number="113651" version="1617">
+								<RECORD id="0-0-0-99593" number="113936" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>&quot;HRA&quot; means the New York City Human Resources Administration. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99596" number="113652" version="1617">
+								<RECORD id="0-0-0-99596" number="113937" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>&quot;Individual who lacks a stable residence&quot; means a person who lacks permanent housing, who may live on the streets, in a vehicle or abandoned building, or reside at a location where there is a maximum stay of 30 days or less. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99597" number="113653" version="2502">
+								<RECORD id="0-0-0-99597" number="113938" version="2502">
 									<PARA>
 										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>&quot;Machine readable&quot; describes a document with data that can be verified by electronic means by the IDNYC Card Program application system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124272" number="113654" version="2502">
+								<RECORD id="0-0-0-124272" number="113939" version="2502">
 									<PARA>
 										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>A &quot;new applicant&quot; means an individual who is applying for their first IDNYC card or who was previously issued an IDNYC card that expired and is outside the renewal period as established by HRA pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-10" destination-id="0-0-0-13423">6-10</LINK>(b). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124271" number="113655" version="2502">
+								<RECORD id="0-0-0-124271" number="113940" version="2502">
 									<PARA>
 										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>A &quot;qualifying school&quot; is any New York City Department of Education or accredited charter, parochial or private school located in New York City that HRA has designated as a school that it will accept a school verification form from pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(d). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124270" number="113656" version="2502">
+								<RECORD id="0-0-0-124270" number="113941" version="2502">
 									<PARA>
 										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>&quot;Renewal period&quot; means the time period established by HRA pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-10" destination-id="0-0-0-13423">6-10</LINK>(b) in which a cardholder can renew their card and not be treated as a new applicant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124269" number="113657" version="2502">
+								<RECORD id="0-0-0-124269" number="113942" version="2502">
 									<PARA>
 										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>&quot;Resident&quot; has the same meaning as provided in § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-115" destination-id="0-0-0-0">3-115</LINK>(a) of the Administrative Code of the City of New York. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124268" number="113658" version="1617">
+								<RECORD id="0-0-0-124268" number="113943" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>&quot;State&quot; means any of the 50 states of the United States, and shall also be deemed to include the District of Columbia, and any of the territories of the United States. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99598" number="113659" version="1617">
+								<RECORD id="0-0-0-99598" number="113944" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>&quot;Territories&quot; means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the U.S. Virgin Islands. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99600" number="113660" version="1617">
+								<RECORD id="0-0-0-99600" number="113945" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>&quot;Submitted&quot; means submitted to HRA, as administering agency of the IDNYC Program, in accordance with this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108130" number="113661" version="1617">
+								<RECORD id="0-0-0-108130" number="113946" version="1617">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99602" number="113662" version="933">
+							<RECORD id="0-0-0-99602" number="113947" version="933">
 								<HEADING>§ 6-02 The IDNYC Card.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13407" name="T68C006_6-02"/>§ 6-02 The IDNYC Card.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99581" number="113663" version="2497">
+								<RECORD id="0-0-0-99581" number="113948" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The IDNYC Card will display the cardholder&apos;s photograph, name, date of birth, an expiration date, signature, eye color, height, identification number, and, except as provided in this section, a street address located within New York City. The card will also, at the cardholder&apos;s option, display the cardholder&apos;s self-designated gender, preferred language, veteran status and such additional information as HRA may in the future display. Additionally, for a cardholder under 14 years of age, the cardholder&apos;s designated emergency contact information will appear on the card. For a cardholder 14 years of age or older, the cardholder&apos;s designated emergency contact information may appear on the card at the cardholder&apos;s option. Cards issued pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(e) will also display the name of the cardholder&apos;s school. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-042]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99604" number="113664" version="933">
+								<RECORD id="0-0-0-99604" number="113949" version="933">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The IDNYC Card will not display a home address in the following circumstances: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99609" number="113665" version="933">
+								<RECORD id="0-0-0-99609" number="113950" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Where the applicant is 10 - 13 years old, the applicant&apos;s caretaker may choose to omit the address from the card. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108135" number="113666" version="933">
+								<RECORD id="0-0-0-108135" number="113951" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Where an applicant is an individual who lacks a stable residence or is a survivor of domestic violence and provides evidence of residency pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>(c)(2), the IDNYC Card will display either no address at all or a &quot;care of&quot; address, as described in that section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108134" number="113667" version="933">
+								<RECORD id="0-0-0-108134" number="113952" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Where an applicant resides in a residential care program that is operated or overseen by HRA&apos;s Emergency Intervention Services for the purpose of providing shelter, services and care to survivors of domestic violence and presents a Letter from a Residential Care Program as described in the table set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>(c)(2), the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant&apos;s preference. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108133" number="113668" version="933">
+								<RECORD id="0-0-0-108133" number="113953" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Where an applicant provides evidence that they participate in the New York State Address Confidentiality Program (ACP) established by New York Executive Law § 108 for victims of domestic violence, the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant&apos;s preference. An applicant who participates in the ACP must still establish residency under this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108132" number="113669" version="1617">
+								<RECORD id="0-0-0-108132" number="113954" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Where an applicant is a college or university student, employee or other person who resides in housing affiliated with a school and receives mail at a central school-based location different from where the applicant resides, the IDNYC card will display the address where the applicant receives mail and the name of their school provided the applicant submits a Letter from a College or University Administrator as described in the table set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>(c)(1). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99610" number="113670" version="1600">
+								<RECORD id="0-0-0-99610" number="113955" version="1600">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>IDNYC Cards issued pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(e) will not display a home address. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-042]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-123897" number="113671" version="1633">
+								<RECORD id="0-0-0-123897" number="113956" version="1633">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 10/21/2019 &amp; 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99611" number="113672" version="1617">
+							<RECORD id="0-0-0-99611" number="113957" version="1617">
 								<HEADING>§ 6-03 Eligibility and Application Process for New Applicants.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13409" name="T68C006_6-03"/>§ 6-03 Eligibility and Application Process for New Applicants.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99623" number="113673" version="933">
+								<RECORD id="0-0-0-99623" number="113958" version="933">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The IDNYC Card will be available to any resident of New York City ten years of age or older who: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108147" number="113674" version="933">
+								<RECORD id="0-0-0-108147" number="113959" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>submits an application in a format and in a manner established by the Commissioner; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108146" number="113675" version="933">
+								<RECORD id="0-0-0-108146" number="113960" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>establishes identity and residency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108145" number="113676" version="933">
+								<RECORD id="0-0-0-108145" number="113961" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>by providing a single 4-point document from the chart set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(a); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108144" number="113677" version="933">
+								<RECORD id="0-0-0-108144" number="113962" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>by providing identity documents totaling at least 3 points pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK> and at least one additional residency document pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108143" number="113678" version="933">
+								<RECORD id="0-0-0-108143" number="113963" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>pursuant to subdivisions (b), (c), (d), (e) or (f) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108142" number="113679" version="933">
+								<RECORD id="0-0-0-108142" number="113964" version="933">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>pursuant to the caretaker provisions set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108141" number="113680" version="933">
+								<RECORD id="0-0-0-108141" number="113965" version="933">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No expired documentation will be accepted, except as provided in this chapter or where HRA makes provisions for the acceptance of expired documentation when allowing additional documents pursuant to 68 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>(b), <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>(b) and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>(f). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108140" number="113681" version="2923">
+								<RECORD id="0-0-0-108140" number="113966" version="2923">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Only original documents or copies of documents that have been certified by the original issuing agency will be accepted. Data or electronic versions of documents may be deemed to constitute an original document if HRA determines in its discretion that the data or electronic documents have sufficient indicia of reliability. Documents with any alterations or erasures, or that are cancelled or invalidated, will not be accepted. IDNYC reserves the right to not accept any document, or type of document, whose validity it is not able to verify and, where relying on data or electronic versions of documents, to request additional information from the applicant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108139" number="113682" version="933">
+								<RECORD id="0-0-0-108139" number="113967" version="933">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Except as provided in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>(a), all documents used to establish identity and residency must include the name of the individual whose identity and residency is being established. If any of the documents used to establish identity and residency bear a name that is not consistent with the one on the IDNYC application, the applicant must also present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108138" number="113683" version="2923">
+								<RECORD id="0-0-0-108138" number="113968" version="2923">
 									<PARA>
 										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Applicants must submit documents at an enrollment site designated by HRA in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="3-115" destination-id="0-0-0-0">3-115</LINK>(b)(2) of the Administrative Code of the City of New York. IDNYC provides free on-site document translation services to applicants who provide original documents that are not in English. Original documents will be returned immediately to the applicant before they leave the enrollment center. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108137" number="113684" version="933">
+								<RECORD id="0-0-0-108137" number="113969" version="933">
 									<PARA>
 										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Wherever a photo identification is required, the photo must bear a reasonable likeness to the person whose identity is being established. The person&apos;s gender identity or gender expression will not be the basis for rejection of a photo. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108136" number="113685" version="2497">
+								<RECORD id="0-0-0-108136" number="113970" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Except for students who are applying for an IDNYC Card at a participating middle school pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(e), applicants ages ten to thirteen years of age must be accompanied at enrollment by a caretaker who must sign the application on behalf of the applicant. Students applying for a card pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(e) need not be accompanied by a caretaker, but will be required to submit an application signed by their parent as defined in Chancellor&apos;s Regulation Number A-820. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-042]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99624" number="113686" version="2923">
+								<RECORD id="0-0-0-99624" number="113971" version="2923">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 10/21/2019 &amp; 12/2/2019; amended City Record 7/11/2025, eff. 8/10/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99625" number="113687" version="270">
+							<RECORD id="0-0-0-99625" number="113972" version="270">
 								<HEADING>§ 6-04 Proof of Identity and Residency.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13411" name="T68C006_6-04"/>§ 6-04 Proof of Identity and Residency.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99583" number="113688" version="270">
+								<RECORD id="0-0-0-99583" number="113973" version="270">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An applicant may provide a single document that is worth the four points needed to establish both identity and residency. The documents listed below meet this four point requirement, provided that they include a photo of the applicant, the date of birth of the applicant, and the applicant&apos;s current residential address in New York City. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99626" number="113689" version="934">
+								<RECORD id="0-0-0-99626" number="113974" version="934">
 									<PARA>
 										<TAB tab-count="1"/>The following documents are worth four points and establish identity and residency: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99627" number="113690" version="270">
+								<RECORD id="0-0-0-99627" number="113975" version="270">
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99628" number="113691" version="2923">
+								<RECORD id="0-0-0-99628" number="113976" version="2923">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="5" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -408,43 +408,43 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99632" number="113692" version="934">
+								<RECORD id="0-0-0-99632" number="113977" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>For applicants who are clients of the New York City Department of Probation (DOP), IDNYC will accept the DOP&apos;s verification of the applicant&apos;s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOP, as sufficient proof of the applicant&apos;s identity and residency to establish eligibility for the IDNYC Card. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108157" number="113693" version="2497">
+								<RECORD id="0-0-0-108157" number="113978" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>For applicants who are students at qualifying schools and are not applying with a caretaker pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>, IDNYC will accept the school&apos;s verification of the applicant&apos;s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school (&quot;school verification&quot;), and additional identity documents pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>, other than a school transcript, as sufficient proof of the applicant&apos;s identity and residency to establish eligibility for the IDNYC card, as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108156" number="113694" version="1617">
+								<RECORD id="0-0-0-108156" number="113979" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>If the school verification is provided to IDNYC at a temporary enrollment site located at the school in which the applicant is enrolled, IDNYC will accept any identity document listed in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>. Such document need not include a photo identification. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108155" number="113695" version="1617">
+								<RECORD id="0-0-0-108155" number="113980" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>If the school verification is provided to IDNYC at any other enrollment site, the applicant must also present: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108154" number="113696" version="1617">
+								<RECORD id="0-0-0-108154" number="113981" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>a student identification card issued by the same school issuing the school verification; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108153" number="113697" version="934">
+								<RECORD id="0-0-0-108153" number="113982" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>either: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108152" number="113698" version="934">
+								<RECORD id="0-0-0-108152" number="113983" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
@@ -452,7 +452,7 @@
 										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>at least one additional identity document listed in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>, if the student identification card includes a photo; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108151" number="113699" version="934">
+								<RECORD id="0-0-0-108151" number="113984" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
@@ -460,73 +460,73 @@
 										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>identity documents listed in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK> worth at least a total of two points, one of which must be accepted as a photo identification, if the student identification card does not include a photo. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108150" number="113700" version="2497">
+								<RECORD id="0-0-0-108150" number="113985" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>For applicants who are students at qualifying schools and are applying with a caretaker pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>, IDNYC will accept the school&apos;s verification of the applicant&apos;s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school (&quot;school verification&quot;), as sufficient proof of the applicant&apos;s identity and residency to establish eligibility for the IDNYC card. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124273" number="113701" version="2497">
+								<RECORD id="0-0-0-124273" number="113986" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>For applicants applying at participating DOE middle schools to be jointly agreed upon by HRA and DOE, IDNYC will accept the school&apos;s verification of the applicant&apos;s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school as sufficient proof of the applicant&apos;s identity and residency to establish eligibility for the IDNYC card. Cards issued pursuant to this subdivision will include the school&apos;s name and will expire on the student&apos;s expected graduation date from the school. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-042]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-123898" number="113702" version="1600">
+								<RECORD id="0-0-0-123898" number="113987" version="1600">
 									<PARA>
 										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>For applicants who participate in the Summer Youth Employment Program (SYEP) of the New York City Department of Youth and Community Development (DYCD), IDNYC will accept DYCD&apos;s verification of the applicant&apos;s identity and residency, provided to IDNYC, in a format and in a manner to be agreed upon by HRA and DYCD, as sufficient proof of the applicant&apos;s identity and residency to establish eligibility for the IDNYC card if presented along with a photo identification pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-042]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108148" number="113703" version="1600">
+								<RECORD id="0-0-0-108148" number="113988" version="1600">
 									<PARA>
 										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>For applicants who are clients of the New York City Department of Social Services (DSS), IDNYC may, at the applicant&apos;s request, verify the applicant&apos;s identity and/or residency using information from systems maintained by DSS, provided such data can be accessed for purposes of such verification and, once accessed, is deemed sufficiently reliable. Such information will be worth three points toward establishing the identity of the applicant if an original photo and related demographic data, including full name and date of birth, are available in DSS&apos;s systems; or one point toward establishing identity if only the name and date of birth, but no photo, are available in DSS&apos;s system; and one point towards establishing residency if the applicant&apos;s address is also in DSS&apos;s system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-042]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99633" number="113704" version="2923">
+								<RECORD id="0-0-0-99633" number="113989" version="2923">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 10/21/2019 &amp; 12/2/2019; amended City Record 7/11/2025, eff. 8/10/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99634" number="113705" version="270">
+							<RECORD id="0-0-0-99634" number="113990" version="270">
 								<HEADING>§ 6-05 Proof of Identity.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13413" name="T68C006_6-05"/>§ 6-05 Proof of Identity.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99584" number="113706" version="270">
+								<RECORD id="0-0-0-99584" number="113991" version="270">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Except as otherwise provided in this chapter, in order to establish identity, an applicant will be required to meet the following criteria: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99635" number="113707" version="934">
+								<RECORD id="0-0-0-99635" number="113992" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An applicant must provide documents from the charts set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>(c) below that in aggregate total at least three points; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99636" number="113708" version="270">
+								<RECORD id="0-0-0-99636" number="113993" version="270">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>An applicant must provide photo identification; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99637" number="113709" version="270">
+								<RECORD id="0-0-0-99637" number="113994" version="270">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>One of the documents submitted must contain the applicant&apos;s date of birth. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99638" number="113710" version="2923">
+								<RECORD id="0-0-0-99638" number="113995" version="2923">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HRA may determine in the future that additional documents, including data or electronic versions of documents received from the issuing agency, licensed by the issuing agency, or in an HRA or DHS case record, may be accepted and will be afforded the value of one point toward establishing the identity of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of new documents or data, including, but not limited to, publication on the IDNYC website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99639" number="113711" version="1617">
+								<RECORD id="0-0-0-99639" number="113996" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The following documents establish the identity of the applicant (3 points):<LINEBRK/>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99641" number="113712" version="2923">
+								<RECORD id="0-0-0-99641" number="113997" version="2923">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="5" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -923,13 +923,13 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99642" number="113713" version="1617">
+								<RECORD id="0-0-0-99642" number="113998" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The following documents are worth two points toward establishing the identity of the applicant:<LINEBRK/>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99644" number="113714" version="2923">
+								<RECORD id="0-0-0-99644" number="113999" version="2923">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="5" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -1462,17 +1462,17 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99645" number="113715" version="270">
+								<RECORD id="0-0-0-99645" number="114000" version="270">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The following documents are worth one point toward establishing the identity of the applicant: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99646" number="113716" version="270">
+								<RECORD id="0-0-0-99646" number="114001" version="270">
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99647" number="113717" version="2923">
+								<RECORD id="0-0-0-99647" number="114002" version="2923">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="5" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -2002,39 +2002,39 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99648" number="113718" version="2923">
+								<RECORD id="0-0-0-99648" number="114003" version="2923">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 12/2/2019; amended City Record 7/11/2025, eff. 8/10/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99649" number="113719" version="270">
+							<RECORD id="0-0-0-99649" number="114004" version="270">
 								<HEADING>§ 6-06 Proof of Residency.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13415" name="T68C006_6-06"/>§ 6-06 Proof of Residency.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99585" number="113720" version="2923">
+								<RECORD id="0-0-0-99585" number="114005" version="2923">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Except as provided in paragraph (2) of subdivision (c) of this section or in 68 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>, in order to establish residency, an applicant will be required to produce a document from section 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK>(c)(1) or a document authorized by subdivision (b) of this section displaying the applicant&apos;s residential street address located in New York City. The document must display the applicant&apos;s name, except where the document displays the name of the applicant&apos;s spouse or domestic partner and the applicant presents: (i) a certificate of marriage, civil union or domestic partnership or birth certificate that demonstrates the relationship to the spouse or domestic partner; and (ii) an attestation signed by the spouse or domestic partner, on a form and in a format established by the Commissioner, that the applicant resides with the spouse. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99650" number="113721" version="2923">
+								<RECORD id="0-0-0-99650" number="114006" version="2923">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HRA may determine in the future that additional documents, including data and electronic versions of documents received from the issuing agency, licensed by the issuing agency, or in an HRA case record, may be accepted and will be afforded the value of one point toward establishing the residency of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of the new documents or data, including on the IDNYC website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99651" number="113722" version="934">
+								<RECORD id="0-0-0-99651" number="114007" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The following documents are worth one point and establish residency. The address on the document will be shown on the card, except as provided in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-02" destination-id="0-0-0-13407">6-02</LINK>(b): <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99652" number="113723" version="270">
+								<RECORD id="0-0-0-99652" number="114008" version="270">
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99653" number="113724" version="2923">
+								<RECORD id="0-0-0-99653" number="114009" version="2923">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="4" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -2627,17 +2627,17 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99654" number="113725" version="1619">
+								<RECORD id="0-0-0-99654" number="114010" version="1619">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The following documents are worth one point and establish residency for an individual who lacks a stable residence or is a survivor of domestic violence, as applicable. When applicants submit one of these documents for proof of residency, no home address will appear on the card: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99655" number="113726" version="270">
+								<RECORD id="0-0-0-99655" number="114011" version="270">
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99656" number="113727" version="2923">
+								<RECORD id="0-0-0-99656" number="114012" version="2923">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="4" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -2770,61 +2770,61 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108158" number="113728" version="934">
+								<RECORD id="0-0-0-108158" number="114013" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>IDNYC will also accept the following as proof of residency and address worth one point: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108160" number="113729" version="2497">
+								<RECORD id="0-0-0-108160" number="114014" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Verification from the New York City Housing Authority (NYCHA), provided in a format and in a manner to be agreed upon by HRA and NYCHA: (1) that the applicant resides in NYCHA housing; and (2) of the applicant&apos;s address; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108159" number="113730" version="2497">
+								<RECORD id="0-0-0-108159" number="114015" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Verification from the New York City Department of Finance (DOF), in a format and in a manner to be agreed upon by HRA and DOF: (1) that the applicant is enrolled in the Senior Citizen Rent Increase Exemption programs (SCRIE programs), and (2) of the applicant&apos;s address. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99657" number="113731" version="2923">
+								<RECORD id="0-0-0-99657" number="114016" version="2923">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 12/2/2019; amended City Record 7/11/2025, eff. 8/10/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-112]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99658" number="113732" version="270">
+							<RECORD id="0-0-0-99658" number="114017" version="270">
 								<HEADING>§ 6-07 Applicants with Caretakers.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13417" name="T68C006_6-07"/>§ 6-07 Applicants with Caretakers.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99586" number="113733" version="934">
+								<RECORD id="0-0-0-99586" number="114018" version="934">
 									<PARA>An applicant is not required to provide photo identification if accompanied by a caretaker who can demonstrate proof of a relationship to the applicant pursuant to this section. For HRA to issue an IDNYC Card to such an applicant without photo identification, each of the following criteria must be met: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99659" number="113734" version="934">
+								<RECORD id="0-0-0-99659" number="114019" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The applicant must provide documents worth a total of at least two points from the proof of identity lists set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>(c); <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99660" number="113735" version="748">
+								<RECORD id="0-0-0-99660" number="114020" version="748">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>If the applicant is 21 years of age or younger, the applicant and caretaker must demonstrate proof of relationship by providing at least one document from the charts set forth in paragraph (1) or (2) of this subdivision or a document authorized pursuant to subdivision (f) of this section. If the applicant is 22 years of age or older, the applicant and caretaker must demonstrate proof of relationship by providing at least one of the documents from the chart set forth in paragraph (2) of this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99661" number="113736" version="270">
+								<RECORD id="0-0-0-99661" number="114021" version="270">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The following documents, in addition to those set forth in paragraph (2) of this subdivision, will demonstrate proof of relationship between an applicant age 21 or younger and his or her caretaker: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99662" number="113737" version="270">
+								<RECORD id="0-0-0-99662" number="114022" version="270">
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99663" number="113738" version="2497">
+								<RECORD id="0-0-0-99663" number="114023" version="2497">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="3" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -2968,17 +2968,17 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99664" number="113739" version="270">
+								<RECORD id="0-0-0-99664" number="114024" version="270">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The following documents will establish proof of relationship between an applicant of any age and his or her caretaker: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99665" number="113740" version="270">
+								<RECORD id="0-0-0-99665" number="114025" version="270">
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99666" number="113741" version="934">
+								<RECORD id="0-0-0-99666" number="114026" version="934">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="3" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -3089,240 +3089,240 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99667" number="113742" version="270">
+								<RECORD id="0-0-0-99667" number="114027" version="270">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>At least one of the documents provided pursuant to subdivision (a) or (b) of this section must include the applicant&apos;s date of birth; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99668" number="113743" version="934">
+								<RECORD id="0-0-0-99668" number="114028" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The caretaker must demonstrate proof of the caretaker&apos;s own identity worth at least three points from the lists set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK>(c), including a photo identification; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99669" number="113744" version="934">
+								<RECORD id="0-0-0-99669" number="114029" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The applicant&apos;s residency must be established by: (i) the applicant establishing residency in accordance with 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK> or (ii) the caretaker establishing residency for the applicant by establishing the caretaker&apos;s own residency in accordance with 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK> and providing an attestation, on a form and in a format established by the Commissioner, that the applicant resides with the caretaker. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99670" number="113745" version="270">
+								<RECORD id="0-0-0-99670" number="114030" version="270">
 									<PARA>
 										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>HRA may designate additional categories of individuals who will be considered caretakers under this chapter and determine that additional documents may be accepted to establish proof of relationship between an applicant and a caretaker. In the event that HRA exercises its authority under this subdivision, it will publicize the addition of new caretaker categories and its acceptance of new documents, including on the IDNYC website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99671" number="113746" version="934">
+								<RECORD id="0-0-0-99671" number="114031" version="934">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99672" number="113747" version="1617">
+							<RECORD id="0-0-0-99672" number="114032" version="1617">
 								<HEADING>§ 6-08 Changes of Name, Address and Gender.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13419" name="T68C006_6-08"/>§ 6-08 Changes of Name, Address and Gender.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99675" number="113748" version="1617">
+								<RECORD id="0-0-0-99675" number="114033" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An individual with an unexpired IDNYC card must report a change of name or address within 10 days of such change. A person may choose to update the gender on their card at any time.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124277" number="113749" version="1617">
+								<RECORD id="0-0-0-124277" number="114034" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>To obtain a card with an updated name, the cardholder must present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change. Only original documents or documents certified by the issuing agency will be accepted.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124276" number="113750" version="1617">
+								<RECORD id="0-0-0-124276" number="114035" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>To obtain a card with an updated address, the cardholder must establish residency pursuant to either 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-06" destination-id="0-0-0-13415">6-06</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-07" destination-id="0-0-0-13417">6-07</LINK>, unless HRA is able to verify the cardholder&apos;s new address by other means. Documents submitted to IDNYC to demonstrate a change of address need not be originals. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99676" number="113751" version="1617">
+								<RECORD id="0-0-0-99676" number="114036" version="1617">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 9/20/2019, eff. 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99677" number="113752" version="270">
+							<RECORD id="0-0-0-99677" number="114037" version="270">
 								<HEADING>§ 6-09 Fees.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13421" name="T68C006_6-09"/>§ 6-09 Fees.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99678" number="113753" version="1617">
+								<RECORD id="0-0-0-99678" number="114038" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>HRA will not charge a fee to an applicant in connection with the issuance of an applicant&apos;s first IDNYC Card, the issuance of a renewal card pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-10" destination-id="0-0-0-13423">6-10</LINK>, or where a cardholder is requesting a new card to update their name, address, gender or veteran status or to correct an error by IDNYC. Nor will HRA charge a fee for an individual to replace a card if the individual can establish that the card was stolen. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124279" number="113754" version="1617">
+								<RECORD id="0-0-0-124279" number="114039" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>In all other instances, HRA will charge a $10 fee for the issuance of a card. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99679" number="113755" version="934">
+								<RECORD id="0-0-0-99679" number="114040" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>HRA will waive the fee set forth in 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-09" destination-id="0-0-0-13421">6-09</LINK>(b) on behalf of individuals who submit a self attestation indicating that they cannot afford the cost of such fee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99680" number="113756" version="1617">
+								<RECORD id="0-0-0-99680" number="114041" version="1617">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 9/20/2019, eff. 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-124278" number="113757" version="1617">
+							<RECORD id="0-0-0-124278" number="114042" version="1617">
 								<HEADING>§ 6-10 Expiration and Renewal.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13423" name="T68C006_6-10"/>§ 6-10 Expiration and Renewal.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99682" number="113758" version="1617">
+								<RECORD id="0-0-0-99682" number="114043" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>IDNYC Cards issued after the effective date of this rule will expire five years from the date of application approval, except that cards issued pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK>(e) will expire on the date that the cardholder is expected to graduate from middle school, and cards issued to any other individuals under 16 years of age will expire two years from date of application approval. IDNYC Cards issued prior to the effective date of this rule will be valid until the expiration date that appears on the face of the card unless invalidated pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-12" destination-id="0-0-0-13427">6-12</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124280" number="113759" version="1617">
+								<RECORD id="0-0-0-124280" number="114044" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Renewal cards will be available to individuals who have previously been issued an IDNYC card that will expire in less than 60 days, or such other longer timeframe that HRA may designate in the future, or that expired less than six months ago, or such other longer timeframe that IDNYC may designate in the future, and who submit a renewal application on or after December 2, 2019 in a format and in a manner established by the Commissioner. In most instances, cardholders seeking renewal of their card will not be required to re-establish their identity pursuant to the provisions of 68 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK> of this title, but if they are seeking to update their name or address must meet the requirements of subdivision (b) or (c) of 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-08" destination-id="0-0-0-13419">6-08</LINK>, as applicable. However, IDNYC reserves the right to have cardholders re-establish their identity pursuant to 68 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-04" destination-id="0-0-0-13411">6-04</LINK> or <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T68C006_6-05" destination-id="0-0-0-13413">6-05</LINK> if the program cannot confirm by other means that the individual seeking renewal is the individual to whom the card was issued. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99683" number="113760" version="1617">
+								<RECORD id="0-0-0-99683" number="114045" version="1617">
 									<PARA>(Amended City Record 3/24/2016, eff. 4/23/2016; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99684" number="113761" version="270">
+							<RECORD id="0-0-0-99684" number="114046" version="270">
 								<HEADING>§ 6-11 Confidentiality of IDNYC Card Eligibility Information.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13425" name="T68C006_6-11"/>§ 6-11 Confidentiality of IDNYC Card Eligibility Information.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-99687" number="113762" version="934">
+								<RECORD id="0-0-0-99687" number="114047" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Information collected about applicants for the card will be treated as confidential to the maximum extent allowable by applicable federal and state law and may only be disclosed if: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99689" number="113763" version="934">
+								<RECORD id="0-0-0-99689" number="114048" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Authorized in writing by the individual to whom such information pertains, or if such individual is a minor or is otherwise not legally competent, by such individual&apos;s parent or legal guardian; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108162" number="113764" version="934">
+								<RECORD id="0-0-0-108162" number="114049" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>So ordered by a court of competent jurisdiction; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99690" number="113765" version="934">
+								<RECORD id="0-0-0-99690" number="114050" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>To a requesting city agency for the limited purpose of administering the IDNYC Card Program or determining or facilitating the applicant&apos;s eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal and state privacy laws and regulations, and subject to the further requirement that such information will not be redisclosed to any other governmental agency or entity, or third party; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99691" number="113766" version="934">
+								<RECORD id="0-0-0-99691" number="114051" version="934">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>To a law enforcement agency that serves the administering agency a judicial subpoena or judicial warrant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-99692" number="113767" version="934">
+								<RECORD id="0-0-0-99692" number="114052" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>HRA will not indicate on the IDNYC Card application forms the type of records provided by an applicant to establish residency or identity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108161" number="113768" version="934">
+								<RECORD id="0-0-0-108161" number="114053" version="934">
 									<PARA>(Amended City Record 7/2/2018, eff. 8/1/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-99693" number="113769" version="934">
+							<RECORD id="0-0-0-99693" number="114054" version="934">
 								<HEADING>§ 6-12 Secondary Review Conferences and Reapplications Following Denial of IDNYC Card Applications.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13427" name="T68C006_6-12"/>§ 6-12 Secondary Review Conferences and Reapplications Following Denial of IDNYC Card Applications.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-108163" number="113770" version="934">
+								<RECORD id="0-0-0-108163" number="114055" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>An applicant who has been denied an IDNYC Card may request a secondary review of their eligibility for the card by submitting a review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of issuance of the denial. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108168" number="113771" version="2497">
+								<RECORD id="0-0-0-108168" number="114056" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the applicant&apos;s documents and eligibility for the card and the applicant will have the opportunity to reapply for the card. Secondary reviews will be offered only at specially designated locations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108167" number="113772" version="934">
+								<RECORD id="0-0-0-108167" number="114057" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The IDNYC program will offer the applicant a date, time, and location for the review conference that is within 30 days of receipt of the request. If the date, time, and location offered are not convenient for the applicant, the program will work with the applicant to find another date, time, and location, but cannot guarantee that the conference will take place within 30 days of the request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108166" number="113773" version="934">
+								<RECORD id="0-0-0-108166" number="114058" version="934">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If the applicant chooses to reapply following the review conference, IDNYC staff will notify the applicant of its determination on the application by mail. If IDNYC does not issue a determination within 30 days of the date of the conference, then the determination that triggered the review request shall become the final decision on the application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-027]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-108165" number="113774" version="1617">
+								<RECORD id="0-0-0-108165" number="114059" version="1617">
 									<PARA>(Amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 9/20/2019, eff. 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-124281" number="113775" version="1617">
+							<RECORD id="0-0-0-124281" number="114060" version="1617">
 								<HEADING>§ 6-13 Card Invalidations.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-16786" name="T68C006_6-13"/>§ 6-13 Card Invalidations.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-124291" number="113776" version="1617">
+								<RECORD id="0-0-0-124291" number="114061" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>IDNYC will invalidate a card issued to an individual in the following circumstances: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124290" number="113777" version="1617">
+								<RECORD id="0-0-0-124290" number="114062" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>When IDNYC issues a new card to the individual; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124289" number="113778" version="1617">
+								<RECORD id="0-0-0-124289" number="114063" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>When IDNYC learns that the individual has died; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124288" number="113779" version="1617">
+								<RECORD id="0-0-0-124288" number="114064" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>In the circumstances described in subdivisions (b) - (e) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124287" number="113780" version="1617">
+								<RECORD id="0-0-0-124287" number="114065" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>When the Executive Director of IDNYC or their designee determines that an individual may have obtained a card under a false identity, it will immediately suspend the card, promptly notify the individual of the suspension and provide the individual with an opportunity to challenge the suspension by submitting a secondary review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of notification. Secondary reviews will be offered only at specially designated locations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124286" number="113781" version="2497">
+								<RECORD id="0-0-0-124286" number="114066" version="2497">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the individual&apos;s documents and eligibility for the card. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124285" number="113782" version="1617">
+								<RECORD id="0-0-0-124285" number="114067" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The IDNYC program will offer the individual a date, time, and location for the review conference that is within 14 days of receipt of the request. If the date, time, and location offered are not convenient for the individual, the program will work with the individual to find another date, time, and location, but cannot guarantee that the conference will take place within 14 days of the request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124284" number="113783" version="1617">
+								<RECORD id="0-0-0-124284" number="114068" version="1617">
 									<PARA>
 										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Following the review conference, IDNYC will notify the individual by mail of its determination. If IDNYC does not issue a determination within 14 days of the date of the conference, then the secondary review request will be deemed to have been denied. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-124282" number="113784" version="1617">
+								<RECORD id="0-0-0-124282" number="114069" version="1617">
 									<PARA>(Added City Record 9/20/2019, eff. 12/2/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-044]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>

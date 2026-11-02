@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-114979" number="113063" version="1463">
+		<RECORD id="0-0-0-114979" number="113348" version="1463">
 			<HEADING>Chapter 6: Public Pay Telephones</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-8391" name="T67C006"/>Chapter 6: Public Pay Telephones</PARA>
 		</RECORD>
 		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
-			<RECORD id="0-0-0-93882" number="113064" version="3">
+			<RECORD id="0-0-0-93882" number="113349" version="3">
 				<HEADING>Subchapter A: General Provisions</HEADING>
 				<PARA>Subchapter A: General Provisions</PARA>
 			</RECORD>
@@ -17,13 +17,13 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93883" number="113065" version="3">
+							<RECORD id="0-0-0-93883" number="113350" version="3">
 								<HEADING>§ 6-01 Definitions.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13275" name="T67C006_6-01"/>§ 6-01 Definitions.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93884" number="113066" version="3">
+								<RECORD id="0-0-0-93884" number="113351" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -32,7 +32,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93885" number="113067" version="3">
+								<RECORD id="0-0-0-93885" number="113352" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -45,7 +45,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93886" number="113068" version="3">
+								<RECORD id="0-0-0-93886" number="113353" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -58,7 +58,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93887" number="113069" version="2145">
+								<RECORD id="0-0-0-93887" number="113354" version="2145">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -72,7 +72,7 @@
 										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93888" number="113070" version="3">
+								<RECORD id="0-0-0-93888" number="113355" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -85,7 +85,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93889" number="113071" version="3">
+								<RECORD id="0-0-0-93889" number="113356" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -98,7 +98,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93890" number="113072" version="3">
+								<RECORD id="0-0-0-93890" number="113357" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -111,7 +111,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93891" number="113073" version="2145">
+								<RECORD id="0-0-0-93891" number="113358" version="2145">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -124,7 +124,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93892" number="113074" version="1893">
+								<RECORD id="0-0-0-93892" number="113359" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -137,7 +137,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93893" number="113075" version="3">
+								<RECORD id="0-0-0-93893" number="113360" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -150,7 +150,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93894" number="113076" version="3">
+								<RECORD id="0-0-0-93894" number="113361" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -161,7 +161,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93895" number="113077" version="3">
+								<RECORD id="0-0-0-93895" number="113362" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -172,7 +172,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93896" number="113078" version="3">
+								<RECORD id="0-0-0-93896" number="113363" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -183,7 +183,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93897" number="113079" version="40">
+								<RECORD id="0-0-0-93897" number="113364" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -197,13 +197,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93898" number="113080" version="3">
+							<RECORD id="0-0-0-93898" number="113365" version="3">
 								<HEADING>§ 6-02 Penalties.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13277" name="T67C006_6-02"/>§ 6-02 Penalties.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93899" number="113081" version="3">
+								<RECORD id="0-0-0-93899" number="113366" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -213,7 +213,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93900" number="113082" version="3">
+								<RECORD id="0-0-0-93900" number="113367" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -223,7 +223,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93901" number="113083" version="1461">
+								<RECORD id="0-0-0-93901" number="113368" version="1461">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -234,7 +234,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93902" number="113084" version="1462">
+								<RECORD id="0-0-0-93902" number="113369" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -245,7 +245,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93903" number="113085" version="1462">
+								<RECORD id="0-0-0-93903" number="113370" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -255,7 +255,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93904" number="113086" version="3">
+								<RECORD id="0-0-0-93904" number="113371" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -265,7 +265,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93905" number="113087" version="1893">
+								<RECORD id="0-0-0-93905" number="113372" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -275,7 +275,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93906" number="113088" version="1893">
+								<RECORD id="0-0-0-93906" number="113373" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -285,7 +285,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93907" number="113089" version="40">
+								<RECORD id="0-0-0-93907" number="113374" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -299,13 +299,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93908" number="113090" version="3">
+							<RECORD id="0-0-0-93908" number="113375" version="3">
 								<HEADING>§ 6-03 Liability for Violations.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13279" name="T67C006_6-03"/>§ 6-03 Liability for Violations.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93909" number="113091" version="3">
+								<RECORD id="0-0-0-93909" number="113376" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -317,13 +317,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93910" number="113092" version="3">
+							<RECORD id="0-0-0-93910" number="113377" version="3">
 								<HEADING>§ 6-04 Notice.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13281" name="T67C006_6-04"/>§ 6-04 Notice.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93911" number="113093" version="3">
+								<RECORD id="0-0-0-93911" number="113378" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -335,13 +335,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93912" number="113094" version="3">
+							<RECORD id="0-0-0-93912" number="113379" version="3">
 								<HEADING>§ 6-05 Maintenance of Public Pay Telephones.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13283" name="T67C006_6-05"/>§ 6-05 Maintenance of Public Pay Telephones.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93913" number="113095" version="3">
+								<RECORD id="0-0-0-93913" number="113380" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -354,7 +354,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93914" number="113096" version="3">
+								<RECORD id="0-0-0-93914" number="113381" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -366,7 +366,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93915" number="113097" version="3">
+								<RECORD id="0-0-0-93915" number="113382" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -377,7 +377,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93916" number="113098" version="3">
+								<RECORD id="0-0-0-93916" number="113383" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -388,7 +388,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93917" number="113099" version="3">
+								<RECORD id="0-0-0-93917" number="113384" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -399,7 +399,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93918" number="113100" version="3">
+								<RECORD id="0-0-0-93918" number="113385" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -410,7 +410,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93919" number="113101" version="3">
+								<RECORD id="0-0-0-93919" number="113386" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -423,7 +423,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93920" number="113102" version="3">
+								<RECORD id="0-0-0-93920" number="113387" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -434,7 +434,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93921" number="113103" version="3">
+								<RECORD id="0-0-0-93921" number="113388" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -445,7 +445,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93922" number="113104" version="3">
+								<RECORD id="0-0-0-93922" number="113389" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -456,7 +456,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93923" number="113105" version="3">
+								<RECORD id="0-0-0-93923" number="113390" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -467,7 +467,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93924" number="113106" version="3">
+								<RECORD id="0-0-0-93924" number="113391" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -478,7 +478,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93925" number="113107" version="3">
+								<RECORD id="0-0-0-93925" number="113392" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -490,7 +490,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93926" number="113108" version="3">
+								<RECORD id="0-0-0-93926" number="113393" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -501,7 +501,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93927" number="113109" version="3">
+								<RECORD id="0-0-0-93927" number="113394" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -512,7 +512,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93928" number="113110" version="3">
+								<RECORD id="0-0-0-93928" number="113395" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -524,7 +524,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93929" number="113111" version="3">
+								<RECORD id="0-0-0-93929" number="113396" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -535,7 +535,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93930" number="113112" version="3">
+								<RECORD id="0-0-0-93930" number="113397" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -546,7 +546,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93931" number="113113" version="3">
+								<RECORD id="0-0-0-93931" number="113398" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -557,7 +557,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93932" number="113114" version="3">
+								<RECORD id="0-0-0-93932" number="113399" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -568,7 +568,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93933" number="113115" version="1462">
+								<RECORD id="0-0-0-93933" number="113400" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -579,7 +579,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93934" number="113116" version="3">
+								<RECORD id="0-0-0-93934" number="113401" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -592,7 +592,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93935" number="113117" version="40">
+								<RECORD id="0-0-0-93935" number="113402" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -606,13 +606,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93936" number="113118" version="3">
+							<RECORD id="0-0-0-93936" number="113403" version="3">
 								<HEADING>§ 6-06 Advertisements.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13285" name="T67C006_6-06"/>§ 6-06 Advertisements.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93937" number="113119" version="3">
+								<RECORD id="0-0-0-93937" number="113404" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -621,7 +621,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93938" number="113120" version="40">
+								<RECORD id="0-0-0-93938" number="113405" version="40">
 									<PARA>(<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Amended City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
@@ -632,7 +632,7 @@
 			</LEVEL>
 		</LEVEL>
 		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
-			<RECORD id="0-0-0-93939" number="113121" version="91">
+			<RECORD id="0-0-0-93939" number="113406" version="91">
 				<HEADING>Subchapter B: Interim Registry [Repealed]</HEADING>
 				<PARA>Subchapter B: Interim Registry [Repealed]</PARA>
 			</RECORD>
@@ -640,98 +640,98 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93940" number="113122" version="91">
+							<RECORD id="0-0-0-93940" number="113407" version="91">
 								<HEADING>§ 6-21 Maintenance and Operation of Interim Eligible Public Pay Telephone Without a Permit. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14281" name="T67C006_6-21"/>§ 6-21 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maintenance and Operation of Interim Eligible Public Pay Telephone Without a Permit. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97659" number="113123" version="91">
+								<RECORD id="0-0-0-97659" number="113408" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-97660" number="113124" version="91">
+							<RECORD id="0-0-0-97660" number="113409" version="91">
 								<HEADING>§ 6-22 Conditions for Maintenance and Operation of Interim Eligible Public Pay Telephone; Registry of Interim Eligible Public Pay Telephones. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14283" name="T67C006_6-22"/>§ 6-22 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Conditions for Maintenance and Operation of Interim Eligible Public Pay Telephone; Registry of Interim Eligible Public Pay Telephones. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97664" number="113125" version="91">
+								<RECORD id="0-0-0-97664" number="113410" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-97703" number="113126" version="91">
+							<RECORD id="0-0-0-97703" number="113411" version="91">
 								<HEADING>§ 6-23 Discontinuance of Interim Eligible Public Pay Telephones Identified in Registry. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14285" name="T67C006_6-23"/>§ 6-23 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Discontinuance of Interim Eligible Public Pay Telephones Identified in Registry. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97667" number="113127" version="91">
+								<RECORD id="0-0-0-97667" number="113412" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-97704" number="113128" version="91">
+							<RECORD id="0-0-0-97704" number="113413" version="91">
 								<HEADING>§ 6-24 Interim Registries. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14287" name="T67C006_6-24"/>§ 6-24 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interim Registries. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97716" number="113129" version="91">
+								<RECORD id="0-0-0-97716" number="113414" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-97717" number="113130" version="91">
+							<RECORD id="0-0-0-97717" number="113415" version="91">
 								<HEADING>§ 6-25 Objection by the Commissioner. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14289" name="T67C006_6-25"/>§ 6-25 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Objection by the Commissioner. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97687" number="113131" version="91">
+								<RECORD id="0-0-0-97687" number="113416" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-97702" number="113132" version="91">
+							<RECORD id="0-0-0-97702" number="113417" version="91">
 								<HEADING>§ 6-26 Removal. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14291" name="T67C006_6-26"/>§ 6-26 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Removal. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97698" number="113133" version="91">
+								<RECORD id="0-0-0-97698" number="113418" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-97699" number="113134" version="91">
+							<RECORD id="0-0-0-97699" number="113419" version="91">
 								<HEADING>§ 6-27 Requirement of Registry as Precondition for Permit. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-14293" name="T67C006_6-27"/>§ 6-27 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Requirement of Registry as Precondition for Permit. [Repealed]</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-97700" number="113135" version="91">
+								<RECORD id="0-0-0-97700" number="113420" version="91">
 									<PARA>(Repealed <CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">City Record 7/9/2015, eff. 8/8/2015</CHARFORMAT>) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
@@ -742,7 +742,7 @@
 			</LEVEL>
 		</LEVEL>
 		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
-			<RECORD id="0-0-0-93941" number="113136" version="3">
+			<RECORD id="0-0-0-93941" number="113421" version="3">
 				<HEADING>Subchapter C: Permits for Public Pay Telephones</HEADING>
 				<PARA>Subchapter C: Permits for Public Pay Telephones</PARA>
 			</RECORD>
@@ -750,13 +750,13 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93942" number="113137" version="3">
+							<RECORD id="0-0-0-93942" number="113422" version="3">
 								<HEADING>§ 6-30 Permit Required.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13287" name="T67C006_6-30"/>§ 6-30 Permit Required.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93943" number="113138" version="3">
+								<RECORD id="0-0-0-93943" number="113423" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -766,7 +766,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93944" number="113139" version="2308">
+								<RECORD id="0-0-0-93944" number="113424" version="2308">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -776,7 +776,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93945" number="113140" version="3">
+								<RECORD id="0-0-0-93945" number="113425" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -786,7 +786,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93946" number="113141" version="3">
+								<RECORD id="0-0-0-93946" number="113426" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -796,7 +796,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93947" number="113142" version="40">
+								<RECORD id="0-0-0-93947" number="113427" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -810,13 +810,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93948" number="113143" version="3">
+							<RECORD id="0-0-0-93948" number="113428" version="3">
 								<HEADING>§ 6-31 Issuance and Transfer of Permits.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13289" name="T67C006_6-31"/>§ 6-31 Issuance and Transfer of Permits.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93949" number="113144" version="3">
+								<RECORD id="0-0-0-93949" number="113429" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -826,7 +826,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93950" number="113145" version="3">
+								<RECORD id="0-0-0-93950" number="113430" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -836,7 +836,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93951" number="113146" version="3">
+								<RECORD id="0-0-0-93951" number="113431" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -847,7 +847,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93952" number="113147" version="1462">
+								<RECORD id="0-0-0-93952" number="113432" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -858,7 +858,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93953" number="113148" version="3">
+								<RECORD id="0-0-0-93953" number="113433" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -869,7 +869,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93954" number="113149" version="3">
+								<RECORD id="0-0-0-93954" number="113434" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -879,7 +879,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93955" number="113150" version="40">
+								<RECORD id="0-0-0-93955" number="113435" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -893,13 +893,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93956" number="113151" version="3">
+							<RECORD id="0-0-0-93956" number="113436" version="3">
 								<HEADING>§ 6-32 Application and Fee for Permit.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13291" name="T67C006_6-32"/>§ 6-32 Application and Fee for Permit.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93957" number="113152" version="3">
+								<RECORD id="0-0-0-93957" number="113437" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -909,7 +909,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93958" number="113153" version="3">
+								<RECORD id="0-0-0-93958" number="113438" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -919,7 +919,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93959" number="113154" version="40">
+								<RECORD id="0-0-0-93959" number="113439" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -933,13 +933,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93960" number="113155" version="3">
+							<RECORD id="0-0-0-93960" number="113440" version="3">
 								<HEADING>§ 6-33 Term of Permit; Termination of Permit.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13293" name="T67C006_6-33"/>§ 6-33 Term of Permit; Termination of Permit.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93961" number="113156" version="1893">
+								<RECORD id="0-0-0-93961" number="113441" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -952,7 +952,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93962" number="113157" version="3">
+								<RECORD id="0-0-0-93962" number="113442" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -963,7 +963,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93963" number="113158" version="817">
+								<RECORD id="0-0-0-93963" number="113443" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -974,7 +974,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93964" number="113159" version="817">
+								<RECORD id="0-0-0-93964" number="113444" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -985,7 +985,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93965" number="113160" version="817">
+								<RECORD id="0-0-0-93965" number="113445" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -996,7 +996,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93966" number="113161" version="2308">
+								<RECORD id="0-0-0-93966" number="113446" version="2308">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1007,7 +1007,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93967" number="113162" version="3">
+								<RECORD id="0-0-0-93967" number="113447" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1018,7 +1018,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93968" number="113163" version="3">
+								<RECORD id="0-0-0-93968" number="113448" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1030,7 +1030,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93969" number="113164" version="3">
+								<RECORD id="0-0-0-93969" number="113449" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1041,7 +1041,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93970" number="113165" version="3">
+								<RECORD id="0-0-0-93970" number="113450" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1052,7 +1052,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93971" number="113166" version="1462">
+								<RECORD id="0-0-0-93971" number="113451" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1063,7 +1063,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93972" number="113167" version="3">
+								<RECORD id="0-0-0-93972" number="113452" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1075,7 +1075,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93973" number="113168" version="3">
+								<RECORD id="0-0-0-93973" number="113453" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1087,7 +1087,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93974" number="113169" version="40">
+								<RECORD id="0-0-0-93974" number="113454" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1101,13 +1101,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93975" number="113170" version="3">
+							<RECORD id="0-0-0-93975" number="113455" version="3">
 								<HEADING>§ 6-34 Consent of Building Owner/commercial Lessee Required.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13295" name="T67C006_6-34"/>§ 6-34 Consent of Building Owner/commercial Lessee Required.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93976" number="113171" version="3">
+								<RECORD id="0-0-0-93976" number="113456" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1120,7 +1120,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93977" number="113172" version="3">
+								<RECORD id="0-0-0-93977" number="113457" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1131,7 +1131,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93978" number="113173" version="3">
+								<RECORD id="0-0-0-93978" number="113458" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1142,7 +1142,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93979" number="113174" version="3">
+								<RECORD id="0-0-0-93979" number="113459" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1154,7 +1154,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93980" number="113175" version="3">
+								<RECORD id="0-0-0-93980" number="113460" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1165,7 +1165,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93981" number="113176" version="3">
+								<RECORD id="0-0-0-93981" number="113461" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1177,7 +1177,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93982" number="113177" version="3">
+								<RECORD id="0-0-0-93982" number="113462" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1190,7 +1190,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93983" number="113178" version="3">
+								<RECORD id="0-0-0-93983" number="113463" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1203,7 +1203,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93984" number="113179" version="2145">
+								<RECORD id="0-0-0-93984" number="113464" version="2145">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1215,7 +1215,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93985" number="113180" version="3">
+								<RECORD id="0-0-0-93985" number="113465" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1226,7 +1226,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93986" number="113181" version="40">
+								<RECORD id="0-0-0-93986" number="113466" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1240,13 +1240,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93987" number="113182" version="3">
+							<RECORD id="0-0-0-93987" number="113467" version="3">
 								<HEADING>§ 6-35 Notification by Department to Agencies and Review of Application for Permits.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13297" name="T67C006_6-35"/>§ 6-35 Notification by Department to Agencies and Review of Application for Permits.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93988" number="113183" version="3">
+								<RECORD id="0-0-0-93988" number="113468" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1258,7 +1258,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93989" number="113184" version="3">
+								<RECORD id="0-0-0-93989" number="113469" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1269,7 +1269,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93990" number="113185" version="3">
+								<RECORD id="0-0-0-93990" number="113470" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1280,7 +1280,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93991" number="113186" version="3">
+								<RECORD id="0-0-0-93991" number="113471" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1291,7 +1291,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93992" number="113187" version="3">
+								<RECORD id="0-0-0-93992" number="113472" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1303,7 +1303,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93993" number="113188" version="3">
+								<RECORD id="0-0-0-93993" number="113473" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1314,7 +1314,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93994" number="113189" version="3">
+								<RECORD id="0-0-0-93994" number="113474" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1325,7 +1325,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-93995" number="113190" version="40">
+								<RECORD id="0-0-0-93995" number="113475" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1339,13 +1339,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93996" number="113191" version="1462">
+							<RECORD id="0-0-0-93996" number="113476" version="1462">
 								<HEADING>§ 6-35.1 New Applications for Permits. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13299" name="T67C006_6-35.1"/>§ 6-35.1 New Applications for Permits. [Repealed]</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93997" number="113192" version="40">
+								<RECORD id="0-0-0-93997" number="113477" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1363,13 +1363,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-93998" number="113193" version="3">
+							<RECORD id="0-0-0-93998" number="113478" version="3">
 								<HEADING>§ 6-36 Revocation of Permits, Removing and Rendering Public Pay Telephones Inoperable.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13301" name="T67C006_6-36"/>§ 6-36 Revocation of Permits, Removing and Rendering Public Pay Telephones Inoperable.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-93999" number="113194" version="3">
+								<RECORD id="0-0-0-93999" number="113479" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1382,7 +1382,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94000" number="113195" version="2308">
+								<RECORD id="0-0-0-94000" number="113480" version="2308">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1393,7 +1393,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94001" number="113196" version="3">
+								<RECORD id="0-0-0-94001" number="113481" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1404,7 +1404,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94002" number="113197" version="3">
+								<RECORD id="0-0-0-94002" number="113482" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1415,7 +1415,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94003" number="113198" version="3">
+								<RECORD id="0-0-0-94003" number="113483" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1426,7 +1426,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94004" number="113199" version="3">
+								<RECORD id="0-0-0-94004" number="113484" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1439,7 +1439,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94005" number="113200" version="3">
+								<RECORD id="0-0-0-94005" number="113485" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1453,7 +1453,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94006" number="113201" version="817">
+								<RECORD id="0-0-0-94006" number="113486" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1464,7 +1464,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94007" number="113202" version="817">
+								<RECORD id="0-0-0-94007" number="113487" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1475,7 +1475,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94008" number="113203" version="1462">
+								<RECORD id="0-0-0-94008" number="113488" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1489,7 +1489,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94009" number="113204" version="3">
+								<RECORD id="0-0-0-94009" number="113489" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1502,7 +1502,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94010" number="113205" version="3">
+								<RECORD id="0-0-0-94010" number="113490" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1515,7 +1515,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94011" number="113206" version="3">
+								<RECORD id="0-0-0-94011" number="113491" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1527,7 +1527,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94012" number="113207" version="3">
+								<RECORD id="0-0-0-94012" number="113492" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1538,7 +1538,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94013" number="113208" version="3">
+								<RECORD id="0-0-0-94013" number="113493" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1549,7 +1549,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94014" number="113209" version="91">
+								<RECORD id="0-0-0-94014" number="113494" version="91">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1563,13 +1563,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94015" number="113210" version="3">
+							<RECORD id="0-0-0-94015" number="113495" version="3">
 								<HEADING>§ 6-37 Determination of Public Nuisance.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13303" name="T67C006_6-37"/>§ 6-37 Determination of Public Nuisance.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94016" number="113211" version="1893">
+								<RECORD id="0-0-0-94016" number="113496" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1581,20 +1581,20 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94017" number="113212" version="1462">
+							<RECORD id="0-0-0-94017" number="113497" version="1462">
 								<HEADING>§ 6-38 Interim Issuance of Permits. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13305" name="T67C006_6-38"/>§ 6-38 Interim Issuance of Permits. [Repealed]</PARA>
 							</RECORD>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94018" number="113213" version="1462">
+							<RECORD id="0-0-0-94018" number="113498" version="1462">
 								<HEADING>§ 6-38.1 Conversion of Licensed and Interim Registry Public Pay Telephones to Permit Status Following Franchise Award. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13307" name="T67C006_6-38.1"/>§ 6-38.1 Conversion of Licensed and Interim Registry Public Pay Telephones to Permit Status Following Franchise Award. [Repealed]</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94019" number="113214" version="40">
+								<RECORD id="0-0-0-94019" number="113499" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1612,13 +1612,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94020" number="113215" version="1462">
+							<RECORD id="0-0-0-94020" number="113500" version="1462">
 								<HEADING>§ 6-38.2 Moves to the Curb. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13309" name="T67C006_6-38.2"/>§ 6-38.2 Moves to the Curb. [Repealed]</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94021" number="113216" version="40">
+								<RECORD id="0-0-0-94021" number="113501" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1636,13 +1636,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94022" number="113217" version="3">
+							<RECORD id="0-0-0-94022" number="113502" version="3">
 								<HEADING>§ 6-39 Removal of Telephones by the Department and Disposition of Removed Telephones.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13311" name="T67C006_6-39"/>§ 6-39 Removal of Telephones by the Department and Disposition of Removed Telephones.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94023" number="113218" version="1893">
+								<RECORD id="0-0-0-94023" number="113503" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1652,7 +1652,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94024" number="113219" version="1893">
+								<RECORD id="0-0-0-94024" number="113504" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1663,13 +1663,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-114988" number="113220" version="1464">
+							<RECORD id="0-0-0-114988" number="113505" version="1464">
 								<HEADING>Appendix A: Application to Install and Maintain A Public Pay Telephone (PPT) [Repealed]</HEADING>
 								<PARA>Appendix A: Application to Install and Maintain A Public Pay Telephone (PPT) [Repealed]</PARA>
 							</RECORD>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-114989" number="113221" version="1464">
+							<RECORD id="0-0-0-114989" number="113506" version="1464">
 								<HEADING>Appendix B: Consent Form and Certification [Repealed]</HEADING>
 								<PARA>Appendix B: Consent Form and Certification [Repealed]</PARA>
 							</RECORD>
@@ -1679,7 +1679,7 @@
 			</LEVEL>
 		</LEVEL>
 		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="true">
-			<RECORD id="0-0-0-94025" number="113222" version="3">
+			<RECORD id="0-0-0-94025" number="113507" version="3">
 				<HEADING>Subchapter D: Requirements for Public Pay Telephones</HEADING>
 				<PARA>Subchapter D: Requirements for Public Pay Telephones</PARA>
 			</RECORD>
@@ -1687,13 +1687,13 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94026" number="113223" version="3">
+							<RECORD id="0-0-0-94026" number="113508" version="3">
 								<HEADING>§ 6-40 Applicability.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13313" name="T67C006_6-40"/>§ 6-40 Applicability.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94027" number="113224" version="1893">
+								<RECORD id="0-0-0-94027" number="113509" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1702,7 +1702,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94028" number="113225" version="40">
+								<RECORD id="0-0-0-94028" number="113510" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1716,13 +1716,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94029" number="113226" version="3">
+							<RECORD id="0-0-0-94029" number="113511" version="3">
 								<HEADING>§ 6-41 Siting and Clearance Requirements.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13315" name="T67C006_6-41"/>§ 6-41 Siting and Clearance Requirements.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94030" number="113227" version="3">
+								<RECORD id="0-0-0-94030" number="113512" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1735,7 +1735,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94031" number="113228" version="3">
+								<RECORD id="0-0-0-94031" number="113513" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1748,7 +1748,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94032" number="113229" version="3">
+								<RECORD id="0-0-0-94032" number="113514" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1760,7 +1760,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94033" number="113230" version="3">
+								<RECORD id="0-0-0-94033" number="113515" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1771,7 +1771,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94034" number="113231" version="3">
+								<RECORD id="0-0-0-94034" number="113516" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1782,7 +1782,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94035" number="113232" version="2145">
+								<RECORD id="0-0-0-94035" number="113517" version="2145">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1793,7 +1793,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94036" number="113233" version="3">
+								<RECORD id="0-0-0-94036" number="113518" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1806,7 +1806,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94037" number="113234" version="3">
+								<RECORD id="0-0-0-94037" number="113519" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1818,7 +1818,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94038" number="113235" version="1893">
+								<RECORD id="0-0-0-94038" number="113520" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1829,7 +1829,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94039" number="113236" version="1893">
+								<RECORD id="0-0-0-94039" number="113521" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1841,7 +1841,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94040" number="113237" version="3">
+								<RECORD id="0-0-0-94040" number="113522" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1852,7 +1852,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94041" number="113238" version="3">
+								<RECORD id="0-0-0-94041" number="113523" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1864,7 +1864,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94042" number="113239" version="3">
+								<RECORD id="0-0-0-94042" number="113524" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1876,7 +1876,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94043" number="113240" version="3">
+								<RECORD id="0-0-0-94043" number="113525" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1888,7 +1888,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94044" number="113241" version="3">
+								<RECORD id="0-0-0-94044" number="113526" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1900,7 +1900,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94045" number="113242" version="3">
+								<RECORD id="0-0-0-94045" number="113527" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1912,7 +1912,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94046" number="113243" version="3">
+								<RECORD id="0-0-0-94046" number="113528" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1924,7 +1924,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94047" number="113244" version="3">
+								<RECORD id="0-0-0-94047" number="113529" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1936,7 +1936,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94048" number="113245" version="1674">
+								<RECORD id="0-0-0-94048" number="113530" version="1674">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1948,7 +1948,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94049" number="113246" version="3">
+								<RECORD id="0-0-0-94049" number="113531" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1960,7 +1960,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94050" number="113247" version="3">
+								<RECORD id="0-0-0-94050" number="113532" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1972,7 +1972,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94051" number="113248" version="3">
+								<RECORD id="0-0-0-94051" number="113533" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1984,7 +1984,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94052" number="113249" version="3">
+								<RECORD id="0-0-0-94052" number="113534" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -1996,7 +1996,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94053" number="113250" version="3">
+								<RECORD id="0-0-0-94053" number="113535" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2008,7 +2008,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94054" number="113251" version="1893">
+								<RECORD id="0-0-0-94054" number="113536" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2020,7 +2020,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94055" number="113252" version="3">
+								<RECORD id="0-0-0-94055" number="113537" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2032,7 +2032,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94056" number="113253" version="3">
+								<RECORD id="0-0-0-94056" number="113538" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2044,7 +2044,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94057" number="113254" version="3">
+								<RECORD id="0-0-0-94057" number="113539" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2056,7 +2056,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94058" number="113255" version="3">
+								<RECORD id="0-0-0-94058" number="113540" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2068,7 +2068,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94059" number="113256" version="3">
+								<RECORD id="0-0-0-94059" number="113541" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2080,7 +2080,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94060" number="113257" version="3">
+								<RECORD id="0-0-0-94060" number="113542" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2092,7 +2092,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94061" number="113258" version="3">
+								<RECORD id="0-0-0-94061" number="113543" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2104,7 +2104,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94062" number="113259" version="3">
+								<RECORD id="0-0-0-94062" number="113544" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2116,7 +2116,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94063" number="113260" version="3">
+								<RECORD id="0-0-0-94063" number="113545" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2128,7 +2128,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94064" number="113261" version="3">
+								<RECORD id="0-0-0-94064" number="113546" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2140,7 +2140,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94065" number="113262" version="3">
+								<RECORD id="0-0-0-94065" number="113547" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2152,7 +2152,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94066" number="113263" version="3">
+								<RECORD id="0-0-0-94066" number="113548" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2164,7 +2164,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94067" number="113264" version="3">
+								<RECORD id="0-0-0-94067" number="113549" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2176,7 +2176,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94068" number="113265" version="3">
+								<RECORD id="0-0-0-94068" number="113550" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2189,7 +2189,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94069" number="113266" version="3">
+								<RECORD id="0-0-0-94069" number="113551" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2202,7 +2202,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94070" number="113267" version="3">
+								<RECORD id="0-0-0-94070" number="113552" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2215,7 +2215,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94071" number="113268" version="3">
+								<RECORD id="0-0-0-94071" number="113553" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2228,7 +2228,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94072" number="113269" version="3">
+								<RECORD id="0-0-0-94072" number="113554" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2240,7 +2240,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94073" number="113270" version="3">
+								<RECORD id="0-0-0-94073" number="113555" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2251,7 +2251,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94074" number="113271" version="3">
+								<RECORD id="0-0-0-94074" number="113556" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2262,7 +2262,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94075" number="113272" version="3">
+								<RECORD id="0-0-0-94075" number="113557" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2274,7 +2274,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94076" number="113273" version="3">
+								<RECORD id="0-0-0-94076" number="113558" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2286,7 +2286,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94077" number="113274" version="817">
+								<RECORD id="0-0-0-94077" number="113559" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2298,7 +2298,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94078" number="113275" version="3">
+								<RECORD id="0-0-0-94078" number="113560" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2310,7 +2310,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94079" number="113276" version="3">
+								<RECORD id="0-0-0-94079" number="113561" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2321,7 +2321,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94080" number="113277" version="1893">
+								<RECORD id="0-0-0-94080" number="113562" version="1893">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2332,7 +2332,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94081" number="113278" version="817">
+								<RECORD id="0-0-0-94081" number="113563" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2343,7 +2343,7 @@
 										</CHARFORMAT>[<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reserved.</CHARFORMAT>] <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94082" number="113279" version="1462">
+								<RECORD id="0-0-0-94082" number="113564" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2356,7 +2356,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94083" number="113280" version="3">
+								<RECORD id="0-0-0-94083" number="113565" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2366,7 +2366,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94084" number="113281" version="3">
+								<RECORD id="0-0-0-94084" number="113566" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2379,7 +2379,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94085" number="113282" version="40">
+								<RECORD id="0-0-0-94085" number="113567" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2393,13 +2393,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94086" number="113283" version="3">
+							<RECORD id="0-0-0-94086" number="113568" version="3">
 								<HEADING>§ 6-42 Sign Required.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13317" name="T67C006_6-42"/>§ 6-42 Sign Required.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94087" number="113284" version="3">
+								<RECORD id="0-0-0-94087" number="113569" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2408,7 +2408,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94088" number="113285" version="1462">
+								<RECORD id="0-0-0-94088" number="113570" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2418,7 +2418,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94089" number="113286" version="3">
+								<RECORD id="0-0-0-94089" number="113571" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2428,7 +2428,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94090" number="113287" version="3">
+								<RECORD id="0-0-0-94090" number="113572" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2438,7 +2438,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94091" number="113288" version="3">
+								<RECORD id="0-0-0-94091" number="113573" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2448,7 +2448,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94092" number="113289" version="3">
+								<RECORD id="0-0-0-94092" number="113574" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2458,7 +2458,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94093" number="113290" version="3">
+								<RECORD id="0-0-0-94093" number="113575" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2468,7 +2468,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94094" number="113291" version="3">
+								<RECORD id="0-0-0-94094" number="113576" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2481,13 +2481,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94095" number="113292" version="3">
+							<RECORD id="0-0-0-94095" number="113577" version="3">
 								<HEADING>§ 6-43 Installation and Maintenance.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13319" name="T67C006_6-43"/>§ 6-43 Installation and Maintenance.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94096" number="113293" version="3">
+								<RECORD id="0-0-0-94096" number="113578" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2499,7 +2499,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94097" number="113294" version="1781">
+								<RECORD id="0-0-0-94097" number="113579" version="1781">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2510,7 +2510,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94098" number="113295" version="3">
+								<RECORD id="0-0-0-94098" number="113580" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2521,7 +2521,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94099" number="113296" version="3">
+								<RECORD id="0-0-0-94099" number="113581" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2534,7 +2534,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94100" number="113297" version="3">
+								<RECORD id="0-0-0-94100" number="113582" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2546,7 +2546,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94101" number="113298" version="1462">
+								<RECORD id="0-0-0-94101" number="113583" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2557,7 +2557,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94102" number="113299" version="3">
+								<RECORD id="0-0-0-94102" number="113584" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2568,7 +2568,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94103" number="113300" version="3">
+								<RECORD id="0-0-0-94103" number="113585" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2579,7 +2579,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94104" number="113301" version="3">
+								<RECORD id="0-0-0-94104" number="113586" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2590,7 +2590,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94105" number="113302" version="3">
+								<RECORD id="0-0-0-94105" number="113587" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2601,7 +2601,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94106" number="113303" version="1462">
+								<RECORD id="0-0-0-94106" number="113588" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2614,7 +2614,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94107" number="113304" version="817">
+								<RECORD id="0-0-0-94107" number="113589" version="817">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2624,7 +2624,7 @@
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>[<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reserved.</CHARFORMAT>]</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94108" number="113305" version="3">
+								<RECORD id="0-0-0-94108" number="113590" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2637,7 +2637,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94109" number="113306" version="3">
+								<RECORD id="0-0-0-94109" number="113591" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2648,7 +2648,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94110" number="113307" version="3">
+								<RECORD id="0-0-0-94110" number="113592" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2659,7 +2659,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94111" number="113308" version="3">
+								<RECORD id="0-0-0-94111" number="113593" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2670,7 +2670,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94112" number="113309" version="3">
+								<RECORD id="0-0-0-94112" number="113594" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2681,7 +2681,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94113" number="113310" version="3">
+								<RECORD id="0-0-0-94113" number="113595" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2692,7 +2692,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94114" number="113311" version="3">
+								<RECORD id="0-0-0-94114" number="113596" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2703,7 +2703,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94115" number="113312" version="3">
+								<RECORD id="0-0-0-94115" number="113597" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2714,7 +2714,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94116" number="113313" version="3">
+								<RECORD id="0-0-0-94116" number="113598" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2725,7 +2725,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94117" number="113314" version="3">
+								<RECORD id="0-0-0-94117" number="113599" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2739,13 +2739,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94118" number="113315" version="3">
+							<RECORD id="0-0-0-94118" number="113600" version="3">
 								<HEADING>§ 6-44 Compliance with Americans with Disabilities Act.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13321" name="T67C006_6-44"/>§ 6-44 Compliance with Americans with Disabilities Act.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94119" number="113316" version="3">
+								<RECORD id="0-0-0-94119" number="113601" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2757,13 +2757,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94120" number="113317" version="3">
+							<RECORD id="0-0-0-94120" number="113602" version="3">
 								<HEADING>§ 6-45 Compliance with Other Authority.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13323" name="T67C006_6-45"/>§ 6-45 Compliance with Other Authority.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94121" number="113318" version="1462">
+								<RECORD id="0-0-0-94121" number="113603" version="1462">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2773,7 +2773,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94122" number="113319" version="3">
+								<RECORD id="0-0-0-94122" number="113604" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2786,20 +2786,20 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94123" number="113320" version="1462">
+							<RECORD id="0-0-0-94123" number="113605" version="1462">
 								<HEADING>§ 6-46 Timing and Installation. [Repealed]</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13325" name="T67C006_6-46"/>§ 6-46 Timing and Installation. [Repealed]</PARA>
 							</RECORD>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94124" number="113321" version="3">
+							<RECORD id="0-0-0-94124" number="113606" version="3">
 								<HEADING>§ 6-47 City Authority to Operate.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13327" name="T67C006_6-47"/>§ 6-47 City Authority to Operate.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94125" number="113322" version="2308">
+								<RECORD id="0-0-0-94125" number="113607" version="2308">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2811,13 +2811,13 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-94126" number="113323" version="3">
+							<RECORD id="0-0-0-94126" number="113608" version="3">
 								<HEADING>§ 6-48 Fee Nonrefundable.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-13329" name="T67C006_6-48"/>§ 6-48 Fee Nonrefundable.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-94127" number="113324" version="3">
+								<RECORD id="0-0-0-94127" number="113609" version="3">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>
@@ -2826,7 +2826,7 @@
 										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-94128" number="113325" version="40">
+								<RECORD id="0-0-0-94128" number="113610" version="40">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 										</CHARFORMAT>

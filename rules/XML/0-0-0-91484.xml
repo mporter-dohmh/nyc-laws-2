@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-91484" number="110254" version="3">
+		<RECORD id="0-0-0-91484" number="110539" version="3">
 			<HEADING>Chapter 4: Fees</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-12875" name="T66C004"/>Chapter 4: Fees</PARA>
@@ -13,64 +13,64 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-91485" number="110255" version="3">
+							<RECORD id="0-0-0-91485" number="110540" version="3">
 								<HEADING>§ 4-01 Work Notice and Work Permit Fees.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-12877" name="T66C004_4-01"/>§ 4-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Work Notice and Work Permit Fees.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-91486" number="110256" version="3">
+								<RECORD id="0-0-0-91486" number="110541" version="3">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The six categories of fees charged by the Department of Business Services in connection with the issuance of work notices and work permits are:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91487" number="110257" version="3">
+								<RECORD id="0-0-0-91487" number="110542" version="3">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">New building fee. </CHARFORMAT>New building fee based on square footage;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91488" number="110258" version="3">
+								<RECORD id="0-0-0-91488" number="110543" version="3">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Open area fee. </CHARFORMAT>Open area fee such as lumber yard container terminal, storage, etc., based upon square footage;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91489" number="110259" version="3">
+								<RECORD id="0-0-0-91489" number="110544" version="3">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Miscellaneous fee. </CHARFORMAT>Miscellaneous fee for such work as plumbing, electrical, demolition, bulkheads, etc., based on cost;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91490" number="110260" version="3">
+								<RECORD id="0-0-0-91490" number="110545" version="3">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Amendment fee. </CHARFORMAT>Amendment fee for any change or revision of a previously issued permit;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91491" number="110261" version="3">
+								<RECORD id="0-0-0-91491" number="110546" version="3">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Fee for Change of Use. </CHARFORMAT>Fee for Change of Use involving no physical work; and</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91492" number="110262" version="3">
+								<RECORD id="0-0-0-91492" number="110547" version="3">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Special fees. </CHARFORMAT>Special fees for notarization of documents and photocopies.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91493" number="110263" version="3">
+								<RECORD id="0-0-0-91493" number="110548" version="3">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The fee schedule below lists each of these categories separately. One hundred percent of the fee is due at the time of filing a permit application and fees are not refundable. All applications must be accompanied by the full fee in order to be processed. A fee computation should be included with each application.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-91494" number="110264" version="1436">
+								<RECORD id="0-0-0-91494" number="110549" version="1436">
 									<PARA>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFFECTIVE OCTOBER 1, 1986<LINEBRK/>
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-114336" number="110265" version="1436">
+								<RECORD id="0-0-0-114336" number="110550" version="1436">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
@@ -189,7 +189,7 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-114339" number="110266" version="1436">
+								<RECORD id="0-0-0-114339" number="110551" version="1436">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
@@ -298,7 +298,7 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-114340" number="110267" version="1436">
+								<RECORD id="0-0-0-114340" number="110552" version="1436">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
@@ -567,7 +567,7 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-114342" number="110268" version="1436">
+								<RECORD id="0-0-0-114342" number="110553" version="1436">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
@@ -597,7 +597,7 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-114343" number="110269" version="1436">
+								<RECORD id="0-0-0-114343" number="110554" version="1436">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
@@ -627,7 +627,7 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-114345" number="110270" version="2497">
+								<RECORD id="0-0-0-114345" number="110555" version="2497">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="5" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
@@ -892,14 +892,14 @@
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-91495" number="110271" version="1436">
+							<RECORD id="0-0-0-91495" number="110556" version="1436">
 								<HEADING>§ 4-02 Contract Bid Fees.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-12879" name="T66C004_4-02"/>§ 4-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contract Bid Fees.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-91496" number="110272" version="748">
+								<RECORD id="0-0-0-91496" number="110557" version="748">
 									<PARA>Contract documents may be obtained at the Department of Business Services, 110 William Street, 3rd floor, New York, N.Y. 10038 at a cost of $45.00 each, which will not be refunded. Only cash (exact change only) or certified check, payable to the Comptroller of the City of New York will be accepted for the payment of each document.</PARA>
 								</RECORD>
 							</LEVEL>

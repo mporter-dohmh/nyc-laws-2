@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-84554" number="100112" version="3">
+		<RECORD id="0-0-0-84554" number="100157" version="3">
 			<HEADING>Chapter 2: Municipal Archives Research Service and Copy Fee Schedule</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-11593" name="T49C002"/>Chapter 2: Municipal Archives Research Service and Copy Fee Schedule</PARA>
@@ -13,14 +13,14 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-84555" number="100113" version="2225">
+							<RECORD id="0-0-0-84555" number="100158" version="2225">
 								<HEADING>§ 2-01 Certified Records.*</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11595" name="T49C002_2-01"/>§ 2-01 Certified Records<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.*</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-84556" number="100114" version="2502">
+								<RECORD id="0-0-0-84556" number="100159" version="2502">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -80,25 +80,25 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132793" number="100115" version="2491">
+								<RECORD id="0-0-0-132793" number="100160" version="2491">
 									<PARA>* A certified record is a true and complete copy of the original record held by the Department of Records and Information Services and includes a signature and/or seal of an attesting official. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84557" number="100116" version="2225">
+								<RECORD id="0-0-0-84557" number="100161" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-132785" number="100117" version="2225">
+							<RECORD id="0-0-0-132785" number="100162" version="2225">
 								<HEADING>§ 2-02 On-Site Self Service Reproductions.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11597" name="T49C002_2-02"/>§ 2-02 On-Site Self Service Reproductions<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-84558" number="100118" version="2502">
+								<RECORD id="0-0-0-84558" number="100163" version="2502">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -126,21 +126,21 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84559" number="100119" version="2225">
+								<RECORD id="0-0-0-84559" number="100164" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-132786" number="100120" version="2225">
+							<RECORD id="0-0-0-132786" number="100165" version="2225">
 								<HEADING>§ 2-03 Reproduction Services – Printed and Text-Based Documents.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11599" name="T49C002_2-03"/>§ 2-03 Reproduction Services – Printed and Text-Based Documents<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-84560" number="100121" version="2225">
+								<RECORD id="0-0-0-84560" number="100166" version="2225">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -184,21 +184,21 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84561" number="100122" version="2225">
+								<RECORD id="0-0-0-84561" number="100167" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-132787" number="100123" version="2225">
+							<RECORD id="0-0-0-132787" number="100168" version="2225">
 								<HEADING>§ 2-04 Reproduction Services – Still Images and Graphic Materials.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11601" name="T49C002_2-04"/>§ 2-04 Reproduction Services – Still Images and Graphic Materials<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-84562" number="100124" version="2502">
+								<RECORD id="0-0-0-84562" number="100169" version="2502">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -258,25 +258,25 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101037" number="100125" version="2491">
+								<RECORD id="0-0-0-101037" number="100170" version="2491">
 									<PARA>* Additional shipping, handling and credit card processing fees may apply. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84563" number="100126" version="2225">
+								<RECORD id="0-0-0-84563" number="100171" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-132788" number="100127" version="2225">
+							<RECORD id="0-0-0-132788" number="100172" version="2225">
 								<HEADING>§ 2-05 Reproduction Services – Audio-Visual Materials.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11603" name="T49C002_2-05"/>§ 2-05 Reproduction Services – Audio-Visual Materials<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-84564" number="100128" version="2225">
+								<RECORD id="0-0-0-84564" number="100173" version="2225">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -320,21 +320,21 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84565" number="100129" version="2225">
+								<RECORD id="0-0-0-84565" number="100174" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-132789" number="100130" version="2225">
+							<RECORD id="0-0-0-132789" number="100175" version="2225">
 								<HEADING>§ 2-06 Conservation Services for Exhibition.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11605" name="T49C002_2-06"/>§ 2-06 Conservation Services for Exhibition<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-84566" number="100131" version="2225">
+								<RECORD id="0-0-0-84566" number="100176" version="2225">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -362,26 +362,26 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84567" number="100132" version="2225">
+								<RECORD id="0-0-0-84567" number="100177" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-132790" number="100133" version="2225">
+							<RECORD id="0-0-0-132790" number="100178" version="2225">
 								<HEADING>§ 2-07 Licensing Fees.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-11607" name="T49C002_2-07"/>§ 2-07 Licensing Fees<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-132794" number="100134" version="2225">
+								<RECORD id="0-0-0-132794" number="100179" version="2225">
 									<PARA>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial use of print archival or library item</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132791" number="100135" version="2225">
+								<RECORD id="0-0-0-132791" number="100180" version="2225">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -449,12 +449,12 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132795" number="100136" version="2225">
+								<RECORD id="0-0-0-132795" number="100181" version="2225">
 									<PARA>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial use of a moving images</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132796" number="100137" version="2225">
+								<RECORD id="0-0-0-132796" number="100182" version="2225">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -476,12 +476,12 @@
 										</CHARFORMAT>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132800" number="100138" version="2225">
+								<RECORD id="0-0-0-132800" number="100183" version="2225">
 									<PARA>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commercial use of sound recordings</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132798" number="100139" version="2225">
+								<RECORD id="0-0-0-132798" number="100184" version="2225">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2" space-before="212" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
@@ -501,11 +501,11 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-132799" number="100140" version="2225">
+								<RECORD id="0-0-0-132799" number="100185" version="2225">
 									<PARA>Additional shipping, handling and credit card processing fees may apply to all payment transactions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-84569" number="100141" version="2225">
+								<RECORD id="0-0-0-84569" number="100186" version="2225">
 									<PARA>(Amended City Record 4/5/2022, eff. 5/5/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-073]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>

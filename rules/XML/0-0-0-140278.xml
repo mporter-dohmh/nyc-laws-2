@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\CSRHNPHJPGBKCELW\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
 		<RECORD id="0-0-0-140278" number="14132" version="2580">
 			<HEADING>Chapter 6: Building Services and Systems</HEADING>
@@ -64,19 +64,21 @@
 										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-12096" number="14140" version="3">
+								<RECORD id="0-0-0-12096" number="14140" version="3111">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">
 											<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
 										</CHARFORMAT>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">General Provisions.</CHARFORMAT>
-										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">
-											</HIGHLIGHTER>
-										</CHARFORMAT>
-										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]</HIGHLIGHTER>
+										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">&#160;</CHARFORMAT>
+										<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-002]<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+											</CHARFORMAT>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">
+											</CHARFORMAT>
+										</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-12097" number="14141" version="2217">
+								<RECORD id="0-0-0-12097" number="14141" version="3111">
 									<PARA>
 										<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" foreground-color-auto="1">
 											<TAB tab-count="1"/>
