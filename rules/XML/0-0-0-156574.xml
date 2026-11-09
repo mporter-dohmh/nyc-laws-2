@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\WGFBWNRUAGNHXOLH\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\WGFBWNRUAGNHXOLH\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\WGFBWNRUAGNHXOLH\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-156574" number="108102" version="3112">
+		<RECORD id="0-0-0-156574" number="108107" version="3112">
 			<HEADING>Chapter 15: Affordable Housing Appeals Board</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-20127" name="T62C015"/>Chapter 15: Affordable Housing Appeals Board</PARA>
@@ -13,282 +13,282 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156565" number="108103" version="3112">
+							<RECORD id="0-0-0-156565" number="108108" version="3112">
 								<HEADING>§ 15-01 Definitions.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20129" name="T62C015_15-01"/>§ 15-01 Definitions.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156564" number="108104" version="3112">
+								<RECORD id="0-0-0-156564" number="108109" version="3112">
 									<PARA>For the purposes of this chapter, the following terms have the following meanings:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156563" number="108105" version="3113">
+								<RECORD id="0-0-0-156563" number="108110" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable Housing Appeals Board.</CHARFORMAT> The term “Affordable Housing Appeals Board” or “Board” means the affordable housing appeals board established pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK> of the Charter.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156562" number="108106" version="3112">
+								<RECORD id="0-0-0-156562" number="108111" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Affordable Housing Building.</CHARFORMAT> The term “Affordable Housing Building” means a building subject to a regulatory agreement, restrictive declaration, or other similar instrument with a federal, state, or city governmental entity that provides for the creation of one or more income-restricted dwelling units.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156561" number="108107" version="3112">
+								<RECORD id="0-0-0-156561" number="108112" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commission.</CHARFORMAT> The term “Commission” means the City Planning Commission.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156560" number="108108" version="3112">
+								<RECORD id="0-0-0-156560" number="108113" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term “Department” means the Department of City Planning.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156559" number="108109" version="3112">
+								<RECORD id="0-0-0-156559" number="108114" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Mandatory Inclusionary Housing.</CHARFORMAT> The term “Mandatory Inclusionary Housing” means the Mandatory Inclusionary Housing Program established in the New York City Zoning Resolution, as it may be amended from time to time, or such other programs as may be established in the Zoning Resolution that mandate that any new housing on designated lots include minimum percentages of permanently affordable housing equivalent to or exceeding the requirements under the Mandatory Inclusionary Housing Program.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156558" number="108110" version="3112">
+								<RECORD id="0-0-0-156558" number="108115" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156573" number="108111" version="3112">
+							<RECORD id="0-0-0-156573" number="108116" version="3112">
 								<HEADING>§ 15-02 Affordable Housing Appeals Board.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20131" name="T62C015_15-02"/>§ 15-02 Affordable Housing Appeals Board.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156557" number="108112" version="3112">
+								<RECORD id="0-0-0-156557" number="108117" version="3112">
 									<PARA>There shall be an affordable housing appeals board to consist of the Mayor, the Speaker of the Council, and the affected Borough President, or a designee of each such member.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156556" number="108113" version="3112">
+								<RECORD id="0-0-0-156556" number="108118" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156572" number="108114" version="3112">
+							<RECORD id="0-0-0-156572" number="108119" version="3112">
 								<HEADING>§ 15-03 Designation by Members of the Board.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20133" name="T62C015_15-03"/>§ 15-03 Designation by Members of the Board.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156555" number="108115" version="3112">
+								<RECORD id="0-0-0-156555" number="108120" version="3112">
 									<PARA>When naming a designee to the Board, members of the Board shall send written notice to the Department, in a form and manner prescribed by the Department, no later than one business day prior to the scheduled public meeting of the Board.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156554" number="108116" version="3112">
+								<RECORD id="0-0-0-156554" number="108121" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156571" number="108117" version="3112">
+							<RECORD id="0-0-0-156571" number="108122" version="3112">
 								<HEADING>§ 15-04 Powers of the Affordable Housing Appeals Board.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20135" name="T62C015_15-04"/>§ 15-04 Powers of the Affordable Housing Appeals Board.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156553" number="108118" version="3112">
+								<RECORD id="0-0-0-156553" number="108123" version="3112">
 									<PARA>The Board shall have the power to review actions of the City Council that meet the following criteria:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156552" number="108119" version="3113">
+								<RECORD id="0-0-0-156552" number="108124" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Such action is taken pursuant to subdivision c of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-d" destination-id="0-0-0-0">197-d</LINK> of the Charter;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156551" number="108120" version="3112">
+								<RECORD id="0-0-0-156551" number="108125" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Such action disapproves or approves with modifications an application that would directly facilitate the development of affordable housing; and</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156550" number="108121" version="3113">
+								<RECORD id="0-0-0-156550" number="108126" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The application does not include land located in two or more boroughs or relate to an urban renewal plan filed pursuant to paragraph eight of subdivision a of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-c" destination-id="0-0-0-0">197-c</LINK> of the Charter.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156549" number="108122" version="3112">
+								<RECORD id="0-0-0-156549" number="108127" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156570" number="108123" version="3112">
+							<RECORD id="0-0-0-156570" number="108128" version="3112">
 								<HEADING>§ 15-05 Actions that Directly Facilitate the Development of Affordable Housing.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20137" name="T62C015_15-05"/>§ 15-05 Actions that Directly Facilitate the Development of Affordable Housing.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156548" number="108124" version="3113">
+								<RECORD id="0-0-0-156548" number="108129" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>For an application to directly facilitate the development of affordable housing within the meaning of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK> of the Charter and these rules, such application must facilitate the development of housing and involve or relate to:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156547" number="108125" version="3112">
+								<RECORD id="0-0-0-156547" number="108130" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the application of Mandatory Inclusionary Housing to one or more specified parcels of real property;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156546" number="108126" version="3112">
+								<RECORD id="0-0-0-156546" number="108131" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>one or more specified parcels of real property that were previously made subject to Mandatory Inclusionary Housing;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156545" number="108127" version="3112">
+								<RECORD id="0-0-0-156545" number="108132" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the development of an Affordable Housing Building for which a government agency serves as the applicant or co-applicant;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156544" number="108128" version="3112">
+								<RECORD id="0-0-0-156544" number="108133" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the development of an Affordable Housing Building subject to binding restrictions at the time of land use approval; or</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156543" number="108129" version="3112">
+								<RECORD id="0-0-0-156543" number="108134" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the development of an Affordable Housing Building for which a company that has been organized exclusively to develop housing projects for persons of low income serves as the applicant or co-applicant and is the owner of the subject property.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156542" number="108130" version="3113">
+								<RECORD id="0-0-0-156542" number="108135" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department shall make a preliminary determination that an application may be eligible for potential review by the Affordable Housing Appeals Board pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK> of the Charter at the time of certification of such application pursuant to 62 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T62C002_2-02" destination-id="0-0-0-12473">2-02</LINK>(a)(5), provided, however, that failure by the Department to make such preliminary determination for an application eligible for review by the Affordable Housing Appeals Board pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK> of the Charter shall not affect the Affordable Housing Appeals Board’s power to review such application.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156541" number="108131" version="3112">
+								<RECORD id="0-0-0-156541" number="108136" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156569" number="108132" version="3112">
+							<RECORD id="0-0-0-156569" number="108137" version="3112">
 								<HEADING>§ 15-06 Requests for Affordable Housing Appeals Board Review.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20139" name="T62C015_15-06"/>§ 15-06 Requests for Affordable Housing Appeals Board Review.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156540" number="108133" version="3112">
+								<RECORD id="0-0-0-156540" number="108138" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Following an action by the City Council eligible for review by the Board, the Department shall notify the members of the Board and the applicant of such action as soon as practicable, and in no case later than one day after such action.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156539" number="108134" version="3112">
+								<RECORD id="0-0-0-156539" number="108139" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Board shall review such action by the City Council if, within five days of such action, the applicant requests review of such action by the Board or each of at least two members of the Board state in separate writings to the Department that such action should be reviewed.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156538" number="108135" version="3112">
+								<RECORD id="0-0-0-156538" number="108140" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A request for review by an applicant or a member of the Board shall be made to the Department in a form and manner prescribed by the Department.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156537" number="108136" version="3112">
+								<RECORD id="0-0-0-156537" number="108141" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>If an applicant requests review, or each of at least two members of the Board state in separate writings to the Department that such action should be reviewed, the Department shall notify the Board and the applicant of such request for review as soon as practicable, and in no case later than one day after such request for review.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156536" number="108137" version="3112">
+								<RECORD id="0-0-0-156536" number="108142" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156568" number="108138" version="3112">
+							<RECORD id="0-0-0-156568" number="108143" version="3112">
 								<HEADING>§ 15-07 Meetings of the Affordable Housing Appeals Board.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20141" name="T62C015_15-07"/>§ 15-07 Meetings of the Affordable Housing Appeals Board.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156535" number="108139" version="3112">
+								<RECORD id="0-0-0-156535" number="108144" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Within fifteen days of an applicant requesting review by the Board or the date by which two or more members of the Board state in writing that such action should be reviewed, the Board shall:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156534" number="108140" version="3112">
+								<RECORD id="0-0-0-156534" number="108145" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Hold a public meeting, after giving public notice pursuant to the New York State Open Meeting Law not less than five days in advance of such meeting, and</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156533" number="108141" version="3112">
+								<RECORD id="0-0-0-156533" number="108146" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Take final action on the decision.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156532" number="108142" version="3112">
+								<RECORD id="0-0-0-156532" number="108147" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Department shall provide all necessary assistance to the Board in the conduct of its meetings and the exercise of its powers.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156531" number="108143" version="3112">
+								<RECORD id="0-0-0-156531" number="108148" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>
 							</LEVEL>
 						</LEVEL>
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-156567" number="108144" version="3112">
+							<RECORD id="0-0-0-156567" number="108149" version="3112">
 								<HEADING>§ 15-08 Actions of the Affordable Housing Appeals Board.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-20143" name="T62C015_15-08"/>§ 15-08 Actions of the Affordable Housing Appeals Board.</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-156530" number="108145" version="3112">
+								<RECORD id="0-0-0-156530" number="108150" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The Board may, by an affirmative majority vote, approve an application disapproved by the City Council, or reverse one or more modifications made by the City Council, provided that any modifications made by the Board shall be limited to removing one or more modifications made by the City Council and restoring, in relevant part, the application as it was approved by the Commission.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156529" number="108146" version="3113">
+								<RECORD id="0-0-0-156529" number="108151" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The Board shall not approve with modifications an application subject to its review if the Commission has determined pursuant to Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK>(e) of the Charter that additional review of the modifications is required. Prior to approving a decision of the City Council with modifications, the Board shall file any such proposed modifications with the Commission, provided that the Board need not file such proposed modifications with the Commission where such modifications wholly restore the application as it was approved by the Commission. Within fifteen days of such filing, the Commission shall file with the City Council and the Board a written statement indicating whether such proposed modifications are of such significance that additional review of environmental issues or additional review pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-c" destination-id="0-0-0-0">197-c</LINK> of the Charter is required. If no additional review is required, the Board may thereafter approve such proposed modifications. The time period for Board action pursuant Section 197-g(e) of the Charter shall be tolled during such fifteen-day period, provided, however, that proposed modifications may be referred to the Commission pursuant to pursuant Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK>(e) of the Charter only once with respect to each application or group of related applications under review by the Board.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156528" number="108147" version="3112">
+								<RECORD id="0-0-0-156528" number="108152" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Commission review of Board modifications.</CHARFORMAT> The Commission shall receive from the Board during its fifteen (15) day period for review the text of any proposed modification to the City Council’s decision. Upon receipt, the Commission shall have fifteen (15) days to review and determine:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156527" number="108148" version="3112">
+								<RECORD id="0-0-0-156527" number="108153" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>in consultation with the Office of Environmental Coordination and lead agency as necessary, whether the modification may result in any significant adverse environmental effects which were not previously addressed; and</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156526" number="108149" version="3112">
+								<RECORD id="0-0-0-156526" number="108154" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>whether the modification requires the initiation of a new application. In making this determination, the Commission shall consider whether the proposed modification:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156525" number="108150" version="3113">
+								<RECORD id="0-0-0-156525" number="108155" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>increases the height, bulk, envelope or floor area of any building or buildings, decreases open space, or alters conditions or major elements of a site plan in actions (such as a zoning special permit) which require the approval or limitation of these elements;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156524" number="108151" version="3113">
+								<RECORD id="0-0-0-156524" number="108156" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>increases the lot size or geographic area to be covered by the action;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156523" number="108152" version="3113">
+								<RECORD id="0-0-0-156523" number="108157" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>makes necessary additional waivers, permits, approvals, authorizations or certifications under sections of the Zoning Resolution, or other laws or regulations not previously acted upon in the application; or</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156522" number="108153" version="3113">
+								<RECORD id="0-0-0-156522" number="108158" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>adds new regulations or deletes or reduces existing regulations or zoning restrictions that were not part of the subject matter of the earlier hearings at the community board or Commission. If the Commission has determined that no additional review is necessary and that, either, no significant environmental impacts will result or that possible environmental impacts can be addressed in the time remaining for Commission and Board review, it shall so report to the Board. The Commission may also transmit any comment or recommendation with respect to the substance of the modification, and any proposed further amendment to the modification which it deems as necessary or appropriate. If the Commission has determined that the proposed modification will require a supplementary environmental review or the initiation of a new application, it shall so advise the Board in a written statement which includes the reasons for its determination.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156521" number="108154" version="3113">
+								<RECORD id="0-0-0-156521" number="108159" version="3113">
 									<PARA>
 										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If, within the time period provided for in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK>(d) or Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="1813066185-672468487-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Charter.NFO" destination-infobase-name="" destination-infobase-title="" destination-name="197-g" destination-id="0-0-0-0">197-g</LINK>(e) of the Charter, the Board fails to act or fails to act by the required vote, the Board shall be deemed to have affirmed the decision of the City Council.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156520" number="108155" version="3112">
+								<RECORD id="0-0-0-156520" number="108160" version="3112">
 									<PARA>
 										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Following any decision by the Board, a written record of such decision shall be posted online and made available to the public as soon as practicable, and in no case later than five days after such decision.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-156519" number="108156" version="3112">
+								<RECORD id="0-0-0-156519" number="108161" version="3112">
 									<PARA>(Added City Record 10/15/2026, eff. 11/14/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-126]</HIGHLIGHTER>
 									</PARA>
 								</RECORD>

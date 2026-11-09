@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\KUKRKMQCENYTVSQW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\KUKRKMQCENYTVSQW\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\KUKRKMQCENYTVSQW\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XRFHQPYZBWLGIEWL\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XRFHQPYZBWLGIEWL\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XRFHQPYZBWLGIEWL\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-38635" number="50160" version="3">
+		<RECORD id="0-0-0-38635" number="50163" version="3">
 			<HEADING>Chapter 7: Physical Education Reporting</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-9733" name="T21-aC007"/>Chapter 7: Physical Education Reporting</PARA>
@@ -15,19 +15,19 @@
 						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
 							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
 								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
-									<RECORD id="0-0-0-38636" number="50161" version="3">
+									<RECORD id="0-0-0-38636" number="50164" version="3">
 										<HEADING>§ 21-960 Reporting on physical education.</HEADING>
 										<PARA>
 											<DESTINATION id="0-0-0-9735" name="21-960"/>§ 21-960 Reporting on physical education.</PARA>
 									</RECORD>
 									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-										<RECORD id="0-0-0-112811" number="50162" version="245">
+										<RECORD id="0-0-0-112811" number="50165" version="245">
 											<PARA>
 												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this section, the following terms have the following meanings:<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38638" number="50163" version="3">
+										<RECORD id="0-0-0-38638" number="50166" version="3">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>
@@ -36,7 +36,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38639" number="50164" version="3">
+										<RECORD id="0-0-0-38639" number="50167" version="3">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -47,7 +47,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38640" number="50165" version="3">
+										<RECORD id="0-0-0-38640" number="50168" version="3">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -58,7 +58,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38641" number="50166" version="3">
+										<RECORD id="0-0-0-38641" number="50169" version="3">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -69,7 +69,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38642" number="50167" version="3">
+										<RECORD id="0-0-0-38642" number="50170" version="3">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -80,55 +80,55 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38652" number="50168" version="138">
+										<RECORD id="0-0-0-38652" number="50171" version="138">
 											<PARA>
 												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Not later than August 31, 2016, and annually thereafter on or before August 31, the department shall submit to the council and post conspicuously on the department&apos;s website a physical education report for the preceding academic year which shall include, but not be limited to the following information on a citywide basis:<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112824" number="50169" version="138">
+										<RECORD id="0-0-0-112824" number="50172" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The total number of students and average physical education class size;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112823" number="50170" version="138">
+										<RECORD id="0-0-0-112823" number="50173" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The average frequency and average total minutes per week of physical education instruction provided to students;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112822" number="50171" version="138">
+										<RECORD id="0-0-0-112822" number="50174" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The number and percentage of students who are receiving the required amount of physical education instruction;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112821" number="50172" version="245">
+										<RECORD id="0-0-0-112821" number="50175" version="245">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>4.<TAB tab-count="1"/>The number and percentage of students who have an individualized education program that recommends adaptive physical education, disaggregated by classification of disability;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112820" number="50173" version="138">
+										<RECORD id="0-0-0-112820" number="50176" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The number of designated full-time and part-time certified instructors providing physical education instruction; the ratio of certified instructors to students, including whether such instructor is a full-time certified instructor, part-time certified instructor, or uncertified instructor; the number of certified instructors who have received professional development concerning physical education instruction provided by the department in the preceding two school years; and the total number of certified instructors who attended multiple sessions of professional development concerning physical education instruction provided by the department in the preceding two school years, disaggregated by the number of trainings attended;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112819" number="50174" version="138">
+										<RECORD id="0-0-0-112819" number="50177" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Information on all designated indoor and outdoor facilities used by the school for physical education instruction including, but not limited to:<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112818" number="50175" version="138">
+										<RECORD id="0-0-0-112818" number="50178" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>
@@ -136,7 +136,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112817" number="50176" version="138">
+										<RECORD id="0-0-0-112817" number="50179" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>
@@ -144,35 +144,35 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112816" number="50177" version="138">
+										<RECORD id="0-0-0-112816" number="50180" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>7.<TAB tab-count="1"/>Information regarding the department&apos;s supplemental physical education program, including but not limited to, &quot;Move to Improve&quot;;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112815" number="50178" version="138">
+										<RECORD id="0-0-0-112815" number="50181" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>8.<TAB tab-count="1"/>The number of students who were permitted a substitution by the department;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112814" number="50179" version="138">
+										<RECORD id="0-0-0-112814" number="50182" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>9.<TAB tab-count="1"/>A cross-referenced list of schools, including co-located schools, that share certified instructors with at least one other school and the number of certified instructors that are shared;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112813" number="50180" version="138">
+										<RECORD id="0-0-0-112813" number="50183" version="138">
 											<PARA>
 												<TAB tab-count="1"/>
 												<TAB tab-count="1"/>10.<TAB tab-count="1"/>A description of the department&apos;s physical education scope and sequence, including the topics covered by such physical education scope and sequence; whether the department&apos;s physical education scope and sequence satisfies the requirements for physical education instruction pursuant to the New York state education department regulations; and the date of the last assessment and update of the physical education scope and sequence; and<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">&#160;<HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38653" number="50181" version="245">
+										<RECORD id="0-0-0-38653" number="50184" version="245">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -180,7 +180,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-114276" number="50182" version="245">
+										<RECORD id="0-0-0-114276" number="50185" version="245">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>c.<TAB tab-count="1"/>
@@ -192,7 +192,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112831" number="50183" version="138">
+										<RECORD id="0-0-0-112831" number="50186" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -200,7 +200,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112830" number="50184" version="138">
+										<RECORD id="0-0-0-112830" number="50187" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -208,7 +208,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112829" number="50185" version="138">
+										<RECORD id="0-0-0-112829" number="50188" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -217,7 +217,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112828" number="50186" version="138">
+										<RECORD id="0-0-0-112828" number="50189" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -226,7 +226,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112827" number="50187" version="138">
+										<RECORD id="0-0-0-112827" number="50190" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -235,7 +235,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112826" number="50188" version="138">
+										<RECORD id="0-0-0-112826" number="50191" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -244,7 +244,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112825" number="50189" version="138">
+										<RECORD id="0-0-0-112825" number="50192" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -253,14 +253,14 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-38654" number="50190" version="245">
+										<RECORD id="0-0-0-38654" number="50193" version="245">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>d.<TAB tab-count="1"/>The report required pursuant to this section shall also include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-044]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-114278" number="50191" version="245">
+										<RECORD id="0-0-0-114278" number="50194" version="245">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -268,7 +268,7 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-114277" number="50192" version="245">
+										<RECORD id="0-0-0-114277" number="50195" version="245">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>
@@ -276,14 +276,14 @@
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112834" number="50193" version="138">
+										<RECORD id="0-0-0-112834" number="50196" version="138">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
 													<TAB tab-count="1"/>e.<TAB tab-count="1"/>No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-038]</HIGHLIGHTER>
 												</CHARFORMAT>
 											</PARA>
 										</RECORD>
-										<RECORD id="0-0-0-112833" number="50194" version="709">
+										<RECORD id="0-0-0-112833" number="50197" version="709">
 											<PARA>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(L.L. 2015/102, 11/4/2015</CHARFORMAT>
 												<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">, eff. 11/4/2015</CHARFORMAT>

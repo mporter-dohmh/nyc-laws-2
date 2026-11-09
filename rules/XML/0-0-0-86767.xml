@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\NOGGJBERODULICXR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\WGFBWNRUAGNHXOLH\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\WGFBWNRUAGNHXOLH\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\WGFBWNRUAGNHXOLH\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
 	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
-		<RECORD id="0-0-0-86767" number="103334" version="3">
+		<RECORD id="0-0-0-86767" number="103339" version="3">
 			<HEADING>Chapter 3: Fees</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-12037" name="T55C003"/>Chapter 3: Fees</PARA>
@@ -13,57 +13,57 @@
 				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
 					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
 						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
-							<RECORD id="0-0-0-86768" number="103335" version="3">
+							<RECORD id="0-0-0-86768" number="103340" version="3">
 								<HEADING>§ 3-01 Fees.</HEADING>
 								<PARA>
 									<DESTINATION id="0-0-0-12039" name="T55C003_3-01"/>§ 3-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Fees.</CHARFORMAT>
 								</PARA>
 							</RECORD>
 							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-								<RECORD id="0-0-0-86769" number="103336" version="3">
+								<RECORD id="0-0-0-86769" number="103341" version="3">
 									<PARA>
 										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The fees charged by the Division of Real Property fall into the following categories:</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86770" number="103337" version="514">
+								<RECORD id="0-0-0-86770" number="103342" version="514">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(I)<TAB tab-count="1"/>Lease application fee charged for the processing of lease applications.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86771" number="103338" version="514">
+								<RECORD id="0-0-0-86771" number="103343" version="514">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(II)<TAB tab-count="1"/>Title closing mortgage fees for preparation and processing of various documents used in connection with the auctioning and sale of real property by DRP.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86772" number="103339" version="514">
+								<RECORD id="0-0-0-86772" number="103344" version="514">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(III)<TAB tab-count="1"/>Test boring license fees.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86773" number="103340" version="514">
+								<RECORD id="0-0-0-86773" number="103345" version="514">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(IV)<TAB tab-count="1"/>Carnarsie cemetery fees for a certificate of burial right, perpetual care, annual care, foundation charges, interment and other services.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86774" number="103341" version="748">
+								<RECORD id="0-0-0-86774" number="103346" version="748">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(V)<TAB tab-count="1"/>Redemption of properties taken In Rem – management Fees.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86775" number="103342" version="748">
+								<RECORD id="0-0-0-86775" number="103347" version="748">
 									<PARA>
 										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The fee schedule below lists each of these categories separately. All fees, unless otherwise specifically provided, shall be paid by certified cashier&apos;s check or postal order payable to the order of the Division of Real Property. </PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101058" number="103343" version="748">
+								<RECORD id="0-0-0-101058" number="103348" version="748">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>Category I – Lease application fee – $25 </PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101059" number="103344" version="1427">
+								<RECORD id="0-0-0-101059" number="103349" version="1427">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>Category II – Title closings &amp; mortgage fees for non-residential properties sold by City<LINEBRK/>&#160;</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101065" number="103345" version="1427">
+								<RECORD id="0-0-0-101065" number="103350" version="1427">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="3">
@@ -395,11 +395,11 @@
 									</PARA>
 									<PARA>Schedule of Prices<LINEBRK/>Certificate of Burial Right</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101060" number="103346" version="1427">
+								<RECORD id="0-0-0-101060" number="103351" version="1427">
 									<PARA>A certificate of burial right grants the privilege of interment or entombment in a specified grave or plot. Each grave measures 3 feet by 9 feet. Two interments may be in each grave in the traditional area and three in each grave in the park area. Each plot in the urn gardens measures 2 feet by 2 feet and permits the interment of several urns. Prices of certificates of burial rights are as follows:<LINEBRK/>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101061" number="103347" version="1427">
+								<RECORD id="0-0-0-101061" number="103352" version="1427">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="2">
@@ -435,7 +435,7 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101070" number="103348" version="1427">
+								<RECORD id="0-0-0-101070" number="103353" version="1427">
 									<PARA>
 										<TABLE>
 											<TABLEFORMAT number-of-widths="3">
@@ -634,20 +634,20 @@
 									<PARA>
 									</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101067" number="103349" version="519">
+								<RECORD id="0-0-0-101067" number="103354" version="519">
 									<PARA>Category V – Redemption of properties taken In Rem – Management fees</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86776" number="103350" version="1427">
+								<RECORD id="0-0-0-86776" number="103355" version="1427">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Seven (7%) percent of all rents billed during the period of management by the City (from the date vesting through the date of release); or Twenty-Five ($25.00) Dollars per month, or fraction thereof, during the period of management by the City; whichever is greater.</PARA>
 								</RECORD>
-								<RECORD id="0-0-0-86777" number="103351" version="1427">
+								<RECORD id="0-0-0-86777" number="103356" version="1427">
 									<PARA>
 										<TAB tab-count="1"/>
 										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Vacant property, deriving no income, is to be charged the minimum fee of Twenty-Five ($25.00) Dollars per month, or fraction thereof, during the period of management by the City. </PARA>
 								</RECORD>
-								<RECORD id="0-0-0-101068" number="103352" version="2492">
+								<RECORD id="0-0-0-101068" number="103357" version="2492">
 									<PARA>
 										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Note: </CHARFORMAT>The Twenty-Five ($25.00) Dollar fee is to be applied to each lot within the &quot;property&quot; only if the lots are not contiguous.</PARA>
 								</RECORD>

@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
 
-<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\KUKRKMQCENYTVSQW\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\KUKRKMQCENYTVSQW\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\KUKRKMQCENYTVSQW\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XRFHQPYZBWLGIEWL\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XRFHQPYZBWLGIEWL\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\XRFHQPYZBWLGIEWL\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
 	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-682" level-depth="1" toc-section="false">
-		<RECORD id="0-0-0-225129" number="49797" version="1894">
+		<RECORD id="0-0-0-225129" number="49800" version="1894">
 			<HEADING>Title 21-A: Education</HEADING>
 			<PARA>
 				<DESTINATION id="0-0-0-9699" name="T21-a"/>Title 21-A: Education</PARA>
 		</RECORD>
 		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
-			<RECORD id="0-0-0-38482" number="49798" version="3">
+			<RECORD id="0-0-0-38482" number="49801" version="3">
 				<HEADING>Chapter 1: Definitions</HEADING>
 				<PARA>
 					<DESTINATION id="0-0-0-9701" name="T21-aC001"/>Chapter 1: Definitions</PARA>
@@ -21,35 +21,35 @@
 							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
 								<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
 									<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
-										<RECORD id="0-0-0-38483" number="49799" version="3">
+										<RECORD id="0-0-0-38483" number="49802" version="3">
 											<HEADING>§ 21-950 Definitions. </HEADING>
 											<PARA>
 												<DESTINATION id="0-0-0-9703" name="21-950"/>§ 21-950 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
 											</PARA>
 										</RECORD>
 										<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
-											<RECORD id="0-0-0-38484" number="49800" version="3">
+											<RECORD id="0-0-0-38484" number="49803" version="3">
 												<PARA>Whenever used in this title, unless otherwise specified, the following terms shall have the following meanings: </PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38485" number="49801" version="3">
+											<RECORD id="0-0-0-38485" number="49804" version="3">
 												<PARA>&quot;Chancellor&quot; shall mean the chancellor of the city school district of the city of New York. </PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38486" number="49802" version="3">
+											<RECORD id="0-0-0-38486" number="49805" version="3">
 												<PARA>&quot;Department&quot; shall mean the New York city department of education. </PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38487" number="49803" version="3">
+											<RECORD id="0-0-0-38487" number="49806" version="3">
 												<PARA>&quot;English language learner&quot; or &quot;ELL&quot; shall mean a student with limited English proficiency as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="154-1.2" destination-id="0-0-0-9705">154-1.2</LINK> of title 8 of the official compilation of the codes, rules and regulations of the state of New York or any successor regulations. </PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38488" number="49804" version="3">
+											<RECORD id="0-0-0-38488" number="49807" version="3">
 												<PARA>&quot;Individualized education program&quot; or &quot;IEP&quot; shall have the same meaning as set forth in 20 U.S.C. § 1401 and any regulations promulgated thereto. </PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38489" number="49805" version="3">
+											<RECORD id="0-0-0-38489" number="49808" version="3">
 												<PARA>&quot;Special education services or programs&quot; or &quot;special education services&quot; shall mean specialized instructional services provided by a certified special education teacher or reading teacher. </PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38490" number="49806" version="3">
+											<RECORD id="0-0-0-38490" number="49809" version="3">
 												<PARA>&quot;Student&quot; shall mean any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a district school or charter school within the city district, not including pre-kindergarten students.</PARA>
 											</RECORD>
-											<RECORD id="0-0-0-38491" number="49807" version="631">
+											<RECORD id="0-0-0-38491" number="49810" version="631">
 												<PARA>(Am. L.L. 2015/027, 3/30/2015, eff. 5/29/2015)</PARA>
 											</RECORD>
 										</LEVEL>
